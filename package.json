@@ -1,11 +1,11 @@
 {
-  "name": "pirlo-tv",
+  "name": "chamotv",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "fetch:matches": "node wdds.js",
+    "fetch:matches": "node wdds.js"
   },
   "dependencies": {
     "astro": "^4.0.0",
