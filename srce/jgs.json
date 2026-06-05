@@ -30,26 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36524",
-    "slug": "partido-vs-en-vivo-2026-06-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf – U.S. Women’s Open Golf Championship – Segunda Vuelta",
-    "date": "2026-06-05",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36525",
-    "slug": "partido-vs-en-vivo-2026-06-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf – The Memorial Tournament – Segunda Vuelta",
-    "date": "2026-06-05",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
     "id": "36527",
     "slug": "partido-vs-en-vivo-2026-06-05",
     "team_a": "Equipo A",
@@ -68,16 +48,6 @@
     "date": "2026-06-05",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36507",
-    "slug": "azerbaiyán-vs-malta-2026-06-05",
-    "team_a": "Azerbaiyán",
-    "team_b": "Malta",
-    "league": "Amistoso",
-    "date": "2026-06-05",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   },
   {
     "id": "36508",
@@ -138,16 +108,6 @@
     "date": "2026-06-05",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36506",
-    "slug": "hungría-vs-finlandia-2026-06-05",
-    "team_a": "Hungría",
-    "team_b": "Finlandia",
-    "league": "Amistoso",
-    "date": "2026-06-05",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
   },
   {
     "id": "36510",
