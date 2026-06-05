@@ -143,7 +143,7 @@ async function fetchMatches() {
       console.error('Unexpected matches JSON structure from MATCHES_JSON_URL, using fallback sample matches');
       const dir = path.join(process.cwd(), 'srce');
       await fs.mkdir(dir, { recursive: true });
-      await fs.writeFile(path.join(dir, 'matches-raw.json'), rawText || JSON.stringify(data, null, 2));
+      await fs.writeFile(path.join(dir, 'errjgs.json'), rawText || JSON.stringify(data, null, 2));
       list = getFallbackMatches();
     }
 
@@ -152,22 +152,22 @@ async function fetchMatches() {
     );
     const dir = path.join(process.cwd(), 'srce');
     await fs.mkdir(dir, { recursive: true });
-    await fs.writeFile(path.join(dir, 'matches.json'), JSON.stringify(enhanced, null, 2));
+    await fs.writeFile(path.join(dir, 'jgs.json'), JSON.stringify(enhanced, null, 2));
     console.log(`✓ Fetched ${enhanced.length} matches`);
     return enhanced;
   } catch (error) {
     console.error('Error fetching matches:', error.message);
     try {
       if (rawText) {
-        const dir = path.join(process.cwd(), 'src', 'data');
+        const dir = path.join(process.cwd(), 'srce');
         await fs.mkdir(dir, { recursive: true });
-        await fs.writeFile(path.join(dir, 'matches-raw.json'), rawText);
+        await fs.writeFile(path.join(dir, 'errjgs.json'), rawText);
       }
       const fallback = getFallbackMatches();
-      const dir = path.join(process.cwd(), 'src', 'data');
+      const dir = path.join(process.cwd(), 'srce');
       await fs.mkdir(dir, { recursive: true });
       await fs.writeFile(
-        path.join(dir, 'matches.json'),
+        path.join(dir, 'jgs.json'),
         JSON.stringify(
           fallback.map(m => normalizeCanonical(m)),
           null,
