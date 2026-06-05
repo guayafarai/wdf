@@ -10,26 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=americatv"
   },
   {
-    "id": "36511",
-    "slug": "bélgica-vs-luxemburgo-2026-06-05",
-    "team_a": "Bélgica",
-    "team_b": "Luxemburgo",
-    "league": "Clasificatorias para el Mundial Femenino de la FIFA",
-    "date": "2026-06-05",
-    "time": "13:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36513",
-    "slug": "españa-vs-inglaterra-2026-06-05",
-    "team_a": "España",
-    "team_b": "Inglaterra",
-    "league": "Clasificatorias para el Mundial Femenino de la FIFA",
-    "date": "2026-06-05",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "36516",
     "slug": "chile-vs-ecuador-2026-06-05",
     "team_a": "Chile",
@@ -48,26 +28,6 @@
     "date": "2026-06-05",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36520",
-    "slug": "arabia-saudita-sub-23-vs-túnez-sub-20-2026-06-05",
-    "team_a": "Arabia Saudita Sub-23",
-    "team_b": "Túnez Sub-20",
-    "league": "Torneo Maurice Revello",
-    "date": "2026-06-05",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "36523",
-    "slug": "partido-vs-en-vivo-2026-06-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Roland Garros – Día #13 – Semifinal Masculina #2",
-    "date": "2026-06-05",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "36524",
@@ -110,16 +70,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
-    "id": "36505",
-    "slug": "san-marino-vs-bangladésh-2026-06-05",
-    "team_a": "San Marino",
-    "team_b": "Bangladésh",
-    "league": "Amistoso",
-    "date": "2026-06-05",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
-  },
-  {
     "id": "36507",
     "slug": "azerbaiyán-vs-malta-2026-06-05",
     "team_a": "Azerbaiyán",
@@ -130,26 +80,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   },
   {
-    "id": "36501",
-    "slug": "georgia-vs-bahréin-2026-06-05",
-    "team_a": "Georgia",
-    "team_b": "Bahréin",
-    "league": "Amistoso",
-    "date": "2026-06-05",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
-    "id": "36503",
-    "slug": "eslovaquia-vs-montenegro-2026-06-05",
-    "team_a": "Eslovaquia",
-    "team_b": "Montenegro",
-    "league": "Amistoso",
-    "date": "2026-06-05",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
     "id": "36508",
     "slug": "puerto-rico-vs-arabia-saudita-2026-06-05",
     "team_a": "Puerto Rico",
@@ -157,16 +87,6 @@
     "league": "Amistoso",
     "date": "2026-06-05",
     "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36512",
-    "slug": "alemania-vs-noruega-2026-06-05",
-    "team_a": "Alemania",
-    "team_b": "Noruega",
-    "league": "Clasificatorias para el Mundial Femenino de la FIFA",
-    "date": "2026-06-05",
-    "time": "13:35",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
@@ -220,16 +140,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "36504",
-    "slug": "moldavia-vs-bulgaria-2026-06-05",
-    "team_a": "Moldavia",
-    "team_b": "Bulgaria",
-    "league": "Amistoso",
-    "date": "2026-06-05",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
-  },
-  {
     "id": "36506",
     "slug": "hungría-vs-finlandia-2026-06-05",
     "team_a": "Hungría",
@@ -250,13 +160,13 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
   },
   {
-    "id": "36502",
-    "slug": "bielorrusia-vs-siria-2026-06-05",
-    "team_a": "Bielorrusia",
-    "team_b": "Siria",
-    "league": "Amistoso",
+    "id": "36530",
+    "slug": "plaza-colonia-vs-huracán-2026-06-05",
+    "team_a": "Plaza Colonia",
+    "team_b": "Huracán",
+    "league": "Segunda División",
     "date": "2026-06-05",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
   }
 ]
