@@ -1,0 +1,17 @@
+{
+  "name": "pirlo-tv",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "fetch:matches": "node wdds.js",
+  },
+  "dependencies": {
+    "astro": "^4.0.0",
+    "@astrojs/sitemap": "^3.0.0",
+    "astro-compress": "^2.0.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.0"
+  }
+}
