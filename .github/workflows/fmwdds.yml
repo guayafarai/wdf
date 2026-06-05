@@ -11,7 +11,7 @@ jobs:
       - uses: actions/setup-node@v4      # era v3
         with:
           node-version: '20'             # era 18, mejor usar LTS actual
-      - run: npm ci
+      - run: npm install
       - run: npm run fetch:matches
         env:
           MATCHES_JSON_URL: ${{ secrets.MATCHES_JSON_URL }}
