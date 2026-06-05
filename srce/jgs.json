@@ -100,16 +100,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "36521",
-    "slug": "partido-vs-en-vivo-2026-06-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Roland Garros – Día #13 – Semifinal Masculina #1",
-    "date": "2026-06-05",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn2"
-  },
-  {
     "id": "36523",
     "slug": "partido-vs-en-vivo-2026-06-05",
     "team_a": "Equipo A",
@@ -248,26 +238,6 @@
     "date": "2026-06-05",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "36519",
-    "slug": "colombia-vs-china-pr-2026-06-05",
-    "team_a": "Colombia",
-    "team_b": "China PR",
-    "league": "Torneo Maurice Revello Sub-20",
-    "date": "2026-06-05",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
-  },
-  {
-    "id": "36522",
-    "slug": "partido-vs-en-vivo-2026-06-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F2 Monte Carlo – Clasificación",
-    "date": "2026-06-05",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "36526",
