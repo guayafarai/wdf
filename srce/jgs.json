@@ -1,0 +1,22 @@
+[
+  {
+    "id": "Barcelona-Real-Madrid-2026-06-05",
+    "slug": "barcelona-vs-real-madrid-2026-06-05",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-06-05",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
+  },
+  {
+    "id": "América-Chivas-2026-06-05",
+    "slug": "américa-vs-chivas-2026-06-05",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-06-05",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
+  }
+]
