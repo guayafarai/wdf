@@ -1,0 +1,148 @@
+name: Fetch and Decode Football Schedule
+
+on:
+  schedule:
+    # Run every hour
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  fetch-and-decode:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests
+      
+      - name: Create decode script
+        run: |
+          cat > decode_iframe_urls.py << 'EOF'
+          #!/usr/bin/env python3
+          import json
+          import base64
+          import urllib.parse
+          import requests
+          from datetime import datetime
+
+          def decode_iframe_url(embed_iframe):
+              """Decode base64-encoded URL from embed_iframe field."""
+              if not embed_iframe:
+                  return None
+              
+              try:
+                  parsed = urllib.parse.urlparse(embed_iframe)
+                  query_params = urllib.parse.parse_qs(parsed.query)
+                  
+                  if 'r' not in query_params:
+                      return embed_iframe
+                  
+                  encoded_url = query_params['r'][0]
+                  decoded_bytes = base64.b64decode(encoded_url)
+                  decoded_url = decoded_bytes.decode('utf-8')
+                  
+                  return decoded_url
+              except Exception as e:
+                  print(f"Error decoding URL: {e}")
+                  return embed_iframe
+
+          def process_diary_data(data):
+              """Process diary data and add decoded URLs."""
+              if 'data' not in data:
+                  return data
+              
+              for diary_entry in data['data']:
+                  if 'attributes' not in diary_entry:
+                      continue
+                  
+                  attributes = diary_entry['attributes']
+                  
+                  if 'embeds' in attributes and 'data' in attributes['embeds']:
+                      for embed in attributes['embeds']['data']:
+                          if 'attributes' not in embed:
+                              continue
+                          
+                          embed_attrs = embed['attributes']
+                          original_iframe = embed_attrs.get('embed_iframe', '')
+                          decoded_url = decode_iframe_url(original_iframe)
+                          embed_attrs['decoded_iframe_url'] = decoded_url
+              
+              return data
+
+          def main():
+              url = "https://pltvhd.com/diaries.json"
+              
+              try:
+                  print(f"Fetching data from {url}...")
+                  response = requests.get(url, timeout=30)
+                  response.raise_for_status()
+                  data = response.json()
+                  
+                  print("Processing data...")
+                  processed_data = process_diary_data(data)
+                  
+                  # Add metadata
+                  output_data = {
+                      "metadata": {
+                          "last_updated": datetime.utcnow().isoformat() + "Z",
+                          "source": url,
+                          "total_events": len(processed_data.get('data', []))
+                      },
+                      "data": processed_data.get('data', [])
+                  }
+                  
+                  # Save to file
+                  with open('wdd.json', 'w', encoding='utf-8') as f:
+                      json.dump(output_data, f, ensure_ascii=False, indent=2)
+                  
+                  print(f"Successfully saved {output_data['metadata']['total_events']} events to wdd.json")
+                  
+              except Exception as e:
+                  print(f"Error: {e}")
+                  raise
+
+          if __name__ == "__main__":
+              main()
+          EOF
+          
+          chmod +x decode_iframe_urls.py
+      
+      - name: Fetch and decode diaries
+        run: |
+          python3 decode_iframe_urls.py
+      
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+      
+      - name: Commit and push changes
+        run: |
+          git add wdd.json
+          
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update wdd.json - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: futbollibre-json
+          path: wdd.json
+          retention-days: 7
