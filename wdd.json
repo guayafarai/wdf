@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-05T22:12:03.407065Z",
+    "last_updated": "2026-06-06T00:02:00.854277Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 13
+    "total_events": 9
   },
   "data": [
     {
@@ -12,7 +12,7 @@
         "diary_hour": "19:00:00",
         "date_diary": "2026-06-05",
         "createdAt": "2026-06-05T03:16:52.772Z",
-        "updatedAt": "2026-06-05T03:16:52.772Z",
+        "updatedAt": "2026-06-05T22:44:40.602Z",
         "publishedAt": "2026-06-05T04:04:55.947Z",
         "channels": {
           "data": []
@@ -25,6 +25,14 @@
                 "embed_name": "America Television",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1hbWVyaWNhdHY=",
                 "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=americatv"
+              }
+            },
+            {
+              "id": 288,
+              "attributes": {
+                "embed_name": "FOX Deportes",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==",
+                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
               }
             },
             {
@@ -57,14 +65,6 @@
                 "embed_name": "Sportv BR",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg==",
                 "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-              }
-            },
-            {
-              "id": 288,
-              "attributes": {
-                "embed_name": "FOX Deportes",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
               }
             },
             {
@@ -113,66 +113,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T15:07:32.287Z",
                     "updatedAt": "2025-08-03T15:07:32.287Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36516,
-      "attributes": {
-        "diary_description": "CONMEBOL Nations League Femenina: \nChile vs Ecuador",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-06-05",
-        "createdAt": "2026-06-05T03:24:36.631Z",
-        "updatedAt": "2026-06-05T03:24:36.631Z",
-        "publishedAt": "2026-06-05T04:05:04.163Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 648,
-              "attributes": {
-                "embed_name": "DSports +",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 21,
-            "attributes": {
-              "name": "Conmebol",
-              "createdAt": "2023-11-22T18:11:33.405Z",
-              "updatedAt": "2025-12-03T00:05:12.659Z",
-              "publishedAt": "2023-11-22T18:11:38.738Z",
-              "image": {
-                "data": {
-                  "id": 394,
-                  "attributes": {
-                    "name": "conmebol_d03512952a.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 65,
-                    "formats": null,
-                    "hash": "conmebol_d03512952a_0a585d86af",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.19,
-                    "url": "/uploads/conmebol_d03512952a_0a585d86af.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T15:57:06.139Z",
-                    "updatedAt": "2025-09-04T15:57:06.139Z"
                   }
                 }
               }
@@ -476,7 +416,7 @@
         "diary_hour": "18:00:00",
         "date_diary": "2026-06-05",
         "createdAt": "2026-06-05T03:14:28.976Z",
-        "updatedAt": "2026-06-05T03:14:28.976Z",
+        "updatedAt": "2026-06-05T23:07:38.838Z",
         "publishedAt": "2026-06-05T04:04:55.947Z",
         "channels": {
           "data": []
@@ -484,11 +424,11 @@
         "embeds": {
           "data": [
             {
-              "id": 768,
+              "id": 771,
               "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+                "embed_name": "Sportv 2 BR",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1zcG9ydHYy",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=sportv2"
               }
             }
           ]
@@ -536,7 +476,7 @@
         "diary_hour": "18:00:00",
         "date_diary": "2026-06-05",
         "createdAt": "2026-06-05T03:23:37.596Z",
-        "updatedAt": "2026-06-05T03:23:37.596Z",
+        "updatedAt": "2026-06-05T23:14:38.219Z",
         "publishedAt": "2026-06-05T04:05:04.163Z",
         "channels": {
           "data": []
@@ -549,268 +489,46 @@
                 "embed_name": "DSports +",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw==",
                 "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 21,
-            "attributes": {
-              "name": "Conmebol",
-              "createdAt": "2023-11-22T18:11:33.405Z",
-              "updatedAt": "2025-12-03T00:05:12.659Z",
-              "publishedAt": "2023-11-22T18:11:38.738Z",
-              "image": {
-                "data": {
-                  "id": 394,
-                  "attributes": {
-                    "name": "conmebol_d03512952a.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 65,
-                    "formats": null,
-                    "hash": "conmebol_d03512952a_0a585d86af",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.19,
-                    "url": "/uploads/conmebol_d03512952a_0a585d86af.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T15:57:06.139Z",
-                    "updatedAt": "2025-09-04T15:57:06.139Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36515,
-      "attributes": {
-        "diary_description": "CONMEBOL Nations League Femenina: \nBolivia vs Paraguay",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-06-05",
-        "createdAt": "2026-06-05T03:24:05.874Z",
-        "updatedAt": "2026-06-05T03:24:05.874Z",
-        "publishedAt": "2026-06-05T04:05:04.163Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 648,
-              "attributes": {
-                "embed_name": "DSports +",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 21,
-            "attributes": {
-              "name": "Conmebol",
-              "createdAt": "2023-11-22T18:11:33.405Z",
-              "updatedAt": "2025-12-03T00:05:12.659Z",
-              "publishedAt": "2023-11-22T18:11:38.738Z",
-              "image": {
-                "data": {
-                  "id": 394,
-                  "attributes": {
-                    "name": "conmebol_d03512952a.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 65,
-                    "formats": null,
-                    "hash": "conmebol_d03512952a_0a585d86af",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.19,
-                    "url": "/uploads/conmebol_d03512952a_0a585d86af.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T15:57:06.139Z",
-                    "updatedAt": "2025-09-04T15:57:06.139Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36517,
-      "attributes": {
-        "diary_description": "CONMEBOL Nations League Femenina: \nColombia vs Uruguay",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-06-05",
-        "createdAt": "2026-06-05T03:25:06.150Z",
-        "updatedAt": "2026-06-05T03:25:06.150Z",
-        "publishedAt": "2026-06-05T04:05:04.163Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 648,
-              "attributes": {
-                "embed_name": "DSports +",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 21,
-            "attributes": {
-              "name": "Conmebol",
-              "createdAt": "2023-11-22T18:11:33.405Z",
-              "updatedAt": "2025-12-03T00:05:12.659Z",
-              "publishedAt": "2023-11-22T18:11:38.738Z",
-              "image": {
-                "data": {
-                  "id": 394,
-                  "attributes": {
-                    "name": "conmebol_d03512952a.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 65,
-                    "formats": null,
-                    "hash": "conmebol_d03512952a_0a585d86af",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.19,
-                    "url": "/uploads/conmebol_d03512952a_0a585d86af.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T15:57:06.139Z",
-                    "updatedAt": "2025-09-04T15:57:06.139Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36526,
-      "attributes": {
-        "diary_description": "Rugby – SR Americas – Peñarol Rugby vs Pampas",
-        "diary_hour": "14:55:00",
-        "date_diary": "2026-06-05",
-        "createdAt": "2026-06-05T03:35:21.549Z",
-        "updatedAt": "2026-06-05T03:35:21.549Z",
-        "publishedAt": "2026-06-05T04:05:12.045Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 645,
-              "attributes": {
-                "embed_name": "ESPN 5",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNQ==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
               }
             },
             {
-              "id": 474,
+              "id": 162,
               "attributes": {
-                "embed_name": "ESPN 5 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNQ==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn5"
-              }
-            },
-            {
-              "id": 599,
-              "attributes": {
-                "embed_name": "ESPN 5 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG41",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn5"
+                "embed_name": "DSports + I OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw==",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 134,
+            "id": 21,
             "attributes": {
-              "name": "Rugby",
-              "createdAt": "2025-03-01T00:16:20.346Z",
-              "updatedAt": "2025-11-16T14:52:22.575Z",
-              "publishedAt": "2025-03-01T00:16:22.392Z",
+              "name": "Conmebol",
+              "createdAt": "2023-11-22T18:11:33.405Z",
+              "updatedAt": "2025-12-03T00:05:12.659Z",
+              "publishedAt": "2023-11-22T18:11:38.738Z",
               "image": {
                 "data": {
-                  "id": 413,
+                  "id": 394,
                   "attributes": {
-                    "name": "Rugby.png",
+                    "name": "conmebol_d03512952a.png",
                     "alternativeText": null,
                     "caption": null,
-                    "width": 763,
-                    "height": 763,
-                    "formats": {
-                      "small": {
-                        "ext": ".png",
-                        "url": "/uploads/small_Rugby_f99a2b54da.png",
-                        "hash": "small_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "small_Rugby.png",
-                        "path": null,
-                        "size": 138.17,
-                        "width": 500,
-                        "height": 500
-                      },
-                      "medium": {
-                        "ext": ".png",
-                        "url": "/uploads/medium_Rugby_f99a2b54da.png",
-                        "hash": "medium_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "medium_Rugby.png",
-                        "path": null,
-                        "size": 250.24,
-                        "width": 750,
-                        "height": 750
-                      },
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Rugby_f99a2b54da.png",
-                        "hash": "thumbnail_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "thumbnail_Rugby.png",
-                        "path": null,
-                        "size": 22.03,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "Rugby_f99a2b54da",
+                    "width": 64,
+                    "height": 65,
+                    "formats": null,
+                    "hash": "conmebol_d03512952a_0a585d86af",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 74.94,
-                    "url": "/uploads/Rugby_f99a2b54da.png",
+                    "size": 3.19,
+                    "url": "/uploads/conmebol_d03512952a_0a585d86af.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2025-11-16T14:52:15.177Z",
-                    "updatedAt": "2025-11-16T14:52:15.177Z"
+                    "createdAt": "2025-09-04T15:57:06.139Z",
+                    "updatedAt": "2025-09-04T15:57:06.139Z"
                   }
                 }
               }
