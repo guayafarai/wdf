@@ -1,25 +1,5 @@
 [
   {
-    "id": "36531",
-    "slug": "lituania-vs-letonia-2026-06-06",
-    "team_a": "Lituania",
-    "team_b": "Letonia",
-    "league": "Amistoso",
-    "date": "2026-06-06",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
-    "id": "36551",
-    "slug": "fénix-vs-river-plate-2026-06-06",
-    "team_a": "Fénix",
-    "team_b": "River Plate",
-    "league": "Segunda División",
-    "date": "2026-06-06",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
-  },
-  {
     "id": "36533",
     "slug": "estonia-vs-islas-feroe-2026-06-06",
     "team_a": "Estonia",
@@ -50,6 +30,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
   },
   {
+    "id": "36547",
+    "slug": "torque-vs-deportivo-maldonado-2026-06-06",
+    "team_a": "Torque",
+    "team_b": "Deportivo Maldonado",
+    "league": "Primera División",
+    "date": "2026-06-06",
+    "time": "13:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
+  },
+  {
     "id": "36539",
     "slug": "ee.-uu.-vs-alemania-2026-06-06",
     "team_a": "EE. UU.",
@@ -58,6 +48,16 @@
     "date": "2026-06-06",
     "time": "13:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
+  },
+  {
+    "id": "36572",
+    "slug": "panamá-vs-bosnia-herzegovina-2026-06-06",
+    "team_a": "Panamá",
+    "team_b": "Bosnia-Herzegovina",
+    "league": "Amistoso",
+    "date": "2026-06-06",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=eventos4"
   },
   {
     "id": "36541",
@@ -88,16 +88,6 @@
     "date": "2026-06-06",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "36547",
-    "slug": "torque-vs-deportivo-maldonado-2026-06-06",
-    "team_a": "Torque",
-    "team_b": "Deportivo Maldonado",
-    "league": "Primera División",
-    "date": "2026-06-06",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "36549",
@@ -140,16 +130,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "36561",
-    "slug": "tenis-–-roland-garros-–-día-#14-–-final-femenina-2026-06-06",
-    "team_a": "",
-    "team_b": "",
-    "league": "Tenis – Roland Garros – Día #14 – Final Femenina",
-    "date": "2026-06-06",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36563",
     "slug": "harlequins-vs-northampton-saints-2026-06-06",
     "team_a": "Harlequins",
@@ -181,7 +161,7 @@
   },
   {
     "id": "36569",
-    "slug": "golf-–-u.s.-women’s-open-golf-championship-–-tercera-vuelta-2026-06-06",
+    "slug": "golf---u.s.-women’s-open-golf-championship---tercera-vuelta-2026-06-06",
     "team_a": "",
     "team_b": "",
     "league": "Golf – U.S. Women’s Open Golf Championship – Tercera Vuelta",
@@ -198,26 +178,6 @@
     "date": "2026-06-06",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36546",
-    "slug": "central-español-vs-racing-2026-06-06",
-    "team_a": "Central Español",
-    "team_b": "Racing",
-    "league": "Primera División",
-    "date": "2026-06-06",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
-    "id": "36532",
-    "slug": "bélgica-vs-túnez-2026-06-06",
-    "team_a": "Bélgica",
-    "team_b": "Túnez",
-    "league": "Amistoso",
-    "date": "2026-06-06",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
   },
   {
     "id": "36534",
@@ -247,7 +207,17 @@
     "league": "Amistoso",
     "date": "2026-06-06",
     "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10pl"
+  },
+  {
+    "id": "36552",
+    "slug": "la-luz-vs-paysandu-2026-06-06",
+    "team_a": "La Luz",
+    "team_b": "Paysandu",
+    "league": "Segunda División",
+    "date": "2026-06-06",
+    "time": "13:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
   },
   {
     "id": "36540",
@@ -257,7 +227,7 @@
     "league": "Amistoso",
     "date": "2026-06-06",
     "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney14"
   },
   {
     "id": "36542",
@@ -300,16 +270,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
-    "id": "36552",
-    "slug": "la-luz-vs-paysandu-2026-06-06",
-    "team_a": "La Luz",
-    "team_b": "Paysandu",
-    "league": "Segunda División",
-    "date": "2026-06-06",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "36555",
     "slug": "deportes-iquique-vs-recoleta-2026-06-06",
     "team_a": "Deportes Iquique",
@@ -318,26 +278,6 @@
     "date": "2026-06-06",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36556",
-    "slug": "japón-vs-canadá-2026-06-06",
-    "team_a": "Japón",
-    "team_b": "Canadá",
-    "league": "Torneo Maurice Revello  Sub-20",
-    "date": "2026-06-06",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "36560",
-    "slug": "f2-monte-carlo-–-sprint-2026-06-06",
-    "team_a": "",
-    "team_b": "",
-    "league": "F2 Monte Carlo – Sprint",
-    "date": "2026-06-06",
-    "time": "07:05",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "36562",
@@ -351,7 +291,7 @@
   },
   {
     "id": "36564",
-    "slug": "golf-–-the-memorial-tournament-–-tercera-vuelta-2026-06-06",
+    "slug": "golf---the-memorial-tournament---tercera-vuelta-2026-06-06",
     "team_a": "",
     "team_b": "",
     "league": "Golf – The Memorial Tournament – Tercera Vuelta",
@@ -381,7 +321,7 @@
   },
   {
     "id": "36570",
-    "slug": "turf-–-belmont-2026-06-06",
+    "slug": "turf---belmont-2026-06-06",
     "team_a": "",
     "team_b": "",
     "league": "Turf – Belmont",
