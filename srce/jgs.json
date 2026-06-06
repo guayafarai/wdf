@@ -1,92 +1,22 @@
 [
   {
-    "id": "36509",
-    "slug": "haití-vs-perú-2026-06-05",
-    "team_a": "Haití",
-    "team_b": "Perú",
-    "league": "Amistoso",
-    "date": "2026-06-05",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=americatv"
+    "id": "Barcelona-Real-Madrid-2026-06-06",
+    "slug": "barcelona-vs-real-madrid-2026-06-06",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-06-06",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "36518",
-    "slug": "deportes-concepción-vs-coquimbo-unido-2026-06-05",
-    "team_a": "Deportes Concepción",
-    "team_b": "Coquimbo Unido",
-    "league": "Copa de la Liga",
-    "date": "2026-06-05",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36527",
-    "slug": "partido-vs-en-vivo-2026-06-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – SR Americas – Dogos XV vs Yacare XV",
-    "date": "2026-06-05",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36529",
-    "slug": "partido-vs-en-vivo-2026-06-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – SR Americas – Tarucas vs Capibaras XV",
-    "date": "2026-06-05",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36508",
-    "slug": "puerto-rico-vs-arabia-saudita-2026-06-05",
-    "team_a": "Puerto Rico",
-    "team_b": "Arabia Saudita",
-    "league": "Amistoso",
-    "date": "2026-06-05",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=sportv2"
-  },
-  {
-    "id": "36514",
-    "slug": "argentina-vs-perú-2026-06-05",
-    "team_a": "Argentina",
-    "team_b": "Perú",
-    "league": "CONMEBOL Nations League Femenina",
-    "date": "2026-06-05",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "36528",
-    "slug": "partido-vs-en-vivo-2026-06-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "ESPN Knockout – Edward Vazquez vs Daniel Lugo",
-    "date": "2026-06-05",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36510",
-    "slug": "wanderers-vs-danubio-2026-06-05",
-    "team_a": "Wanderers",
-    "team_b": "Danubio",
-    "league": "Primera División",
-    "date": "2026-06-05",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
-    "id": "36530",
-    "slug": "plaza-colonia-vs-huracán-2026-06-05",
-    "team_a": "Plaza Colonia",
-    "team_b": "Huracán",
-    "league": "Segunda División",
-    "date": "2026-06-05",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
+    "id": "América-Chivas-2026-06-06",
+    "slug": "américa-vs-chivas-2026-06-06",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-06-06",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
