@@ -12,6 +12,7 @@ function getFallbackMatches() {
       league: 'La Liga',
       date: today,
       time: '20:00',
+      streams: [{ name: 'Demo', url: 'https://example.com/embed/barcelona-real-madrid' }],
       decoded_iframe_url: 'https://example.com/embed/barcelona-real-madrid'
     },
     {
@@ -20,6 +21,7 @@ function getFallbackMatches() {
       league: 'Liga MX',
       date: today,
       time: '22:00',
+      streams: [{ name: 'Demo', url: 'https://example.com/embed/america-chivas' }],
       decoded_iframe_url: 'https://example.com/embed/america-chivas'
     }
   ];
@@ -28,23 +30,10 @@ function getFallbackMatches() {
 /**
  * Parsea diary_description con soporte para todos los formatos conocidos:
  *
- * 1. Multilinea con equipos:
- *    "Liga:\nEquipo A vs Equipo B"
- *    "Liga: \nEquipo A vs Equipo B"
- *
- * 2. Una línea con ":" como separador liga/equipos:
- *    "Amistoso: Armenia vs Kazajstán"
- *
- * 3. Una línea con " – " y equipos:
- *    "Rugby – Premiership – Bath Rugby vs Leicester Tigers"
- *    → league="Rugby – Premiership", team_a="Bath Rugby", team_b="Leicester Tigers"
- *
- * 4. Evento sin equipos (sin " vs "), con o sin " – ":
- *    "F2 Monte Carlo – Sprint"  → league="F2 Monte Carlo – Sprint", team_a="", team_b=""
- *    "Turf – Belmont"           → league="Turf – Belmont", team_a="", team_b=""
- *
- * En todos los casos sin equipos: team_a="" y team_b="" (cadena vacía).
- * La app Android detecta isEmpty() para decidir cómo mostrar el título.
+ * 1. Multilinea:  "Liga:\nEquipo A vs Equipo B"
+ * 2. Una línea con ":":  "Amistoso: Armenia vs Kazajstán"
+ * 3. Una línea con " – " y equipos:  "Rugby – Premiership – Bath vs Leicester"
+ * 4. Evento sin equipos (sin " vs "):  "F2 Monte Carlo – Sprint" / "Turf – Belmont"
  */
 function parseDescription(desc) {
   const lines = desc.split('\n').map(s => s.trim()).filter(Boolean);
@@ -54,11 +43,8 @@ function parseDescription(desc) {
   let team_b = '';
 
   if (lines.length >= 2) {
-    // ── Formato multilinea ──────────────────────────────────────────────────
     const firstLine = lines[0];
-    league = firstLine.endsWith(':')
-      ? firstLine.slice(0, -1).trim()
-      : firstLine.replace(/:$/, '').trim();
+    league = firstLine.replace(/:$/, '').trim();
 
     const secondLine = lines[1];
     const vsIdx = secondLine.indexOf(' vs ');
@@ -66,57 +52,73 @@ function parseDescription(desc) {
       team_a = secondLine.slice(0, vsIdx).trim();
       team_b = secondLine.slice(vsIdx + 4).trim();
     } else {
-      // Segunda línea sin equipos: agregar al nombre de liga
       league = league ? `${league} – ${secondLine}` : secondLine;
     }
 
   } else {
-    // ── Formato de una sola línea ───────────────────────────────────────────
     const single = lines[0] || '';
     const vsIdx  = single.indexOf(' vs ');
 
     if (vsIdx === -1) {
-      // Caso 4: evento sin equipos — todo es la descripción del evento
       league = single;
 
     } else if (single.includes(':')) {
-      // Caso 2: "Liga: Equipo A vs Equipo B"
       const colonIdx = single.indexOf(':');
       league = single.slice(0, colonIdx).trim();
       const rest = single.slice(colonIdx + 1).trim();
-      const restVsIdx = rest.indexOf(' vs ');
-      if (restVsIdx !== -1) {
-        team_a = rest.slice(0, restVsIdx).trim();
-        team_b = rest.slice(restVsIdx + 4).trim();
+      const ri = rest.indexOf(' vs ');
+      if (ri !== -1) {
+        team_a = rest.slice(0, ri).trim();
+        team_b = rest.slice(ri + 4).trim();
       }
 
     } else if (single.includes(' – ')) {
-      // Caso 3: "Deporte – Liga – Equipo A vs Equipo B"
-      // El "vs" puede estar en el último segmento o cruzar segmentos
       const dashParts = single.split(' – ');
       const lastPart  = dashParts[dashParts.length - 1];
-      const lastVsIdx = lastPart.indexOf(' vs ');
-
-      if (lastVsIdx !== -1) {
-        // Los equipos están en el último segmento
-        team_a = lastPart.slice(0, lastVsIdx).trim();
-        team_b = lastPart.slice(lastVsIdx + 4).trim();
+      const li = lastPart.indexOf(' vs ');
+      if (li !== -1) {
+        team_a = lastPart.slice(0, li).trim();
+        team_b = lastPart.slice(li + 4).trim();
         league = dashParts.slice(0, dashParts.length - 1).join(' – ').trim();
       } else {
-        // El "vs" cruza segmentos; tomar todo antes/después del vs global
         team_a = single.slice(0, vsIdx).trim();
         team_b = single.slice(vsIdx + 4).trim();
         league = '';
       }
 
     } else {
-      // Fallback: solo "Equipo A vs Equipo B" sin separador de liga
       team_a = single.slice(0, vsIdx).trim();
       team_b = single.slice(vsIdx + 4).trim();
     }
   }
 
   return { league, team_a, team_b };
+}
+
+/**
+ * Extrae los streams de los embeds, deduplicando por decoded_iframe_url.
+ * Devuelve array de { name, url } con URLs únicas solamente.
+ */
+function extractStreams(attributes) {
+  const embeds = attributes.embeds && attributes.embeds.data;
+  if (!Array.isArray(embeds) || embeds.length === 0) return [];
+
+  const seen = new Set();
+  const streams = [];
+
+  for (const embed of embeds) {
+    const attr = embed.attributes || {};
+    const url  = (attr.decoded_iframe_url || '').trim();
+    const name = (attr.embed_name || '').trim();
+
+    if (!url) continue;
+    if (seen.has(url)) continue;   // ← descarta duplicados por URL
+
+    seen.add(url);
+    streams.push({ name, url });
+  }
+
+  return streams;
 }
 
 function normalizeFromStrapi(m) {
@@ -129,26 +131,42 @@ function normalizeFromStrapi(m) {
   let time = attributes.diary_hour || '';
   if (time.length >= 5) time = time.slice(0, 5);
 
-  let decoded_iframe_url = '';
-  const embeds = attributes.embeds && attributes.embeds.data;
-  if (Array.isArray(embeds) && embeds.length > 0) {
-    decoded_iframe_url = (embeds[0].attributes || {}).decoded_iframe_url || '';
-  }
+  // Streams deduplicados
+  const streams = extractStreams(attributes);
+
+  // decoded_iframe_url mantiene compatibilidad: primer stream disponible
+  const decoded_iframe_url = streams.length > 0 ? streams[0].url : '';
 
   const id = String(m.id || `${team_a || league || 'evento'}-${date}`.replace(/\s+/g, '-'));
-
-  // Slug: si hay equipos usamos "teamA-vs-teamB-date", si no usamos la liga
   const slugBase = team_a
     ? `${team_a}-vs-${team_b}-${date}`
     : `${league || 'evento'}-${date}`;
   const slug = slugBase.toLowerCase().replace(/\s+/g, '-').replace(/[–—]/g, '-');
 
-  return { id, slug, team_a, team_b, league, date, time, decoded_iframe_url };
+  return { id, slug, team_a, team_b, league, date, time, streams, decoded_iframe_url };
 }
 
 function normalizeCanonical(m) {
   const team_a = m.team_a || '';
   const team_b = m.team_b || '';
+
+  // Si viene con streams ya formados, respetar; si no, construir desde decoded_iframe_url
+  let streams = [];
+  if (Array.isArray(m.streams) && m.streams.length > 0) {
+    // Deduplicar también en este caso
+    const seen = new Set();
+    for (const s of m.streams) {
+      if (s.url && !seen.has(s.url)) {
+        seen.add(s.url);
+        streams.push(s);
+      }
+    }
+  } else if (m.decoded_iframe_url) {
+    streams = [{ name: 'Stream', url: m.decoded_iframe_url }];
+  }
+
+  const decoded_iframe_url = streams.length > 0 ? streams[0].url : (m.decoded_iframe_url || '');
+
   const id = String(
     m.id || `${team_a || m.league || 'evento'}-${m.date || ''}`.replace(/\s+/g, '-')
   );
@@ -158,14 +176,12 @@ function normalizeCanonical(m) {
   const slug = slugBase.toLowerCase().replace(/\s+/g, '-').replace(/[–—]/g, '-');
 
   return {
-    id,
-    slug,
-    team_a,
-    team_b,
+    id, slug, team_a, team_b,
     league: m.league || '',
     date: m.date || '',
     time: m.time || '',
-    decoded_iframe_url: m.decoded_iframe_url || ''
+    streams,
+    decoded_iframe_url
   };
 }
 
