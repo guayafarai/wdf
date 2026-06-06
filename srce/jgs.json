@@ -77,28 +77,12 @@
         "url": "https://tvtvhd.com/canales.php?stream=espnmx"
       },
       {
-        "name": "ESPN MX | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espnmx"
-      },
-      {
-        "name": "ESPN MX | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espnmx"
-      },
-      {
         "name": "ESPN NL",
         "url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
       },
       {
         "name": "Disney+",
         "url": "https://tvtvhd.com/canales.php?stream=disney13"
-      },
-      {
-        "name": "ESPN NL | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn1_nl"
-      },
-      {
-        "name": "ESPN NL | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl"
       },
       {
         "name": "Telemundo",
@@ -139,14 +123,6 @@
       {
         "name": "ESPN Deportes",
         "url": "https://tvtvhd.com/canales.php?stream=espndeportes"
-      },
-      {
-        "name": "ESPN Deportes  | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes"
-      },
-      {
-        "name": "ESPN Deportes  | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
@@ -187,14 +163,6 @@
       {
         "name": "ESPN Deportes",
         "url": "https://tvtvhd.com/canales.php?stream=espndeportes"
-      },
-      {
-        "name": "ESPN Deportes  | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes"
-      },
-      {
-        "name": "ESPN Deportes  | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
@@ -213,24 +181,12 @@
         "url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
       },
       {
-        "name": "ESPN AR┃OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn"
-      },
-      {
         "name": "Sportv BR",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
       },
       {
         "name": "ESPN MX",
         "url": "https://tvtvhd.com/canales.php?stream=espnmx"
-      },
-      {
-        "name": "ESPN MX | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espnmx"
-      },
-      {
-        "name": "ESPN MX | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espnmx"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
@@ -279,10 +235,6 @@
       {
         "name": "FOX Deportes",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-      },
-      {
-        "name": "FOX Deportes | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
@@ -299,14 +251,6 @@
       {
         "name": "ESPN 4",
         "url": "https://tvtvhd.com/canales.php?stream=espn4"
-      },
-      {
-        "name": "ESPN 4 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4"
-      },
-      {
-        "name": "ESPN 4 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
@@ -323,14 +267,6 @@
       {
         "name": "ESPN 2",
         "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      },
-      {
-        "name": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2"
-      },
-      {
-        "name": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
@@ -347,14 +283,6 @@
       {
         "name": "ESPN 2",
         "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      },
-      {
-        "name": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2"
-      },
-      {
-        "name": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
@@ -371,14 +299,6 @@
       {
         "name": "ESPN 3",
         "url": "https://tvtvhd.com/canales.php?stream=espn3"
-      },
-      {
-        "name": "ESPN 3 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3"
-      },
-      {
-        "name": "ESPN 3 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
@@ -395,14 +315,6 @@
       {
         "name": "ESPN 4",
         "url": "https://tvtvhd.com/canales.php?stream=espn4"
-      },
-      {
-        "name": "ESPN 4 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4"
-      },
-      {
-        "name": "ESPN 4 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
@@ -435,10 +347,6 @@
       {
         "name": "ESPN",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
-      },
-      {
-        "name": "ESPN AR┃OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn"
       },
       {
         "name": "Disney+",
@@ -513,10 +421,6 @@
         "url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
       },
       {
-        "name": "ESPN AR┃OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn"
-      },
-      {
         "name": "Disney+",
         "url": "https://tvtvhd.com/canales.php?stream=disney16"
       }
@@ -535,10 +439,6 @@
       {
         "name": "ESPN",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
-      },
-      {
-        "name": "ESPN AR┃OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
@@ -571,14 +471,6 @@
       {
         "name": "ESPN 5",
         "url": "https://tvtvhd.com/canales.php?stream=espn5"
-      },
-      {
-        "name": "ESPN 5 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn5"
-      },
-      {
-        "name": "ESPN 5 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn5"
       },
       {
         "name": "LaLiga TV Hypermotion",
@@ -615,14 +507,6 @@
       {
         "name": "ESPN 3",
         "url": "https://tvtvhd.com/canales.php?stream=espn3"
-      },
-      {
-        "name": "ESPN 3 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3"
-      },
-      {
-        "name": "ESPN 3 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
@@ -639,14 +523,6 @@
       {
         "name": "ESPN 4",
         "url": "https://tvtvhd.com/canales.php?stream=espn4"
-      },
-      {
-        "name": "ESPN 4 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4"
-      },
-      {
-        "name": "ESPN 4 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
@@ -663,14 +539,6 @@
       {
         "name": "ESPN 3",
         "url": "https://tvtvhd.com/canales.php?stream=espn3"
-      },
-      {
-        "name": "ESPN 3 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3"
-      },
-      {
-        "name": "ESPN 3 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
@@ -687,14 +555,6 @@
       {
         "name": "ESPN 7",
         "url": "https://tvtvhd.com/canales.php?stream=espn7"
-      },
-      {
-        "name": "ESPN 7 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn7"
-      },
-      {
-        "name": "ESPN 7 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn7"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
@@ -711,14 +571,6 @@
       {
         "name": "ESPN 4",
         "url": "https://tvtvhd.com/canales.php?stream=espn4"
-      },
-      {
-        "name": "ESPN 4 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4"
-      },
-      {
-        "name": "ESPN 4 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
