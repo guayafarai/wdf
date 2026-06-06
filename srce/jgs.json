@@ -1,49 +1,5 @@
 [
   {
-    "id": "36547",
-    "slug": "torque-vs-deportivo-maldonado-2026-06-06",
-    "team_a": "Torque",
-    "team_b": "Deportivo Maldonado",
-    "league": "Primera División",
-    "date": "2026-06-06",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney11"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
-    "id": "36539",
-    "slug": "ee.-uu.-vs-alemania-2026-06-06",
-    "team_a": "EE. UU.",
-    "team_b": "Alemania",
-    "league": "Amistoso",
-    "date": "2026-06-06",
-    "time": "13:30",
-    "streams": [
-      {
-        "name": "ESPN MX",
-        "url": "https://tvtvhd.com/canales.php?stream=espnmx"
-      },
-      {
-        "name": "ESPN NL",
-        "url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney13"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
-  },
-  {
     "id": "36572",
     "slug": "panamá-vs-bosnia-herzegovina-2026-06-06",
     "team_a": "Panamá",
@@ -236,42 +192,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "36538",
-    "slug": "albania-vs-luxemburgo-2026-06-06",
-    "team_a": "Albania",
-    "team_b": "Luxemburgo",
-    "league": "Amistoso",
-    "date": "2026-06-06",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney10pl"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney10"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10pl"
-  },
-  {
-    "id": "36552",
-    "slug": "la-luz-vs-paysandu-2026-06-06",
-    "team_a": "La Luz",
-    "team_b": "Paysandu",
-    "league": "Segunda División",
-    "date": "2026-06-06",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney12"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
-  },
-  {
     "id": "36540",
     "slug": "australia-vs-suiza-2026-06-06",
     "team_a": "Australia",
@@ -382,22 +302,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36566",
-    "slug": "selknam-vs-cobras-brasil-rugby-2026-06-06",
-    "team_a": "Selknam",
-    "team_b": "Cobras Brasil Rugby",
-    "league": "Rugby – SR Americas",
-    "date": "2026-06-06",
-    "time": "12:55",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "36568",
