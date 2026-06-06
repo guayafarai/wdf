@@ -10,16 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=americatv"
   },
   {
-    "id": "36516",
-    "slug": "chile-vs-ecuador-2026-06-05",
-    "team_a": "Chile",
-    "team_b": "Ecuador",
-    "league": "CONMEBOL Nations League Femenina",
-    "date": "2026-06-05",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
     "id": "36518",
     "slug": "deportes-concepción-vs-coquimbo-unido-2026-06-05",
     "team_a": "Deportes Concepción",
@@ -57,7 +47,7 @@
     "league": "Amistoso",
     "date": "2026-06-05",
     "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=sportv2"
   },
   {
     "id": "36514",
@@ -68,36 +58,6 @@
     "date": "2026-06-05",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "36515",
-    "slug": "bolivia-vs-paraguay-2026-06-05",
-    "team_a": "Bolivia",
-    "team_b": "Paraguay",
-    "league": "CONMEBOL Nations League Femenina",
-    "date": "2026-06-05",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "36517",
-    "slug": "colombia-vs-uruguay-2026-06-05",
-    "team_a": "Colombia",
-    "team_b": "Uruguay",
-    "league": "CONMEBOL Nations League Femenina",
-    "date": "2026-06-05",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "36526",
-    "slug": "partido-vs-en-vivo-2026-06-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – SR Americas – Peñarol Rugby vs Pampas",
-    "date": "2026-06-05",
-    "time": "14:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "36528",
