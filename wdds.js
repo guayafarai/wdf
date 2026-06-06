@@ -28,22 +28,42 @@ function getFallbackMatches() {
 function normalizeFromStrapi(m) {
   const attributes = m.attributes || {};
   const desc = attributes.diary_description || '';
+
+  // Split by newline and clean each part
   const parts = desc.split('\n').map(s => s.trim()).filter(Boolean);
 
-  let league;
-  let team_a;
-  let team_b;
+  let league = '';
+  let team_a = '';
+  let team_b = '';
 
-  if (parts[0]) {
+  if (parts.length >= 2) {
+    // Multiline: "Liga: \nEquipo A vs Equipo B"
     const first = parts[0];
     league = first.includes(':') ? first.split(':')[0].trim() : first;
-  }
 
-  if (parts[1]) {
     const vsParts = parts[1].split(' vs ');
     if (vsParts.length >= 2) {
       team_a = vsParts[0].trim();
       team_b = vsParts[1].trim();
+    }
+  } else if (parts.length === 1) {
+    // Single line: "Liga: Equipo A vs Equipo B"
+    const single = parts[0];
+    if (single.includes(':')) {
+      const colonIdx = single.indexOf(':');
+      league = single.slice(0, colonIdx).trim();
+      const rest = single.slice(colonIdx + 1).trim();
+      const vsParts = rest.split(' vs ');
+      if (vsParts.length >= 2) {
+        team_a = vsParts[0].trim();
+        team_b = vsParts[1].trim();
+      }
+    } else {
+      const vsParts = single.split(' vs ');
+      if (vsParts.length >= 2) {
+        team_a = vsParts[0].trim();
+        team_b = vsParts[1].trim();
+      }
     }
   }
 
