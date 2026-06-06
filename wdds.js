@@ -25,47 +25,109 @@ function getFallbackMatches() {
   ];
 }
 
-function normalizeFromStrapi(m) {
-  const attributes = m.attributes || {};
-  const desc = attributes.diary_description || '';
-
-  // Split by newline and clean each part
-  const parts = desc.split('\n').map(s => s.trim()).filter(Boolean);
+/**
+ * Parsea diary_description con soporte para múltiples formatos:
+ *
+ * 1. Multilinea:
+ *    "Liga:\nEquipo A vs Equipo B"
+ *    "Liga: \nEquipo A vs Equipo B"
+ *
+ * 2. Una línea con ":" como separador liga/equipos:
+ *    "Amistoso: Armenia vs Kazajstán"
+ *
+ * 3. Una línea con "–" como separadores (puede haber varios):
+ *    "Rugby – Premiership – Bath Rugby vs Leicester Tigers"
+ *    → league = "Rugby – Premiership", team_a = "Bath Rugby", team_b = "Leicester Tigers"
+ *
+ * 4. Evento sin equipos (no contiene " vs "):
+ *    "F2 Monte Carlo – Sprint"
+ *    → league = "F2 Monte Carlo – Sprint", team_a = "", team_b = ""
+ */
+function parseDescription(desc) {
+  // Separar por salto de línea y limpiar
+  const lines = desc.split('\n').map(s => s.trim()).filter(Boolean);
 
   let league = '';
   let team_a = '';
   let team_b = '';
 
-  if (parts.length >= 2) {
-    // Multiline: "Liga: \nEquipo A vs Equipo B"
-    const first = parts[0];
-    league = first.includes(':') ? first.split(':')[0].trim() : first;
+  if (lines.length >= 2) {
+    // ----- Formato multilinea -----
+    // Línea 0: "Liga:" o "Liga"
+    const firstLine = lines[0];
+    league = firstLine.endsWith(':')
+      ? firstLine.slice(0, -1).trim()
+      : firstLine;
 
-    const vsParts = parts[1].split(' vs ');
-    if (vsParts.length >= 2) {
-      team_a = vsParts[0].trim();
-      team_b = vsParts[1].trim();
+    // Línea 1: "Equipo A vs Equipo B" (puede tener " – " antes de vs)
+    const secondLine = lines[1];
+    const vsIdx = secondLine.indexOf(' vs ');
+    if (vsIdx !== -1) {
+      team_a = secondLine.slice(0, vsIdx).trim();
+      team_b = secondLine.slice(vsIdx + 4).trim();
+    } else {
+      // Sin equipos en la segunda línea, añadir a la liga
+      league = `${league} – ${secondLine}`.trim();
     }
-  } else if (parts.length === 1) {
-    // Single line: "Liga: Equipo A vs Equipo B"
-    const single = parts[0];
-    if (single.includes(':')) {
+
+  } else {
+    // ----- Formato de una sola línea -----
+    const single = lines[0] || '';
+    const hasVs = single.includes(' vs ');
+
+    if (!hasVs) {
+      // Caso 4: evento sin equipos — toda la cadena es la liga
+      // Normalizar separador "–" a algo legible pero sin cambiar el contenido
+      league = single;
+
+    } else if (single.includes(':')) {
+      // Caso 2: "Liga: Equipo A vs Equipo B"
       const colonIdx = single.indexOf(':');
       league = single.slice(0, colonIdx).trim();
       const rest = single.slice(colonIdx + 1).trim();
-      const vsParts = rest.split(' vs ');
-      if (vsParts.length >= 2) {
-        team_a = vsParts[0].trim();
-        team_b = vsParts[1].trim();
+      const vsIdx = rest.indexOf(' vs ');
+      if (vsIdx !== -1) {
+        team_a = rest.slice(0, vsIdx).trim();
+        team_b = rest.slice(vsIdx + 4).trim();
       }
+
+    } else if (single.includes(' – ')) {
+      // Caso 3: "Deporte – Liga – Equipo A vs Equipo B"
+      // El último segmento después del último "–" que contenga " vs " define los equipos;
+      // todo lo anterior es la liga.
+      const dashParts = single.split(' – ');
+      const lastPart = dashParts[dashParts.length - 1];
+      const vsIdx = lastPart.indexOf(' vs ');
+
+      if (vsIdx !== -1) {
+        team_a = lastPart.slice(0, vsIdx).trim();
+        team_b = lastPart.slice(vsIdx + 4).trim();
+        league = dashParts.slice(0, dashParts.length - 1).join(' – ').trim();
+      } else {
+        // El " vs " no está en el último segmento; buscar en toda la cadena
+        const globalVsIdx = single.indexOf(' vs ');
+        team_a = single.slice(0, globalVsIdx).trim();
+        team_b = single.slice(globalVsIdx + 4).trim();
+        // Liga vacía porque no podemos distinguirla
+        league = '';
+      }
+
     } else {
-      const vsParts = single.split(' vs ');
-      if (vsParts.length >= 2) {
-        team_a = vsParts[0].trim();
-        team_b = vsParts[1].trim();
-      }
+      // Fallback: toda la cadena tiene " vs " sin separador de liga
+      const vsIdx = single.indexOf(' vs ');
+      team_a = single.slice(0, vsIdx).trim();
+      team_b = single.slice(vsIdx + 4).trim();
     }
   }
+
+  return { league, team_a, team_b };
+}
+
+function normalizeFromStrapi(m) {
+  const attributes = m.attributes || {};
+  const desc = attributes.diary_description || '';
+
+  const { league, team_a, team_b } = parseDescription(desc);
 
   const date = attributes.date_diary || '';
   let time = attributes.diary_hour || '';
@@ -80,18 +142,17 @@ function normalizeFromStrapi(m) {
     decoded_iframe_url = firstEmbed.decoded_iframe_url || '';
   }
 
-  const idBase =
-    m.id ||
-    `${team_a || 'partido'}-${team_b || 'en-vivo'}-${date || ''}`.replace(/\s+/g, '-');
-  const id = String(idBase);
-  const slugBase = `${team_a || 'partido'}-vs-${team_b || 'en-vivo'}-${date || ''}`;
+  const id = String(m.id || `${team_a || 'partido'}-${team_b || 'en-vivo'}-${date}`.replace(/\s+/g, '-'));
+  const slugBase = team_a
+    ? `${team_a}-vs-${team_b}-${date}`
+    : `${league || 'evento'}-${date}`;
   const slug = slugBase.toLowerCase().replace(/\s+/g, '-');
 
   return {
     id,
     slug,
-    team_a: team_a || 'Equipo A',
-    team_b: team_b || 'Equipo B',
+    team_a: team_a || '',
+    team_b: team_b || '',
     league,
     date,
     time,
@@ -110,8 +171,8 @@ function normalizeCanonical(m) {
   return {
     id,
     slug,
-    team_a: m.team_a || 'Equipo A',
-    team_b: m.team_b || 'Equipo B',
+    team_a: m.team_a || '',
+    team_b: m.team_b || '',
     league: m.league,
     date: m.date || '',
     time: m.time || '',
