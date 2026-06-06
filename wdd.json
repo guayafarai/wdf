@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-06T07:43:19.949506Z",
+    "last_updated": "2026-06-06T09:58:23.093096Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 41
+    "total_events": 40
   },
   "data": [
     {
@@ -2507,82 +2507,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-09-04T14:02:14.576Z",
                     "updatedAt": "2025-11-14T17:29:29.037Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36558,
-      "attributes": {
-        "diary_description": "ESPN Knockout – Masamichi Yabuki vs Rene Calixto",
-        "diary_hour": "00:45:00",
-        "date_diary": "2026-06-06",
-        "createdAt": "2026-06-06T00:02:13.789Z",
-        "updatedAt": "2026-06-06T00:02:13.789Z",
-        "publishedAt": "2026-06-06T06:02:21.719Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 656,
-              "attributes": {
-                "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMw==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1357,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1358,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn3"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 52,
-            "attributes": {
-              "name": "Boxeo",
-              "createdAt": "2024-01-23T08:29:53.264Z",
-              "updatedAt": "2025-08-08T17:07:11.502Z",
-              "publishedAt": "2024-01-23T08:29:54.683Z",
-              "image": {
-                "data": {
-                  "id": 368,
-                  "attributes": {
-                    "name": "boxeo_2024_b15889ae93.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "boxeo_2024_b15889ae93_ae58e10dcb",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.39,
-                    "url": "/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-08T17:07:05.112Z",
-                    "updatedAt": "2025-08-08T17:07:05.112Z"
                   }
                 }
               }
