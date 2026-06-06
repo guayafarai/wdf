@@ -7,6 +7,12 @@
     "league": "Amistoso",
     "date": "2026-06-06",
     "time": "10:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney5"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   },
   {
@@ -17,6 +23,12 @@
     "league": "Amistoso",
     "date": "2026-06-06",
     "time": "12:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney7"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
   },
   {
@@ -27,6 +39,12 @@
     "league": "Amistoso",
     "date": "2026-06-06",
     "time": "12:45",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney9"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
   },
   {
@@ -37,6 +55,12 @@
     "league": "Primera División",
     "date": "2026-06-06",
     "time": "13:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney11"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
   },
   {
@@ -47,6 +71,40 @@
     "league": "Amistoso",
     "date": "2026-06-06",
     "time": "13:30",
+    "streams": [
+      {
+        "name": "ESPN MX",
+        "url": "https://tvtvhd.com/canales.php?stream=espnmx"
+      },
+      {
+        "name": "ESPN MX | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espnmx"
+      },
+      {
+        "name": "ESPN MX | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espnmx"
+      },
+      {
+        "name": "ESPN NL",
+        "url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney13"
+      },
+      {
+        "name": "ESPN NL | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn1_nl"
+      },
+      {
+        "name": "ESPN NL | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
   },
   {
@@ -57,6 +115,12 @@
     "league": "Amistoso",
     "date": "2026-06-06",
     "time": "14:00",
+    "streams": [
+      {
+        "name": "Eventos",
+        "url": "https://tvtvhd.com/canales.php?stream=eventos4"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=eventos4"
   },
   {
@@ -67,6 +131,24 @@
     "league": "Amistoso",
     "date": "2026-06-06",
     "time": "15:00",
+    "streams": [
+      {
+        "name": "ESPN 3 MX",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3mx"
+      },
+      {
+        "name": "ESPN Deportes",
+        "url": "https://tvtvhd.com/canales.php?stream=espndeportes"
+      },
+      {
+        "name": "ESPN Deportes  | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes"
+      },
+      {
+        "name": "ESPN Deportes  | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
   },
   {
@@ -77,6 +159,12 @@
     "league": "Amistoso",
     "date": "2026-06-06",
     "time": "17:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
@@ -87,6 +175,28 @@
     "league": "Amistoso",
     "date": "2026-06-06",
     "time": "19:00",
+    "streams": [
+      {
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Telefe",
+        "url": "https://tvtvhd.com/canales.php?stream=telefe"
+      },
+      {
+        "name": "ESPN Deportes",
+        "url": "https://tvtvhd.com/canales.php?stream=espndeportes"
+      },
+      {
+        "name": "ESPN Deportes  | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes"
+      },
+      {
+        "name": "ESPN Deportes  | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
@@ -97,6 +207,32 @@
     "league": "Amistoso Internacional Femenino",
     "date": "2026-06-06",
     "time": "16:30",
+    "streams": [
+      {
+        "name": "ESPN",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
+      },
+      {
+        "name": "ESPN AR┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "ESPN MX",
+        "url": "https://tvtvhd.com/canales.php?stream=espnmx"
+      },
+      {
+        "name": "ESPN MX | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espnmx"
+      },
+      {
+        "name": "ESPN MX | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espnmx"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
   },
   {
@@ -107,6 +243,12 @@
     "league": "Segunda División",
     "date": "2026-06-06",
     "time": "19:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
@@ -117,6 +259,12 @@
     "league": "Copa de la Liga",
     "date": "2026-06-06",
     "time": "17:00",
+    "streams": [
+      {
+        "name": "TNT Sports Premiun CL",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
@@ -127,6 +275,16 @@
     "league": "Torneo Maurice Revello  Sub-20",
     "date": "2026-06-06",
     "time": "11:30",
+    "streams": [
+      {
+        "name": "FOX Deportes",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+      },
+      {
+        "name": "FOX Deportes | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
@@ -137,6 +295,20 @@
     "league": "Rugby – Premiership",
     "date": "2026-06-06",
     "time": "09:00",
+    "streams": [
+      {
+        "name": "ESPN 4",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4"
+      },
+      {
+        "name": "ESPN 4 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4"
+      },
+      {
+        "name": "ESPN 4 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
@@ -147,6 +319,20 @@
     "league": "WNBA",
     "date": "2026-06-06",
     "time": "12:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+      },
+      {
+        "name": "ESPN 2 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2"
+      },
+      {
+        "name": "ESPN 2 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
@@ -157,6 +343,20 @@
     "league": "ESPN Knockout",
     "date": "2026-06-06",
     "time": "14:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+      },
+      {
+        "name": "ESPN 2 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2"
+      },
+      {
+        "name": "ESPN 2 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
@@ -167,6 +367,20 @@
     "league": "Golf – U.S. Women’s Open Golf Championship – Tercera Vuelta",
     "date": "2026-06-06",
     "time": "16:00",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3"
+      },
+      {
+        "name": "ESPN 3 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3"
+      },
+      {
+        "name": "ESPN 3 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
@@ -177,6 +391,20 @@
     "league": "NHL – Juego #3",
     "date": "2026-06-06",
     "time": "19:00",
+    "streams": [
+      {
+        "name": "ESPN 4",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4"
+      },
+      {
+        "name": "ESPN 4 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4"
+      },
+      {
+        "name": "ESPN 4 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
@@ -187,6 +415,12 @@
     "league": "Amistoso",
     "date": "2026-06-06",
     "time": "11:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney6"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
   },
   {
@@ -197,6 +431,20 @@
     "league": "Amistoso",
     "date": "2026-06-06",
     "time": "12:45",
+    "streams": [
+      {
+        "name": "ESPN",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
+      },
+      {
+        "name": "ESPN AR┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney8"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
   },
   {
@@ -207,6 +455,16 @@
     "league": "Amistoso",
     "date": "2026-06-06",
     "time": "13:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney10pl"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney10"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10pl"
   },
   {
@@ -217,6 +475,12 @@
     "league": "Segunda División",
     "date": "2026-06-06",
     "time": "13:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney12"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
   },
   {
@@ -227,6 +491,12 @@
     "league": "Amistoso",
     "date": "2026-06-06",
     "time": "14:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney14"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney14"
   },
   {
@@ -237,6 +507,20 @@
     "league": "Amistoso",
     "date": "2026-06-06",
     "time": "15:00",
+    "streams": [
+      {
+        "name": "ESPN",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
+      },
+      {
+        "name": "ESPN AR┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney16"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
   },
   {
@@ -247,6 +531,16 @@
     "league": "Amistoso",
     "date": "2026-06-06",
     "time": "17:00",
+    "streams": [
+      {
+        "name": "ESPN",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
+      },
+      {
+        "name": "ESPN AR┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
   },
   {
@@ -257,6 +551,12 @@
     "league": "Primera División",
     "date": "2026-06-06",
     "time": "16:30",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
@@ -267,6 +567,24 @@
     "league": "LaLiga SmartBank",
     "date": "2026-06-06",
     "time": "14:00",
+    "streams": [
+      {
+        "name": "ESPN 5",
+        "url": "https://tvtvhd.com/canales.php?stream=espn5"
+      },
+      {
+        "name": "ESPN 5 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn5"
+      },
+      {
+        "name": "ESPN 5 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn5"
+      },
+      {
+        "name": "LaLiga TV Hypermotion",
+        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
@@ -277,6 +595,12 @@
     "league": "Primera B",
     "date": "2026-06-06",
     "time": "19:00",
+    "streams": [
+      {
+        "name": "TNT Sports Premiun CL",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
@@ -287,6 +611,20 @@
     "league": "Rugby – Premiership",
     "date": "2026-06-06",
     "time": "09:00",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3"
+      },
+      {
+        "name": "ESPN 3 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3"
+      },
+      {
+        "name": "ESPN 3 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
@@ -297,6 +635,20 @@
     "league": "Golf – The Memorial Tournament – Tercera Vuelta",
     "date": "2026-06-06",
     "time": "11:30",
+    "streams": [
+      {
+        "name": "ESPN 4",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4"
+      },
+      {
+        "name": "ESPN 4 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4"
+      },
+      {
+        "name": "ESPN 4 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
@@ -307,6 +659,20 @@
     "league": "Rugby – SR Americas",
     "date": "2026-06-06",
     "time": "12:55",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3"
+      },
+      {
+        "name": "ESPN 3 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3"
+      },
+      {
+        "name": "ESPN 3 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
@@ -317,6 +683,20 @@
     "league": "WNBA",
     "date": "2026-06-06",
     "time": "14:00",
+    "streams": [
+      {
+        "name": "ESPN 7",
+        "url": "https://tvtvhd.com/canales.php?stream=espn7"
+      },
+      {
+        "name": "ESPN 7 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn7"
+      },
+      {
+        "name": "ESPN 7 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn7"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
   },
   {
@@ -327,6 +707,20 @@
     "league": "Turf – Belmont",
     "date": "2026-06-06",
     "time": "17:00",
+    "streams": [
+      {
+        "name": "ESPN 4",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4"
+      },
+      {
+        "name": "ESPN 4 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4"
+      },
+      {
+        "name": "ESPN 4 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4"
+      }
+    ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   }
 ]
