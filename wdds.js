@@ -26,25 +26,27 @@ function getFallbackMatches() {
 }
 
 /**
- * Parsea diary_description con soporte para múltiples formatos:
+ * Parsea diary_description con soporte para todos los formatos conocidos:
  *
- * 1. Multilinea:
+ * 1. Multilinea con equipos:
  *    "Liga:\nEquipo A vs Equipo B"
  *    "Liga: \nEquipo A vs Equipo B"
  *
  * 2. Una línea con ":" como separador liga/equipos:
  *    "Amistoso: Armenia vs Kazajstán"
  *
- * 3. Una línea con "–" como separadores (puede haber varios):
+ * 3. Una línea con " – " y equipos:
  *    "Rugby – Premiership – Bath Rugby vs Leicester Tigers"
- *    → league = "Rugby – Premiership", team_a = "Bath Rugby", team_b = "Leicester Tigers"
+ *    → league="Rugby – Premiership", team_a="Bath Rugby", team_b="Leicester Tigers"
  *
- * 4. Evento sin equipos (no contiene " vs "):
- *    "F2 Monte Carlo – Sprint"
- *    → league = "F2 Monte Carlo – Sprint", team_a = "", team_b = ""
+ * 4. Evento sin equipos (sin " vs "), con o sin " – ":
+ *    "F2 Monte Carlo – Sprint"  → league="F2 Monte Carlo – Sprint", team_a="", team_b=""
+ *    "Turf – Belmont"           → league="Turf – Belmont", team_a="", team_b=""
+ *
+ * En todos los casos sin equipos: team_a="" y team_b="" (cadena vacía).
+ * La app Android detecta isEmpty() para decidir cómo mostrar el título.
  */
 function parseDescription(desc) {
-  // Separar por salto de línea y limpiar
   const lines = desc.split('\n').map(s => s.trim()).filter(Boolean);
 
   let league = '';
@@ -52,32 +54,29 @@ function parseDescription(desc) {
   let team_b = '';
 
   if (lines.length >= 2) {
-    // ----- Formato multilinea -----
-    // Línea 0: "Liga:" o "Liga"
+    // ── Formato multilinea ──────────────────────────────────────────────────
     const firstLine = lines[0];
     league = firstLine.endsWith(':')
       ? firstLine.slice(0, -1).trim()
-      : firstLine;
+      : firstLine.replace(/:$/, '').trim();
 
-    // Línea 1: "Equipo A vs Equipo B" (puede tener " – " antes de vs)
     const secondLine = lines[1];
     const vsIdx = secondLine.indexOf(' vs ');
     if (vsIdx !== -1) {
       team_a = secondLine.slice(0, vsIdx).trim();
       team_b = secondLine.slice(vsIdx + 4).trim();
     } else {
-      // Sin equipos en la segunda línea, añadir a la liga
-      league = `${league} – ${secondLine}`.trim();
+      // Segunda línea sin equipos: agregar al nombre de liga
+      league = league ? `${league} – ${secondLine}` : secondLine;
     }
 
   } else {
-    // ----- Formato de una sola línea -----
+    // ── Formato de una sola línea ───────────────────────────────────────────
     const single = lines[0] || '';
-    const hasVs = single.includes(' vs ');
+    const vsIdx  = single.indexOf(' vs ');
 
-    if (!hasVs) {
-      // Caso 4: evento sin equipos — toda la cadena es la liga
-      // Normalizar separador "–" a algo legible pero sin cambiar el contenido
+    if (vsIdx === -1) {
+      // Caso 4: evento sin equipos — todo es la descripción del evento
       league = single;
 
     } else if (single.includes(':')) {
@@ -85,36 +84,33 @@ function parseDescription(desc) {
       const colonIdx = single.indexOf(':');
       league = single.slice(0, colonIdx).trim();
       const rest = single.slice(colonIdx + 1).trim();
-      const vsIdx = rest.indexOf(' vs ');
-      if (vsIdx !== -1) {
-        team_a = rest.slice(0, vsIdx).trim();
-        team_b = rest.slice(vsIdx + 4).trim();
+      const restVsIdx = rest.indexOf(' vs ');
+      if (restVsIdx !== -1) {
+        team_a = rest.slice(0, restVsIdx).trim();
+        team_b = rest.slice(restVsIdx + 4).trim();
       }
 
     } else if (single.includes(' – ')) {
       // Caso 3: "Deporte – Liga – Equipo A vs Equipo B"
-      // El último segmento después del último "–" que contenga " vs " define los equipos;
-      // todo lo anterior es la liga.
+      // El "vs" puede estar en el último segmento o cruzar segmentos
       const dashParts = single.split(' – ');
-      const lastPart = dashParts[dashParts.length - 1];
-      const vsIdx = lastPart.indexOf(' vs ');
+      const lastPart  = dashParts[dashParts.length - 1];
+      const lastVsIdx = lastPart.indexOf(' vs ');
 
-      if (vsIdx !== -1) {
-        team_a = lastPart.slice(0, vsIdx).trim();
-        team_b = lastPart.slice(vsIdx + 4).trim();
+      if (lastVsIdx !== -1) {
+        // Los equipos están en el último segmento
+        team_a = lastPart.slice(0, lastVsIdx).trim();
+        team_b = lastPart.slice(lastVsIdx + 4).trim();
         league = dashParts.slice(0, dashParts.length - 1).join(' – ').trim();
       } else {
-        // El " vs " no está en el último segmento; buscar en toda la cadena
-        const globalVsIdx = single.indexOf(' vs ');
-        team_a = single.slice(0, globalVsIdx).trim();
-        team_b = single.slice(globalVsIdx + 4).trim();
-        // Liga vacía porque no podemos distinguirla
+        // El "vs" cruza segmentos; tomar todo antes/después del vs global
+        team_a = single.slice(0, vsIdx).trim();
+        team_b = single.slice(vsIdx + 4).trim();
         league = '';
       }
 
     } else {
-      // Fallback: toda la cadena tiene " vs " sin separador de liga
-      const vsIdx = single.indexOf(' vs ');
+      // Fallback: solo "Equipo A vs Equipo B" sin separador de liga
       team_a = single.slice(0, vsIdx).trim();
       team_b = single.slice(vsIdx + 4).trim();
     }
@@ -131,49 +127,42 @@ function normalizeFromStrapi(m) {
 
   const date = attributes.date_diary || '';
   let time = attributes.diary_hour || '';
-  if (time.length >= 5) {
-    time = time.slice(0, 5);
-  }
+  if (time.length >= 5) time = time.slice(0, 5);
 
   let decoded_iframe_url = '';
   const embeds = attributes.embeds && attributes.embeds.data;
   if (Array.isArray(embeds) && embeds.length > 0) {
-    const firstEmbed = embeds[0].attributes || {};
-    decoded_iframe_url = firstEmbed.decoded_iframe_url || '';
+    decoded_iframe_url = (embeds[0].attributes || {}).decoded_iframe_url || '';
   }
 
-  const id = String(m.id || `${team_a || 'partido'}-${team_b || 'en-vivo'}-${date}`.replace(/\s+/g, '-'));
+  const id = String(m.id || `${team_a || league || 'evento'}-${date}`.replace(/\s+/g, '-'));
+
+  // Slug: si hay equipos usamos "teamA-vs-teamB-date", si no usamos la liga
   const slugBase = team_a
     ? `${team_a}-vs-${team_b}-${date}`
     : `${league || 'evento'}-${date}`;
-  const slug = slugBase.toLowerCase().replace(/\s+/g, '-');
+  const slug = slugBase.toLowerCase().replace(/\s+/g, '-').replace(/[–—]/g, '-');
 
-  return {
-    id,
-    slug,
-    team_a: team_a || '',
-    team_b: team_b || '',
-    league,
-    date,
-    time,
-    decoded_iframe_url
-  };
+  return { id, slug, team_a, team_b, league, date, time, decoded_iframe_url };
 }
 
 function normalizeCanonical(m) {
-  const idBase =
-    m.id ||
-    `${m.team_a || 'partido'}-${m.team_b || 'en-vivo'}-${m.date || ''}`.replace(/\s+/g, '-');
-  const id = String(idBase);
-  const slugBase = `${m.team_a || 'partido'}-vs-${m.team_b || 'en-vivo'}-${m.date || ''}`;
-  const slug = slugBase.toLowerCase().replace(/\s+/g, '-');
+  const team_a = m.team_a || '';
+  const team_b = m.team_b || '';
+  const id = String(
+    m.id || `${team_a || m.league || 'evento'}-${m.date || ''}`.replace(/\s+/g, '-')
+  );
+  const slugBase = team_a
+    ? `${team_a}-vs-${team_b}-${m.date || ''}`
+    : `${m.league || 'evento'}-${m.date || ''}`;
+  const slug = slugBase.toLowerCase().replace(/\s+/g, '-').replace(/[–—]/g, '-');
 
   return {
     id,
     slug,
-    team_a: m.team_a || '',
-    team_b: m.team_b || '',
-    league: m.league,
+    team_a,
+    team_b,
+    league: m.league || '',
     date: m.date || '',
     time: m.time || '',
     decoded_iframe_url: m.decoded_iframe_url || ''
@@ -214,9 +203,7 @@ async function fetchMatches() {
         const objectMatches = values.filter(
           v => v && typeof v === 'object' && !Array.isArray(v) && (v.team_a || v.team_b)
         );
-        if (objectMatches.length > 0) {
-          list = objectMatches;
-        }
+        if (objectMatches.length > 0) list = objectMatches;
       }
     }
 
@@ -231,11 +218,13 @@ async function fetchMatches() {
     const enhanced = list.map(m =>
       m && m.attributes ? normalizeFromStrapi(m) : normalizeCanonical(m)
     );
+
     const dir = path.join(process.cwd(), 'srce');
     await fs.mkdir(dir, { recursive: true });
     await fs.writeFile(path.join(dir, 'jgs.json'), JSON.stringify(enhanced, null, 2));
     console.log(`✓ Fetched ${enhanced.length} matches`);
     return enhanced;
+
   } catch (error) {
     console.error('Error fetching matches:', error.message);
     try {
@@ -249,14 +238,9 @@ async function fetchMatches() {
       await fs.mkdir(dir, { recursive: true });
       await fs.writeFile(
         path.join(dir, 'jgs.json'),
-        JSON.stringify(
-          fallback.map(m => normalizeCanonical(m)),
-          null,
-          2
-        )
+        JSON.stringify(fallback.map(m => normalizeCanonical(m)), null, 2)
       );
-    } catch (e) {
-    }
+    } catch (e) {}
     return [];
   }
 }
