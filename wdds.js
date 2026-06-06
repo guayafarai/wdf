@@ -112,9 +112,18 @@ function extractStreams(attributes) {
     const name = (attr.embed_name || '').trim();
 
     if (!url) continue;
-    if (seen.has(url)) continue;   // ← descarta duplicados por URL
 
-    seen.add(url);
+    // Deduplicar por el parámetro ?stream= que es el identificador real del canal.
+    // URLs como /canales.php?stream=espn4 y /vivo/canal.php?stream=espn4
+    // son el mismo canal con distinta ruta — solo conservamos el primero.
+    let dedupeKey = url;
+    try {
+      const streamParam = new URL(url).searchParams.get('stream');
+      if (streamParam) dedupeKey = streamParam;
+    } catch (e) {}
+
+    if (seen.has(dedupeKey)) continue;
+    seen.add(dedupeKey);
     streams.push({ name, url });
   }
 
