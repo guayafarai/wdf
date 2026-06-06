@@ -1,62 +1,62 @@
 {
   "metadata": {
-    "last_updated": "2026-06-06T22:03:36.768495Z",
+    "last_updated": "2026-06-06T23:59:18.843069Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 18
+    "total_events": 13
   },
   "data": [
     {
-      "id": 36572,
+      "id": 36573,
       "attributes": {
-        "diary_description": "Amistoso: Panamá vs Bosnia-Herzegovina",
-        "diary_hour": "14:00:00",
+        "diary_description": "Primera Divisón: Universidad Católica vs Cobresal",
+        "diary_hour": "17:00:00",
         "date_diary": "2026-06-06",
-        "createdAt": "2026-06-06T16:32:32.735Z",
-        "updatedAt": "2026-06-06T16:32:35.032Z",
-        "publishedAt": "2026-06-06T16:32:35.029Z",
+        "createdAt": "2026-06-06T22:51:51.519Z",
+        "updatedAt": "2026-06-06T22:51:53.497Z",
+        "publishedAt": "2026-06-06T22:51:53.493Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 1124,
+              "id": 1123,
               "attributes": {
-                "embed_name": "Eventos",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVudG9zNA==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=eventos4"
+                "embed_name": "MAX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1tYXgz",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=max3"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 55,
+            "id": 12,
             "attributes": {
-              "name": "Amistoso",
-              "createdAt": "2024-02-01T08:09:43.427Z",
-              "updatedAt": "2025-09-04T14:05:15.995Z",
-              "publishedAt": "2024-02-01T08:09:44.642Z",
+              "name": "Chile",
+              "createdAt": "2023-11-22T15:42:40.655Z",
+              "updatedAt": "2025-08-03T16:01:24.110Z",
+              "publishedAt": "2023-11-22T15:42:42.314Z",
               "image": {
                 "data": {
-                  "id": 392,
+                  "id": 361,
                   "attributes": {
-                    "name": "amistoso_paises_b9febc0d3c.png",
+                    "name": "chile_86c07a7b38.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c_e1d457d1ee",
+                    "hash": "chile_86c07a7b38_fad5126fd0",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 3.59,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
+                    "size": 0.7,
+                    "url": "/uploads/chile_86c07a7b38_fad5126fd0.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2025-09-04T14:05:11.984Z",
-                    "updatedAt": "2025-09-04T14:05:11.984Z"
+                    "createdAt": "2025-08-03T16:01:20.348Z",
+                    "updatedAt": "2025-08-03T16:01:20.348Z"
                   }
                 }
               }
@@ -66,13 +66,13 @@
       }
     },
     {
-      "id": 36541,
+      "id": 36545,
       "attributes": {
-        "diary_description": "Amistoso: Bolivia vs Escocia",
-        "diary_hour": "15:00:00",
+        "diary_description": "Amistoso: \nArgentina vs Honduras",
+        "diary_hour": "19:00:00",
         "date_diary": "2026-06-06",
-        "createdAt": "2026-06-05T23:41:25.322Z",
-        "updatedAt": "2026-06-06T20:25:33.969Z",
+        "createdAt": "2026-06-05T23:47:45.986Z",
+        "updatedAt": "2026-06-06T23:56:43.074Z",
         "publishedAt": "2026-06-06T06:02:03.946Z",
         "channels": {
           "data": []
@@ -80,11 +80,59 @@
         "embeds": {
           "data": [
             {
-              "id": 586,
+              "id": 644,
               "attributes": {
-                "embed_name": "ESPN 3 MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuM214",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
+                "embed_name": "DSports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+              }
+            },
+            {
+              "id": 341,
+              "attributes": {
+                "embed_name": "DSports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz",
+                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=dsports"
+              }
+            },
+            {
+              "id": 748,
+              "attributes": {
+                "embed_name": "DSports | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM=",
+                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=dsports"
+              }
+            },
+            {
+              "id": 18,
+              "attributes": {
+                "embed_name": "TYC Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10eWNzcG9ydHM=",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+              }
+            },
+            {
+              "id": 596,
+              "attributes": {
+                "embed_name": "TyC Sports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10eWNzcG9ydHM=",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+              }
+            },
+            {
+              "id": 955,
+              "attributes": {
+                "embed_name": "TYC Sports | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10eWNzcG9ydHM=",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+              }
+            },
+            {
+              "id": 759,
+              "attributes": {
+                "embed_name": "Telefe",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlZmU=",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telefe"
               }
             },
             {
@@ -109,14 +157,6 @@
                 "embed_name": "ESPN Deportes  | OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==",
                 "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes"
-              }
-            },
-            {
-              "id": 1060,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxNw==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney17"
               }
             }
           ]
@@ -478,114 +518,6 @@
       }
     },
     {
-      "id": 36545,
-      "attributes": {
-        "diary_description": "Amistoso: \nArgentina vs Honduras",
-        "diary_hour": "19:00:00",
-        "date_diary": "2026-06-06",
-        "createdAt": "2026-06-05T23:47:45.986Z",
-        "updatedAt": "2026-06-05T23:47:45.986Z",
-        "publishedAt": "2026-06-06T06:02:03.946Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 18,
-              "attributes": {
-                "embed_name": "TYC Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10eWNzcG9ydHM=",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-              }
-            },
-            {
-              "id": 596,
-              "attributes": {
-                "embed_name": "TyC Sports | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10eWNzcG9ydHM=",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-              }
-            },
-            {
-              "id": 955,
-              "attributes": {
-                "embed_name": "TYC Sports | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10eWNzcG9ydHM=",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-              }
-            },
-            {
-              "id": 759,
-              "attributes": {
-                "embed_name": "Telefe",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlZmU=",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telefe"
-              }
-            },
-            {
-              "id": 57,
-              "attributes": {
-                "embed_name": "ESPN Deportes",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM=",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
-              }
-            },
-            {
-              "id": 1374,
-              "attributes": {
-                "embed_name": "ESPN Deportes  | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM=",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes"
-              }
-            },
-            {
-              "id": 1408,
-              "attributes": {
-                "embed_name": "ESPN Deportes  | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 55,
-            "attributes": {
-              "name": "Amistoso",
-              "createdAt": "2024-02-01T08:09:43.427Z",
-              "updatedAt": "2025-09-04T14:05:15.995Z",
-              "publishedAt": "2024-02-01T08:09:44.642Z",
-              "image": {
-                "data": {
-                  "id": 392,
-                  "attributes": {
-                    "name": "amistoso_paises_b9febc0d3c.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c_e1d457d1ee",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.59,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T14:05:11.984Z",
-                    "updatedAt": "2025-09-04T14:05:11.984Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 36554,
       "attributes": {
         "diary_description": "Copa de la Liga: \nÑublense vs Univ. Concepción",
@@ -645,82 +577,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T16:01:20.348Z",
                     "updatedAt": "2025-08-03T16:01:20.348Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36567,
-      "attributes": {
-        "diary_description": " ESPN Knockout – Josh Padley vs Aquib Fiaz",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-06-06",
-        "createdAt": "2026-06-06T00:10:09.457Z",
-        "updatedAt": "2026-06-06T00:10:09.457Z",
-        "publishedAt": "2026-06-06T06:02:40.116Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 52,
-            "attributes": {
-              "name": "Boxeo",
-              "createdAt": "2024-01-23T08:29:53.264Z",
-              "updatedAt": "2025-08-08T17:07:11.502Z",
-              "publishedAt": "2024-01-23T08:29:54.683Z",
-              "image": {
-                "data": {
-                  "id": 368,
-                  "attributes": {
-                    "name": "boxeo_2024_b15889ae93.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "boxeo_2024_b15889ae93_ae58e10dcb",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.39,
-                    "url": "/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-08T17:07:05.112Z",
-                    "updatedAt": "2025-08-08T17:07:05.112Z"
                   }
                 }
               }
@@ -806,74 +662,14 @@
       }
     },
     {
-      "id": 36540,
+      "id": 36574,
       "attributes": {
-        "diary_description": "Amistoso: \nAustralia vs Suiza",
-        "diary_hour": "14:00:00",
+        "diary_description": "Boxeo: Brandon Mosqueda vs. Isaac Aranda",
+        "diary_hour": "21:00:00",
         "date_diary": "2026-06-06",
-        "createdAt": "2026-06-05T23:40:11.921Z",
-        "updatedAt": "2026-06-06T16:30:39.603Z",
-        "publishedAt": "2026-06-06T06:01:41.707Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 935,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxNA==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney14"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 55,
-            "attributes": {
-              "name": "Amistoso",
-              "createdAt": "2024-02-01T08:09:43.427Z",
-              "updatedAt": "2025-09-04T14:05:15.995Z",
-              "publishedAt": "2024-02-01T08:09:44.642Z",
-              "image": {
-                "data": {
-                  "id": 392,
-                  "attributes": {
-                    "name": "amistoso_paises_b9febc0d3c.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c_e1d457d1ee",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.59,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T14:05:11.984Z",
-                    "updatedAt": "2025-09-04T14:05:11.984Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36542,
-      "attributes": {
-        "diary_description": "Amistoso: \nInglaterra vs Nueva Zelanda",
-        "diary_hour": "15:00:00",
-        "date_diary": "2026-06-06",
-        "createdAt": "2026-06-05T23:43:01.750Z",
-        "updatedAt": "2026-06-06T16:33:47.430Z",
-        "publishedAt": "2026-06-06T06:02:03.946Z",
+        "createdAt": "2026-06-06T22:54:13.603Z",
+        "updatedAt": "2026-06-06T22:54:15.201Z",
+        "publishedAt": "2026-06-06T22:54:15.198Z",
         "channels": {
           "data": []
         },
@@ -904,43 +700,43 @@
               }
             },
             {
-              "id": 1059,
+              "id": 827,
               "attributes": {
                 "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxNg==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney16"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk0",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 55,
+            "id": 52,
             "attributes": {
-              "name": "Amistoso",
-              "createdAt": "2024-02-01T08:09:43.427Z",
-              "updatedAt": "2025-09-04T14:05:15.995Z",
-              "publishedAt": "2024-02-01T08:09:44.642Z",
+              "name": "Boxeo",
+              "createdAt": "2024-01-23T08:29:53.264Z",
+              "updatedAt": "2025-08-08T17:07:11.502Z",
+              "publishedAt": "2024-01-23T08:29:54.683Z",
               "image": {
                 "data": {
-                  "id": 392,
+                  "id": 368,
                   "attributes": {
-                    "name": "amistoso_paises_b9febc0d3c.png",
+                    "name": "boxeo_2024_b15889ae93.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c_e1d457d1ee",
+                    "hash": "boxeo_2024_b15889ae93_ae58e10dcb",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 3.59,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
+                    "size": 1.39,
+                    "url": "/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2025-09-04T14:05:11.984Z",
-                    "updatedAt": "2025-09-04T14:05:11.984Z"
+                    "createdAt": "2025-08-08T17:07:05.112Z",
+                    "updatedAt": "2025-08-08T17:07:05.112Z"
                   }
                 }
               }
@@ -1102,90 +898,6 @@
       }
     },
     {
-      "id": 36550,
-      "attributes": {
-        "diary_description": "LaLiga SmartBank: \nCD Castellon vs Almería",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-06-06",
-        "createdAt": "2026-06-05T23:52:58.385Z",
-        "updatedAt": "2026-06-05T23:52:58.385Z",
-        "publishedAt": "2026-06-06T06:02:03.946Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 645,
-              "attributes": {
-                "embed_name": "ESPN 5",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNQ==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-              }
-            },
-            {
-              "id": 474,
-              "attributes": {
-                "embed_name": "ESPN 5 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNQ==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn5"
-              }
-            },
-            {
-              "id": 599,
-              "attributes": {
-                "embed_name": "ESPN 5 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG41",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn5"
-              }
-            },
-            {
-              "id": 522,
-              "attributes": {
-                "embed_name": "LaLiga TV Hypermotion ",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1oeXBlcm1vdGlvbjE=",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 7,
-            "attributes": {
-              "name": "España",
-              "createdAt": "2023-11-22T15:34:02.037Z",
-              "updatedAt": "2025-08-15T18:33:39.904Z",
-              "publishedAt": "2023-11-22T15:34:03.379Z",
-              "image": {
-                "data": {
-                  "id": 375,
-                  "attributes": {
-                    "name": "espana_a8510f9b5f.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "espana_a8510f9b5f_9213b1e460",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.46,
-                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-15T18:33:34.734Z",
-                    "updatedAt": "2025-08-15T18:33:34.734Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 36555,
       "attributes": {
         "diary_description": "Primera B: Deportes Iquique vs Recoleta",
@@ -1245,82 +957,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T16:01:20.348Z",
                     "updatedAt": "2025-08-03T16:01:20.348Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36568,
-      "attributes": {
-        "diary_description": "WNBA – Las Vegas vs Golden State",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-06-06",
-        "createdAt": "2026-06-06T00:11:40.489Z",
-        "updatedAt": "2026-06-06T00:11:59.021Z",
-        "publishedAt": "2026-06-06T06:02:40.116Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 653,
-              "attributes": {
-                "embed_name": "ESPN 7",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNw==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-              }
-            },
-            {
-              "id": 1396,
-              "attributes": {
-                "embed_name": "ESPN 7 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNw==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn7"
-              }
-            },
-            {
-              "id": 1397,
-              "attributes": {
-                "embed_name": "ESPN 7 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG43",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn7"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 133,
-            "attributes": {
-              "name": "Amistosos Paises",
-              "createdAt": "2025-03-01T00:14:07.871Z",
-              "updatedAt": "2025-08-03T13:20:12.777Z",
-              "publishedAt": "2025-03-01T00:14:09.910Z",
-              "image": {
-                "data": {
-                  "id": 347,
-                  "attributes": {
-                    "name": "amistosos_bbe2ec4c17.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistosos_bbe2ec4c17_02fd4e7093",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.87,
-                    "url": "/uploads/amistosos_bbe2ec4c17_02fd4e7093.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:12:14.467Z",
-                    "updatedAt": "2025-08-15T11:15:10.464Z"
                   }
                 }
               }
