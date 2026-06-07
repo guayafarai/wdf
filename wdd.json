@@ -1,62 +1,210 @@
 {
   "metadata": {
-    "last_updated": "2026-06-07T11:04:25.573475Z",
+    "last_updated": "2026-06-07T13:29:08.082577Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 27
+    "total_events": 29
   },
   "data": [
     {
-      "id": 36575,
+      "id": 36603,
       "attributes": {
-        "diary_description": "Amistoso: \nLiechtenstein vs Chipre",
-        "diary_hour": "08:00:00",
+        "diary_description": "Copa de la Liga: La Serena vs Unión La Calera",
+        "diary_hour": "11:30:00",
         "date_diary": "2026-06-07",
-        "createdAt": "2026-06-07T00:07:13.602Z",
-        "updatedAt": "2026-06-07T00:07:13.602Z",
-        "publishedAt": "2026-06-07T06:14:41.859Z",
+        "createdAt": "2026-06-07T13:12:23.243Z",
+        "updatedAt": "2026-06-07T13:12:28.388Z",
+        "publishedAt": "2026-06-07T13:12:28.375Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 768,
+              "id": 624,
               "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+                "embed_name": "TNT Sports Premiun CL",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+              }
+            },
+            {
+              "id": 318,
+              "attributes": {
+                "embed_name": "TNT Sports Premiun CL OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 55,
+            "id": 12,
             "attributes": {
-              "name": "Amistoso",
-              "createdAt": "2024-02-01T08:09:43.427Z",
-              "updatedAt": "2025-09-04T14:05:15.995Z",
-              "publishedAt": "2024-02-01T08:09:44.642Z",
+              "name": "Chile",
+              "createdAt": "2023-11-22T15:42:40.655Z",
+              "updatedAt": "2025-08-03T16:01:24.110Z",
+              "publishedAt": "2023-11-22T15:42:42.314Z",
               "image": {
                 "data": {
-                  "id": 392,
+                  "id": 361,
                   "attributes": {
-                    "name": "amistoso_paises_b9febc0d3c.png",
+                    "name": "chile_86c07a7b38.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c_e1d457d1ee",
+                    "hash": "chile_86c07a7b38_fad5126fd0",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 3.59,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
+                    "size": 0.7,
+                    "url": "/uploads/chile_86c07a7b38_fad5126fd0.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2025-09-04T14:05:11.984Z",
-                    "updatedAt": "2025-09-04T14:05:11.984Z"
+                    "createdAt": "2025-08-03T16:01:20.348Z",
+                    "updatedAt": "2025-08-03T16:01:20.348Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 36604,
+      "attributes": {
+        "diary_description": "Copa de la Liga: Universidad Chile vs Audax Italiano",
+        "diary_hour": "11:30:00",
+        "date_diary": "2026-06-07",
+        "createdAt": "2026-06-07T13:13:27.352Z",
+        "updatedAt": "2026-06-07T13:13:29.672Z",
+        "publishedAt": "2026-06-07T13:13:29.669Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1137,
+              "attributes": {
+                "embed_name": "MAX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1tYXgy",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=max2"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 12,
+            "attributes": {
+              "name": "Chile",
+              "createdAt": "2023-11-22T15:42:40.655Z",
+              "updatedAt": "2025-08-03T16:01:24.110Z",
+              "publishedAt": "2023-11-22T15:42:42.314Z",
+              "image": {
+                "data": {
+                  "id": 361,
+                  "attributes": {
+                    "name": "chile_86c07a7b38.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "chile_86c07a7b38_fad5126fd0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.7,
+                    "url": "/uploads/chile_86c07a7b38_fad5126fd0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:01:20.348Z",
+                    "updatedAt": "2025-08-03T16:01:20.348Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 36606,
+      "attributes": {
+        "diary_description": "F1: Formula 1: GP Mónaco - Carrera",
+        "diary_hour": "08:00:00",
+        "date_diary": "2026-06-07",
+        "createdAt": "2026-06-07T13:17:30.192Z",
+        "updatedAt": "2026-06-07T13:17:34.115Z",
+        "publishedAt": "2026-06-07T13:17:34.111Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 835,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkz",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
+              }
+            },
+            {
+              "id": 120,
+              "attributes": {
+                "embed_name": "Fox Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1mb3hzcG9ydHMK",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=foxsports\n"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 79,
+            "attributes": {
+              "name": "Formula 1",
+              "createdAt": "2024-02-29T07:22:54.123Z",
+              "updatedAt": "2025-08-03T13:13:28.428Z",
+              "publishedAt": "2024-02-29T07:22:55.381Z",
+              "image": {
+                "data": {
+                  "id": 349,
+                  "attributes": {
+                    "name": "moto_g_145967b8f1.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 180,
+                    "height": 180,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_moto_g_145967b8f1_c975c7c8e9.png",
+                        "hash": "thumbnail_moto_g_145967b8f1_c975c7c8e9",
+                        "mime": "image/png",
+                        "name": "thumbnail_moto_g_145967b8f1.png",
+                        "path": null,
+                        "size": 7.56,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "moto_g_145967b8f1_c975c7c8e9",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.47,
+                    "url": "/uploads/moto_g_145967b8f1_c975c7c8e9.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:13:24.212Z",
+                    "updatedAt": "2025-08-03T13:13:24.212Z"
                   }
                 }
               }
@@ -193,66 +341,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-09-04T14:05:11.984Z",
                     "updatedAt": "2025-09-04T14:05:11.984Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36581,
-      "attributes": {
-        "diary_description": "Primera División: \nProgreso vs Albion",
-        "diary_hour": "08:00:00",
-        "date_diary": "2026-06-07",
-        "createdAt": "2026-06-07T00:11:23.555Z",
-        "updatedAt": "2026-06-07T00:11:23.555Z",
-        "publishedAt": "2026-06-07T06:14:41.859Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 768,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 16,
-            "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2025-08-03T13:14:04.349Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
-              "image": {
-                "data": {
-                  "id": 350,
-                  "attributes": {
-                    "name": "uruguay_e2b9597af8.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uruguay_e2b9597af8_6abda609fb",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.71,
-                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:14:00.876Z",
-                    "updatedAt": "2025-08-03T13:14:00.876Z"
                   }
                 }
               }
@@ -850,13 +938,13 @@
       }
     },
     {
-      "id": 36576,
+      "id": 36575,
       "attributes": {
-        "diary_description": "Amistoso: \nDinamarca vs Ucrania",
-        "diary_hour": "11:30:00",
+        "diary_description": "Amistoso: \nLiechtenstein vs Chipre",
+        "diary_hour": "08:00:00",
         "date_diary": "2026-06-07",
-        "createdAt": "2026-06-07T00:07:45.859Z",
-        "updatedAt": "2026-06-07T00:07:45.859Z",
+        "createdAt": "2026-06-07T00:07:13.602Z",
+        "updatedAt": "2026-06-07T13:09:57.259Z",
         "publishedAt": "2026-06-07T06:14:41.859Z",
         "channels": {
           "data": []
@@ -864,11 +952,11 @@
         "embeds": {
           "data": [
             {
-              "id": 768,
+              "id": 833,
               "attributes": {
                 "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkx",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
               }
             }
           ]
@@ -910,13 +998,13 @@
       }
     },
     {
-      "id": 36577,
+      "id": 36581,
       "attributes": {
-        "diary_description": "Amistoso: \nKosovo vs Andorra",
-        "diary_hour": "13:00:00",
+        "diary_description": "Primera División: \nProgreso vs Albion",
+        "diary_hour": "08:00:00",
         "date_diary": "2026-06-07",
-        "createdAt": "2026-06-07T00:08:22.486Z",
-        "updatedAt": "2026-06-07T00:08:22.486Z",
+        "createdAt": "2026-06-07T00:11:23.555Z",
+        "updatedAt": "2026-06-07T13:10:32.398Z",
         "publishedAt": "2026-06-07T06:14:41.859Z",
         "channels": {
           "data": []
@@ -924,11 +1012,219 @@
         "embeds": {
           "data": [
             {
-              "id": 768,
+              "id": 834,
               "attributes": {
                 "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXky",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2025-08-03T13:14:04.349Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 350,
+                  "attributes": {
+                    "name": "uruguay_e2b9597af8.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uruguay_e2b9597af8_6abda609fb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.71,
+                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:14:00.876Z",
+                    "updatedAt": "2025-08-03T13:14:00.876Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 36576,
+      "attributes": {
+        "diary_description": "Amistoso: \nDinamarca vs Ucrania",
+        "diary_hour": "11:30:00",
+        "date_diary": "2026-06-07",
+        "createdAt": "2026-06-07T00:07:45.859Z",
+        "updatedAt": "2026-06-07T13:14:42.595Z",
+        "publishedAt": "2026-06-07T06:14:41.859Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 849,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk2",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
+              }
+            },
+            {
+              "id": 1209,
+              "attributes": {
+                "embed_name": "Sportv BR",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg==",
+                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+              }
+            },
+            {
+              "id": 607,
+              "attributes": {
+                "embed_name": "Fox Sports 2 USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hzcG9ydHMyX3VzYQ==",
+                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxsports2_usa"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 55,
+            "attributes": {
+              "name": "Amistoso",
+              "createdAt": "2024-02-01T08:09:43.427Z",
+              "updatedAt": "2025-09-04T14:05:15.995Z",
+              "publishedAt": "2024-02-01T08:09:44.642Z",
+              "image": {
+                "data": {
+                  "id": 392,
+                  "attributes": {
+                    "name": "amistoso_paises_b9febc0d3c.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "amistoso_paises_b9febc0d3c_e1d457d1ee",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.59,
+                    "url": "/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-04T14:05:11.984Z",
+                    "updatedAt": "2025-09-04T14:05:11.984Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 36605,
+      "attributes": {
+        "diary_description": "F1: Formula 1: GP Mónaco - Race Hub",
+        "diary_hour": "08:00:00",
+        "date_diary": "2026-06-07",
+        "createdAt": "2026-06-07T13:16:13.841Z",
+        "updatedAt": "2026-06-07T13:16:16.367Z",
+        "publishedAt": "2026-06-07T13:16:16.364Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 827,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk0",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 79,
+            "attributes": {
+              "name": "Formula 1",
+              "createdAt": "2024-02-29T07:22:54.123Z",
+              "updatedAt": "2025-08-03T13:13:28.428Z",
+              "publishedAt": "2024-02-29T07:22:55.381Z",
+              "image": {
+                "data": {
+                  "id": 349,
+                  "attributes": {
+                    "name": "moto_g_145967b8f1.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 180,
+                    "height": 180,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_moto_g_145967b8f1_c975c7c8e9.png",
+                        "hash": "thumbnail_moto_g_145967b8f1_c975c7c8e9",
+                        "mime": "image/png",
+                        "name": "thumbnail_moto_g_145967b8f1.png",
+                        "path": null,
+                        "size": 7.56,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "moto_g_145967b8f1_c975c7c8e9",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.47,
+                    "url": "/uploads/moto_g_145967b8f1_c975c7c8e9.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:13:24.212Z",
+                    "updatedAt": "2025-08-03T13:13:24.212Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 36577,
+      "attributes": {
+        "diary_description": "Amistoso: \nKosovo vs Andorra",
+        "diary_hour": "13:00:00",
+        "date_diary": "2026-06-07",
+        "createdAt": "2026-06-07T00:08:22.486Z",
+        "updatedAt": "2026-06-07T13:20:19.150Z",
+        "publishedAt": "2026-06-07T06:14:41.859Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 846,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk3",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
               }
             }
           ]
@@ -1190,66 +1486,6 @@
       }
     },
     {
-      "id": 36586,
-      "attributes": {
-        "diary_description": "Segunda División: \nCerrito vs Atenas",
-        "diary_hour": "11:00:00",
-        "date_diary": "2026-06-07",
-        "createdAt": "2026-06-07T00:16:49.130Z",
-        "updatedAt": "2026-06-07T00:16:49.130Z",
-        "publishedAt": "2026-06-07T06:15:02.721Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 768,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 16,
-            "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2025-08-03T13:14:04.349Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
-              "image": {
-                "data": {
-                  "id": 350,
-                  "attributes": {
-                    "name": "uruguay_e2b9597af8.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uruguay_e2b9597af8_6abda609fb",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.71,
-                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:14:00.876Z",
-                    "updatedAt": "2025-08-03T13:14:00.876Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 36588,
       "attributes": {
         "diary_description": "Segunda División: \nMiramar Misiones vs Oriental",
@@ -1437,182 +1673,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-09-04T14:02:14.576Z",
                     "updatedAt": "2025-11-14T17:29:29.037Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36594,
-      "attributes": {
-        "diary_description": " MotoGP – GP Hungria – Carrera Moto3 / Moto2 / MotoGP",
-        "diary_hour": "03:45:00",
-        "date_diary": "2026-06-07",
-        "createdAt": "2026-06-07T00:25:44.605Z",
-        "updatedAt": "2026-06-07T00:25:44.605Z",
-        "publishedAt": "2026-06-07T06:15:02.721Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 108,
-            "attributes": {
-              "name": "MOTO GP",
-              "createdAt": "2024-06-30T11:32:49.911Z",
-              "updatedAt": "2025-08-23T15:09:20.078Z",
-              "publishedAt": "2024-06-30T11:32:52.382Z",
-              "image": {
-                "data": {
-                  "id": 386,
-                  "attributes": {
-                    "name": "motogp_modified_10d300b047.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 298,
-                    "height": 298,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_motogp_modified_10d300b047_8484f8e991.png",
-                        "hash": "thumbnail_motogp_modified_10d300b047_8484f8e991",
-                        "mime": "image/png",
-                        "name": "thumbnail_motogp_modified_10d300b047.png",
-                        "path": null,
-                        "size": 14.56,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "motogp_modified_10d300b047_8484f8e991",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 10.5,
-                    "url": "/uploads/motogp_modified_10d300b047_8484f8e991.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-23T15:09:16.118Z",
-                    "updatedAt": "2025-08-23T15:09:16.118Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36595,
-      "attributes": {
-        "diary_description": " Porsche Supercup – Carrera",
-        "diary_hour": "04:40:00",
-        "date_diary": "2026-06-07",
-        "createdAt": "2026-06-07T00:26:25.861Z",
-        "updatedAt": "2026-06-07T00:26:25.861Z",
-        "publishedAt": "2026-06-07T06:15:22.726Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 656,
-              "attributes": {
-                "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMw==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1357,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1358,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn3"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 79,
-            "attributes": {
-              "name": "Formula 1",
-              "createdAt": "2024-02-29T07:22:54.123Z",
-              "updatedAt": "2025-08-03T13:13:28.428Z",
-              "publishedAt": "2024-02-29T07:22:55.381Z",
-              "image": {
-                "data": {
-                  "id": 349,
-                  "attributes": {
-                    "name": "moto_g_145967b8f1.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 180,
-                    "height": 180,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_moto_g_145967b8f1_c975c7c8e9.png",
-                        "hash": "thumbnail_moto_g_145967b8f1_c975c7c8e9",
-                        "mime": "image/png",
-                        "name": "thumbnail_moto_g_145967b8f1.png",
-                        "path": null,
-                        "size": 7.56,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "moto_g_145967b8f1_c975c7c8e9",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.47,
-                    "url": "/uploads/moto_g_145967b8f1_c975c7c8e9.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:13:24.212Z",
-                    "updatedAt": "2025-08-03T13:13:24.212Z"
                   }
                 }
               }
@@ -1962,6 +2022,66 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T14:39:07.537Z",
                     "updatedAt": "2025-08-03T14:39:07.537Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 36586,
+      "attributes": {
+        "diary_description": "Segunda División: \nCerrito vs Atenas",
+        "diary_hour": "11:00:00",
+        "date_diary": "2026-06-07",
+        "createdAt": "2026-06-07T00:16:49.130Z",
+        "updatedAt": "2026-06-07T13:11:24.074Z",
+        "publishedAt": "2026-06-07T06:15:02.721Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 831,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk1",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2025-08-03T13:14:04.349Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 350,
+                  "attributes": {
+                    "name": "uruguay_e2b9597af8.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uruguay_e2b9597af8_6abda609fb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.71,
+                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:14:00.876Z",
+                    "updatedAt": "2025-08-03T13:14:00.876Z"
                   }
                 }
               }
