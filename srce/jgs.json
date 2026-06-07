@@ -1,43 +1,47 @@
 [
   {
-    "id": "36572",
-    "slug": "panamá-vs-bosnia-herzegovina-2026-06-06",
-    "team_a": "Panamá",
-    "team_b": "Bosnia-Herzegovina",
-    "league": "Amistoso",
+    "id": "36573",
+    "slug": "universidad-católica-vs-cobresal-2026-06-06",
+    "team_a": "Universidad Católica",
+    "team_b": "Cobresal",
+    "league": "Primera Divisón",
     "date": "2026-06-06",
-    "time": "14:00",
+    "time": "17:00",
     "streams": [
       {
-        "name": "Eventos",
-        "url": "https://tvtvhd.com/canales.php?stream=eventos4"
+        "name": "MAX",
+        "url": "https://tvtvhd.com/canales.php?stream=max3"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=eventos4"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=max3"
   },
   {
-    "id": "36541",
-    "slug": "bolivia-vs-escocia-2026-06-06",
-    "team_a": "Bolivia",
-    "team_b": "Escocia",
+    "id": "36545",
+    "slug": "argentina-vs-honduras-2026-06-06",
+    "team_a": "Argentina",
+    "team_b": "Honduras",
     "league": "Amistoso",
     "date": "2026-06-06",
-    "time": "15:00",
+    "time": "19:00",
     "streams": [
       {
-        "name": "ESPN 3 MX",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3mx"
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Telefe",
+        "url": "https://tvtvhd.com/canales.php?stream=telefe"
       },
       {
         "name": "ESPN Deportes",
         "url": "https://tvtvhd.com/canales.php?stream=espndeportes"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney17"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "36549",
@@ -120,30 +124,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
-    "id": "36545",
-    "slug": "argentina-vs-honduras-2026-06-06",
-    "team_a": "Argentina",
-    "team_b": "Honduras",
-    "league": "Amistoso",
-    "date": "2026-06-06",
-    "time": "19:00",
-    "streams": [
-      {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Telefe",
-        "url": "https://tvtvhd.com/canales.php?stream=telefe"
-      },
-      {
-        "name": "ESPN Deportes",
-        "url": "https://tvtvhd.com/canales.php?stream=espndeportes"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
     "id": "36554",
     "slug": "ñublense-vs-univ.-concepción-2026-06-06",
     "team_a": "Ñublense",
@@ -158,22 +138,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36567",
-    "slug": "josh-padley-vs-aquib-fiaz-2026-06-06",
-    "team_a": "Josh Padley",
-    "team_b": "Aquib Fiaz",
-    "league": "ESPN Knockout",
-    "date": "2026-06-06",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36569",
@@ -192,29 +156,13 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "36540",
-    "slug": "australia-vs-suiza-2026-06-06",
-    "team_a": "Australia",
-    "team_b": "Suiza",
-    "league": "Amistoso",
+    "id": "36574",
+    "slug": "boxeo:-brandon-mosqueda-vs.-isaac-aranda-2026-06-06",
+    "team_a": "",
+    "team_b": "",
+    "league": "Boxeo: Brandon Mosqueda vs. Isaac Aranda",
     "date": "2026-06-06",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney14"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney14"
-  },
-  {
-    "id": "36542",
-    "slug": "inglaterra-vs-nueva-zelanda-2026-06-06",
-    "team_a": "Inglaterra",
-    "team_b": "Nueva Zelanda",
-    "league": "Amistoso",
-    "date": "2026-06-06",
-    "time": "15:00",
+    "time": "21:00",
     "streams": [
       {
         "name": "ESPN",
@@ -222,7 +170,7 @@
       },
       {
         "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney16"
+        "url": "https://tvtvhd.com/canales.php?stream=disney4"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
@@ -268,26 +216,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
   },
   {
-    "id": "36550",
-    "slug": "cd-castellon-vs-almería-2026-06-06",
-    "team_a": "CD Castellon",
-    "team_b": "Almería",
-    "league": "LaLiga SmartBank",
-    "date": "2026-06-06",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "ESPN 5",
-        "url": "https://tvtvhd.com/canales.php?stream=espn5"
-      },
-      {
-        "name": "LaLiga TV Hypermotion",
-        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
     "id": "36555",
     "slug": "deportes-iquique-vs-recoleta-2026-06-06",
     "team_a": "Deportes Iquique",
@@ -302,22 +230,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36568",
-    "slug": "las-vegas-vs-golden-state-2026-06-06",
-    "team_a": "Las Vegas",
-    "team_b": "Golden State",
-    "league": "WNBA",
-    "date": "2026-06-06",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "ESPN 7",
-        "url": "https://tvtvhd.com/canales.php?stream=espn7"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
   },
   {
     "id": "36570",
