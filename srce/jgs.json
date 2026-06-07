@@ -168,22 +168,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
   },
   {
-    "id": "36597",
-    "slug": "f1-gp-mónaco---la-previa-2026-06-07",
-    "team_a": "",
-    "team_b": "",
-    "league": "F1 GP Mónaco – La Previa",
-    "date": "2026-06-07",
-    "time": "06:30",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "36599",
     "slug": "premier-padel-italia---final-femenina-2026-06-07",
     "team_a": "",
@@ -402,22 +386,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "36596",
-    "slug": "ciclismo---tour-of-auvergne-rhône-alpes---etapa-#1-2026-06-07",
-    "team_a": "",
-    "team_b": "",
-    "league": "Ciclismo – Tour of Auvergne-Rhône-Alpes – Etapa #1",
-    "date": "2026-06-07",
-    "time": "06:00",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
     "id": "36598",
