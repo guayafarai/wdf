@@ -1,85 +1,5 @@
 [
   {
-    "id": "36582",
-    "slug": "cerro-vs-peñarol-2026-06-07",
-    "team_a": "Cerro",
-    "team_b": "Peñarol",
-    "league": "Primera División",
-    "date": "2026-06-07",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney8"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
-  },
-  {
-    "id": "36578",
-    "slug": "croacia-vs-eslovenia-2026-06-07",
-    "team_a": "Croacia",
-    "team_b": "Eslovenia",
-    "league": "Amistoso",
-    "date": "2026-06-07",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "ESPN",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney9"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Fox Sports 2 USA",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxsports2_usa"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
-  },
-  {
-    "id": "36579",
-    "slug": "grecia-vs-italia-2026-06-07",
-    "team_a": "Grecia",
-    "team_b": "Italia",
-    "league": "Amistoso",
-    "date": "2026-06-07",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney10"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
-  },
-  {
-    "id": "36608",
-    "slug": "huachipato-vs-colo-colo-2026-06-07",
-    "team_a": "Huachipato",
-    "team_b": "Colo-Colo",
-    "league": "Copa de la Liga",
-    "date": "2026-06-07",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-      },
-      {
-        "name": "MAX",
-        "url": "https://tvtvhd.com/canales.php?stream=max3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "36587",
     "slug": "tacuarembó-vs-uruguay-montevideo-2026-06-07",
     "team_a": "Tacuarembó",
@@ -110,74 +30,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36589",
-    "slug": "antofagasta-vs-magallanes-2026-06-07",
-    "team_a": "Antofagasta",
-    "team_b": "Magallanes",
-    "league": "Primera B",
-    "date": "2026-06-07",
-    "time": "14:30",
-    "streams": [
-      {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36601",
-    "slug": "premier-padel-italia---final-masculina-2026-06-07",
-    "team_a": "",
-    "team_b": "",
-    "league": "Premier Padel Italia – Final Masculina",
-    "date": "2026-06-07",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36577",
-    "slug": "kosovo-vs-andorra-2026-06-07",
-    "team_a": "Kosovo",
-    "team_b": "Andorra",
-    "league": "Amistoso",
-    "date": "2026-06-07",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney7"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
-  },
-  {
-    "id": "36607",
-    "slug": "marruecos-vs-noruega-2026-06-07",
-    "team_a": "Marruecos",
-    "team_b": "Noruega",
-    "league": "Amistoso",
-    "date": "2026-06-07",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "ESPN Deportes",
-        "url": "https://tvtvhd.com/canales.php?stream=espndeportes"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
     "id": "36609",
@@ -258,22 +110,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=caracol"
-  },
-  {
-    "id": "36590",
-    "slug": "las-palmas-vs-málaga-2026-06-07",
-    "team_a": "Las Palmas",
-    "team_b": "Málaga",
-    "league": "LaLiga SmartBank",
-    "date": "2026-06-07",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "LaLiga TV Hypermotion",
-        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
     "id": "36588",
