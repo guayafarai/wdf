@@ -1,37 +1,5 @@
 [
   {
-    "id": "36603",
-    "slug": "la-serena-vs-unión-la-calera-2026-06-07",
-    "team_a": "La Serena",
-    "team_b": "Unión La Calera",
-    "league": "Copa de la Liga",
-    "date": "2026-06-07",
-    "time": "11:30",
-    "streams": [
-      {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36604",
-    "slug": "universidad-chile-vs-audax-italiano-2026-06-07",
-    "team_a": "Universidad Chile",
-    "team_b": "Audax Italiano",
-    "league": "Copa de la Liga",
-    "date": "2026-06-07",
-    "time": "11:30",
-    "streams": [
-      {
-        "name": "MAX",
-        "url": "https://tvtvhd.com/canales.php?stream=max2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=max2"
-  },
-  {
     "id": "36582",
     "slug": "cerro-vs-peñarol-2026-06-07",
     "team_a": "Cerro",
@@ -144,22 +112,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36585",
-    "slug": "bélgica-vs-italia-2026-06-07",
-    "team_a": "Bélgica",
-    "team_b": "Italia",
-    "league": "UEFA U17 Championship Final",
-    "date": "2026-06-07",
-    "time": "12:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "36589",
     "slug": "antofagasta-vs-magallanes-2026-06-07",
     "team_a": "Antofagasta",
@@ -176,22 +128,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36599",
-    "slug": "premier-padel-italia---final-femenina-2026-06-07",
-    "team_a": "",
-    "team_b": "",
-    "league": "Premier Padel Italia – Final Femenina",
-    "date": "2026-06-07",
-    "time": "11:30",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
     "id": "36601",
     "slug": "premier-padel-italia---final-masculina-2026-06-07",
     "team_a": "",
@@ -206,30 +142,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36576",
-    "slug": "dinamarca-vs-ucrania-2026-06-07",
-    "team_a": "Dinamarca",
-    "team_b": "Ucrania",
-    "league": "Amistoso",
-    "date": "2026-06-07",
-    "time": "11:30",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney6"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Fox Sports 2 USA",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxsports2_usa"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
   },
   {
     "id": "36577",
@@ -378,38 +290,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
-  },
-  {
-    "id": "36598",
-    "slug": "golf---the-memorial-tournament---última-vuelta-2026-06-07",
-    "team_a": "",
-    "team_b": "",
-    "league": "Golf – The Memorial Tournament – Última Vuelta",
-    "date": "2026-06-07",
-    "time": "11:30",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36600",
-    "slug": "new-york-yankees-vs-boston-red-sox-2026-06-07",
-    "team_a": "New York Yankees",
-    "team_b": "Boston Red Sox",
-    "league": "MLB",
-    "date": "2026-06-07",
-    "time": "12:30",
-    "streams": [
-      {
-        "name": "ESPN 5",
-        "url": "https://tvtvhd.com/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "36602",
