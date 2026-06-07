@@ -32,6 +32,22 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=max2"
   },
   {
+    "id": "36582",
+    "slug": "cerro-vs-peñarol-2026-06-07",
+    "team_a": "Cerro",
+    "team_b": "Peñarol",
+    "league": "Primera División",
+    "date": "2026-06-07",
+    "time": "13:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney8"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
+  },
+  {
     "id": "36578",
     "slug": "croacia-vs-eslovenia-2026-06-07",
     "team_a": "Croacia",
@@ -43,6 +59,18 @@
       {
         "name": "ESPN",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney9"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Fox Sports 2 USA",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxsports2_usa"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
@@ -58,42 +86,30 @@
     "streams": [
       {
         "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn"
+        "url": "https://tvtvhd.com/canales.php?stream=disney10"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
   },
   {
-    "id": "36582",
-    "slug": "cerro-vs-peñarol-2026-06-07",
-    "team_a": "Cerro",
-    "team_b": "Peñarol",
-    "league": "Primera División",
+    "id": "36608",
+    "slug": "huachipato-vs-colo-colo-2026-06-07",
+    "team_a": "Huachipato",
+    "team_b": "Colo-Colo",
+    "league": "Copa de la Liga",
     "date": "2026-06-07",
-    "time": "13:00",
+    "time": "14:00",
     "streams": [
       {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36585",
-    "slug": "bélgica-vs-italia-2026-06-07",
-    "team_a": "Bélgica",
-    "team_b": "Italia",
-    "league": "UEFA U17 Championship Final",
-    "date": "2026-06-07",
-    "time": "12:00",
-    "streams": [
+        "name": "TNT Sports Premiun CL",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+      },
       {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn"
+        "name": "MAX",
+        "url": "https://tvtvhd.com/canales.php?stream=max3"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
     "id": "36587",
@@ -103,6 +119,38 @@
     "league": "Segunda División",
     "date": "2026-06-07",
     "time": "16:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney12"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
+  },
+  {
+    "id": "36610",
+    "slug": "deportes-limache-vs-everton-2026-06-07",
+    "team_a": "Deportes Limache",
+    "team_b": "Everton",
+    "league": "Primera Divisón",
+    "date": "2026-06-07",
+    "time": "17:00",
+    "streams": [
+      {
+        "name": "TNT Sports Premiun CL",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36585",
+    "slug": "bélgica-vs-italia-2026-06-07",
+    "team_a": "Bélgica",
+    "team_b": "Italia",
+    "league": "UEFA U17 Championship Final",
+    "date": "2026-06-07",
+    "time": "12:00",
     "streams": [
       {
         "name": "Disney+",
@@ -200,20 +248,40 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
   },
   {
-    "id": "36580",
-    "slug": "colombia-vs-jordania-2026-06-07",
-    "team_a": "Colombia",
-    "team_b": "Jordania",
+    "id": "36607",
+    "slug": "marruecos-vs-noruega-2026-06-07",
+    "team_a": "Marruecos",
+    "team_b": "Noruega",
     "league": "Amistoso",
     "date": "2026-06-07",
-    "time": "18:00",
+    "time": "14:00",
     "streams": [
       {
-        "name": "Caracol TV",
-        "url": "https://tvtvhd.com/canales.php?stream=caracol"
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "ESPN Deportes",
+        "url": "https://tvtvhd.com/canales.php?stream=espndeportes"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=caracol"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+  },
+  {
+    "id": "36609",
+    "slug": "ecuador-vs-guatemala-2026-06-07",
+    "team_a": "Ecuador",
+    "team_b": "Guatemala",
+    "league": "Amistoso",
+    "date": "2026-06-07",
+    "time": "15:00",
+    "streams": [
+      {
+        "name": "Claro Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=clarosports1"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=clarosports1"
   },
   {
     "id": "36583",
@@ -226,10 +294,10 @@
     "streams": [
       {
         "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn"
+        "url": "https://tvtvhd.com/canales.php?stream=disney11"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
   },
   {
     "id": "36584",
@@ -252,20 +320,32 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
-    "id": "36588",
-    "slug": "miramar-misiones-vs-oriental-2026-06-07",
-    "team_a": "Miramar Misiones",
-    "team_b": "Oriental",
-    "league": "Segunda División",
+    "id": "36580",
+    "slug": "colombia-vs-jordania-2026-06-07",
+    "team_a": "Colombia",
+    "team_b": "Jordania",
+    "league": "Amistoso",
     "date": "2026-06-07",
-    "time": "19:00",
+    "time": "18:00",
     "streams": [
       {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn"
+        "name": "Caracol TV",
+        "url": "https://tvtvhd.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "Claro Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=clarosports1"
+      },
+      {
+        "name": "ESPN Deportes",
+        "url": "https://tvtvhd.com/canales.php?stream=espndeportes"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=caracol"
   },
   {
     "id": "36590",
@@ -284,20 +364,20 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
-    "id": "36592",
-    "slug": "china-pr-vs-túnez-2026-06-07",
-    "team_a": "China PR",
-    "team_b": "Túnez",
-    "league": "Torneo Maurice Revello Sub-20",
+    "id": "36588",
+    "slug": "miramar-misiones-vs-oriental-2026-06-07",
+    "team_a": "Miramar Misiones",
+    "team_b": "Oriental",
+    "league": "Segunda División",
     "date": "2026-06-07",
-    "time": "11:00",
+    "time": "19:00",
     "streams": [
       {
-        "name": "FOX Deportes",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney13"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
   },
   {
     "id": "36598",
@@ -346,21 +426,5 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36586",
-    "slug": "cerrito-vs-atenas-2026-06-07",
-    "team_a": "Cerrito",
-    "team_b": "Atenas",
-    "league": "Segunda División",
-    "date": "2026-06-07",
-    "time": "11:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   }
 ]
