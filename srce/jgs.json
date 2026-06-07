@@ -1,19 +1,55 @@
 [
   {
-    "id": "36575",
-    "slug": "liechtenstein-vs-chipre-2026-06-07",
-    "team_a": "Liechtenstein",
-    "team_b": "Chipre",
-    "league": "Amistoso",
+    "id": "36603",
+    "slug": "la-serena-vs-unión-la-calera-2026-06-07",
+    "team_a": "La Serena",
+    "team_b": "Unión La Calera",
+    "league": "Copa de la Liga",
+    "date": "2026-06-07",
+    "time": "11:30",
+    "streams": [
+      {
+        "name": "TNT Sports Premiun CL",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36604",
+    "slug": "universidad-chile-vs-audax-italiano-2026-06-07",
+    "team_a": "Universidad Chile",
+    "team_b": "Audax Italiano",
+    "league": "Copa de la Liga",
+    "date": "2026-06-07",
+    "time": "11:30",
+    "streams": [
+      {
+        "name": "MAX",
+        "url": "https://tvtvhd.com/canales.php?stream=max2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=max2"
+  },
+  {
+    "id": "36606",
+    "slug": "f1:-formula-1:-gp-mónaco---carrera-2026-06-07",
+    "team_a": "",
+    "team_b": "",
+    "league": "F1: Formula 1: GP Mónaco - Carrera",
     "date": "2026-06-07",
     "time": "08:00",
     "streams": [
       {
         "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn"
+        "url": "https://tvtvhd.com/canales.php?stream=disney3"
+      },
+      {
+        "name": "Fox Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=foxsports"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
   },
   {
     "id": "36578",
@@ -39,22 +75,6 @@
     "league": "Amistoso",
     "date": "2026-06-07",
     "time": "14:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36581",
-    "slug": "progreso-vs-albion-2026-06-07",
-    "team_a": "Progreso",
-    "team_b": "Albion",
-    "league": "Primera División",
-    "date": "2026-06-07",
-    "time": "08:00",
     "streams": [
       {
         "name": "Disney+",
@@ -148,22 +168,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
   },
   {
-    "id": "36593",
-    "slug": "f3-mónaco---carrera-2026-06-07",
-    "team_a": "",
-    "team_b": "",
-    "league": "F3 Mónaco – Carrera",
-    "date": "2026-06-07",
-    "time": "00:40",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36597",
     "slug": "f1-gp-mónaco---la-previa-2026-06-07",
     "team_a": "",
@@ -212,6 +216,38 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
+    "id": "36575",
+    "slug": "liechtenstein-vs-chipre-2026-06-07",
+    "team_a": "Liechtenstein",
+    "team_b": "Chipre",
+    "league": "Amistoso",
+    "date": "2026-06-07",
+    "time": "08:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
+  },
+  {
+    "id": "36581",
+    "slug": "progreso-vs-albion-2026-06-07",
+    "team_a": "Progreso",
+    "team_b": "Albion",
+    "league": "Primera División",
+    "date": "2026-06-07",
+    "time": "08:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
+  },
+  {
     "id": "36576",
     "slug": "dinamarca-vs-ucrania-2026-06-07",
     "team_a": "Dinamarca",
@@ -222,10 +258,34 @@
     "streams": [
       {
         "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn"
+        "url": "https://tvtvhd.com/canales.php?stream=disney6"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Fox Sports 2 USA",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxsports2_usa"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
+  },
+  {
+    "id": "36605",
+    "slug": "f1:-formula-1:-gp-mónaco---race-hub-2026-06-07",
+    "team_a": "",
+    "team_b": "",
+    "league": "F1: Formula 1: GP Mónaco - Race Hub",
+    "date": "2026-06-07",
+    "time": "08:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney4"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
   },
   {
     "id": "36577",
@@ -238,10 +298,10 @@
     "streams": [
       {
         "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn"
+        "url": "https://tvtvhd.com/canales.php?stream=disney7"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
   },
   {
     "id": "36580",
@@ -296,22 +356,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
-    "id": "36586",
-    "slug": "cerrito-vs-atenas-2026-06-07",
-    "team_a": "Cerrito",
-    "team_b": "Atenas",
-    "league": "Segunda División",
-    "date": "2026-06-07",
-    "time": "11:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "36588",
     "slug": "miramar-misiones-vs-oriental-2026-06-07",
     "team_a": "Miramar Misiones",
@@ -358,38 +402,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "36594",
-    "slug": "motogp---gp-hungria---carrera-moto3-/-moto2-/-motogp-2026-06-07",
-    "team_a": "",
-    "team_b": "",
-    "league": "MotoGP – GP Hungria – Carrera Moto3 / Moto2 / MotoGP",
-    "date": "2026-06-07",
-    "time": "03:45",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36595",
-    "slug": "porsche-supercup---carrera-2026-06-07",
-    "team_a": "",
-    "team_b": "",
-    "league": "Porsche Supercup – Carrera",
-    "date": "2026-06-07",
-    "time": "04:40",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "36596",
@@ -454,5 +466,21 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36586",
+    "slug": "cerrito-vs-atenas-2026-06-07",
+    "team_a": "Cerrito",
+    "team_b": "Atenas",
+    "league": "Segunda División",
+    "date": "2026-06-07",
+    "time": "11:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney5"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   }
 ]
