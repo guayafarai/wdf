@@ -1,22 +1,458 @@
 [
   {
-    "id": "36574",
-    "slug": "boxeo:-brandon-mosqueda-vs.-isaac-aranda-2026-06-06",
-    "team_a": "",
-    "team_b": "",
-    "league": "Boxeo: Brandon Mosqueda vs. Isaac Aranda",
-    "date": "2026-06-06",
-    "time": "21:00",
+    "id": "36575",
+    "slug": "liechtenstein-vs-chipre-2026-06-07",
+    "team_a": "Liechtenstein",
+    "team_b": "Chipre",
+    "league": "Amistoso",
+    "date": "2026-06-07",
+    "time": "08:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36578",
+    "slug": "croacia-vs-eslovenia-2026-06-07",
+    "team_a": "Croacia",
+    "team_b": "Eslovenia",
+    "league": "Amistoso",
+    "date": "2026-06-07",
+    "time": "13:00",
     "streams": [
       {
         "name": "ESPN",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney4"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
+  },
+  {
+    "id": "36579",
+    "slug": "grecia-vs-italia-2026-06-07",
+    "team_a": "Grecia",
+    "team_b": "Italia",
+    "league": "Amistoso",
+    "date": "2026-06-07",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36581",
+    "slug": "progreso-vs-albion-2026-06-07",
+    "team_a": "Progreso",
+    "team_b": "Albion",
+    "league": "Primera División",
+    "date": "2026-06-07",
+    "time": "08:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36582",
+    "slug": "cerro-vs-peñarol-2026-06-07",
+    "team_a": "Cerro",
+    "team_b": "Peñarol",
+    "league": "Primera División",
+    "date": "2026-06-07",
+    "time": "13:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36585",
+    "slug": "bélgica-vs-italia-2026-06-07",
+    "team_a": "Bélgica",
+    "team_b": "Italia",
+    "league": "UEFA U17 Championship Final",
+    "date": "2026-06-07",
+    "time": "12:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36587",
+    "slug": "tacuarembó-vs-uruguay-montevideo-2026-06-07",
+    "team_a": "Tacuarembó",
+    "team_b": "Uruguay Montevideo",
+    "league": "Segunda División",
+    "date": "2026-06-07",
+    "time": "16:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36589",
+    "slug": "antofagasta-vs-magallanes-2026-06-07",
+    "team_a": "Antofagasta",
+    "team_b": "Magallanes",
+    "league": "Primera B",
+    "date": "2026-06-07",
+    "time": "14:30",
+    "streams": [
+      {
+        "name": "TNT Sports Premiun CL",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36591",
+    "slug": "rd-del-congo-vs-colombia-2026-06-07",
+    "team_a": "RD del Congo",
+    "team_b": "Colombia",
+    "league": "Torneo Maurice Revello Sub-20",
+    "date": "2026-06-07",
+    "time": "08:00",
+    "streams": [
+      {
+        "name": "Win Sports",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
+      },
+      {
+        "name": "FOX Deportes",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
+  },
+  {
+    "id": "36593",
+    "slug": "f3-mónaco---carrera-2026-06-07",
+    "team_a": "",
+    "team_b": "",
+    "league": "F3 Mónaco – Carrera",
+    "date": "2026-06-07",
+    "time": "00:40",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36597",
+    "slug": "f1-gp-mónaco---la-previa-2026-06-07",
+    "team_a": "",
+    "team_b": "",
+    "league": "F1 GP Mónaco – La Previa",
+    "date": "2026-06-07",
+    "time": "06:30",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36599",
+    "slug": "premier-padel-italia---final-femenina-2026-06-07",
+    "team_a": "",
+    "team_b": "",
+    "league": "Premier Padel Italia – Final Femenina",
+    "date": "2026-06-07",
+    "time": "11:30",
+    "streams": [
+      {
+        "name": "ESPN 4",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "36601",
+    "slug": "premier-padel-italia---final-masculina-2026-06-07",
+    "team_a": "",
+    "team_b": "",
+    "league": "Premier Padel Italia – Final Masculina",
+    "date": "2026-06-07",
+    "time": "13:00",
+    "streams": [
+      {
+        "name": "ESPN 4",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "36576",
+    "slug": "dinamarca-vs-ucrania-2026-06-07",
+    "team_a": "Dinamarca",
+    "team_b": "Ucrania",
+    "league": "Amistoso",
+    "date": "2026-06-07",
+    "time": "11:30",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36577",
+    "slug": "kosovo-vs-andorra-2026-06-07",
+    "team_a": "Kosovo",
+    "team_b": "Andorra",
+    "league": "Amistoso",
+    "date": "2026-06-07",
+    "time": "13:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36580",
+    "slug": "colombia-vs-jordania-2026-06-07",
+    "team_a": "Colombia",
+    "team_b": "Jordania",
+    "league": "Amistoso",
+    "date": "2026-06-07",
+    "time": "18:00",
+    "streams": [
+      {
+        "name": "Caracol TV",
+        "url": "https://tvtvhd.com/canales.php?stream=caracol"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=caracol"
+  },
+  {
+    "id": "36583",
+    "slug": "defensor-sporting-vs-boston-river-2026-06-07",
+    "team_a": "Defensor Sporting",
+    "team_b": "Boston River",
+    "league": "Primera División",
+    "date": "2026-06-07",
+    "time": "16:30",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36584",
+    "slug": "san-lorenzo-vs-deportivo-riestra-2026-06-07",
+    "team_a": "San Lorenzo",
+    "team_b": "Deportivo Riestra",
+    "league": "Copa Argentina",
+    "date": "2026-06-07",
+    "time": "15:00",
+    "streams": [
+      {
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "TyC Sports Internacional",
+        "url": "https://tvtvhd.com/canales.php?stream=tycinternacional"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+  },
+  {
+    "id": "36586",
+    "slug": "cerrito-vs-atenas-2026-06-07",
+    "team_a": "Cerrito",
+    "team_b": "Atenas",
+    "league": "Segunda División",
+    "date": "2026-06-07",
+    "time": "11:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36588",
+    "slug": "miramar-misiones-vs-oriental-2026-06-07",
+    "team_a": "Miramar Misiones",
+    "team_b": "Oriental",
+    "league": "Segunda División",
+    "date": "2026-06-07",
+    "time": "19:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36590",
+    "slug": "las-palmas-vs-málaga-2026-06-07",
+    "team_a": "Las Palmas",
+    "team_b": "Málaga",
+    "league": "LaLiga SmartBank",
+    "date": "2026-06-07",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "LaLiga TV Hypermotion",
+        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
+  },
+  {
+    "id": "36592",
+    "slug": "china-pr-vs-túnez-2026-06-07",
+    "team_a": "China PR",
+    "team_b": "Túnez",
+    "league": "Torneo Maurice Revello Sub-20",
+    "date": "2026-06-07",
+    "time": "11:00",
+    "streams": [
+      {
+        "name": "FOX Deportes",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+  },
+  {
+    "id": "36594",
+    "slug": "motogp---gp-hungria---carrera-moto3-/-moto2-/-motogp-2026-06-07",
+    "team_a": "",
+    "team_b": "",
+    "league": "MotoGP – GP Hungria – Carrera Moto3 / Moto2 / MotoGP",
+    "date": "2026-06-07",
+    "time": "03:45",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36595",
+    "slug": "porsche-supercup---carrera-2026-06-07",
+    "team_a": "",
+    "team_b": "",
+    "league": "Porsche Supercup – Carrera",
+    "date": "2026-06-07",
+    "time": "04:40",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36596",
+    "slug": "ciclismo---tour-of-auvergne-rhône-alpes---etapa-#1-2026-06-07",
+    "team_a": "",
+    "team_b": "",
+    "league": "Ciclismo – Tour of Auvergne-Rhône-Alpes – Etapa #1",
+    "date": "2026-06-07",
+    "time": "06:00",
+    "streams": [
+      {
+        "name": "ESPN 4",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "36598",
+    "slug": "golf---the-memorial-tournament---última-vuelta-2026-06-07",
+    "team_a": "",
+    "team_b": "",
+    "league": "Golf – The Memorial Tournament – Última Vuelta",
+    "date": "2026-06-07",
+    "time": "11:30",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36600",
+    "slug": "new-york-yankees-vs-boston-red-sox-2026-06-07",
+    "team_a": "New York Yankees",
+    "team_b": "Boston Red Sox",
+    "league": "MLB",
+    "date": "2026-06-07",
+    "time": "12:30",
+    "streams": [
+      {
+        "name": "ESPN 5",
+        "url": "https://tvtvhd.com/canales.php?stream=espn5"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36602",
+    "slug": "mlb---chicago-cubs-vs.-san-francisco-giants-2026-06-07",
+    "team_a": "",
+    "team_b": "",
+    "league": "MLB – Chicago Cubs vs. San Francisco Giants",
+    "date": "2026-06-07",
+    "time": "19:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   }
 ]
