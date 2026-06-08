@@ -162,37 +162,5 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36618",
-    "slug": "costa-de-marfil-vs-canadá-2026-06-08",
-    "team_a": "Costa De Marfil",
-    "team_b": "Canadá",
-    "league": "Torneo Maurice Revello Sub-20",
-    "date": "2026-06-08",
-    "time": "08:00",
-    "streams": [
-      {
-        "name": "FOX Deportes",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "36620",
-    "slug": "ciclismo---tour-of-auvergne-rhône-alpes---etapa-#2-2026-06-08",
-    "team_a": "",
-    "team_b": "",
-    "league": "Ciclismo – Tour of Auvergne-Rhône-Alpes – Etapa #2",
-    "date": "2026-06-08",
-    "time": "08:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   }
 ]
