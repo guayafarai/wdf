@@ -72,22 +72,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36619",
-    "slug": "venezuela-vs-canadá-2026-06-08",
-    "team_a": "Venezuela",
-    "team_b": "Canadá",
-    "league": "Torneo Maurice Revello Sub-20",
-    "date": "2026-06-08",
-    "time": "11:30",
-    "streams": [
-      {
-        "name": "FOX Deportes",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
     "id": "36621",
     "slug": "mlb---cleveland-guardians-vs.-new-york-yankees-2026-06-08",
     "team_a": "",
