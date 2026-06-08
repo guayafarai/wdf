@@ -1,21 +1,5 @@
 [
   {
-    "id": "36587",
-    "slug": "tacuarembó-vs-uruguay-montevideo-2026-06-07",
-    "team_a": "Tacuarembó",
-    "team_b": "Uruguay Montevideo",
-    "league": "Segunda División",
-    "date": "2026-06-07",
-    "time": "16:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney12"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
-  },
-  {
     "id": "36610",
     "slug": "deportes-limache-vs-everton-2026-06-07",
     "team_a": "Deportes Limache",
@@ -32,22 +16,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36609",
-    "slug": "ecuador-vs-guatemala-2026-06-07",
-    "team_a": "Ecuador",
-    "team_b": "Guatemala",
-    "league": "Amistoso",
-    "date": "2026-06-07",
-    "time": "15:00",
-    "streams": [
-      {
-        "name": "Claro Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=clarosports1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=clarosports1"
-  },
-  {
     "id": "36583",
     "slug": "defensor-sporting-vs-boston-river-2026-06-07",
     "team_a": "Defensor Sporting",
@@ -62,26 +30,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
-    "id": "36584",
-    "slug": "san-lorenzo-vs-deportivo-riestra-2026-06-07",
-    "team_a": "San Lorenzo",
-    "team_b": "Deportivo Riestra",
-    "league": "Copa Argentina",
-    "date": "2026-06-07",
-    "time": "15:00",
-    "streams": [
-      {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "TyC Sports Internacional",
-        "url": "https://tvtvhd.com/canales.php?stream=tycinternacional"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
     "id": "36580",
