@@ -160,22 +160,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
-    "id": "36640",
-    "slug": "ciclismo---tour-of-auvergne-rhône-alpes---etapa-#3-2026-06-09",
-    "team_a": "",
-    "team_b": "",
-    "league": "Ciclismo – Tour of Auvergne-Rhône-Alpes – Etapa #3",
-    "date": "2026-06-09",
-    "time": "08:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36643",
     "slug": "san-diego-padres-vs-cincinnati-reds-2026-06-09",
     "team_a": "San Diego Padres",
