@@ -1,69 +1,5 @@
 [
   {
-    "id": "36615",
-    "slug": "liverpool-vs-cerro-largo-2026-06-08",
-    "team_a": "Liverpool",
-    "team_b": "Cerro Largo",
-    "league": "Primera División",
-    "date": "2026-06-08",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
-    "id": "36614",
-    "slug": "atlético-nacional-vs-junior-2026-06-08",
-    "team_a": "Atlético Nacional",
-    "team_b": "Junior",
-    "league": "Categoría Primera A",
-    "date": "2026-06-08",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "Win Sports +",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "36617",
-    "slug": "deportes-temuco-vs-curicó-unido-2026-06-08",
-    "team_a": "Deportes Temuco",
-    "team_b": "Curicó Unido",
-    "league": "Primera B",
-    "date": "2026-06-08",
-    "time": "18:30",
-    "streams": [
-      {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36621",
-    "slug": "mlb---cleveland-guardians-vs.-new-york-yankees-2026-06-08",
-    "team_a": "",
-    "team_b": "",
-    "league": "MLB – Cleveland Guardians vs. New York Yankees",
-    "date": "2026-06-08",
-    "time": "17:30",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36613",
     "slug": "perú-vs-españa-2026-06-08",
     "team_a": "Perú",
@@ -72,6 +8,10 @@
     "date": "2026-06-08",
     "time": "21:00",
     "streams": [
+      {
+        "name": "TV LA 1ES",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE="
+      },
       {
         "name": "America Television",
         "url": "https://tvtvhd.com/canales.php?stream=americatv"
@@ -91,12 +31,8 @@
       {
         "name": "Sportv BR",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "TV LA 1ES",
-        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE="
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=americatv"
+    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE="
   }
 ]
