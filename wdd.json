@@ -1,18 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-06-09T17:21:48.743955Z",
+    "last_updated": "2026-06-09T20:00:57.907744Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 23
+    "total_events": 18
   },
   "data": [
     {
-      "id": 36626,
+      "id": 36630,
       "attributes": {
-        "diary_description": "Amistoso: \nAzerbaiyán vs San Marino",
-        "diary_hour": "13:00:00",
+        "diary_description": "Clasificatorias para el Mundial Femenino de la FIFA: \nFrancia vs Republic of Ireland",
+        "diary_hour": "14:00:00",
         "date_diary": "2026-06-09",
-        "createdAt": "2026-06-09T00:24:56.231Z",
-        "updatedAt": "2026-06-09T00:24:56.231Z",
+        "createdAt": "2026-06-09T00:30:06.607Z",
+        "updatedAt": "2026-06-09T19:00:48.519Z",
         "publishedAt": "2026-06-09T08:57:36.259Z",
         "channels": {
           "data": []
@@ -20,43 +20,135 @@
         "embeds": {
           "data": [
             {
-              "id": 768,
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+              }
+            },
+            {
+              "id": 1133,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==",
+                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn2"
+              }
+            },
+            {
+              "id": 1377,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
+                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn2"
+              }
+            },
+            {
+              "id": 310,
+              "attributes": {
+                "embed_name": "ESPN 2 MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMm14",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
+              }
+            },
+            {
+              "id": 938,
               "attributes": {
                 "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxMA==",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 55,
+            "id": 88,
             "attributes": {
-              "name": "Amistoso",
-              "createdAt": "2024-02-01T08:09:43.427Z",
-              "updatedAt": "2025-09-04T14:05:15.995Z",
-              "publishedAt": "2024-02-01T08:09:44.642Z",
+              "name": "Eliminatorias AFC",
+              "createdAt": "2024-03-21T14:05:20.196Z",
+              "updatedAt": "2025-09-04T14:06:28.255Z",
+              "publishedAt": "2024-03-21T14:05:21.883Z",
               "image": {
                 "data": {
-                  "id": 392,
+                  "id": 391,
                   "attributes": {
-                    "name": "amistoso_paises_b9febc0d3c.png",
+                    "name": "fifa_ee72f5c955.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c_e1d457d1ee",
+                    "hash": "fifa_ee72f5c955_ad721146d1",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 3.59,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
+                    "size": 2.91,
+                    "url": "/uploads/fifa_ee72f5c955_ad721146d1.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2025-09-04T14:05:11.984Z",
-                    "updatedAt": "2025-09-04T14:05:11.984Z"
+                    "createdAt": "2025-09-04T14:02:14.576Z",
+                    "updatedAt": "2025-11-14T17:29:29.037Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 36629,
+      "attributes": {
+        "diary_description": "Clasificatorias para el Mundial Femenino de la FIFA: \nInglaterra vs Ucrania",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-06-09",
+        "createdAt": "2026-06-09T00:29:24.149Z",
+        "updatedAt": "2026-06-09T19:01:25.148Z",
+        "publishedAt": "2026-06-09T08:57:36.259Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 832,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk5",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 88,
+            "attributes": {
+              "name": "Eliminatorias AFC",
+              "createdAt": "2024-03-21T14:05:20.196Z",
+              "updatedAt": "2025-09-04T14:06:28.255Z",
+              "publishedAt": "2024-03-21T14:05:21.883Z",
+              "image": {
+                "data": {
+                  "id": 391,
+                  "attributes": {
+                    "name": "fifa_ee72f5c955.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "fifa_ee72f5c955_ad721146d1",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.91,
+                    "url": "/uploads/fifa_ee72f5c955_ad721146d1.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-04T14:02:14.576Z",
+                    "updatedAt": "2025-11-14T17:29:29.037Z"
                   }
                 }
               }
@@ -189,150 +281,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-09-04T14:05:11.984Z",
                     "updatedAt": "2025-09-04T14:05:11.984Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36629,
-      "attributes": {
-        "diary_description": "Clasificatorias para el Mundial Femenino de la FIFA: \nInglaterra vs Ucrania",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-06-09",
-        "createdAt": "2026-06-09T00:29:24.149Z",
-        "updatedAt": "2026-06-09T00:29:24.149Z",
-        "publishedAt": "2026-06-09T08:57:36.259Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 768,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 88,
-            "attributes": {
-              "name": "Eliminatorias AFC",
-              "createdAt": "2024-03-21T14:05:20.196Z",
-              "updatedAt": "2025-09-04T14:06:28.255Z",
-              "publishedAt": "2024-03-21T14:05:21.883Z",
-              "image": {
-                "data": {
-                  "id": 391,
-                  "attributes": {
-                    "name": "fifa_ee72f5c955.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "fifa_ee72f5c955_ad721146d1",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.91,
-                    "url": "/uploads/fifa_ee72f5c955_ad721146d1.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T14:02:14.576Z",
-                    "updatedAt": "2025-11-14T17:29:29.037Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36630,
-      "attributes": {
-        "diary_description": "Clasificatorias para el Mundial Femenino de la FIFA: \nFrancia vs Republic of Ireland",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-06-09",
-        "createdAt": "2026-06-09T00:30:06.607Z",
-        "updatedAt": "2026-06-09T00:30:28.643Z",
-        "publishedAt": "2026-06-09T08:57:36.259Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn2"
-              }
-            },
-            {
-              "id": 310,
-              "attributes": {
-                "embed_name": "ESPN 2 MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMm14",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 88,
-            "attributes": {
-              "name": "Eliminatorias AFC",
-              "createdAt": "2024-03-21T14:05:20.196Z",
-              "updatedAt": "2025-09-04T14:06:28.255Z",
-              "publishedAt": "2024-03-21T14:05:21.883Z",
-              "image": {
-                "data": {
-                  "id": 391,
-                  "attributes": {
-                    "name": "fifa_ee72f5c955.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "fifa_ee72f5c955_ad721146d1",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.91,
-                    "url": "/uploads/fifa_ee72f5c955_ad721146d1.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T14:02:14.576Z",
-                    "updatedAt": "2025-11-14T17:29:29.037Z"
                   }
                 }
               }
@@ -734,194 +682,6 @@
       }
     },
     {
-      "id": 36622,
-      "attributes": {
-        "diary_description": "Amistoso: \nArmenia vs Moldavia",
-        "diary_hour": "10:00:00",
-        "date_diary": "2026-06-09",
-        "createdAt": "2026-06-09T00:22:02.049Z",
-        "updatedAt": "2026-06-09T13:58:47.854Z",
-        "publishedAt": "2026-06-09T08:57:36.259Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1209,
-              "attributes": {
-                "embed_name": "Sportv BR",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-              }
-            },
-            {
-              "id": 833,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkx",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 55,
-            "attributes": {
-              "name": "Amistoso",
-              "createdAt": "2024-02-01T08:09:43.427Z",
-              "updatedAt": "2025-09-04T14:05:15.995Z",
-              "publishedAt": "2024-02-01T08:09:44.642Z",
-              "image": {
-                "data": {
-                  "id": 392,
-                  "attributes": {
-                    "name": "amistoso_paises_b9febc0d3c.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c_e1d457d1ee",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.59,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T14:05:11.984Z",
-                    "updatedAt": "2025-09-04T14:05:11.984Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36645,
-      "attributes": {
-        "diary_description": "Amistoso: Lituania vs Estonia",
-        "diary_hour": "11:00:00",
-        "date_diary": "2026-06-09",
-        "createdAt": "2026-06-09T14:12:03.852Z",
-        "updatedAt": "2026-06-09T14:12:06.505Z",
-        "publishedAt": "2026-06-09T14:12:06.501Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 835,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkz",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 55,
-            "attributes": {
-              "name": "Amistoso",
-              "createdAt": "2024-02-01T08:09:43.427Z",
-              "updatedAt": "2025-09-04T14:05:15.995Z",
-              "publishedAt": "2024-02-01T08:09:44.642Z",
-              "image": {
-                "data": {
-                  "id": 392,
-                  "attributes": {
-                    "name": "amistoso_paises_b9febc0d3c.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c_e1d457d1ee",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.59,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T14:05:11.984Z",
-                    "updatedAt": "2025-09-04T14:05:11.984Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36624,
-      "attributes": {
-        "diary_description": "Amistoso: \nBielorrusia vs Burkina Faso",
-        "diary_hour": "11:30:00",
-        "date_diary": "2026-06-09",
-        "createdAt": "2026-06-09T00:23:55.169Z",
-        "updatedAt": "2026-06-09T14:13:52.349Z",
-        "publishedAt": "2026-06-09T08:57:36.259Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 831,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk1",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 55,
-            "attributes": {
-              "name": "Amistoso",
-              "createdAt": "2024-02-01T08:09:43.427Z",
-              "updatedAt": "2025-09-04T14:05:15.995Z",
-              "publishedAt": "2024-02-01T08:09:44.642Z",
-              "image": {
-                "data": {
-                  "id": 392,
-                  "attributes": {
-                    "name": "amistoso_paises_b9febc0d3c.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c_e1d457d1ee",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.59,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T14:05:11.984Z",
-                    "updatedAt": "2025-09-04T14:05:11.984Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 36625,
       "attributes": {
         "diary_description": "Amistoso: \nHungría vs Kazajstán",
@@ -990,13 +750,13 @@
       }
     },
     {
-      "id": 36628,
+      "id": 36626,
       "attributes": {
-        "diary_description": "Clasificatorias para el Mundial Femenino de la FIFA: Suecia vs Italia",
-        "diary_hour": "12:00:00",
+        "diary_description": "Amistoso: \nAzerbaiyán vs San Marino",
+        "diary_hour": "13:00:00",
         "date_diary": "2026-06-09",
-        "createdAt": "2026-06-09T00:28:30.195Z",
-        "updatedAt": "2026-06-09T00:28:30.195Z",
+        "createdAt": "2026-06-09T00:24:56.231Z",
+        "updatedAt": "2026-06-09T18:59:04.750Z",
         "publishedAt": "2026-06-09T08:57:36.259Z",
         "channels": {
           "data": []
@@ -1004,67 +764,127 @@
         "embeds": {
           "data": [
             {
-              "id": 310,
+              "id": 838,
               "attributes": {
-                "embed_name": "ESPN 2 MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMm14",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-              }
-            },
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn2"
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk4",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 88,
+            "id": 55,
             "attributes": {
-              "name": "Eliminatorias AFC",
-              "createdAt": "2024-03-21T14:05:20.196Z",
-              "updatedAt": "2025-09-04T14:06:28.255Z",
-              "publishedAt": "2024-03-21T14:05:21.883Z",
+              "name": "Amistoso",
+              "createdAt": "2024-02-01T08:09:43.427Z",
+              "updatedAt": "2025-09-04T14:05:15.995Z",
+              "publishedAt": "2024-02-01T08:09:44.642Z",
               "image": {
                 "data": {
-                  "id": 391,
+                  "id": 392,
                   "attributes": {
-                    "name": "fifa_ee72f5c955.png",
+                    "name": "amistoso_paises_b9febc0d3c.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "fifa_ee72f5c955_ad721146d1",
+                    "hash": "amistoso_paises_b9febc0d3c_e1d457d1ee",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 2.91,
-                    "url": "/uploads/fifa_ee72f5c955_ad721146d1.png",
+                    "size": 3.59,
+                    "url": "/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2025-09-04T14:02:14.576Z",
-                    "updatedAt": "2025-11-14T17:29:29.037Z"
+                    "createdAt": "2025-09-04T14:05:11.984Z",
+                    "updatedAt": "2025-09-04T14:05:11.984Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 36635,
+      "attributes": {
+        "diary_description": " LaLiga SmartBank: Almería vs CD Castellon",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-06-09",
+        "createdAt": "2026-06-09T00:34:19.974Z",
+        "updatedAt": "2026-06-09T19:02:11.388Z",
+        "publishedAt": "2026-06-09T08:57:46.581Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 522,
+              "attributes": {
+                "embed_name": "LaLiga TV Hypermotion ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1oeXBlcm1vdGlvbjE=",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
+              }
+            },
+            {
+              "id": 57,
+              "attributes": {
+                "embed_name": "ESPN Deportes",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM=",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
+              }
+            },
+            {
+              "id": 1374,
+              "attributes": {
+                "embed_name": "ESPN Deportes  | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM=",
+                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes"
+              }
+            },
+            {
+              "id": 1408,
+              "attributes": {
+                "embed_name": "ESPN Deportes  | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==",
+                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2025-08-15T18:33:39.904Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 375,
+                  "attributes": {
+                    "name": "espana_a8510f9b5f.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "espana_a8510f9b5f_9213b1e460",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.46,
+                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-15T18:33:34.734Z",
+                    "updatedAt": "2025-08-15T18:33:34.734Z"
                   }
                 }
               }
@@ -1185,66 +1005,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-09-04T15:57:06.139Z",
                     "updatedAt": "2025-09-04T15:57:06.139Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36635,
-      "attributes": {
-        "diary_description": " LaLiga SmartBank: Almería vs CD Castellon",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-06-09",
-        "createdAt": "2026-06-09T00:34:19.974Z",
-        "updatedAt": "2026-06-09T00:34:19.974Z",
-        "publishedAt": "2026-06-09T08:57:46.581Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 522,
-              "attributes": {
-                "embed_name": "LaLiga TV Hypermotion ",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1oeXBlcm1vdGlvbjE=",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 7,
-            "attributes": {
-              "name": "España",
-              "createdAt": "2023-11-22T15:34:02.037Z",
-              "updatedAt": "2025-08-15T18:33:39.904Z",
-              "publishedAt": "2023-11-22T15:34:03.379Z",
-              "image": {
-                "data": {
-                  "id": 375,
-                  "attributes": {
-                    "name": "espana_a8510f9b5f.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "espana_a8510f9b5f_9213b1e460",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.46,
-                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-15T18:33:34.734Z",
-                    "updatedAt": "2025-08-15T18:33:34.734Z"
                   }
                 }
               }
@@ -1482,73 +1242,13 @@
       }
     },
     {
-      "id": 36644,
+      "id": 36628,
       "attributes": {
-        "diary_description": "Amistoso: Letonia vs Islas Feroe",
-        "diary_hour": "10:00:00",
+        "diary_description": "Clasificatorias para el Mundial Femenino de la FIFA: Suecia vs Italia",
+        "diary_hour": "12:00:00",
         "date_diary": "2026-06-09",
-        "createdAt": "2026-06-09T14:10:58.198Z",
-        "updatedAt": "2026-06-09T14:11:00.564Z",
-        "publishedAt": "2026-06-09T14:11:00.560Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 834,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXky",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 55,
-            "attributes": {
-              "name": "Amistoso",
-              "createdAt": "2024-02-01T08:09:43.427Z",
-              "updatedAt": "2025-09-04T14:05:15.995Z",
-              "publishedAt": "2024-02-01T08:09:44.642Z",
-              "image": {
-                "data": {
-                  "id": 392,
-                  "attributes": {
-                    "name": "amistoso_paises_b9febc0d3c.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c_e1d457d1ee",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.59,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T14:05:11.984Z",
-                    "updatedAt": "2025-09-04T14:05:11.984Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36623,
-      "attributes": {
-        "diary_description": "Amistoso: \nRD del Congo vs Chile",
-        "diary_hour": "10:00:00",
-        "date_diary": "2026-06-09",
-        "createdAt": "2026-06-09T00:23:18.595Z",
-        "updatedAt": "2026-06-09T14:13:07.549Z",
+        "createdAt": "2026-06-09T00:28:30.195Z",
+        "updatedAt": "2026-06-09T18:58:10.230Z",
         "publishedAt": "2026-06-09T08:57:36.259Z",
         "channels": {
           "data": []
@@ -1556,51 +1256,51 @@
         "embeds": {
           "data": [
             {
-              "id": 827,
+              "id": 310,
               "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk0",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
+                "embed_name": "ESPN 2 MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMm14",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
               }
             },
             {
-              "id": 551,
+              "id": 846,
               "attributes": {
-                "embed_name": "Chilevisión",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
-                "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk3",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 55,
+            "id": 88,
             "attributes": {
-              "name": "Amistoso",
-              "createdAt": "2024-02-01T08:09:43.427Z",
-              "updatedAt": "2025-09-04T14:05:15.995Z",
-              "publishedAt": "2024-02-01T08:09:44.642Z",
+              "name": "Eliminatorias AFC",
+              "createdAt": "2024-03-21T14:05:20.196Z",
+              "updatedAt": "2025-09-04T14:06:28.255Z",
+              "publishedAt": "2024-03-21T14:05:21.883Z",
               "image": {
                 "data": {
-                  "id": 392,
+                  "id": 391,
                   "attributes": {
-                    "name": "amistoso_paises_b9febc0d3c.png",
+                    "name": "fifa_ee72f5c955.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c_e1d457d1ee",
+                    "hash": "fifa_ee72f5c955_ad721146d1",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 3.59,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
+                    "size": 2.91,
+                    "url": "/uploads/fifa_ee72f5c955_ad721146d1.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2025-09-04T14:05:11.984Z",
-                    "updatedAt": "2025-09-04T14:05:11.984Z"
+                    "createdAt": "2025-09-04T14:02:14.576Z",
+                    "updatedAt": "2025-11-14T17:29:29.037Z"
                   }
                 }
               }
