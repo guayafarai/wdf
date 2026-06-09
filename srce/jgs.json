@@ -1,19 +1,43 @@
 [
   {
-    "id": "36626",
-    "slug": "azerbaiyán-vs-san-marino-2026-06-09",
-    "team_a": "Azerbaiyán",
-    "team_b": "San Marino",
-    "league": "Amistoso",
+    "id": "36630",
+    "slug": "francia-vs-republic-of-ireland-2026-06-09",
+    "team_a": "Francia",
+    "team_b": "Republic of Ireland",
+    "league": "Clasificatorias para el Mundial Femenino de la FIFA",
     "date": "2026-06-09",
-    "time": "13:00",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+      },
+      {
+        "name": "ESPN 2 MX",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2mx"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney10"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36629",
+    "slug": "inglaterra-vs-ucrania-2026-06-09",
+    "team_a": "Inglaterra",
+    "team_b": "Ucrania",
+    "league": "Clasificatorias para el Mundial Femenino de la FIFA",
+    "date": "2026-06-09",
+    "time": "14:00",
     "streams": [
       {
         "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn"
+        "url": "https://tvtvhd.com/canales.php?stream=disney9"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
   },
   {
     "id": "36627",
@@ -42,42 +66,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "36629",
-    "slug": "inglaterra-vs-ucrania-2026-06-09",
-    "team_a": "Inglaterra",
-    "team_b": "Ucrania",
-    "league": "Clasificatorias para el Mundial Femenino de la FIFA",
-    "date": "2026-06-09",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36630",
-    "slug": "francia-vs-republic-of-ireland-2026-06-09",
-    "team_a": "Francia",
-    "team_b": "Republic of Ireland",
-    "league": "Clasificatorias para el Mundial Femenino de la FIFA",
-    "date": "2026-06-09",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      },
-      {
-        "name": "ESPN 2 MX",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36632",
@@ -176,58 +164,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "36622",
-    "slug": "armenia-vs-moldavia-2026-06-09",
-    "team_a": "Armenia",
-    "team_b": "Moldavia",
-    "league": "Amistoso",
-    "date": "2026-06-09",
-    "time": "10:00",
-    "streams": [
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "36645",
-    "slug": "lituania-vs-estonia-2026-06-09",
-    "team_a": "Lituania",
-    "team_b": "Estonia",
-    "league": "Amistoso",
-    "date": "2026-06-09",
-    "time": "11:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
-    "id": "36624",
-    "slug": "bielorrusia-vs-burkina-faso-2026-06-09",
-    "team_a": "Bielorrusia",
-    "team_b": "Burkina Faso",
-    "league": "Amistoso",
-    "date": "2026-06-09",
-    "time": "11:30",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
     "id": "36625",
     "slug": "hungría-vs-kazajstán-2026-06-09",
     "team_a": "Hungría",
@@ -248,24 +184,40 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
-    "id": "36628",
-    "slug": "suecia-vs-italia-2026-06-09",
-    "team_a": "Suecia",
-    "team_b": "Italia",
-    "league": "Clasificatorias para el Mundial Femenino de la FIFA",
+    "id": "36626",
+    "slug": "azerbaiyán-vs-san-marino-2026-06-09",
+    "team_a": "Azerbaiyán",
+    "team_b": "San Marino",
+    "league": "Amistoso",
     "date": "2026-06-09",
-    "time": "12:00",
+    "time": "13:00",
     "streams": [
       {
-        "name": "ESPN 2 MX",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-      },
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney8"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
+  },
+  {
+    "id": "36635",
+    "slug": "almería-vs-cd-castellon-2026-06-09",
+    "team_a": "Almería",
+    "team_b": "CD Castellon",
+    "league": "LaLiga SmartBank",
+    "date": "2026-06-09",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "LaLiga TV Hypermotion",
+        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
+      },
+      {
+        "name": "ESPN Deportes",
+        "url": "https://tvtvhd.com/canales.php?stream=espndeportes"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
     "id": "36631",
@@ -298,22 +250,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "36635",
-    "slug": "almería-vs-cd-castellon-2026-06-09",
-    "team_a": "Almería",
-    "team_b": "CD Castellon",
-    "league": "LaLiga SmartBank",
-    "date": "2026-06-09",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "LaLiga TV Hypermotion",
-        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
     "id": "36637",
@@ -364,39 +300,23 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "36644",
-    "slug": "letonia-vs-islas-feroe-2026-06-09",
-    "team_a": "Letonia",
-    "team_b": "Islas Feroe",
-    "league": "Amistoso",
+    "id": "36628",
+    "slug": "suecia-vs-italia-2026-06-09",
+    "team_a": "Suecia",
+    "team_b": "Italia",
+    "league": "Clasificatorias para el Mundial Femenino de la FIFA",
     "date": "2026-06-09",
-    "time": "10:00",
+    "time": "12:00",
     "streams": [
       {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
-    "id": "36623",
-    "slug": "rd-del-congo-vs-chile-2026-06-09",
-    "team_a": "RD del Congo",
-    "team_b": "Chile",
-    "league": "Amistoso",
-    "date": "2026-06-09",
-    "time": "10:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney4"
+        "name": "ESPN 2 MX",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2mx"
       },
       {
-        "name": "Chilevisión",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even3"
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney7"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
   }
 ]
