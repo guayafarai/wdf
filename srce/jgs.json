@@ -1,38 +1,34 @@
 [
   {
-    "id": "36613",
-    "slug": "perú-vs-españa-2026-06-08",
-    "team_a": "Perú",
-    "team_b": "España",
-    "league": "Amistoso",
-    "date": "2026-06-08",
-    "time": "21:00",
+    "id": "Barcelona-2026-06-09",
+    "slug": "barcelona-vs-real-madrid-2026-06-09",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-06-09",
+    "time": "20:00",
     "streams": [
       {
-        "name": "TV LA 1ES",
-        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE="
-      },
-      {
-        "name": "America Television",
-        "url": "https://tvtvhd.com/canales.php?stream=americatv"
-      },
-      {
-        "name": "ESPN MX",
-        "url": "https://tvtvhd.com/canales.php?stream=espnmx"
-      },
-      {
-        "name": "Movistar Deportes",
-        "url": "https://tvtvhd.com/canales.php?stream=movistar"
-      },
-      {
-        "name": "ESPN",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+        "name": "Demo",
+        "url": "https://example.com/embed/barcelona-real-madrid"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE="
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
+  },
+  {
+    "id": "América-2026-06-09",
+    "slug": "américa-vs-chivas-2026-06-09",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-06-09",
+    "time": "22:00",
+    "streams": [
+      {
+        "name": "Demo",
+        "url": "https://example.com/embed/america-chivas"
+      }
+    ],
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
