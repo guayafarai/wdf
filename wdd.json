@@ -1,290 +1,10 @@
 {
   "metadata": {
-    "last_updated": "2026-06-09T00:00:17.706184Z",
+    "last_updated": "2026-06-09T04:59:52.180719Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 5
+    "total_events": 1
   },
   "data": [
-    {
-      "id": 36615,
-      "attributes": {
-        "diary_description": " Primera División: \nLiverpool vs Cerro Largo",
-        "diary_hour": "17:00:00",
-        "date_diary": "2026-06-08",
-        "createdAt": "2026-06-08T01:30:56.927Z",
-        "updatedAt": "2026-06-08T22:45:05.913Z",
-        "publishedAt": "2026-06-08T02:44:03.214Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 835,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkz",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 16,
-            "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2025-08-03T13:14:04.349Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
-              "image": {
-                "data": {
-                  "id": 350,
-                  "attributes": {
-                    "name": "uruguay_e2b9597af8.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uruguay_e2b9597af8_6abda609fb",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.71,
-                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:14:00.876Z",
-                    "updatedAt": "2025-08-03T13:14:00.876Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36614,
-      "attributes": {
-        "diary_description": "Categoría Primera A: \nAtlético Nacional vs Junior",
-        "diary_hour": "17:00:00",
-        "date_diary": "2026-06-08",
-        "createdAt": "2026-06-08T01:30:26.664Z",
-        "updatedAt": "2026-06-08T01:30:26.664Z",
-        "publishedAt": "2026-06-08T02:44:03.214Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 164,
-              "attributes": {
-                "embed_name": "Win Sports +",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHNwbHVz",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-              }
-            },
-            {
-              "id": 747,
-              "attributes": {
-                "embed_name": "Win Sports + | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHNwbHVz",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-              }
-            },
-            {
-              "id": 293,
-              "attributes": {
-                "embed_name": "Win Sports + | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM=",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 17,
-            "attributes": {
-              "name": "Colombia",
-              "createdAt": "2023-11-22T15:49:17.121Z",
-              "updatedAt": "2025-08-03T15:05:58.494Z",
-              "publishedAt": "2023-11-22T15:49:18.322Z",
-              "image": {
-                "data": {
-                  "id": 354,
-                  "attributes": {
-                    "name": "colombia_dcf9cc2637.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "colombia_dcf9cc2637_a1661b26da",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.51,
-                    "url": "/uploads/colombia_dcf9cc2637_a1661b26da.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:05:54.509Z",
-                    "updatedAt": "2025-08-03T15:05:54.509Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36617,
-      "attributes": {
-        "diary_description": "Primera B: \nDeportes Temuco vs Curicó Unido",
-        "diary_hour": "18:30:00",
-        "date_diary": "2026-06-08",
-        "createdAt": "2026-06-08T01:32:51.272Z",
-        "updatedAt": "2026-06-08T01:32:51.272Z",
-        "publishedAt": "2026-06-08T02:44:03.214Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 624,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-              }
-            },
-            {
-              "id": 318,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 12,
-            "attributes": {
-              "name": "Chile",
-              "createdAt": "2023-11-22T15:42:40.655Z",
-              "updatedAt": "2025-08-03T16:01:24.110Z",
-              "publishedAt": "2023-11-22T15:42:42.314Z",
-              "image": {
-                "data": {
-                  "id": 361,
-                  "attributes": {
-                    "name": "chile_86c07a7b38.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "chile_86c07a7b38_fad5126fd0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.7,
-                    "url": "/uploads/chile_86c07a7b38_fad5126fd0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:01:20.348Z",
-                    "updatedAt": "2025-08-03T16:01:20.348Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36621,
-      "attributes": {
-        "diary_description": "MLB – Cleveland Guardians vs. New York Yankees",
-        "diary_hour": "17:30:00",
-        "date_diary": "2026-06-08",
-        "createdAt": "2026-06-08T01:37:58.643Z",
-        "updatedAt": "2026-06-08T01:37:58.643Z",
-        "publishedAt": "2026-06-08T02:44:13.078Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 70,
-            "attributes": {
-              "name": "MLB Preseason",
-              "createdAt": "2024-02-23T06:14:15.840Z",
-              "updatedAt": "2025-08-03T14:39:12.740Z",
-              "publishedAt": "2024-02-23T06:14:18.809Z",
-              "image": {
-                "data": {
-                  "id": 352,
-                  "attributes": {
-                    "name": "mlb_f5711cc440.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "mlb_f5711cc440_dde64767e4",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.66,
-                    "url": "/uploads/mlb_f5711cc440_dde64767e4.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:39:07.537Z",
-                    "updatedAt": "2025-08-03T14:39:07.537Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 36613,
       "attributes": {
@@ -292,13 +12,21 @@
         "diary_hour": "21:00:00",
         "date_diary": "2026-06-08",
         "createdAt": "2026-06-08T01:29:17.484Z",
-        "updatedAt": "2026-06-08T22:46:32.375Z",
+        "updatedAt": "2026-06-09T00:18:57.051Z",
         "publishedAt": "2026-06-08T02:44:03.214Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
+            {
+              "id": 501,
+              "attributes": {
+                "embed_name": "TV LA 1ES",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL21wZC9kcm0ucGhwP3VybD1hSFIwY0hNNkx5OXZkSFJsTG14cGRtVXVabXg1TG5kM0xtRnBkaTFqWkc0dWJtVjBMMnhvY2kxdWFYUnlieTlzYVhabEwyTnNhV1Z1ZEhNdlpHRnphQzlsYm1Ndk5qSnhaR3RsWm5ZNVppOXZkWFF2ZGpFdlpqZGtOV0l6TlRabE1EUTRORGswWVRnek1qVTFOak5sT0RreE5tUTFNR0l2WTJWdVl5NXRjR1E9Jms9Wm1RNE5tUmtaVEJoWlRObE1UUm1aalV4WXpobVl6aG1NalE0WVRVd1pHSTZaREV3Tm1GbE56aGlNRGc1TTJSaE1tVTBNemt6WldObE9UazBNakJpWVdFPQ==",
+                "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE="
+              }
+            },
             {
               "id": 1378,
               "attributes": {
@@ -385,14 +113,6 @@
                 "embed_name": "Sportv BR",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg==",
                 "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-              }
-            },
-            {
-              "id": 501,
-              "attributes": {
-                "embed_name": "TV LA 1ES",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL21wZC9kcm0ucGhwP3VybD1hSFIwY0hNNkx5OXZkSFJsTG14cGRtVXVabXg1TG5kM0xtRnBkaTFqWkc0dWJtVjBMMnhvY2kxdWFYUnlieTlzYVhabEwyTnNhV1Z1ZEhNdlpHRnphQzlsYm1Ndk5qSnhaR3RsWm5ZNVppOXZkWFF2ZGpFdlpqZGtOV0l6TlRabE1EUTRORGswWVRnek1qVTFOak5sT0RreE5tUTFNR0l2WTJWdVl5NXRjR1E9Jms9Wm1RNE5tUmtaVEJoWlRObE1UUm1aalV4WXpobVl6aG1NalE0WVRVd1pHSTZaREV3Tm1GbE56aGlNRGc1TTJSaE1tVTBNemt6WldObE9UazBNakJpWVdFPQ==",
-                "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE="
               }
             }
           ]
