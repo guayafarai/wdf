@@ -1,45 +1,5 @@
 [
   {
-    "id": "36630",
-    "slug": "francia-vs-republic-of-ireland-2026-06-09",
-    "team_a": "Francia",
-    "team_b": "Republic of Ireland",
-    "league": "Clasificatorias para el Mundial Femenino de la FIFA",
-    "date": "2026-06-09",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      },
-      {
-        "name": "ESPN 2 MX",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney10"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36629",
-    "slug": "inglaterra-vs-ucrania-2026-06-09",
-    "team_a": "Inglaterra",
-    "team_b": "Ucrania",
-    "league": "Clasificatorias para el Mundial Femenino de la FIFA",
-    "date": "2026-06-09",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney9"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
-  },
-  {
     "id": "36627",
     "slug": "argentina-vs-islandia-2026-06-09",
     "team_a": "Argentina",
@@ -100,22 +60,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
   },
   {
-    "id": "36636",
-    "slug": "lanús-vs-independiente-2026-06-09",
-    "team_a": "Lanús",
-    "team_b": "Independiente",
-    "league": "Torneo de Reserva",
-    "date": "2026-06-09",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "TNT Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsports"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
     "id": "36638",
     "slug": "náutico-vs-fortaleza-2026-06-09",
     "team_a": "Náutico",
@@ -162,62 +106,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36625",
-    "slug": "hungría-vs-kazajstán-2026-06-09",
-    "team_a": "Hungría",
-    "team_b": "Kazajstán",
-    "league": "Amistoso",
-    "date": "2026-06-09",
-    "time": "12:00",
-    "streams": [
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney6"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "36626",
-    "slug": "azerbaiyán-vs-san-marino-2026-06-09",
-    "team_a": "Azerbaiyán",
-    "team_b": "San Marino",
-    "league": "Amistoso",
-    "date": "2026-06-09",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney8"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
-  },
-  {
-    "id": "36635",
-    "slug": "almería-vs-cd-castellon-2026-06-09",
-    "team_a": "Almería",
-    "team_b": "CD Castellon",
-    "league": "LaLiga SmartBank",
-    "date": "2026-06-09",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "LaLiga TV Hypermotion",
-        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-      },
-      {
-        "name": "ESPN Deportes",
-        "url": "https://tvtvhd.com/canales.php?stream=espndeportes"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
     "id": "36631",
@@ -298,25 +186,5 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36628",
-    "slug": "suecia-vs-italia-2026-06-09",
-    "team_a": "Suecia",
-    "team_b": "Italia",
-    "league": "Clasificatorias para el Mundial Femenino de la FIFA",
-    "date": "2026-06-09",
-    "time": "12:00",
-    "streams": [
-      {
-        "name": "ESPN 2 MX",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney7"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
   }
 ]
