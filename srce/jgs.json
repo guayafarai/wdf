@@ -1,25 +1,5 @@
 [
   {
-    "id": "36646",
-    "slug": "portugal-vs-nigeria-2026-06-10",
-    "team_a": "Portugal",
-    "team_b": "Nigeria",
-    "league": "Amistoso",
-    "date": "2026-06-10",
-    "time": "14:45",
-    "streams": [
-      {
-        "name": "ESPN",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
-  },
-  {
     "id": "36648",
     "slug": "bolivia-vs-argelia-2026-06-10",
     "team_a": "Bolivia",
@@ -36,6 +16,46 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
+    "id": "36646",
+    "slug": "portugal-vs-nigeria-2026-06-10",
+    "team_a": "Portugal",
+    "team_b": "Nigeria",
+    "league": "Amistoso",
+    "date": "2026-06-10",
+    "time": "14:45",
+    "streams": [
+      {
+        "name": "ESPN",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney2"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
+  },
+  {
+    "id": "36656",
+    "slug": "spurs-vs-knicks---finals-game-#4-2026-06-10",
+    "team_a": "Spurs",
+    "team_b": "Knicks - Finals Game #4",
+    "league": "NBA",
+    "date": "2026-06-10",
+    "time": "19:30",
+    "streams": [
+      {
+        "name": "ESPN Deportes",
+        "url": "https://tvtvhd.com/canales.php?stream=espndeportes"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
+  },
+  {
     "id": "36650",
     "slug": "sarmiento-vs-talleres-de-córdoba-2026-06-10",
     "team_a": "Sarmiento",
@@ -47,81 +67,13 @@
       {
         "name": "ESPN 4",
         "url": "https://tvtvhd.com/canales.php?stream=espn4"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney4"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36652",
-    "slug": "rd-del-congo-vs-arabia-saudita-2026-06-10",
-    "team_a": "RD del Congo",
-    "team_b": "Arabia Saudita",
-    "league": "Torneo Maurice Revello Sub - 20",
-    "date": "2026-06-10",
-    "time": "06:30",
-    "streams": [
-      {
-        "name": "FOX Deportes",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "36654",
-    "slug": "ciclismo---tour-of-auvergne-rhône-alpes---etapa-#4-2026-06-10",
-    "team_a": "",
-    "team_b": "",
-    "league": "Ciclismo – Tour of Auvergne-Rhône-Alpes – Etapa #4",
-    "date": "2026-06-10",
-    "time": "08:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36647",
-    "slug": "inglaterra-vs-costa-rica-2026-06-10",
-    "team_a": "Inglaterra",
-    "team_b": "Costa Rica",
-    "league": "Amistoso",
-    "date": "2026-06-10",
-    "time": "15:00",
-    "streams": [
-      {
-        "name": "ESPN",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
-      },
-      {
-        "name": "Fox Sports 2 USA",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxsports2_usa"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
-  },
-  {
-    "id": "36649",
-    "slug": "málaga-vs-las-palmas-2026-06-10",
-    "team_a": "Málaga",
-    "team_b": "Las Palmas",
-    "league": "LaLiga SmartBank",
-    "date": "2026-06-10",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      },
-      {
-        "name": "LaLiga TV Hypermotion",
-        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36651",
@@ -160,6 +112,50 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
   },
   {
+    "id": "36649",
+    "slug": "málaga-vs-las-palmas-2026-06-10",
+    "team_a": "Málaga",
+    "team_b": "Las Palmas",
+    "league": "LaLiga SmartBank",
+    "date": "2026-06-10",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1"
+      },
+      {
+        "name": "LaLiga TV Hypermotion",
+        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36647",
+    "slug": "inglaterra-vs-costa-rica-2026-06-10",
+    "team_a": "Inglaterra",
+    "team_b": "Costa Rica",
+    "league": "Amistoso",
+    "date": "2026-06-10",
+    "time": "15:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney3"
+      },
+      {
+        "name": "Fox Sports 2 USA",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxsports2_usa"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
+  },
+  {
     "id": "36655",
     "slug": "new-york-mets-vs-st.-louis-cardinals-2026-06-10",
     "team_a": "New York Mets",
@@ -171,6 +167,10 @@
       {
         "name": "ESPN 5",
         "url": "https://tvtvhd.com/canales.php?stream=espn5"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney5"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
