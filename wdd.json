@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-09T22:18:59.941556Z",
+    "last_updated": "2026-06-10T00:06:57.453167Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 11
+    "total_events": 7
   },
   "data": [
     {
@@ -12,13 +12,37 @@
         "diary_hour": "20:00:00",
         "date_diary": "2026-06-09",
         "createdAt": "2026-06-09T00:26:20.938Z",
-        "updatedAt": "2026-06-09T00:26:20.938Z",
+        "updatedAt": "2026-06-09T22:57:14.974Z",
         "publishedAt": "2026-06-09T08:57:36.259Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
+            {
+              "id": 644,
+              "attributes": {
+                "embed_name": "DSports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+              }
+            },
+            {
+              "id": 341,
+              "attributes": {
+                "embed_name": "DSports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz",
+                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=dsports"
+              }
+            },
+            {
+              "id": 748,
+              "attributes": {
+                "embed_name": "DSports | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM=",
+                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=dsports"
+              }
+            },
             {
               "id": 18,
               "attributes": {
@@ -129,126 +153,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-09-04T14:05:11.984Z",
                     "updatedAt": "2025-09-04T14:05:11.984Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36632,
-      "attributes": {
-        "diary_description": "CONMEBOL Nations League Femenina: \nParaguay vs Colombia",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-06-09",
-        "createdAt": "2026-06-09T00:31:48.996Z",
-        "updatedAt": "2026-06-09T00:31:48.996Z",
-        "publishedAt": "2026-06-09T08:57:46.581Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 648,
-              "attributes": {
-                "embed_name": "DSports +",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 21,
-            "attributes": {
-              "name": "Conmebol",
-              "createdAt": "2023-11-22T18:11:33.405Z",
-              "updatedAt": "2025-12-03T00:05:12.659Z",
-              "publishedAt": "2023-11-22T18:11:38.738Z",
-              "image": {
-                "data": {
-                  "id": 394,
-                  "attributes": {
-                    "name": "conmebol_d03512952a.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 65,
-                    "formats": null,
-                    "hash": "conmebol_d03512952a_0a585d86af",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.19,
-                    "url": "/uploads/conmebol_d03512952a_0a585d86af.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T15:57:06.139Z",
-                    "updatedAt": "2025-09-04T15:57:06.139Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36634,
-      "attributes": {
-        "diary_description": "CONMEBOL Nations League Femenina: \nUruguay vs Venezuela",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-06-09",
-        "createdAt": "2026-06-09T00:33:33.365Z",
-        "updatedAt": "2026-06-09T00:33:33.365Z",
-        "publishedAt": "2026-06-09T08:57:46.581Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 648,
-              "attributes": {
-                "embed_name": "DSports +",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 21,
-            "attributes": {
-              "name": "Conmebol",
-              "createdAt": "2023-11-22T18:11:33.405Z",
-              "updatedAt": "2025-12-03T00:05:12.659Z",
-              "publishedAt": "2023-11-22T18:11:38.738Z",
-              "image": {
-                "data": {
-                  "id": 394,
-                  "attributes": {
-                    "name": "conmebol_d03512952a.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 65,
-                    "formats": null,
-                    "hash": "conmebol_d03512952a_0a585d86af",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.19,
-                    "url": "/uploads/conmebol_d03512952a_0a585d86af.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T15:57:06.139Z",
-                    "updatedAt": "2025-09-04T15:57:06.139Z"
                   }
                 }
               }
@@ -445,126 +349,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T14:39:07.537Z",
                     "updatedAt": "2025-08-03T14:39:07.537Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36631,
-      "attributes": {
-        "diary_description": "CONMEBOL Nations League Femenina: \nEcuador vs Argentina",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-06-09",
-        "createdAt": "2026-06-09T00:31:25.287Z",
-        "updatedAt": "2026-06-09T00:31:25.287Z",
-        "publishedAt": "2026-06-09T08:57:36.259Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 648,
-              "attributes": {
-                "embed_name": "DSports +",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 21,
-            "attributes": {
-              "name": "Conmebol",
-              "createdAt": "2023-11-22T18:11:33.405Z",
-              "updatedAt": "2025-12-03T00:05:12.659Z",
-              "publishedAt": "2023-11-22T18:11:38.738Z",
-              "image": {
-                "data": {
-                  "id": 394,
-                  "attributes": {
-                    "name": "conmebol_d03512952a.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 65,
-                    "formats": null,
-                    "hash": "conmebol_d03512952a_0a585d86af",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.19,
-                    "url": "/uploads/conmebol_d03512952a_0a585d86af.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T15:57:06.139Z",
-                    "updatedAt": "2025-09-04T15:57:06.139Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36633,
-      "attributes": {
-        "diary_description": "CONMEBOL Nations League Femenina: Perú vs Bolivia",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-06-09",
-        "createdAt": "2026-06-09T00:32:17.665Z",
-        "updatedAt": "2026-06-09T00:32:17.665Z",
-        "publishedAt": "2026-06-09T08:57:46.581Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 648,
-              "attributes": {
-                "embed_name": "DSports +",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 21,
-            "attributes": {
-              "name": "Conmebol",
-              "createdAt": "2023-11-22T18:11:33.405Z",
-              "updatedAt": "2025-12-03T00:05:12.659Z",
-              "publishedAt": "2023-11-22T18:11:38.738Z",
-              "image": {
-                "data": {
-                  "id": 394,
-                  "attributes": {
-                    "name": "conmebol_d03512952a.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 65,
-                    "formats": null,
-                    "hash": "conmebol_d03512952a_0a585d86af",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.19,
-                    "url": "/uploads/conmebol_d03512952a_0a585d86af.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T15:57:06.139Z",
-                    "updatedAt": "2025-09-04T15:57:06.139Z"
                   }
                 }
               }
