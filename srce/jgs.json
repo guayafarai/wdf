@@ -9,6 +9,10 @@
     "time": "20:00",
     "streams": [
       {
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
         "name": "TYC Sports",
         "url": "https://tvtvhd.com/canales.php?stream=tycsports"
       },
@@ -25,39 +29,7 @@
         "url": "https://tvtvhd.com/canales.php?stream=tycinternacional"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "36632",
-    "slug": "paraguay-vs-colombia-2026-06-09",
-    "team_a": "Paraguay",
-    "team_b": "Colombia",
-    "league": "CONMEBOL Nations League Femenina",
-    "date": "2026-06-09",
-    "time": "18:00",
-    "streams": [
-      {
-        "name": "DSports +",
-        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "36634",
-    "slug": "uruguay-vs-venezuela-2026-06-09",
-    "team_a": "Uruguay",
-    "team_b": "Venezuela",
-    "league": "CONMEBOL Nations League Femenina",
-    "date": "2026-06-09",
-    "time": "18:00",
-    "streams": [
-      {
-        "name": "DSports +",
-        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "36638",
@@ -106,38 +78,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36631",
-    "slug": "ecuador-vs-argentina-2026-06-09",
-    "team_a": "Ecuador",
-    "team_b": "Argentina",
-    "league": "CONMEBOL Nations League Femenina",
-    "date": "2026-06-09",
-    "time": "18:00",
-    "streams": [
-      {
-        "name": "DSports +",
-        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "36633",
-    "slug": "perú-vs-bolivia-2026-06-09",
-    "team_a": "Perú",
-    "team_b": "Bolivia",
-    "league": "CONMEBOL Nations League Femenina",
-    "date": "2026-06-09",
-    "time": "18:00",
-    "streams": [
-      {
-        "name": "DSports +",
-        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
   },
   {
     "id": "36637",
