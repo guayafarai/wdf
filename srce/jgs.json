@@ -1,130 +1,34 @@
 [
   {
-    "id": "36627",
-    "slug": "argentina-vs-islandia-2026-06-09",
-    "team_a": "Argentina",
-    "team_b": "Islandia",
-    "league": "Amistoso",
-    "date": "2026-06-09",
+    "id": "Barcelona-2026-06-10",
+    "slug": "barcelona-vs-real-madrid-2026-06-10",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-06-10",
     "time": "20:00",
     "streams": [
       {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Telefe",
-        "url": "https://tvtvhd.com/canales.php?stream=telefe"
-      },
-      {
-        "name": "ESPN Deportes",
-        "url": "https://tvtvhd.com/canales.php?stream=espndeportes"
-      },
-      {
-        "name": "TyC Sports Internacional",
-        "url": "https://tvtvhd.com/canales.php?stream=tycinternacional"
+        "name": "Demo",
+        "url": "https://example.com/embed/barcelona-real-madrid"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "36638",
-    "slug": "náutico-vs-fortaleza-2026-06-09",
-    "team_a": "Náutico",
-    "team_b": "Fortaleza",
-    "league": "Serie B",
-    "date": "2026-06-09",
-    "time": "17:00",
+    "id": "América-2026-06-10",
+    "slug": "américa-vs-chivas-2026-06-10",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-06-10",
+    "time": "22:00",
     "streams": [
       {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+        "name": "Demo",
+        "url": "https://example.com/embed/america-chivas"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "36639",
-    "slug": "brasil-vs-ee.-uu.-2026-06-09",
-    "team_a": "Brasil",
-    "team_b": "EE. UU.",
-    "league": "Amistoso Internacional Femenino",
-    "date": "2026-06-09",
-    "time": "19:30",
-    "streams": [
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "36643",
-    "slug": "san-diego-padres-vs-cincinnati-reds-2026-06-09",
-    "team_a": "San Diego Padres",
-    "team_b": "Cincinnati Reds",
-    "league": "MLB",
-    "date": "2026-06-09",
-    "time": "20:30",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36637",
-    "slug": "river-plate-vs-rosario-central-2026-06-09",
-    "team_a": "River Plate",
-    "team_b": "Rosario Central",
-    "league": "Torneo de Reserva",
-    "date": "2026-06-09",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36641",
-    "slug": "chicago-vs-atlanta-2026-06-09",
-    "team_a": "Chicago",
-    "team_b": "Atlanta",
-    "league": "WNBA",
-    "date": "2026-06-09",
-    "time": "18:00",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36642",
-    "slug": "vegas-golden-knights-vs-carolina-hurricanes-2026-06-09",
-    "team_a": "Vegas Golden Knights",
-    "team_b": "Carolina Hurricanes",
-    "league": "NHL – Juego #4",
-    "date": "2026-06-09",
-    "time": "19:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
