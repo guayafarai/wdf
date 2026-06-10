@@ -1,34 +1,178 @@
 [
   {
-    "id": "Barcelona-2026-06-10",
-    "slug": "barcelona-vs-real-madrid-2026-06-10",
-    "team_a": "Barcelona",
-    "team_b": "Real Madrid",
-    "league": "La Liga",
+    "id": "36646",
+    "slug": "portugal-vs-nigeria-2026-06-10",
+    "team_a": "Portugal",
+    "team_b": "Nigeria",
+    "league": "Amistoso",
     "date": "2026-06-10",
-    "time": "20:00",
+    "time": "14:45",
     "streams": [
       {
-        "name": "Demo",
-        "url": "https://example.com/embed/barcelona-real-madrid"
+        "name": "ESPN",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
       }
     ],
-    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
   },
   {
-    "id": "América-2026-06-10",
-    "slug": "américa-vs-chivas-2026-06-10",
-    "team_a": "América",
-    "team_b": "Chivas",
-    "league": "Liga MX",
+    "id": "36648",
+    "slug": "bolivia-vs-argelia-2026-06-10",
+    "team_a": "Bolivia",
+    "team_b": "Argelia",
+    "league": "Amistoso",
     "date": "2026-06-10",
-    "time": "22:00",
+    "time": "15:00",
     "streams": [
       {
-        "name": "Demo",
-        "url": "https://example.com/embed/america-chivas"
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn"
       }
     ],
-    "decoded_iframe_url": "https://example.com/embed/america-chivas"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36650",
+    "slug": "sarmiento-vs-talleres-de-córdoba-2026-06-10",
+    "team_a": "Sarmiento",
+    "team_b": "Talleres de Córdoba",
+    "league": "Torneo de Reserva",
+    "date": "2026-06-10",
+    "time": "13:00",
+    "streams": [
+      {
+        "name": "ESPN 4",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "36652",
+    "slug": "rd-del-congo-vs-arabia-saudita-2026-06-10",
+    "team_a": "RD del Congo",
+    "team_b": "Arabia Saudita",
+    "league": "Torneo Maurice Revello Sub - 20",
+    "date": "2026-06-10",
+    "time": "06:30",
+    "streams": [
+      {
+        "name": "FOX Deportes",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+  },
+  {
+    "id": "36654",
+    "slug": "ciclismo---tour-of-auvergne-rhône-alpes---etapa-#4-2026-06-10",
+    "team_a": "",
+    "team_b": "",
+    "league": "Ciclismo – Tour of Auvergne-Rhône-Alpes – Etapa #4",
+    "date": "2026-06-10",
+    "time": "08:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36647",
+    "slug": "inglaterra-vs-costa-rica-2026-06-10",
+    "team_a": "Inglaterra",
+    "team_b": "Costa Rica",
+    "league": "Amistoso",
+    "date": "2026-06-10",
+    "time": "15:00",
+    "streams": [
+      {
+        "name": "ESPN",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
+      },
+      {
+        "name": "Fox Sports 2 USA",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxsports2_usa"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
+  },
+  {
+    "id": "36649",
+    "slug": "málaga-vs-las-palmas-2026-06-10",
+    "team_a": "Málaga",
+    "team_b": "Las Palmas",
+    "league": "LaLiga SmartBank",
+    "date": "2026-06-10",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+      },
+      {
+        "name": "LaLiga TV Hypermotion",
+        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36651",
+    "slug": "vélez-sársfield-vs-tigre-2026-06-10",
+    "team_a": "Vélez Sársfield",
+    "team_b": "Tigre",
+    "league": "Torneo de Reserva",
+    "date": "2026-06-10",
+    "time": "13:00",
+    "streams": [
+      {
+        "name": "TNT Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsports"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
+  },
+  {
+    "id": "36653",
+    "slug": "colombia-vs-túnez-2026-06-10",
+    "team_a": "Colombia",
+    "team_b": "Túnez",
+    "league": "Torneo Maurice Revello Sub - 20",
+    "date": "2026-06-10",
+    "time": "12:00",
+    "streams": [
+      {
+        "name": "Win Sports",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
+      },
+      {
+        "name": "FOX Deportes",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
+  },
+  {
+    "id": "36655",
+    "slug": "new-york-mets-vs-st.-louis-cardinals-2026-06-10",
+    "team_a": "New York Mets",
+    "team_b": "St. Louis Cardinals",
+    "league": "MLB",
+    "date": "2026-06-10",
+    "time": "18:00",
+    "streams": [
+      {
+        "name": "ESPN 5",
+        "url": "https://tvtvhd.com/canales.php?stream=espn5"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   }
 ]
