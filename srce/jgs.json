@@ -1,18 +1,158 @@
 [
   {
-    "id": "36656",
-    "slug": "spurs-vs-knicks---finals-game-#4-2026-06-10",
-    "team_a": "Spurs",
-    "team_b": "Knicks - Finals Game #4",
-    "league": "NBA",
-    "date": "2026-06-10",
-    "time": "19:30",
+    "id": "36659",
+    "slug": "venezuela-vs-japón-2026-06-11",
+    "team_a": "Venezuela",
+    "team_b": "Japón",
+    "league": "Torneo Maurice Revello Sub-20",
+    "date": "2026-06-11",
+    "time": "06:30",
     "streams": [
       {
-        "name": "ESPN Deportes",
-        "url": "https://tvtvhd.com/canales.php?stream=espndeportes"
+        "name": "FOX Deportes",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+  },
+  {
+    "id": "36661",
+    "slug": "ciclismo---tour-of-auvergne-rhône-alpes---etapa-#5-2026-06-11",
+    "team_a": "",
+    "team_b": "",
+    "league": "Ciclismo – Tour of Auvergne-Rhône-Alpes – Etapa #5",
+    "date": "2026-06-11",
+    "time": "08:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36663",
+    "slug": "baltimore-orioles-vs-seattle-mariners-2026-06-11",
+    "team_a": "Baltimore Orioles",
+    "team_b": "Seattle Mariners",
+    "league": "MLB",
+    "date": "2026-06-11",
+    "time": "18:00",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36657",
+    "slug": "méxico-vs-sur-áfrica-2026-06-11",
+    "team_a": "México",
+    "team_b": "Sur África",
+    "league": "Copa del Mundo",
+    "date": "2026-06-11",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "America Television",
+        "url": "https://tvtvhd.com/canales.php?stream=americatv"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://tvtvhd.com/canales.php?stream=canal5"
+      },
+      {
+        "name": "Azteca 7",
+        "url": "https://tvtvhd.com/canales.php?stream=azteca7"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Telefe",
+        "url": "https://tvtvhd.com/canales.php?stream=telefe"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=americatv"
+  },
+  {
+    "id": "36660",
+    "slug": "portugal-vs-canadá-2026-06-11",
+    "team_a": "Portugal",
+    "team_b": "Canadá",
+    "league": "Torneo Maurice Revello Sub-20",
+    "date": "2026-06-11",
+    "time": "12:00",
+    "streams": [
+      {
+        "name": "FOX Deportes",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+  },
+  {
+    "id": "36662",
+    "slug": "colorado-rockies-vs-chicago-cubs-2026-06-11",
+    "team_a": "Colorado Rockies",
+    "team_b": "Chicago Cubs",
+    "league": "MLB",
+    "date": "2026-06-11",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "ESPN 5",
+        "url": "https://tvtvhd.com/canales.php?stream=espn5"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36664",
+    "slug": "vegas-golden-knights-vs-carolina-hurricanes-2026-06-11",
+    "team_a": "Vegas Golden Knights",
+    "team_b": "Carolina Hurricanes",
+    "league": "NHL – Juego #4",
+    "date": "2026-06-11",
+    "time": "19:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36658",
+    "slug": "corea-del-sur-vs-república-checa-2026-06-11",
+    "team_a": "Corea del Sur",
+    "team_b": "República Checa",
+    "league": "Copa del Mundo",
+    "date": "2026-06-11",
+    "time": "21:00",
+    "streams": [
+      {
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Win Sports",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "FOX Sports 1 USA",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   }
 ]
