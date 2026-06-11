@@ -14,25 +14,5 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
-  },
-  {
-    "id": "36655",
-    "slug": "new-york-mets-vs-st.-louis-cardinals-2026-06-10",
-    "team_a": "New York Mets",
-    "team_b": "St. Louis Cardinals",
-    "league": "MLB",
-    "date": "2026-06-10",
-    "time": "18:00",
-    "streams": [
-      {
-        "name": "ESPN 5",
-        "url": "https://tvtvhd.com/canales.php?stream=espn5"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   }
 ]
