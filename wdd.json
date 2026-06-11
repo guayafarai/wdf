@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-11T19:30:34.284924Z",
+    "last_updated": "2026-06-11T21:56:43.161362Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 6
+    "total_events": 5
   },
   "data": [
     {
@@ -290,82 +290,6 @@
                     "provider_metadata": null,
                     "createdAt": "2026-06-11T15:42:04.186Z",
                     "updatedAt": "2026-06-11T15:42:04.186Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36660,
-      "attributes": {
-        "diary_description": "Torneo Maurice Revello Sub-20: \nPortugal  vs Canadá",
-        "diary_hour": "12:00:00",
-        "date_diary": "2026-06-11",
-        "createdAt": "2026-06-11T01:35:42.116Z",
-        "updatedAt": "2026-06-11T01:35:42.116Z",
-        "publishedAt": "2026-06-11T09:55:58.560Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 288,
-              "attributes": {
-                "embed_name": "FOX Deportes",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-              }
-            },
-            {
-              "id": 698,
-              "attributes": {
-                "embed_name": "FOX Deportes | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-              }
-            },
-            {
-              "id": 1407,
-              "attributes": {
-                "embed_name": "FOX Deportes | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWZveGRlcG9ydGVz",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 133,
-            "attributes": {
-              "name": "Amistosos Paises",
-              "createdAt": "2025-03-01T00:14:07.871Z",
-              "updatedAt": "2025-08-03T13:20:12.777Z",
-              "publishedAt": "2025-03-01T00:14:09.910Z",
-              "image": {
-                "data": {
-                  "id": 347,
-                  "attributes": {
-                    "name": "amistosos_bbe2ec4c17.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistosos_bbe2ec4c17_02fd4e7093",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.87,
-                    "url": "/uploads/amistosos_bbe2ec4c17_02fd4e7093.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:12:14.467Z",
-                    "updatedAt": "2025-08-15T11:15:10.464Z"
                   }
                 }
               }
