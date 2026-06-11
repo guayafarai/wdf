@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-06-11T08:08:49.784728Z",
+    "last_updated": "2026-06-11T12:39:17.679375Z",
     "source": "https://pltvhd.com/diaries.json",
     "total_events": 8
   },
@@ -13,7 +13,7 @@
         "date_diary": "2026-06-11",
         "createdAt": "2026-06-11T01:34:52.288Z",
         "updatedAt": "2026-06-11T01:34:52.288Z",
-        "publishedAt": "2026-06-11T03:51:19.286Z",
+        "publishedAt": "2026-06-11T09:55:58.560Z",
         "channels": {
           "data": []
         },
@@ -89,7 +89,7 @@
         "date_diary": "2026-06-11",
         "createdAt": "2026-06-11T01:37:38.255Z",
         "updatedAt": "2026-06-11T01:37:38.255Z",
-        "publishedAt": "2026-06-11T03:51:19.286Z",
+        "publishedAt": "2026-06-11T09:55:58.560Z",
         "channels": {
           "data": []
         },
@@ -210,7 +210,7 @@
         "date_diary": "2026-06-11",
         "createdAt": "2026-06-11T01:39:42.118Z",
         "updatedAt": "2026-06-11T01:39:42.118Z",
-        "publishedAt": "2026-06-11T03:51:19.286Z",
+        "publishedAt": "2026-06-11T09:55:58.560Z",
         "channels": {
           "data": []
         },
@@ -285,8 +285,8 @@
         "diary_hour": "14:00:00",
         "date_diary": "2026-06-11",
         "createdAt": "2026-06-11T01:29:11.138Z",
-        "updatedAt": "2026-06-11T03:57:42.568Z",
-        "publishedAt": "2026-06-11T03:51:19.286Z",
+        "updatedAt": "2026-06-11T10:03:08.487Z",
+        "publishedAt": "2026-06-11T09:53:28.854Z",
         "channels": {
           "data": []
         },
@@ -352,44 +352,66 @@
         },
         "country": {
           "data": {
-            "id": 150,
+            "id": 151,
             "attributes": {
               "name": "mundial 2026",
-              "createdAt": "2026-06-11T03:56:46.246Z",
-              "updatedAt": "2026-06-11T04:00:23.994Z",
-              "publishedAt": "2026-06-11T03:56:48.082Z",
+              "createdAt": "2026-06-11T10:02:46.045Z",
+              "updatedAt": "2026-06-11T10:10:09.315Z",
+              "publishedAt": "2026-06-11T10:02:47.907Z",
               "image": {
                 "data": {
-                  "id": 433,
+                  "id": 435,
                   "attributes": {
-                    "name": "images.jpg",
+                    "name": "mundial 2026.jpg",
                     "alternativeText": null,
                     "caption": null,
-                    "width": 274,
-                    "height": 184,
+                    "width": 800,
+                    "height": 498,
                     "formats": {
+                      "small": {
+                        "ext": ".jpg",
+                        "url": "/uploads/small_mundial_2026_222b903cd1.jpg",
+                        "hash": "small_mundial_2026_222b903cd1",
+                        "mime": "image/jpeg",
+                        "name": "small_mundial 2026.jpg",
+                        "path": null,
+                        "size": 20.37,
+                        "width": 500,
+                        "height": 311
+                      },
+                      "medium": {
+                        "ext": ".jpg",
+                        "url": "/uploads/medium_mundial_2026_222b903cd1.jpg",
+                        "hash": "medium_mundial_2026_222b903cd1",
+                        "mime": "image/jpeg",
+                        "name": "medium_mundial 2026.jpg",
+                        "path": null,
+                        "size": 36.78,
+                        "width": 750,
+                        "height": 467
+                      },
                       "thumbnail": {
                         "ext": ".jpg",
-                        "url": "/uploads/thumbnail_images_c60b9f59c4.jpg",
-                        "hash": "thumbnail_images_c60b9f59c4",
+                        "url": "/uploads/thumbnail_mundial_2026_222b903cd1.jpg",
+                        "hash": "thumbnail_mundial_2026_222b903cd1",
                         "mime": "image/jpeg",
-                        "name": "thumbnail_images.jpg",
+                        "name": "thumbnail_mundial 2026.jpg",
                         "path": null,
-                        "size": 7.12,
-                        "width": 232,
-                        "height": 156
+                        "size": 7.66,
+                        "width": 245,
+                        "height": 153
                       }
                     },
-                    "hash": "images_c60b9f59c4",
+                    "hash": "mundial_2026_222b903cd1",
                     "ext": ".jpg",
                     "mime": "image/jpeg",
-                    "size": 9.14,
-                    "url": "/uploads/images_c60b9f59c4.jpg",
+                    "size": 41.89,
+                    "url": "/uploads/mundial_2026_222b903cd1.jpg",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-06-11T04:00:18.277Z",
-                    "updatedAt": "2026-06-11T04:00:18.277Z"
+                    "createdAt": "2026-06-11T10:10:04.097Z",
+                    "updatedAt": "2026-06-11T10:10:04.097Z"
                   }
                 }
               }
@@ -406,7 +428,7 @@
         "date_diary": "2026-06-11",
         "createdAt": "2026-06-11T01:35:42.116Z",
         "updatedAt": "2026-06-11T01:35:42.116Z",
-        "publishedAt": "2026-06-11T03:51:19.286Z",
+        "publishedAt": "2026-06-11T09:55:58.560Z",
         "channels": {
           "data": []
         },
@@ -482,7 +504,7 @@
         "date_diary": "2026-06-11",
         "createdAt": "2026-06-11T01:38:53.703Z",
         "updatedAt": "2026-06-11T01:38:53.703Z",
-        "publishedAt": "2026-06-11T03:51:19.286Z",
+        "publishedAt": "2026-06-11T09:55:58.560Z",
         "channels": {
           "data": []
         },
@@ -558,7 +580,7 @@
         "date_diary": "2026-06-11",
         "createdAt": "2026-06-11T01:41:09.541Z",
         "updatedAt": "2026-06-11T01:41:09.541Z",
-        "publishedAt": "2026-06-11T03:51:19.286Z",
+        "publishedAt": "2026-06-11T09:55:58.560Z",
         "channels": {
           "data": []
         },
@@ -633,8 +655,8 @@
         "diary_hour": "21:00:00",
         "date_diary": "2026-06-11",
         "createdAt": "2026-06-11T01:32:20.281Z",
-        "updatedAt": "2026-06-11T03:58:02.007Z",
-        "publishedAt": "2026-06-11T03:51:19.286Z",
+        "updatedAt": "2026-06-11T10:03:21.507Z",
+        "publishedAt": "2026-06-11T09:55:58.560Z",
         "channels": {
           "data": []
         },
@@ -708,44 +730,66 @@
         },
         "country": {
           "data": {
-            "id": 150,
+            "id": 151,
             "attributes": {
               "name": "mundial 2026",
-              "createdAt": "2026-06-11T03:56:46.246Z",
-              "updatedAt": "2026-06-11T04:00:23.994Z",
-              "publishedAt": "2026-06-11T03:56:48.082Z",
+              "createdAt": "2026-06-11T10:02:46.045Z",
+              "updatedAt": "2026-06-11T10:10:09.315Z",
+              "publishedAt": "2026-06-11T10:02:47.907Z",
               "image": {
                 "data": {
-                  "id": 433,
+                  "id": 435,
                   "attributes": {
-                    "name": "images.jpg",
+                    "name": "mundial 2026.jpg",
                     "alternativeText": null,
                     "caption": null,
-                    "width": 274,
-                    "height": 184,
+                    "width": 800,
+                    "height": 498,
                     "formats": {
+                      "small": {
+                        "ext": ".jpg",
+                        "url": "/uploads/small_mundial_2026_222b903cd1.jpg",
+                        "hash": "small_mundial_2026_222b903cd1",
+                        "mime": "image/jpeg",
+                        "name": "small_mundial 2026.jpg",
+                        "path": null,
+                        "size": 20.37,
+                        "width": 500,
+                        "height": 311
+                      },
+                      "medium": {
+                        "ext": ".jpg",
+                        "url": "/uploads/medium_mundial_2026_222b903cd1.jpg",
+                        "hash": "medium_mundial_2026_222b903cd1",
+                        "mime": "image/jpeg",
+                        "name": "medium_mundial 2026.jpg",
+                        "path": null,
+                        "size": 36.78,
+                        "width": 750,
+                        "height": 467
+                      },
                       "thumbnail": {
                         "ext": ".jpg",
-                        "url": "/uploads/thumbnail_images_c60b9f59c4.jpg",
-                        "hash": "thumbnail_images_c60b9f59c4",
+                        "url": "/uploads/thumbnail_mundial_2026_222b903cd1.jpg",
+                        "hash": "thumbnail_mundial_2026_222b903cd1",
                         "mime": "image/jpeg",
-                        "name": "thumbnail_images.jpg",
+                        "name": "thumbnail_mundial 2026.jpg",
                         "path": null,
-                        "size": 7.12,
-                        "width": 232,
-                        "height": 156
+                        "size": 7.66,
+                        "width": 245,
+                        "height": 153
                       }
                     },
-                    "hash": "images_c60b9f59c4",
+                    "hash": "mundial_2026_222b903cd1",
                     "ext": ".jpg",
                     "mime": "image/jpeg",
-                    "size": 9.14,
-                    "url": "/uploads/images_c60b9f59c4.jpg",
+                    "size": 41.89,
+                    "url": "/uploads/mundial_2026_222b903cd1.jpg",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-06-11T04:00:18.277Z",
-                    "updatedAt": "2026-06-11T04:00:18.277Z"
+                    "createdAt": "2026-06-11T10:10:04.097Z",
+                    "updatedAt": "2026-06-11T10:10:04.097Z"
                   }
                 }
               }
