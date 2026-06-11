@@ -1,37 +1,5 @@
 [
   {
-    "id": "36659",
-    "slug": "venezuela-vs-japón-2026-06-11",
-    "team_a": "Venezuela",
-    "team_b": "Japón",
-    "league": "Torneo Maurice Revello Sub-20",
-    "date": "2026-06-11",
-    "time": "06:30",
-    "streams": [
-      {
-        "name": "FOX Deportes",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "36661",
-    "slug": "ciclismo---tour-of-auvergne-rhône-alpes---etapa-#5-2026-06-11",
-    "team_a": "",
-    "team_b": "",
-    "league": "Ciclismo – Tour of Auvergne-Rhône-Alpes – Etapa #5",
-    "date": "2026-06-11",
-    "time": "08:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36663",
     "slug": "baltimore-orioles-vs-seattle-mariners-2026-06-11",
     "team_a": "Baltimore Orioles",
@@ -57,27 +25,43 @@
     "time": "14:00",
     "streams": [
       {
-        "name": "America Television",
-        "url": "https://tvtvhd.com/canales.php?stream=americatv"
+        "name": "Telemundo 2",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
       },
       {
-        "name": "Canal 5 MX",
-        "url": "https://tvtvhd.com/canales.php?stream=canal5"
+        "name": "TV LA 1ES",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE="
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
       },
       {
         "name": "Azteca 7",
         "url": "https://tvtvhd.com/canales.php?stream=azteca7"
       },
       {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1"
       },
       {
-        "name": "Telefe",
-        "url": "https://tvtvhd.com/canales.php?stream=telefe"
+        "name": "America Television",
+        "url": "https://tvtvhd.com/canales.php?stream=americatv"
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://tvtvhd.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "TUDN USA",
+        "url": "https://tvtvhd.com/canales.php?stream=tudn"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=americatv"
+    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
   },
   {
     "id": "36660",
@@ -137,6 +121,14 @@
     "time": "21:00",
     "streams": [
       {
+        "name": "Telemundo 2",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
         "name": "TYC Sports",
         "url": "https://tvtvhd.com/canales.php?stream=tycsports"
       },
@@ -145,14 +137,14 @@
         "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
       },
       {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
         "name": "FOX Sports 1 USA",
         "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+      },
+      {
+        "name": "Win Sports +",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
   }
 ]
