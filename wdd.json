@@ -1,86 +1,10 @@
 {
   "metadata": {
-    "last_updated": "2026-06-11T23:20:27.119211Z",
+    "last_updated": "2026-06-12T02:56:13.476274Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 3
+    "total_events": 2
   },
   "data": [
-    {
-      "id": 36663,
-      "attributes": {
-        "diary_description": "MLB – Baltimore Orioles vs Seattle Mariners",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-06-11",
-        "createdAt": "2026-06-11T01:39:42.118Z",
-        "updatedAt": "2026-06-11T01:39:42.118Z",
-        "publishedAt": "2026-06-11T09:55:58.560Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 656,
-              "attributes": {
-                "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMw==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1357,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1358,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn3"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 70,
-            "attributes": {
-              "name": "MLB Preseason",
-              "createdAt": "2024-02-23T06:14:15.840Z",
-              "updatedAt": "2025-08-03T14:39:12.740Z",
-              "publishedAt": "2024-02-23T06:14:18.809Z",
-              "image": {
-                "data": {
-                  "id": 352,
-                  "attributes": {
-                    "name": "mlb_f5711cc440.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "mlb_f5711cc440_dde64767e4",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.66,
-                    "url": "/uploads/mlb_f5711cc440_dde64767e4.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:39:07.537Z",
-                    "updatedAt": "2025-08-03T14:39:07.537Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 36664,
       "attributes": {
