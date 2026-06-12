@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-12T07:21:21.406690Z",
+    "last_updated": "2026-06-12T11:40:01.898514Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 11
+    "total_events": 10
   },
   "data": [
     {
@@ -107,82 +107,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T16:32:14.648Z",
                     "updatedAt": "2025-08-03T16:32:14.648Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36670,
-      "attributes": {
-        "diary_description": "F3 Barcelona – Práctica",
-        "diary_hour": "02:50:00",
-        "date_diary": "2026-06-12",
-        "createdAt": "2026-06-12T00:48:55.148Z",
-        "updatedAt": "2026-06-12T00:49:38.153Z",
-        "publishedAt": "2026-06-12T04:15:56.786Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 81,
-            "attributes": {
-              "name": "Formula 2",
-              "createdAt": "2024-02-29T08:36:50.949Z",
-              "updatedAt": "2025-11-29T11:59:59.018Z",
-              "publishedAt": "2024-02-29T08:36:51.957Z",
-              "image": {
-                "data": {
-                  "id": 418,
-                  "attributes": {
-                    "name": "F2.jpg",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 65,
-                    "height": 65,
-                    "formats": null,
-                    "hash": "F2_a3360f82a5",
-                    "ext": ".jpg",
-                    "mime": "image/jpeg",
-                    "size": 1.78,
-                    "url": "/uploads/F2_a3360f82a5.jpg",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-11-29T11:59:51.055Z",
-                    "updatedAt": "2025-11-29T11:59:51.055Z"
                   }
                 }
               }
