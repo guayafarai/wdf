@@ -16,22 +16,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
-    "id": "36670",
-    "slug": "f3-barcelona---práctica-2026-06-12",
-    "team_a": "",
-    "team_b": "",
-    "league": "F3 Barcelona – Práctica",
-    "date": "2026-06-12",
-    "time": "02:50",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36672",
     "slug": "ciclismo---tour-of-auvergne-rhône-alpes---etapa-#6-2026-06-12",
     "team_a": "",
@@ -118,22 +102,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36671",
-    "slug": "f2-barcelona---práctica-2026-06-12",
-    "team_a": "",
-    "team_b": "",
-    "league": "F2 Barcelona – Práctica",
-    "date": "2026-06-12",
-    "time": "03:50",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36674",
