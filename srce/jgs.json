@@ -1,21 +1,5 @@
 [
   {
-    "id": "36663",
-    "slug": "baltimore-orioles-vs-seattle-mariners-2026-06-11",
-    "team_a": "Baltimore Orioles",
-    "team_b": "Seattle Mariners",
-    "league": "MLB",
-    "date": "2026-06-11",
-    "time": "18:00",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "36664",
     "slug": "vegas-golden-knights-vs-carolina-hurricanes-2026-06-11",
     "team_a": "Vegas Golden Knights",
