@@ -16,22 +16,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
-    "id": "36672",
-    "slug": "ciclismo---tour-of-auvergne-rhône-alpes---etapa-#6-2026-06-12",
-    "team_a": "",
-    "team_b": "",
-    "league": "Ciclismo – Tour of Auvergne-Rhône-Alpes – Etapa #6",
-    "date": "2026-06-12",
-    "time": "08:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36673",
     "slug": "rugby---sr-americas---semifinales---a-confirmar-2026-06-12",
     "team_a": "",
@@ -61,12 +45,24 @@
         "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
       },
       {
-        "name": "Win Sports",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
       },
       {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1"
+      },
+      {
+        "name": "TVE la 1 ES",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE="
+      },
+      {
+        "name": "America Television",
+        "url": "https://tvtvhd.com/canales.php?stream=americatv"
+      },
+      {
+        "name": "Win Sports",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
@@ -145,16 +141,28 @@
     "time": "20:00",
     "streams": [
       {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
-      },
-      {
         "name": "Telemundo 2",
         "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
       },
       {
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1"
+      },
+      {
         "name": "Telefe",
         "url": "https://tvtvhd.com/canales.php?stream=telefe"
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "America Television",
+        "url": "https://tvtvhd.com/canales.php?stream=americatv"
       },
       {
         "name": "SporTV",
@@ -173,14 +181,10 @@
         "url": "https://tvtvhd.com/canales.php?stream=azteca7"
       },
       {
-        "name": "America Television",
-        "url": "https://tvtvhd.com/canales.php?stream=americatv"
-      },
-      {
         "name": "Telemundo",
         "url": "https://tvtvhd.com/canales.php?stream=telemundo"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
   }
 ]
