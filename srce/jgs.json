@@ -1,12 +1,28 @@
 [
   {
-    "id": "36664",
-    "slug": "vegas-golden-knights-vs-carolina-hurricanes-2026-06-11",
-    "team_a": "Vegas Golden Knights",
-    "team_b": "Carolina Hurricanes",
-    "league": "NHL – Juego #4",
-    "date": "2026-06-11",
-    "time": "19:00",
+    "id": "36667",
+    "slug": "san-antonio-bulo-bulo-vs-abb-2026-06-12",
+    "team_a": "San Antonio Bulo Bulo",
+    "team_b": "ABB",
+    "league": "Primera División",
+    "date": "2026-06-12",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "Futbol Canal",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+  },
+  {
+    "id": "36670",
+    "slug": "f3-barcelona---práctica-2026-06-12",
+    "team_a": "",
+    "team_b": "",
+    "league": "F3 Barcelona – Práctica",
+    "date": "2026-06-12",
+    "time": "02:50",
     "streams": [
       {
         "name": "ESPN 2",
@@ -16,39 +32,187 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "36658",
-    "slug": "corea-del-sur-vs-república-checa-2026-06-11",
-    "team_a": "Corea del Sur",
-    "team_b": "República Checa",
+    "id": "36672",
+    "slug": "ciclismo---tour-of-auvergne-rhône-alpes---etapa-#6-2026-06-12",
+    "team_a": "",
+    "team_b": "",
+    "league": "Ciclismo – Tour of Auvergne-Rhône-Alpes – Etapa #6",
+    "date": "2026-06-12",
+    "time": "08:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36673",
+    "slug": "rugby---sr-americas---semifinales---a-confirmar-2026-06-12",
+    "team_a": "",
+    "team_b": "",
+    "league": "Rugby – SR Americas – Semifinales – A Confirmar",
+    "date": "2026-06-12",
+    "time": "16:55",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36665",
+    "slug": "canadá-vs-bosnia-herzegovina-2026-06-12",
+    "team_a": "Canadá",
+    "team_b": "Bosnia-Herzegovina",
     "league": "Copa del Mundo",
-    "date": "2026-06-11",
-    "time": "21:00",
+    "date": "2026-06-12",
+    "time": "14:00",
     "streams": [
       {
         "name": "Telemundo 2",
         "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
       },
       {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+        "name": "Win Sports",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
       },
+      {
+        "name": "Telemundo",
+        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+  },
+  {
+    "id": "36668",
+    "slug": "nacional-potosí-vs-real-oruro-2026-06-12",
+    "team_a": "Nacional Potosí",
+    "team_b": "Real Oruro",
+    "league": "Primera División",
+    "date": "2026-06-12",
+    "time": "18:00",
+    "streams": [
+      {
+        "name": "Futbol Canal",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+  },
+  {
+    "id": "36669",
+    "slug": "audax-italiano-vs-la-serena-2026-06-12",
+    "team_a": "Audax Italiano",
+    "team_b": "La Serena",
+    "league": "Primera División",
+    "date": "2026-06-12",
+    "time": "19:00",
+    "streams": [
+      {
+        "name": "TNT Sports Premiun CL",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36671",
+    "slug": "f2-barcelona---práctica-2026-06-12",
+    "team_a": "",
+    "team_b": "",
+    "league": "F2 Barcelona – Práctica",
+    "date": "2026-06-12",
+    "time": "03:50",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36674",
+    "slug": "pittsburgh-pirates-vs-miami-marlins-2026-06-12",
+    "team_a": "Pittsburgh Pirates",
+    "team_b": "Miami Marlins",
+    "league": "MLB",
+    "date": "2026-06-12",
+    "time": "17:30",
+    "streams": [
+      {
+        "name": "ESPN 5",
+        "url": "https://tvtvhd.com/canales.php?stream=espn5"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36675",
+    "slug": "rugby---sr-americas---semifinales---a-confirmar-2026-06-12",
+    "team_a": "",
+    "team_b": "",
+    "league": "Rugby – SR Americas – Semifinales – A Confirmar",
+    "date": "2026-06-12",
+    "time": "19:00",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36666",
+    "slug": "ee.-uu.-vs-paraguay-2026-06-12",
+    "team_a": "EE. UU.",
+    "team_b": "Paraguay",
+    "league": "Copa del Mundo",
+    "date": "2026-06-12",
+    "time": "20:00",
+    "streams": [
       {
         "name": "TYC Sports",
         "url": "https://tvtvhd.com/canales.php?stream=tycsports"
       },
       {
-        "name": "Win Sports",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
+        "name": "Telemundo 2",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
       },
       {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+        "name": "Telefe",
+        "url": "https://tvtvhd.com/canales.php?stream=telefe"
       },
       {
-        "name": "Win Sports +",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
+        "name": "SporTV",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://tvtvhd.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://tvtvhd.com/canales.php?stream=canal5"
+      },
+      {
+        "name": "Azteca 7",
+        "url": "https://tvtvhd.com/canales.php?stream=azteca7"
+      },
+      {
+        "name": "America Television",
+        "url": "https://tvtvhd.com/canales.php?stream=americatv"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   }
 ]
