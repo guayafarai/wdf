@@ -1,34 +1,338 @@
 [
   {
-    "id": "Barcelona-2026-06-13",
-    "slug": "barcelona-vs-real-madrid-2026-06-13",
-    "team_a": "Barcelona",
-    "team_b": "Real Madrid",
-    "league": "La Liga",
+    "id": "36676",
+    "slug": "qatar-vs-suiza-2026-06-13",
+    "team_a": "Qatar",
+    "team_b": "Suiza",
+    "league": "Copa del Mundo",
+    "date": "2026-06-13",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "Win Sports",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
+  },
+  {
+    "id": "36678",
+    "slug": "brasil-vs-marruecos-2026-06-13",
+    "team_a": "Brasil",
+    "team_b": "Marruecos",
+    "league": "Copa del Mundo",
+    "date": "2026-06-13",
+    "time": "17:00",
+    "streams": [
+      {
+        "name": "Caracol TV",
+        "url": "https://tvtvhd.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "Telefe",
+        "url": "https://tvtvhd.com/canales.php?stream=telefe"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://tvtvhd.com/canales.php?stream=canal5"
+      },
+      {
+        "name": "Azteca 7",
+        "url": "https://tvtvhd.com/canales.php?stream=azteca7"
+      },
+      {
+        "name": "Telemundo 2",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=caracol"
+  },
+  {
+    "id": "36680",
+    "slug": "australia-vs-turquía-2026-06-13",
+    "team_a": "Australia",
+    "team_b": "Turquía",
+    "league": "Copa del Mundo",
+    "date": "2026-06-13",
+    "time": "23:00",
+    "streams": [
+      {
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "FOX Sports 1 USA",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+      },
+      {
+        "name": "Telemundo 2",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+  },
+  {
+    "id": "36682",
+    "slug": "everton-vs-palestino-2026-06-13",
+    "team_a": "Everton",
+    "team_b": "Palestino",
+    "league": "Primera División",
+    "date": "2026-06-13",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "TNT Sports Premiun CL",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36683",
+    "slug": "colo-colo-vs-cobresal-2026-06-13",
+    "team_a": "Colo-Colo",
+    "team_b": "Cobresal",
+    "league": "Primera División",
+    "date": "2026-06-13",
+    "time": "16:00",
+    "streams": [
+      {
+        "name": "TNT Sports Premiun CL",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36685",
+    "slug": "maurice-revello:-third-place-match-2026-06-13",
+    "team_a": "",
+    "team_b": "",
+    "league": "Maurice Revello: Third Place Match",
+    "date": "2026-06-13",
+    "time": "06:30",
+    "streams": [
+      {
+        "name": "FOX Deportes",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+  },
+  {
+    "id": "36691",
+    "slug": "f2-barcelona---carrera-sprint-2026-06-13",
+    "team_a": "",
+    "team_b": "",
+    "league": "F2 Barcelona – Carrera Sprint",
+    "date": "2026-06-13",
+    "time": "07:05",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36693",
+    "slug": "premier-padel-valencia---semifinales-#2-femenina-y-masculina-2026-06-13",
+    "team_a": "",
+    "team_b": "",
+    "league": "Premier Padel Valencia – Semifinales #2 Femenina y Masculina",
+    "date": "2026-06-13",
+    "time": "10:00",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36695",
+    "slug": "rugby---top-14---paloise-vs.-racing-92-2026-06-13",
+    "team_a": "",
+    "team_b": "",
+    "league": "Rugby – Top 14 – Paloise vs. Racing 92",
+    "date": "2026-06-13",
+    "time": "13:55",
+    "streams": [
+      {
+        "name": "ESPN 4",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "36689",
+    "slug": "inglaterra-vs-argentina-2026-06-13",
+    "team_a": "Inglaterra",
+    "team_b": "Argentina",
+    "league": "Hockey – Pro League Masculino",
+    "date": "2026-06-13",
+    "time": "06:30",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36679",
+    "slug": "haití-vs-escocia-2026-06-13",
+    "team_a": "Haití",
+    "team_b": "Escocia",
+    "league": "Copa del Mundo",
     "date": "2026-06-13",
     "time": "20:00",
     "streams": [
       {
-        "name": "Demo",
-        "url": "https://example.com/embed/barcelona-real-madrid"
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Telemundo 2",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
       }
     ],
-    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
-    "id": "América-2026-06-13",
-    "slug": "américa-vs-chivas-2026-06-13",
-    "team_a": "América",
-    "team_b": "Chivas",
-    "league": "Liga MX",
+    "id": "36681",
+    "slug": "coquimbo-unido-vs-o'higgins-2026-06-13",
+    "team_a": "Coquimbo Unido",
+    "team_b": "O'Higgins",
+    "league": "Primera División",
     "date": "2026-06-13",
-    "time": "22:00",
+    "time": "11:30",
     "streams": [
       {
-        "name": "Demo",
-        "url": "https://example.com/embed/america-chivas"
+        "name": "TNT Sports Premiun CL",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
       }
     ],
-    "decoded_iframe_url": "https://example.com/embed/america-chivas"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36684",
+    "slug": "ñublense-vs-huachipato-2026-06-13",
+    "team_a": "Ñublense",
+    "team_b": "Huachipato",
+    "league": "Primera División",
+    "date": "2026-06-13",
+    "time": "19:00",
+    "streams": [
+      {
+        "name": "TNT Sports Premiun CL",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36686",
+    "slug": "maurice-revello:-final-2026-06-13",
+    "team_a": "",
+    "team_b": "",
+    "league": "Maurice Revello: Final",
+    "date": "2026-06-13",
+    "time": "12:00",
+    "streams": [
+      {
+        "name": "FOX Deportes",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+  },
+  {
+    "id": "36690",
+    "slug": "ciclismo---tour-of-auvergne-rhône-alpes---etapa-#7-2026-06-13",
+    "team_a": "",
+    "team_b": "",
+    "league": "Ciclismo – Tour of Auvergne-Rhône-Alpes – Etapa #7",
+    "date": "2026-06-13",
+    "time": "07:00",
+    "streams": [
+      {
+        "name": "ESPN 5",
+        "url": "https://tvtvhd.com/canales.php?stream=espn5"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36692",
+    "slug": "bath-rugby-vs-exeter-chiefs-2026-06-13",
+    "team_a": "Bath Rugby",
+    "team_b": "Exeter Chiefs",
+    "league": "Rugby – Premiership",
+    "date": "2026-06-13",
+    "time": "08:50",
+    "streams": [
+      {
+        "name": "ESPN 4",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "36694",
+    "slug": "f3-barcelona---práctica-#3-2026-06-13",
+    "team_a": "",
+    "team_b": "",
+    "league": "F3 Barcelona – Práctica #3",
+    "date": "2026-06-13",
+    "time": "13:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36696",
+    "slug": "antonio-vargas-vs-jesse-2026-06-13",
+    "team_a": "Antonio Vargas",
+    "team_b": "Jesse",
+    "league": "ESPN Knockout",
+    "date": "2026-06-13",
+    "time": "18:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36688",
+    "slug": "china-vs-argentina-2026-06-13",
+    "team_a": "China",
+    "team_b": "Argentina",
+    "league": "Hockey – Pro League Femenino",
+    "date": "2026-06-13",
+    "time": "06:00",
+    "streams": [
+      {
+        "name": "ESPN 4",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   }
 ]
