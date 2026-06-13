@@ -1,21 +1,5 @@
 [
   {
-    "id": "36682",
-    "slug": "everton-vs-palestino-2026-06-13",
-    "team_a": "Everton",
-    "team_b": "Palestino",
-    "league": "Primera División",
-    "date": "2026-06-13",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "36683",
     "slug": "colo-colo-vs-cobresal-2026-06-13",
     "team_a": "Colo-Colo",
@@ -30,70 +14,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36695",
-    "slug": "rugby---top-14---paloise-vs.-racing-92-2026-06-13",
-    "team_a": "",
-    "team_b": "",
-    "league": "Rugby – Top 14 – Paloise vs. Racing 92",
-    "date": "2026-06-13",
-    "time": "13:55",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36697",
-    "slug": "knicks-vs-spurs-2026-06-13",
-    "team_a": "Knicks",
-    "team_b": "Spurs",
-    "league": "NBA",
-    "date": "2026-06-13",
-    "time": "19:30",
-    "streams": [
-      {
-        "name": "ESPN Deportes",
-        "url": "https://tvtvhd.com/canales.php?stream=espndeportes"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
-  },
-  {
-    "id": "36676",
-    "slug": "qatar-vs-suiza-2026-06-13",
-    "team_a": "Qatar",
-    "team_b": "Suiza",
-    "league": "Copa del Mundo",
-    "date": "2026-06-13",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Dsports Mundial",
-        "url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
-      },
-      {
-        "name": "Telemundo 2",
-        "url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
-      },
-      {
-        "name": "Win Sports",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv"
-      },
-      {
-        "name": "CAZÉ TV",
-        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2dydS1uaXRyby9saXZlL2NsaWVudHMvZGFzaC1zZC9lbmMvdHdydWxkamcyby9vdXQvdjEvMjlhNDM2MDM4MTU5NDYzMTgzZjYyNGNlODZkNmVkNGEvY2VuYy1zZC5tcGQ=&k=OWRkMzRhZTk3Y2YxNDdiYThmNTU2OTdmMzcyMTI4ODc6YzZlYTk1ZmZkNTdmYjc0NTMxZDVjYzIwNDZiOTc2MzY="
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
   },
   {
     "id": "36678",
@@ -142,6 +62,22 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+  },
+  {
+    "id": "36697",
+    "slug": "knicks-vs-spurs-2026-06-13",
+    "team_a": "Knicks",
+    "team_b": "Spurs",
+    "league": "NBA",
+    "date": "2026-06-13",
+    "time": "19:30",
+    "streams": [
+      {
+        "name": "ESPN Deportes",
+        "url": "https://tvtvhd.com/canales.php?stream=espndeportes"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
   },
   {
     "id": "36680",
@@ -194,22 +130,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36694",
-    "slug": "f3-barcelona---práctica-#3-2026-06-13",
-    "team_a": "",
-    "team_b": "",
-    "league": "F3 Barcelona – Práctica #3",
-    "date": "2026-06-13",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36696",
