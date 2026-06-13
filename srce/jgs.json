@@ -1,37 +1,5 @@
 [
   {
-    "id": "36678",
-    "slug": "brasil-vs-marruecos-2026-06-13",
-    "team_a": "Brasil",
-    "team_b": "Marruecos",
-    "league": "Copa del Mundo",
-    "date": "2026-06-13",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "Caracol TV",
-        "url": "https://tvtvhd.com/canales.php?stream=caracol"
-      },
-      {
-        "name": "Telefe",
-        "url": "https://tvtvhd.com/canales.php?stream=telefe"
-      },
-      {
-        "name": "Canal 5 MX",
-        "url": "https://tvtvhd.com/canales.php?stream=canal5"
-      },
-      {
-        "name": "Azteca 7",
-        "url": "https://tvtvhd.com/canales.php?stream=azteca7"
-      },
-      {
-        "name": "Telemundo 2",
-        "url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=caracol"
-  },
-  {
     "id": "36682",
     "slug": "everton-vs-palestino-2026-06-13",
     "team_a": "Everton",
@@ -64,22 +32,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36693",
-    "slug": "premier-padel-valencia---semifinales-#2-femenina-y-masculina-2026-06-13",
-    "team_a": "",
-    "team_b": "",
-    "league": "Premier Padel Valencia – Semifinales #2 Femenina y Masculina",
-    "date": "2026-06-13",
-    "time": "10:00",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "36695",
     "slug": "rugby---top-14---paloise-vs.-racing-92-2026-06-13",
     "team_a": "",
@@ -105,6 +57,10 @@
     "time": "23:00",
     "streams": [
       {
+        "name": "Telemundo 2",
+        "url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+      },
+      {
         "name": "TYC Sports",
         "url": "https://tvtvhd.com/canales.php?stream=tycsports"
       },
@@ -119,13 +75,69 @@
       {
         "name": "FOX Sports 1 USA",
         "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
-      },
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+  },
+  {
+    "id": "36678",
+    "slug": "brasil-vs-marruecos-2026-06-13",
+    "team_a": "Brasil",
+    "team_b": "Marruecos",
+    "league": "Copa del Mundo",
+    "date": "2026-06-13",
+    "time": "17:00",
+    "streams": [
       {
         "name": "Telemundo 2",
         "url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney6"
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://tvtvhd.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "Telefe",
+        "url": "https://tvtvhd.com/canales.php?stream=telefe"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://tvtvhd.com/canales.php?stream=canal5"
+      },
+      {
+        "name": "Azteca 7",
+        "url": "https://tvtvhd.com/canales.php?stream=azteca7"
+      },
+      {
+        "name": "TVE la 1 ES",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE="
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+  },
+  {
+    "id": "36697",
+    "slug": "knicks-vs-spurs-2026-06-13",
+    "team_a": "Knicks",
+    "team_b": "Spurs",
+    "league": "NBA",
+    "date": "2026-06-13",
+    "time": "19:30",
+    "streams": [
+      {
+        "name": "ESPN Deportes",
+        "url": "https://tvtvhd.com/canales.php?stream=espndeportes"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
   },
   {
     "id": "36676",
@@ -137,43 +149,23 @@
     "time": "14:00",
     "streams": [
       {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+        "name": "Dsports Mundial",
+        "url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
+      },
+      {
+        "name": "Telemundo 2",
+        "url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
       },
       {
         "name": "Win Sports",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
       },
       {
-        "name": "Telemundo 2",
-        "url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
-      },
-      {
         "name": "CAZÉ TV",
         "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2dydS1uaXRyby9saXZlL2NsaWVudHMvZGFzaC1zZC9lbmMvdHdydWxkamcyby9vdXQvdjEvMjlhNDM2MDM4MTU5NDYzMTgzZjYyNGNlODZkNmVkNGEvY2VuYy1zZC5tcGQ=&k=OWRkMzRhZTk3Y2YxNDdiYThmNTU2OTdmMzcyMTI4ODc6YzZlYTk1ZmZkNTdmYjc0NTMxZDVjYzIwNDZiOTc2MzY="
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36679",
-    "slug": "haití-vs-escocia-2026-06-13",
-    "team_a": "Haití",
-    "team_b": "Escocia",
-    "league": "Copa del Mundo",
-    "date": "2026-06-13",
-    "time": "20:00",
-    "streams": [
-      {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Telemundo 2",
-        "url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
   },
   {
     "id": "36681",
@@ -254,5 +246,33 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36679",
+    "slug": "haití-vs-escocia-2026-06-13",
+    "team_a": "Haití",
+    "team_b": "Escocia",
+    "league": "Copa del Mundo",
+    "date": "2026-06-13",
+    "time": "20:00",
+    "streams": [
+      {
+        "name": "Telemundo 2",
+        "url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "CAZÉ TV",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2dydS1uaXRyby9saXZlL2NsaWVudHMvZGFzaC1zZC9lbmMvdHdydWxkamcyby9vdXQvdjEvMjlhNDM2MDM4MTU5NDYzMTgzZjYyNGNlODZkNmVkNGEvY2VuYy1zZC5tcGQ=&k=OWRkMzRhZTk3Y2YxNDdiYThmNTU2OTdmMzcyMTI4ODc6YzZlYTk1ZmZkNTdmYjc0NTMxZDVjYzIwNDZiOTc2MzY="
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
   }
 ]
