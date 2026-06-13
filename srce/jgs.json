@@ -48,36 +48,52 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
-    "id": "36680",
-    "slug": "australia-vs-turquía-2026-06-13",
-    "team_a": "Australia",
-    "team_b": "Turquía",
+    "id": "36697",
+    "slug": "knicks-vs-spurs-2026-06-13",
+    "team_a": "Knicks",
+    "team_b": "Spurs",
+    "league": "NBA",
+    "date": "2026-06-13",
+    "time": "19:30",
+    "streams": [
+      {
+        "name": "ESPN Deportes",
+        "url": "https://tvtvhd.com/canales.php?stream=espndeportes"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
+  },
+  {
+    "id": "36676",
+    "slug": "qatar-vs-suiza-2026-06-13",
+    "team_a": "Qatar",
+    "team_b": "Suiza",
     "league": "Copa del Mundo",
     "date": "2026-06-13",
-    "time": "23:00",
+    "time": "14:00",
     "streams": [
+      {
+        "name": "Dsports Mundial",
+        "url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
+      },
       {
         "name": "Telemundo 2",
         "url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
       },
       {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+        "name": "Win Sports",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
       },
       {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+        "name": "Deportes TV. C",
+        "url": "https://tvtvhd.com/canales.php?stream=goltv"
       },
       {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+        "name": "CAZÉ TV",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2dydS1uaXRyby9saXZlL2NsaWVudHMvZGFzaC1zZC9lbmMvdHdydWxkamcyby9vdXQvdjEvMjlhNDM2MDM4MTU5NDYzMTgzZjYyNGNlODZkNmVkNGEvY2VuYy1zZC5tcGQ=&k=OWRkMzRhZTk3Y2YxNDdiYThmNTU2OTdmMzcyMTI4ODc6YzZlYTk1ZmZkNTdmYjc0NTMxZDVjYzIwNDZiOTc2MzY="
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
   },
   {
     "id": "36678",
@@ -117,6 +133,10 @@
         "url": "https://tvtvhd.com/canales.php?stream=azteca7"
       },
       {
+        "name": "Deportes TV. C",
+        "url": "https://tvtvhd.com/canales.php?stream=goltv"
+      },
+      {
         "name": "TVE la 1 ES",
         "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE="
       }
@@ -124,64 +144,40 @@
     "decoded_iframe_url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
   },
   {
-    "id": "36697",
-    "slug": "knicks-vs-spurs-2026-06-13",
-    "team_a": "Knicks",
-    "team_b": "Spurs",
-    "league": "NBA",
-    "date": "2026-06-13",
-    "time": "19:30",
-    "streams": [
-      {
-        "name": "ESPN Deportes",
-        "url": "https://tvtvhd.com/canales.php?stream=espndeportes"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
-  },
-  {
-    "id": "36676",
-    "slug": "qatar-vs-suiza-2026-06-13",
-    "team_a": "Qatar",
-    "team_b": "Suiza",
+    "id": "36680",
+    "slug": "australia-vs-turquía-2026-06-13",
+    "team_a": "Australia",
+    "team_b": "Turquía",
     "league": "Copa del Mundo",
     "date": "2026-06-13",
-    "time": "14:00",
+    "time": "23:00",
     "streams": [
-      {
-        "name": "Dsports Mundial",
-        "url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
-      },
       {
         "name": "Telemundo 2",
         "url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
       },
       {
-        "name": "Win Sports",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
       },
       {
-        "name": "CAZÉ TV",
-        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2dydS1uaXRyby9saXZlL2NsaWVudHMvZGFzaC1zZC9lbmMvdHdydWxkamcyby9vdXQvdjEvMjlhNDM2MDM4MTU5NDYzMTgzZjYyNGNlODZkNmVkNGEvY2VuYy1zZC5tcGQ=&k=OWRkMzRhZTk3Y2YxNDdiYThmNTU2OTdmMzcyMTI4ODc6YzZlYTk1ZmZkNTdmYjc0NTMxZDVjYzIwNDZiOTc2MzY="
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
-  },
-  {
-    "id": "36681",
-    "slug": "coquimbo-unido-vs-o'higgins-2026-06-13",
-    "team_a": "Coquimbo Unido",
-    "team_b": "O'Higgins",
-    "league": "Primera División",
-    "date": "2026-06-13",
-    "time": "11:30",
-    "streams": [
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
       {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "FOX Sports 1 USA",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvtvhd.com/canales.php?stream=goltv"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
   },
   {
     "id": "36684",
@@ -198,22 +194,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36686",
-    "slug": "maurice-revello:-final-2026-06-13",
-    "team_a": "",
-    "team_b": "",
-    "league": "Maurice Revello: Final",
-    "date": "2026-06-13",
-    "time": "12:00",
-    "streams": [
-      {
-        "name": "FOX Deportes",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
     "id": "36694",
@@ -267,6 +247,10 @@
       {
         "name": "TYC Sports",
         "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvtvhd.com/canales.php?stream=goltv"
       },
       {
         "name": "CAZÉ TV",
