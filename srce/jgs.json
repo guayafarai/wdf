@@ -264,22 +264,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
-    "id": "36711",
-    "slug": "f3-barcelona---carrera-2026-06-14",
-    "team_a": "",
-    "team_b": "",
-    "league": "F3 Barcelona – Carrera",
-    "date": "2026-06-14",
-    "time": "01:35",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36699",
     "slug": "países-bajos-vs-japón-2026-06-14",
     "team_a": "Países Bajos",
@@ -426,22 +410,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36712",
-    "slug": "porsche-supercup---gp-españa---carrera-2026-06-14",
-    "team_a": "",
-    "team_b": "",
-    "league": "Porsche Supercup – GP España – Carrera",
-    "date": "2026-06-14",
-    "time": "03:05",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36715",
