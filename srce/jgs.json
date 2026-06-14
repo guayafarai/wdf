@@ -1,21 +1,5 @@
 [
   {
-    "id": "36683",
-    "slug": "colo-colo-vs-cobresal-2026-06-13",
-    "team_a": "Colo-Colo",
-    "team_b": "Cobresal",
-    "league": "Primera División",
-    "date": "2026-06-13",
-    "time": "16:00",
-    "streams": [
-      {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "36678",
     "slug": "brasil-vs-marruecos-2026-06-13",
     "team_a": "Brasil",
