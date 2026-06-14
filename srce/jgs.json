@@ -1,69 +1,5 @@
 [
   {
-    "id": "36726",
-    "slug": "f1-|-gp-de-barcelona:-carrera-2026-06-14",
-    "team_a": "",
-    "team_b": "",
-    "league": "F1 | GP de Barcelona: Carrera",
-    "date": "2026-06-14",
-    "time": "08:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1"
-      },
-      {
-        "name": "Fox Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=foxsports"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney3"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
-    "id": "36698",
-    "slug": "alemania-vs-curazao-2026-06-14",
-    "team_a": "Alemania",
-    "team_b": "Curazao",
-    "league": "Copa del Mundo",
-    "date": "2026-06-14",
-    "time": "12:00",
-    "streams": [
-      {
-        "name": "Dsports Mundial",
-        "url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
-      },
-      {
-        "name": "Telemundo 2",
-        "url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv"
-      },
-      {
-        "name": "TVE la 1 ES",
-        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE="
-      },
-      {
-        "name": "CAZÉ TV",
-        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2dydS1uaXRyby9saXZlL2NsaWVudHMvZGFzaC1zZC9lbmMvdHdydWxkamcyby9vdXQvdjEvMjlhNDM2MDM4MTU5NDYzMTgzZjYyNGNlODZkNmVkNGEvY2VuYy1zZC5tcGQ=&k=OWRkMzRhZTk3Y2YxNDdiYThmNTU2OTdmMzcyMTI4ODc6YzZlYTk1ZmZkNTdmYjc0NTMxZDVjYzIwNDZiOTc2MzY="
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
-  },
-  {
     "id": "36700",
     "slug": "costa-de-marfil-vs-ecuador-2026-06-14",
     "team_a": "Costa de Marfil",
@@ -78,7 +14,7 @@
       },
       {
         "name": "Telemundo 2",
-        "url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
       },
       {
         "name": "Telefe",
@@ -98,6 +34,38 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "36698",
+    "slug": "alemania-vs-curazao-2026-06-14",
+    "team_a": "Alemania",
+    "team_b": "Curazao",
+    "league": "Copa del Mundo",
+    "date": "2026-06-14",
+    "time": "12:00",
+    "streams": [
+      {
+        "name": "Telemundo 2",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvtvhd.com/canales.php?stream=goltv"
+      },
+      {
+        "name": "TVE la 1 ES",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE="
+      },
+      {
+        "name": "CAZÉ TV",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2dydS1uaXRyby9saXZlL2NsaWVudHMvZGFzaC1zZC9lbmMvdHdydWxkamcyby9vdXQvdjEvMjlhNDM2MDM4MTU5NDYzMTgzZjYyNGNlODZkNmVkNGEvY2VuYy1zZC5tcGQ=&k=OWRkMzRhZTk3Y2YxNDdiYThmNTU2OTdmMzcyMTI4ODc6YzZlYTk1ZmZkNTdmYjc0NTMxZDVjYzIwNDZiOTc2MzY="
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
   },
   {
     "id": "36702",
@@ -162,54 +130,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36714",
-    "slug": "bélgica-vs-argentina-2026-06-14",
-    "team_a": "Bélgica",
-    "team_b": "Argentina",
-    "league": "Hockey – Pro League Femenino",
-    "date": "2026-06-14",
-    "time": "06:00",
-    "streams": [
-      {
-        "name": "ESPN 5",
-        "url": "https://tvtvhd.com/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "36716",
-    "slug": "premier-padel-valencia---final-femenina-2026-06-14",
-    "team_a": "",
-    "team_b": "",
-    "league": "Premier Padel Valencia – Final Femenina",
-    "date": "2026-06-14",
-    "time": "07:00",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36718",
-    "slug": "premier-padel-valencia---final-masculina-2026-06-14",
-    "team_a": "",
-    "team_b": "",
-    "league": "Premier Padel Valencia – Final Masculina",
-    "date": "2026-06-14",
-    "time": "09:00",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
     "id": "36719",
@@ -292,22 +212,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
-    "id": "36727",
-    "slug": "f1-|-gp-de-barcelona:-race-hub-2026-06-14",
-    "team_a": "",
-    "team_b": "",
-    "league": "F1 | GP de Barcelona: RACE HUB",
-    "date": "2026-06-14",
-    "time": "08:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
     "id": "36699",
     "slug": "países-bajos-vs-japón-2026-06-14",
     "team_a": "Países Bajos",
@@ -322,7 +226,7 @@
       },
       {
         "name": "Telemundo 2",
-        "url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
       },
       {
         "name": "TYC Sports",
@@ -366,7 +270,7 @@
     "streams": [
       {
         "name": "Telemundo 2",
-        "url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
       },
       {
         "name": "DSports",
@@ -381,7 +285,7 @@
         "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
   },
   {
     "id": "36703",
@@ -446,38 +350,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36715",
-    "slug": "f1-gp-barcelona---la-previa-2026-06-14",
-    "team_a": "",
-    "team_b": "",
-    "league": "F1 GP Barcelona – La Previa",
-    "date": "2026-06-14",
-    "time": "06:30",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36717",
-    "slug": "ciclismo---tour-of-auvergne-rhône-alpes---etapa-#7-2026-06-14",
-    "team_a": "",
-    "team_b": "",
-    "league": "Ciclismo – Tour of Auvergne-Rhône-Alpes – Etapa #7",
-    "date": "2026-06-14",
-    "time": "07:55",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36723",
