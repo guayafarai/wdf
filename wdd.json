@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-14T09:23:50.653812Z",
+    "last_updated": "2026-06-14T11:51:33.882151Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 28
+    "total_events": 26
   },
   "data": [
     {
@@ -1377,82 +1377,6 @@
       }
     },
     {
-      "id": 36711,
-      "attributes": {
-        "diary_description": "F3 Barcelona – Carrera",
-        "diary_hour": "01:35:00",
-        "date_diary": "2026-06-14",
-        "createdAt": "2026-06-14T00:57:11.101Z",
-        "updatedAt": "2026-06-14T06:48:42.418Z",
-        "publishedAt": "2026-06-14T06:47:13.114Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 81,
-            "attributes": {
-              "name": "Formula 2",
-              "createdAt": "2024-02-29T08:36:50.949Z",
-              "updatedAt": "2025-11-29T11:59:59.018Z",
-              "publishedAt": "2024-02-29T08:36:51.957Z",
-              "image": {
-                "data": {
-                  "id": 418,
-                  "attributes": {
-                    "name": "F2.jpg",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 65,
-                    "height": 65,
-                    "formats": null,
-                    "hash": "F2_a3360f82a5",
-                    "ext": ".jpg",
-                    "mime": "image/jpeg",
-                    "size": 1.78,
-                    "url": "/uploads/F2_a3360f82a5.jpg",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-11-29T11:59:51.055Z",
-                    "updatedAt": "2025-11-29T11:59:51.055Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 36699,
       "attributes": {
         "diary_description": "Copa del Mundo: \nPaíses Bajos vs Japón",
@@ -2172,94 +2096,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T13:14:00.876Z",
                     "updatedAt": "2025-08-03T13:14:00.876Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36712,
-      "attributes": {
-        "diary_description": "Porsche Supercup – GP España – Carrera",
-        "diary_hour": "03:05:00",
-        "date_diary": "2026-06-14",
-        "createdAt": "2026-06-14T00:58:05.633Z",
-        "updatedAt": "2026-06-14T00:58:05.633Z",
-        "publishedAt": "2026-06-14T06:47:13.114Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 79,
-            "attributes": {
-              "name": "Formula 1",
-              "createdAt": "2024-02-29T07:22:54.123Z",
-              "updatedAt": "2025-08-03T13:13:28.428Z",
-              "publishedAt": "2024-02-29T07:22:55.381Z",
-              "image": {
-                "data": {
-                  "id": 349,
-                  "attributes": {
-                    "name": "moto_g_145967b8f1.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 180,
-                    "height": 180,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_moto_g_145967b8f1_c975c7c8e9.png",
-                        "hash": "thumbnail_moto_g_145967b8f1_c975c7c8e9",
-                        "mime": "image/png",
-                        "name": "thumbnail_moto_g_145967b8f1.png",
-                        "path": null,
-                        "size": 7.56,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "moto_g_145967b8f1_c975c7c8e9",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.47,
-                    "url": "/uploads/moto_g_145967b8f1_c975c7c8e9.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:13:24.212Z",
-                    "updatedAt": "2025-08-03T13:13:24.212Z"
                   }
                 }
               }
