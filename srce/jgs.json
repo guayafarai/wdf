@@ -13,8 +13,16 @@
         "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
       },
       {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+        "name": "Ecuador TV - Vamos Ecuador",
+        "url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
+      },
+      {
+        "name": "Dsports Mundial",
+        "url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
+      },
+      {
+        "name": "TYC Sports Mundial",
+        "url": "https://tvtvhd.com/online/canales.php?stream=tycsports"
       },
       {
         "name": "Disney+",
@@ -38,102 +46,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
-  },
-  {
-    "id": "36702",
-    "slug": "blooming-vs-real-tomayapo-2026-06-14",
-    "team_a": "Blooming",
-    "team_b": "Real Tomayapo",
-    "league": "Primera División",
-    "date": "2026-06-14",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Futbol Canal",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "36707",
-    "slug": "málaga-vs-almería-2026-06-14",
-    "team_a": "Málaga",
-    "team_b": "Almería",
-    "league": "LaLiga SmartBank",
-    "date": "2026-06-14",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "LaLiga TV Hypermotion",
-        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "id": "36709",
-    "slug": "atenas-vs-la-luz-2026-06-14",
-    "team_a": "Atenas",
-    "team_b": "La Luz",
-    "league": "Segunda División",
-    "date": "2026-06-14",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36720",
-    "slug": "milwaukee-brewers-vs-philadelphia-phillies-2026-06-14",
-    "team_a": "Milwaukee Brewers",
-    "team_b": "Philadelphia Phillies",
-    "league": "MLB",
-    "date": "2026-06-14",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "ESPN 7",
-        "url": "https://tvtvhd.com/canales.php?stream=espn7"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
-    "id": "36721",
-    "slug": "milwaukee-brewers-vs-philadelphia-phillies-2026-06-14",
-    "team_a": "Milwaukee Brewers",
-    "team_b": "Philadelphia Phillies",
-    "league": "MLB",
-    "date": "2026-06-14",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "ESPN 7",
-        "url": "https://tvtvhd.com/canales.php?stream=espn7"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
-    "id": "36722",
-    "slug": "stade-francais-vs-la-rochelle-2026-06-14",
-    "team_a": "Stade Francais",
-    "team_b": "La Rochelle",
-    "league": "Rugby – Top 14",
-    "date": "2026-06-14",
-    "time": "13:55",
-    "streams": [
-      {
-        "name": "ESPN 5",
-        "url": "https://tvtvhd.com/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "36724",
@@ -166,22 +78,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "36705",
-    "slug": "unión-la-calera-vs-universidad-chile-2026-06-14",
-    "team_a": "Unión La Calera",
-    "team_b": "Universidad Chile",
-    "league": "Primera División",
-    "date": "2026-06-14",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
     "id": "36706",
