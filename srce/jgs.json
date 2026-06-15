@@ -72,42 +72,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
   },
   {
-    "id": "36728",
-    "slug": "españa-vs-islas-de-cabo-verde-2026-06-15",
-    "team_a": "España",
-    "team_b": "Islas de Cabo Verde",
-    "league": "Copa del Mundo",
-    "date": "2026-06-15",
-    "time": "11:00",
-    "streams": [
-      {
-        "name": "Dsports Mundial",
-        "url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
-      },
-      {
-        "name": "TYC Sports Mundial",
-        "url": "https://tvtvhd.com/online/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Telemundo 2",
-        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
-      },
-      {
-        "name": "Caracol TV",
-        "url": "https://tvtvhd.com/canales.php?stream=caracol"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv"
-      },
-      {
-        "name": "CAZÉ TV",
-        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2dydS1uaXRyby9saXZlL2NsaWVudHMvZGFzaC1zZC9lbmMvdHdydWxkamcyby9vdXQvdjEvMjlhNDM2MDM4MTU5NDYzMTgzZjYyNGNlODZkNmVkNGEvY2VuYy1zZC5tcGQ=&k=OWRkMzRhZTk3Y2YxNDdiYThmNTU2OTdmMzcyMTI4ODc6YzZlYTk1ZmZkNTdmYjc0NTMxZDVjYzIwNDZiOTc2MzY="
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
-  },
-  {
     "id": "36733",
     "slug": "washington-nationals-vs-kansas-city-royals-2026-06-15",
     "team_a": "Washington Nationals",
@@ -138,54 +102,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36729",
-    "slug": "bélgica-vs-egipto-2026-06-15",
-    "team_a": "Bélgica",
-    "team_b": "Egipto",
-    "league": "Copa del Mundo",
-    "date": "2026-06-15",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Telemundo 2",
-        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
-      },
-      {
-        "name": "Dsports Mundial",
-        "url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
-      },
-      {
-        "name": "TYC Sports Mundial",
-        "url": "https://tvtvhd.com/online/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1"
-      },
-      {
-        "name": "DSports +",
-        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-      },
-      {
-        "name": "America Television",
-        "url": "https://tvtvhd.com/canales.php?stream=americatv"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv"
-      },
-      {
-        "name": "CAZÉ TV",
-        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2dydS1uaXRyby9saXZlL2NsaWVudHMvZGFzaC1zZC9lbmMvdHdydWxkamcyby9vdXQvdjEvMjlhNDM2MDM4MTU5NDYzMTgzZjYyNGNlODZkNmVkNGEvY2VuYy1zZC5tcGQ=&k=OWRkMzRhZTk3Y2YxNDdiYThmNTU2OTdmMzcyMTI4ODc6YzZlYTk1ZmZkNTdmYjc0NTMxZDVjYzIwNDZiOTc2MzY="
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
   },
   {
     "id": "36731",
