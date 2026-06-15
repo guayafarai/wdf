@@ -1,73 +1,5 @@
 [
   {
-    "id": "36728",
-    "slug": "españa-vs-islas-de-cabo-verde-2026-06-15",
-    "team_a": "España",
-    "team_b": "Islas de Cabo Verde",
-    "league": "Copa del Mundo",
-    "date": "2026-06-15",
-    "time": "11:00",
-    "streams": [
-      {
-        "name": "Telemundo 2",
-        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Caracol TV",
-        "url": "https://tvtvhd.com/canales.php?stream=caracol"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
-  },
-  {
-    "id": "36730",
-    "slug": "arabia-saudita-vs-uruguay-2026-06-15",
-    "team_a": "Arabia Saudita",
-    "team_b": "Uruguay",
-    "league": "Copa del Mundo",
-    "date": "2026-06-15",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "Telemundo 2",
-        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Win Sports",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv"
-      },
-      {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
-  },
-  {
     "id": "36732",
     "slug": "bolívar-vs-guabirá-2026-06-15",
     "team_a": "Bolívar",
@@ -100,61 +32,33 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "36729",
-    "slug": "bélgica-vs-egipto-2026-06-15",
-    "team_a": "Bélgica",
-    "team_b": "Egipto",
+    "id": "36730",
+    "slug": "arabia-saudita-vs-uruguay-2026-06-15",
+    "team_a": "Arabia Saudita",
+    "team_b": "Uruguay",
     "league": "Copa del Mundo",
     "date": "2026-06-15",
-    "time": "14:00",
+    "time": "17:00",
     "streams": [
       {
         "name": "Telemundo 2",
         "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
       },
       {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+        "name": "Dsports Mundial",
+        "url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
       },
       {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+        "name": "TYC Sports Mundial",
+        "url": "https://tvtvhd.com/online/canales.php?stream=tycsports"
       },
       {
-        "name": "America Television",
-        "url": "https://tvtvhd.com/canales.php?stream=americatv"
+        "name": "Win Sports",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
       },
       {
         "name": "Sportv BR",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
-  },
-  {
-    "id": "36731",
-    "slug": "irán-vs-nueva-zelanda-2026-06-15",
-    "team_a": "Irán",
-    "team_b": "Nueva Zelanda",
-    "league": "Copa del Mundo",
-    "date": "2026-06-15",
-    "time": "20:00",
-    "streams": [
-      {
-        "name": "Telemundo 2",
-        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
       },
       {
         "name": "Deportes TV. C",
@@ -166,6 +70,42 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+  },
+  {
+    "id": "36728",
+    "slug": "españa-vs-islas-de-cabo-verde-2026-06-15",
+    "team_a": "España",
+    "team_b": "Islas de Cabo Verde",
+    "league": "Copa del Mundo",
+    "date": "2026-06-15",
+    "time": "11:00",
+    "streams": [
+      {
+        "name": "Dsports Mundial",
+        "url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
+      },
+      {
+        "name": "TYC Sports Mundial",
+        "url": "https://tvtvhd.com/online/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Telemundo 2",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://tvtvhd.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvtvhd.com/canales.php?stream=goltv"
+      },
+      {
+        "name": "CAZÉ TV",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2dydS1uaXRyby9saXZlL2NsaWVudHMvZGFzaC1zZC9lbmMvdHdydWxkamcyby9vdXQvdjEvMjlhNDM2MDM4MTU5NDYzMTgzZjYyNGNlODZkNmVkNGEvY2VuYy1zZC5tcGQ=&k=OWRkMzRhZTk3Y2YxNDdiYThmNTU2OTdmMzcyMTI4ODc6YzZlYTk1ZmZkNTdmYjc0NTMxZDVjYzIwNDZiOTc2MzY="
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
   },
   {
     "id": "36733",
@@ -198,5 +138,89 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36729",
+    "slug": "bélgica-vs-egipto-2026-06-15",
+    "team_a": "Bélgica",
+    "team_b": "Egipto",
+    "league": "Copa del Mundo",
+    "date": "2026-06-15",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "Telemundo 2",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+      },
+      {
+        "name": "Dsports Mundial",
+        "url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
+      },
+      {
+        "name": "TYC Sports Mundial",
+        "url": "https://tvtvhd.com/online/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1"
+      },
+      {
+        "name": "DSports +",
+        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
+      },
+      {
+        "name": "America Television",
+        "url": "https://tvtvhd.com/canales.php?stream=americatv"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvtvhd.com/canales.php?stream=goltv"
+      },
+      {
+        "name": "CAZÉ TV",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2dydS1uaXRyby9saXZlL2NsaWVudHMvZGFzaC1zZC9lbmMvdHdydWxkamcyby9vdXQvdjEvMjlhNDM2MDM4MTU5NDYzMTgzZjYyNGNlODZkNmVkNGEvY2VuYy1zZC5tcGQ=&k=OWRkMzRhZTk3Y2YxNDdiYThmNTU2OTdmMzcyMTI4ODc6YzZlYTk1ZmZkNTdmYjc0NTMxZDVjYzIwNDZiOTc2MzY="
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+  },
+  {
+    "id": "36731",
+    "slug": "irán-vs-nueva-zelanda-2026-06-15",
+    "team_a": "Irán",
+    "team_b": "Nueva Zelanda",
+    "league": "Copa del Mundo",
+    "date": "2026-06-15",
+    "time": "20:00",
+    "streams": [
+      {
+        "name": "Telemundo 2",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+      },
+      {
+        "name": "TYC Sports Mundial",
+        "url": "https://tvtvhd.com/online/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Dsports Mundial",
+        "url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvtvhd.com/canales.php?stream=goltv"
+      },
+      {
+        "name": "FOX Sports 1 USA",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+      },
+      {
+        "name": "CAZÉ TV",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2dydS1uaXRyby9saXZlL2NsaWVudHMvZGFzaC1zZC9lbmMvdHdydWxkamcyby9vdXQvdjEvMjlhNDM2MDM4MTU5NDYzMTgzZjYyNGNlODZkNmVkNGEvY2VuYy1zZC5tcGQ=&k=OWRkMzRhZTk3Y2YxNDdiYThmNTU2OTdmMzcyMTI4ODc6YzZlYTk1ZmZkNTdmYjc0NTMxZDVjYzIwNDZiOTc2MzY="
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
   }
 ]
