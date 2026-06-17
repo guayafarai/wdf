@@ -1,74 +1,34 @@
 [
   {
-    "id": "36738",
-    "slug": "argentina-vs-argelia-2026-06-16",
-    "team_a": "Argentina",
-    "team_b": "Argelia",
-    "league": "Copa del Mundo",
-    "date": "2026-06-16",
+    "id": "Barcelona-2026-06-17",
+    "slug": "barcelona-vs-real-madrid-2026-06-17",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-06-17",
     "time": "20:00",
     "streams": [
       {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Telemundo 2",
-        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
-      },
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1"
-      },
-      {
-        "name": "Telefe Mundial",
-        "url": "https://tvtvhd.com/online/canales.php?stream=telefe"
-      },
-      {
-        "name": "Canal 5 MX",
-        "url": "https://tvtvhd.com/canales.php?stream=canal5"
-      },
-      {
-        "name": "Caracol TV",
-        "url": "https://tvtvhd.com/canales.php?stream=caracol"
+        "name": "Demo",
+        "url": "https://example.com/embed/barcelona-real-madrid"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "36739",
-    "slug": "austria-vs-jordania-2026-06-16",
-    "team_a": "Austria",
-    "team_b": "Jordania",
-    "league": "Copa del Mundo",
-    "date": "2026-06-16",
-    "time": "23:00",
+    "id": "América-2026-06-17",
+    "slug": "américa-vs-chivas-2026-06-17",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-06-17",
+    "time": "22:00",
     "streams": [
       {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Telemundo 2",
-        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+        "name": "Demo",
+        "url": "https://example.com/embed/america-chivas"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
