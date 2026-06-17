@@ -1,109 +1,10 @@
 {
   "metadata": {
-    "last_updated": "2026-06-17T16:34:24.720222Z",
+    "last_updated": "2026-06-17T19:21:35.980019Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 7
+    "total_events": 6
   },
   "data": [
-    {
-      "id": 36746,
-      "attributes": {
-        "diary_description": "Hockey – Pro League Masculino – Australia vs Argentina",
-        "diary_hour": "11:00:00",
-        "date_diary": "2026-06-17",
-        "createdAt": "2026-06-17T03:21:41.096Z",
-        "updatedAt": "2026-06-17T03:21:41.096Z",
-        "publishedAt": "2026-06-17T09:44:31.163Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 148,
-            "attributes": {
-              "name": "Hokey ",
-              "createdAt": "2025-12-12T17:17:04.064Z",
-              "updatedAt": "2025-12-12T17:17:06.611Z",
-              "publishedAt": "2025-12-12T17:17:06.607Z",
-              "image": {
-                "data": {
-                  "id": 422,
-                  "attributes": {
-                    "name": "hokey.jpg",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 518,
-                    "height": 518,
-                    "formats": {
-                      "small": {
-                        "ext": ".jpg",
-                        "url": "/uploads/small_hokey_53ec88fc22.jpg",
-                        "hash": "small_hokey_53ec88fc22",
-                        "mime": "image/jpeg",
-                        "name": "small_hokey.jpg",
-                        "path": null,
-                        "size": 40.54,
-                        "width": 500,
-                        "height": 500
-                      },
-                      "thumbnail": {
-                        "ext": ".jpg",
-                        "url": "/uploads/thumbnail_hokey_53ec88fc22.jpg",
-                        "hash": "thumbnail_hokey_53ec88fc22",
-                        "mime": "image/jpeg",
-                        "name": "thumbnail_hokey.jpg",
-                        "path": null,
-                        "size": 8.6,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "hokey_53ec88fc22",
-                    "ext": ".jpg",
-                    "mime": "image/jpeg",
-                    "size": 42.27,
-                    "url": "/uploads/hokey_53ec88fc22.jpg",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-12-12T17:16:55.627Z",
-                    "updatedAt": "2025-12-12T17:16:55.627Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 36748,
       "attributes": {
@@ -348,7 +249,7 @@
         "diary_hour": "12:00:00",
         "date_diary": "2026-06-17",
         "createdAt": "2026-06-17T03:13:24.053Z",
-        "updatedAt": "2026-06-17T16:24:57.775Z",
+        "updatedAt": "2026-06-17T16:53:47.005Z",
         "publishedAt": "2026-06-17T09:44:31.163Z",
         "channels": {
           "data": []
@@ -356,11 +257,11 @@
         "embeds": {
           "data": [
             {
-              "id": 1352,
+              "id": 644,
               "attributes": {
-                "embed_name": "Dsports Mundial",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
-                "decoded_iframe_url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
+                "embed_name": "DSports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
               }
             },
             {
@@ -372,14 +273,6 @@
               }
             },
             {
-              "id": 644,
-              "attributes": {
-                "embed_name": "DSports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-              }
-            },
-            {
               "id": 341,
               "attributes": {
                 "embed_name": "DSports | OP2",
@@ -388,11 +281,11 @@
               }
             },
             {
-              "id": 748,
+              "id": 1352,
               "attributes": {
-                "embed_name": "DSports | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM=",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=dsports"
+                "embed_name": "Dsports Mundial",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
+                "decoded_iframe_url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
               }
             },
             {
@@ -401,6 +294,14 @@
                 "embed_name": "Canal 5 MX",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1jYW5hbDU=",
                 "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=canal5"
+              }
+            },
+            {
+              "id": 748,
+              "attributes": {
+                "embed_name": "DSports | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM=",
+                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=dsports"
               }
             },
             {
