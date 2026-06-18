@@ -16,50 +16,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36755",
-    "slug": "argentina-vs-australia-2026-06-18",
-    "team_a": "Argentina",
-    "team_b": "Australia",
-    "league": "Hockey – Pro League Masculino",
-    "date": "2026-06-18",
-    "time": "11:00",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36749",
-    "slug": "república-checa-vs-sur-áfrica-2026-06-18",
-    "team_a": "República Checa",
-    "team_b": "Sur África",
-    "league": "Copa del Mundo",
-    "date": "2026-06-18",
-    "time": "11:00",
-    "streams": [
-      {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
     "id": "36751",
     "slug": "canadá-vs-qatar-2026-06-18",
     "team_a": "Canadá",
@@ -68,6 +24,10 @@
     "date": "2026-06-18",
     "time": "17:00",
     "streams": [
+      {
+        "name": "Telemundo Mundial",
+        "url": "https://tvtvhd.com/online/canales.php?stream=telemundo"
+      },
       {
         "name": "DSports",
         "url": "https://tvtvhd.com/canales.php?stream=dsports"
@@ -85,39 +45,7 @@
         "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36754",
-    "slug": "golf---us-open-2026---primera-vuelta-2026-06-18",
-    "team_a": "",
-    "team_b": "",
-    "league": "Golf – Us Open 2026 – Primera Vuelta",
-    "date": "2026-06-18",
-    "time": "11:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36756",
-    "slug": "mlb---texas-rangers-vs.-minnesota-twins-2026-06-18",
-    "team_a": "",
-    "team_b": "",
-    "league": "MLB – Texas Rangers vs. Minnesota Twins",
-    "date": "2026-06-18",
-    "time": "13:30",
-    "streams": [
-      {
-        "name": "ESPN 5",
-        "url": "https://tvtvhd.com/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
+    "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=telemundo"
   },
   {
     "id": "36750",
