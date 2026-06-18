@@ -1,34 +1,202 @@
 [
   {
-    "id": "Barcelona-2026-06-18",
-    "slug": "barcelona-vs-real-madrid-2026-06-18",
-    "team_a": "Barcelona",
-    "team_b": "Real Madrid",
-    "league": "La Liga",
+    "id": "36749",
+    "slug": "república-checa-vs-sur-áfrica-2026-06-18",
+    "team_a": "República Checa",
+    "team_b": "Sur África",
+    "league": "Copa del Mundo",
+    "date": "2026-06-18",
+    "time": "11:00",
+    "streams": [
+      {
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Telemundo 2",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+      },
+      {
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "36751",
+    "slug": "canadá-vs-qatar-2026-06-18",
+    "team_a": "Canadá",
+    "team_b": "Qatar",
+    "league": "Copa del Mundo",
+    "date": "2026-06-18",
+    "time": "17:00",
+    "streams": [
+      {
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Telemundo 2",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvtvhd.com/canales.php?stream=goltv"
+      },
+      {
+        "name": "FOX Sports 1 USA",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "36753",
+    "slug": "universidad-chile-vs-o'higgins-2026-06-18",
+    "team_a": "Universidad Chile",
+    "team_b": "O'Higgins",
+    "league": "Primera División",
+    "date": "2026-06-18",
+    "time": "19:00",
+    "streams": [
+      {
+        "name": "TNT Sports Premiun CL",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36755",
+    "slug": "argentina-vs-australia-2026-06-18",
+    "team_a": "Argentina",
+    "team_b": "Australia",
+    "league": "Hockey – Pro League Masculino",
+    "date": "2026-06-18",
+    "time": "11:00",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36750",
+    "slug": "suiza-vs-bosnia-herzegovina-2026-06-18",
+    "team_a": "Suiza",
+    "team_b": "Bosnia-Herzegovina",
+    "league": "Copa del Mundo",
+    "date": "2026-06-18",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Telemundo 2",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+      },
+      {
+        "name": "Telefe",
+        "url": "https://tvtvhd.com/canales.php?stream=telefe"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://tvtvhd.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "America Television",
+        "url": "https://tvtvhd.com/canales.php?stream=americatv"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "36752",
+    "slug": "méxico-vs-corea-del-sur-2026-06-18",
+    "team_a": "México",
+    "team_b": "Corea del Sur",
+    "league": "Copa del Mundo",
     "date": "2026-06-18",
     "time": "20:00",
     "streams": [
       {
-        "name": "Demo",
-        "url": "https://example.com/embed/barcelona-real-madrid"
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Telemundo 2",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+      },
+      {
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "America Television",
+        "url": "https://tvtvhd.com/canales.php?stream=americatv"
+      },
+      {
+        "name": "Win Sports",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://tvtvhd.com/canales.php?stream=canal5"
+      },
+      {
+        "name": "Azteca 7",
+        "url": "https://tvtvhd.com/canales.php?stream=azteca7"
+      },
+      {
+        "name": "Universo",
+        "url": "https://tvtvhd.com/canales.php?stream=universo"
       }
     ],
-    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
-    "id": "América-2026-06-18",
-    "slug": "américa-vs-chivas-2026-06-18",
-    "team_a": "América",
-    "team_b": "Chivas",
-    "league": "Liga MX",
+    "id": "36754",
+    "slug": "golf---us-open-2026---primera-vuelta-2026-06-18",
+    "team_a": "",
+    "team_b": "",
+    "league": "Golf – Us Open 2026 – Primera Vuelta",
     "date": "2026-06-18",
-    "time": "22:00",
+    "time": "11:00",
     "streams": [
       {
-        "name": "Demo",
-        "url": "https://example.com/embed/america-chivas"
+        "name": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2"
       }
     ],
-    "decoded_iframe_url": "https://example.com/embed/america-chivas"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36756",
+    "slug": "mlb---texas-rangers-vs.-minnesota-twins-2026-06-18",
+    "team_a": "",
+    "team_b": "",
+    "league": "MLB – Texas Rangers vs. Minnesota Twins",
+    "date": "2026-06-18",
+    "time": "13:30",
+    "streams": [
+      {
+        "name": "ESPN 5",
+        "url": "https://tvtvhd.com/canales.php?stream=espn5"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   }
 ]
