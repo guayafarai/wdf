@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-18T19:22:42.448403Z",
+    "last_updated": "2026-06-18T22:01:11.391617Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 5
+    "total_events": 4
   },
   "data": [
     {
@@ -80,7 +80,7 @@
         "diary_hour": "17:00:00",
         "date_diary": "2026-06-18",
         "createdAt": "2026-06-18T01:20:56.773Z",
-        "updatedAt": "2026-06-18T15:38:27.149Z",
+        "updatedAt": "2026-06-18T21:55:15.448Z",
         "publishedAt": "2026-06-18T09:12:31.046Z",
         "channels": {
           "data": []
@@ -88,11 +88,27 @@
         "embeds": {
           "data": [
             {
+              "id": 290,
+              "attributes": {
+                "embed_name": "Telemundo Mundial",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dGVsZW11bmRv",
+                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=telemundo"
+              }
+            },
+            {
               "id": 644,
               "attributes": {
                 "embed_name": "DSports",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
                 "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+              }
+            },
+            {
+              "id": 787,
+              "attributes": {
+                "embed_name": "Telemundo",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8=",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
               }
             },
             {
@@ -218,82 +234,6 @@
                     "provider_metadata": null,
                     "createdAt": "2026-06-11T15:42:04.186Z",
                     "updatedAt": "2026-06-11T15:42:04.186Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36756,
-      "attributes": {
-        "diary_description": "MLB – Texas Rangers vs. Minnesota Twins",
-        "diary_hour": "13:30:00",
-        "date_diary": "2026-06-18",
-        "createdAt": "2026-06-18T01:30:25.382Z",
-        "updatedAt": "2026-06-18T01:30:25.382Z",
-        "publishedAt": "2026-06-18T09:12:31.046Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 645,
-              "attributes": {
-                "embed_name": "ESPN 5",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNQ==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-              }
-            },
-            {
-              "id": 474,
-              "attributes": {
-                "embed_name": "ESPN 5 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNQ==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn5"
-              }
-            },
-            {
-              "id": 599,
-              "attributes": {
-                "embed_name": "ESPN 5 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG41",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn5"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 70,
-            "attributes": {
-              "name": "MLB Preseason",
-              "createdAt": "2024-02-23T06:14:15.840Z",
-              "updatedAt": "2025-08-03T14:39:12.740Z",
-              "publishedAt": "2024-02-23T06:14:18.809Z",
-              "image": {
-                "data": {
-                  "id": 352,
-                  "attributes": {
-                    "name": "mlb_f5711cc440.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "mlb_f5711cc440_dde64767e4",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.66,
-                    "url": "/uploads/mlb_f5711cc440_dde64767e4.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:39:07.537Z",
-                    "updatedAt": "2025-08-03T14:39:07.537Z"
                   }
                 }
               }
