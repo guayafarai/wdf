@@ -1,37 +1,5 @@
 [
   {
-    "id": "36757",
-    "slug": "ee.-uu.-vs-australia-2026-06-19",
-    "team_a": "EE. UU.",
-    "team_b": "Australia",
-    "league": "Copa del Mundo",
-    "date": "2026-06-19",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Dsports Mundial",
-        "url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv"
-      },
-      {
-        "name": "Universo",
-        "url": "https://tvtvhd.com/canales.php?stream=universo"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
-  },
-  {
     "id": "36759",
     "slug": "brasil-vs-haití-2026-06-19",
     "team_a": "Brasil",
@@ -64,6 +32,46 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
+    "id": "36757",
+    "slug": "ee.-uu.-vs-australia-2026-06-19",
+    "team_a": "EE. UU.",
+    "team_b": "Australia",
+    "league": "Copa del Mundo",
+    "date": "2026-06-19",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "Dsports Mundial",
+        "url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
+      },
+      {
+        "name": "Entel TV",
+        "url": "https://tvtvhd.com/online/canales.php?stream=even1"
+      },
+      {
+        "name": "Tigo Sports",
+        "url": "https://tvtvhd.com/online/canales.php?stream=even2"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvtvhd.com/canales.php?stream=goltv"
+      },
+      {
+        "name": "Universo",
+        "url": "https://tvtvhd.com/canales.php?stream=universo"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
+  },
+  {
     "id": "36761",
     "slug": "real-potosí-vs-gualberto-villarroel-sj-2026-06-19",
     "team_a": "Real Potosí",
@@ -78,22 +86,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "36763",
-    "slug": "golf---us-open-2026---segunda-vuelta-2026-06-19",
-    "team_a": "",
-    "team_b": "",
-    "league": "Golf – Us Open 2026 – Segunda Vuelta",
-    "date": "2026-06-19",
-    "time": "11:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36764",
