@@ -1,28 +1,12 @@
 [
   {
-    "id": "36753",
-    "slug": "universidad-chile-vs-o'higgins-2026-06-18",
-    "team_a": "Universidad Chile",
-    "team_b": "O'Higgins",
-    "league": "Primera División",
-    "date": "2026-06-18",
-    "time": "19:00",
-    "streams": [
-      {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36751",
-    "slug": "canadá-vs-qatar-2026-06-18",
-    "team_a": "Canadá",
-    "team_b": "Qatar",
+    "id": "36757",
+    "slug": "ee.-uu.-vs-australia-2026-06-19",
+    "team_a": "EE. UU.",
+    "team_b": "Australia",
     "league": "Copa del Mundo",
-    "date": "2026-06-18",
-    "time": "17:00",
+    "date": "2026-06-19",
+    "time": "14:00",
     "streams": [
       {
         "name": "Telemundo",
@@ -33,24 +17,28 @@
         "url": "https://tvtvhd.com/canales.php?stream=dsports"
       },
       {
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+      },
+      {
         "name": "Deportes TV. C",
         "url": "https://tvtvhd.com/canales.php?stream=goltv"
       },
       {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+        "name": "Universo",
+        "url": "https://tvtvhd.com/canales.php?stream=universo"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
-    "id": "36752",
-    "slug": "méxico-vs-corea-del-sur-2026-06-18",
-    "team_a": "México",
-    "team_b": "Corea del Sur",
+    "id": "36759",
+    "slug": "brasil-vs-haití-2026-06-19",
+    "team_a": "Brasil",
+    "team_b": "Haití",
     "league": "Copa del Mundo",
-    "date": "2026-06-18",
-    "time": "20:00",
+    "date": "2026-06-19",
+    "time": "19:30",
     "streams": [
       {
         "name": "Telemundo",
@@ -67,32 +55,196 @@
       {
         "name": "Sportv BR",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36761",
+    "slug": "real-potosí-vs-gualberto-villarroel-sj-2026-06-19",
+    "team_a": "Real Potosí",
+    "team_b": "Gualberto Villarroel SJ",
+    "league": "Primera División",
+    "date": "2026-06-19",
+    "time": "16:30",
+    "streams": [
+      {
+        "name": "Futbol Canal",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+  },
+  {
+    "id": "36763",
+    "slug": "golf---us-open-2026---segunda-vuelta-2026-06-19",
+    "team_a": "",
+    "team_b": "",
+    "league": "Golf – Us Open 2026 – Segunda Vuelta",
+    "date": "2026-06-19",
+    "time": "11:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36764",
+    "slug": "josé-luis-navarro-vs-oliver-zaren-2026-06-19",
+    "team_a": "José Luis Navarro",
+    "team_b": "Oliver Zaren",
+    "league": "ESPN Knockout",
+    "date": "2026-06-19",
+    "time": "13:00",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36767",
+    "slug": "mlb---atlanta-braves-vs.-milwaukee-brewers-2026-06-19",
+    "team_a": "",
+    "team_b": "",
+    "league": "MLB – Atlanta Braves vs. Milwaukee Brewers",
+    "date": "2026-06-19",
+    "time": "18:00",
+    "streams": [
+      {
+        "name": "ESPN 4",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "36758",
+    "slug": "escocia-vs-marruecos-2026-06-19",
+    "team_a": "Escocia",
+    "team_b": "Marruecos",
+    "league": "Copa del Mundo",
+    "date": "2026-06-19",
+    "time": "17:00",
+    "streams": [
+      {
+        "name": "Telemundo",
+        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
       },
       {
-        "name": "America Television",
-        "url": "https://tvtvhd.com/canales.php?stream=americatv"
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://tvtvhd.com/canales.php?stream=caracol"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36760",
+    "slug": "turquía-vs-paraguay-2026-06-19",
+    "team_a": "Turquía",
+    "team_b": "Paraguay",
+    "league": "Copa del Mundo",
+    "date": "2026-06-19",
+    "time": "22:00",
+    "streams": [
+      {
+        "name": "Telemundo",
+        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
       },
       {
         "name": "Win Sports",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
       },
       {
-        "name": "Canal 5 MX",
-        "url": "https://tvtvhd.com/canales.php?stream=canal5"
-      },
-      {
-        "name": "Azteca 7",
-        "url": "https://tvtvhd.com/canales.php?stream=azteca7"
-      },
-      {
-        "name": "Universo",
-        "url": "https://tvtvhd.com/canales.php?stream=universo"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv"
+        "name": "FOX Sports 1 USA",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36762",
+    "slug": "miramar-misiones-vs-huracán-2026-06-19",
+    "team_a": "Miramar Misiones",
+    "team_b": "Huracán",
+    "league": "Segunda División",
+    "date": "2026-06-19",
+    "time": "16:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36765",
+    "slug": "rugby---top-14---a-confirmar-2026-06-19",
+    "team_a": "",
+    "team_b": "",
+    "league": "Rugby – Top 14 – A Confirmar",
+    "date": "2026-06-19",
+    "time": "13:50",
+    "streams": [
+      {
+        "name": "ESPN 4",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "36766",
+    "slug": "rugby---sr-americas---final---a-confirmar-2026-06-19",
+    "team_a": "",
+    "team_b": "",
+    "league": "Rugby – SR Americas – Final – A Confirmar",
+    "date": "2026-06-19",
+    "time": "17:50",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36768",
+    "slug": "andrew-stewart-vs-zayne-havener-2026-06-19",
+    "team_a": "Andrew Stewart",
+    "team_b": "Zayne Havener",
+    "league": "ESPN Knockout – LFA 235",
+    "date": "2026-06-19",
+    "time": "19:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   }
 ]
