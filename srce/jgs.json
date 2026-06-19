@@ -41,8 +41,12 @@
     "time": "14:00",
     "streams": [
       {
-        "name": "Dsports Mundial",
-        "url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
+        "name": "Telemundo",
+        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
       },
       {
         "name": "Entel TV",
@@ -51,10 +55,6 @@
       {
         "name": "Tigo Sports",
         "url": "https://tvtvhd.com/online/canales.php?stream=even2"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
       },
       {
         "name": "TYC Sports",
@@ -69,7 +69,7 @@
         "url": "https://tvtvhd.com/canales.php?stream=universo"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
     "id": "36761",
