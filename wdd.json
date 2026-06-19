@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-06-19T19:41:07.479397Z",
+    "last_updated": "2026-06-19T21:04:02.125575Z",
     "source": "https://pltvhd.com/diaries.json",
     "total_events": 11
   },
@@ -197,7 +197,7 @@
         "diary_hour": "14:00:00",
         "date_diary": "2026-06-19",
         "createdAt": "2026-06-19T01:21:23.428Z",
-        "updatedAt": "2026-06-19T19:25:13.326Z",
+        "updatedAt": "2026-06-19T19:56:23.961Z",
         "publishedAt": "2026-06-19T03:33:20.324Z",
         "channels": {
           "data": []
@@ -205,19 +205,11 @@
         "embeds": {
           "data": [
             {
-              "id": 1352,
+              "id": 787,
               "attributes": {
-                "embed_name": "Dsports Mundial",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
-                "decoded_iframe_url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
-              }
-            },
-            {
-              "id": 1191,
-              "attributes": {
-                "embed_name": "Entel TV",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE=",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
+                "embed_name": "Telemundo",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8=",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
               }
             },
             {
@@ -229,19 +221,27 @@
               }
             },
             {
+              "id": 1191,
+              "attributes": {
+                "embed_name": "Entel TV",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE=",
+                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
+              }
+            },
+            {
+              "id": 1352,
+              "attributes": {
+                "embed_name": "Dsports Mundial",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
+                "decoded_iframe_url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
+              }
+            },
+            {
               "id": 419,
               "attributes": {
                 "embed_name": "Tigo Sports",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjI=",
                 "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even2"
-              }
-            },
-            {
-              "id": 787,
-              "attributes": {
-                "embed_name": "Telemundo",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8=",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
               }
             },
             {
