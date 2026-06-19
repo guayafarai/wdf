@@ -9,12 +9,12 @@
     "time": "14:00",
     "streams": [
       {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
+        "name": "Dsports Mundial",
+        "url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
       },
       {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+        "name": "Telemundo",
+        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
       },
       {
         "name": "TYC Sports",
@@ -29,7 +29,7 @@
         "url": "https://tvtvhd.com/canales.php?stream=universo"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
   },
   {
     "id": "36759",
@@ -55,6 +55,10 @@
       {
         "name": "Sportv BR",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvtvhd.com/canales.php?stream=goltv"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
@@ -70,10 +74,10 @@
     "streams": [
       {
         "name": "Futbol Canal",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+        "url": "https://tvtvhd.com/online/canales.php?stream=even1"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+    "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
   },
   {
     "id": "36763",
@@ -124,32 +128,20 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
-    "id": "36758",
-    "slug": "escocia-vs-marruecos-2026-06-19",
-    "team_a": "Escocia",
-    "team_b": "Marruecos",
-    "league": "Copa del Mundo",
+    "id": "36762",
+    "slug": "miramar-misiones-vs-huracán-2026-06-19",
+    "team_a": "Miramar Misiones",
+    "team_b": "Huracán",
+    "league": "Segunda División",
     "date": "2026-06-19",
-    "time": "17:00",
+    "time": "16:00",
     "streams": [
       {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Caracol TV",
-        "url": "https://tvtvhd.com/canales.php?stream=caracol"
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
   },
   {
     "id": "36760",
@@ -165,8 +157,12 @@
         "url": "https://tvtvhd.com/canales.php?stream=telemundo"
       },
       {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+        "name": "Dsports Mundial",
+        "url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney3"
       },
       {
         "name": "Sportv BR",
@@ -184,20 +180,44 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
-    "id": "36762",
-    "slug": "miramar-misiones-vs-huracán-2026-06-19",
-    "team_a": "Miramar Misiones",
-    "team_b": "Huracán",
-    "league": "Segunda División",
+    "id": "36758",
+    "slug": "escocia-vs-marruecos-2026-06-19",
+    "team_a": "Escocia",
+    "team_b": "Marruecos",
+    "league": "Copa del Mundo",
     "date": "2026-06-19",
-    "time": "16:00",
+    "time": "17:00",
     "streams": [
       {
+        "name": "Telemundo",
+        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
         "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn"
+        "url": "https://tvtvhd.com/canales.php?stream=disney2"
+      },
+      {
+        "name": "Telefe",
+        "url": "https://tvtvhd.com/canales.php?stream=telefe"
+      },
+      {
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://tvtvhd.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvtvhd.com/canales.php?stream=goltv"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
     "id": "36765",
