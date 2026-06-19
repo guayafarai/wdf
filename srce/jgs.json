@@ -32,46 +32,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
-    "id": "36757",
-    "slug": "ee.-uu.-vs-australia-2026-06-19",
-    "team_a": "EE. UU.",
-    "team_b": "Australia",
-    "league": "Copa del Mundo",
-    "date": "2026-06-19",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Entel TV",
-        "url": "https://tvtvhd.com/online/canales.php?stream=even1"
-      },
-      {
-        "name": "Tigo Sports",
-        "url": "https://tvtvhd.com/online/canales.php?stream=even2"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv"
-      },
-      {
-        "name": "Universo",
-        "url": "https://tvtvhd.com/canales.php?stream=universo"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
     "id": "36761",
     "slug": "real-potosí-vs-gualberto-villarroel-sj-2026-06-19",
     "team_a": "Real Potosí",
@@ -86,22 +46,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "36764",
-    "slug": "josé-luis-navarro-vs-oliver-zaren-2026-06-19",
-    "team_a": "José Luis Navarro",
-    "team_b": "Oliver Zaren",
-    "league": "ESPN Knockout",
-    "date": "2026-06-19",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "36767",
@@ -185,8 +129,12 @@
         "url": "https://tvtvhd.com/canales.php?stream=telemundo"
       },
       {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+        "name": "Tigo Sports",
+        "url": "https://tvtvhd.com/online/canales.php?stream=even2"
+      },
+      {
+        "name": "Dsports Mundial",
+        "url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
       },
       {
         "name": "Disney+",
@@ -210,22 +158,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
-    "id": "36765",
-    "slug": "rugby---top-14---a-confirmar-2026-06-19",
-    "team_a": "",
-    "team_b": "",
-    "league": "Rugby – Top 14 – A Confirmar",
-    "date": "2026-06-19",
-    "time": "13:50",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
     "id": "36766",
