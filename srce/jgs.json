@@ -16,6 +16,74 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
+    "id": "36778",
+    "slug": "fénix-vs-oriental-2026-06-20",
+    "team_a": "Fénix",
+    "team_b": "Oriental",
+    "league": "Segunda División",
+    "date": "2026-06-20",
+    "time": "11:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
+  },
+  {
+    "id": "36779",
+    "slug": "tacuarembó-vs-paysandu-2026-06-20",
+    "team_a": "Tacuarembó",
+    "team_b": "Paysandu",
+    "league": "Segunda División",
+    "date": "2026-06-20",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney5"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
+  },
+  {
+    "id": "36772",
+    "slug": "túnez-vs-japón-2026-06-20",
+    "team_a": "Túnez",
+    "team_b": "Japón",
+    "league": "Copa del Mundo",
+    "date": "2026-06-20",
+    "time": "23:00",
+    "streams": [
+      {
+        "name": "Telemundo",
+        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Universo",
+        "url": "https://tvtvhd.com/canales.php?stream=universo"
+      },
+      {
+        "name": "FOX Sports 1 USA",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvtvhd.com/canales.php?stream=goltv"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+  },
+  {
     "id": "36769",
     "slug": "países-bajos-vs-suecia-2026-06-20",
     "team_a": "Países Bajos",
@@ -37,6 +105,10 @@
         "url": "https://tvtvhd.com/canales.php?stream=tycsports"
       },
       {
+        "name": "America Television",
+        "url": "https://tvtvhd.com/canales.php?stream=americatv"
+      },
+      {
         "name": "Win Sports",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
       },
@@ -45,8 +117,8 @@
         "url": "https://tvtvhd.com/canales.php?stream=canal5"
       },
       {
-        "name": "America Television",
-        "url": "https://tvtvhd.com/canales.php?stream=americatv"
+        "name": "Deportes TV. C",
+        "url": "https://tvtvhd.com/canales.php?stream=goltv"
       },
       {
         "name": "Azteca 7",
@@ -77,32 +149,12 @@
         "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
       },
       {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
-    "id": "36772",
-    "slug": "túnez-vs-japón-2026-06-20",
-    "team_a": "Túnez",
-    "team_b": "Japón",
-    "league": "Copa del Mundo",
-    "date": "2026-06-20",
-    "time": "23:00",
-    "streams": [
-      {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
+        "name": "Universo",
+        "url": "https://tvtvhd.com/canales.php?stream=universo"
       },
       {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+        "name": "Deportes TV. C",
+        "url": "https://tvtvhd.com/canales.php?stream=goltv"
       },
       {
         "name": "FOX Sports 1 USA",
@@ -144,86 +196,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
   },
   {
-    "id": "36777",
-    "slug": "deportivo-colonia-vs-river-plate-2026-06-20",
-    "team_a": "Deportivo Colonia",
-    "team_b": "River Plate",
-    "league": "Segunda División",
-    "date": "2026-06-20",
-    "time": "08:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
-    "id": "36778",
-    "slug": "fénix-vs-oriental-2026-06-20",
-    "team_a": "Fénix",
-    "team_b": "Oriental",
-    "league": "Segunda División",
-    "date": "2026-06-20",
-    "time": "11:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36779",
-    "slug": "tacuarembó-vs-paysandu-2026-06-20",
-    "team_a": "Tacuarembó",
-    "team_b": "Paysandu",
-    "league": "Segunda División",
-    "date": "2026-06-20",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36783",
-    "slug": "inglaterra-vs-argentina-2026-06-20",
-    "team_a": "Inglaterra",
-    "team_b": "Argentina",
-    "league": "Hockey – Pro League Masculino",
-    "date": "2026-06-20",
-    "time": "06:30",
-    "streams": [
-      {
-        "name": "ESPN 5",
-        "url": "https://tvtvhd.com/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "36784",
-    "slug": "motogp---gp-chequia---sprint-2026-06-20",
-    "team_a": "",
-    "team_b": "",
-    "league": "MotoGP – GP Chequia – Sprint",
-    "date": "2026-06-20",
-    "time": "07:30",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
     "id": "36786",
     "slug": "golf---us-open-2026---tercera-vuelta-2026-06-20",
     "team_a": "",
@@ -256,6 +228,46 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
   },
   {
+    "id": "36776",
+    "slug": "almería-vs-málaga-|-final-2/2-2026-06-20",
+    "team_a": "Almería",
+    "team_b": "Málaga | Final 2/2",
+    "league": "LaLiga SmartBank",
+    "date": "2026-06-20",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney3"
+      },
+      {
+        "name": "LaLiga TV Hypermotion",
+        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
+      },
+      {
+        "name": "ESPN 5",
+        "url": "https://tvtvhd.com/canales.php?stream=espn5"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
+  },
+  {
+    "id": "36780",
+    "slug": "plaza-colonia-vs-atenas-2026-06-20",
+    "team_a": "Plaza Colonia",
+    "team_b": "Atenas",
+    "league": "Segunda División",
+    "date": "2026-06-20",
+    "time": "17:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney7"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
+  },
+  {
     "id": "36770",
     "slug": "alemania-vs-costa-de-marfil-2026-06-20",
     "team_a": "Alemania",
@@ -273,16 +285,20 @@
         "url": "https://tvtvhd.com/canales.php?stream=dsports"
       },
       {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney6"
+      },
+      {
         "name": "TYC Sports",
         "url": "https://tvtvhd.com/canales.php?stream=tycsports"
       },
       {
-        "name": "Telefe",
-        "url": "https://tvtvhd.com/canales.php?stream=telefe"
-      },
-      {
         "name": "America Television",
         "url": "https://tvtvhd.com/canales.php?stream=americatv"
+      },
+      {
+        "name": "Telefe",
+        "url": "https://tvtvhd.com/canales.php?stream=telefe"
       },
       {
         "name": "Sportv BR",
@@ -291,6 +307,10 @@
       {
         "name": "Caracol TV",
         "url": "https://tvtvhd.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvtvhd.com/canales.php?stream=goltv"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
@@ -310,74 +330,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "36776",
-    "slug": "almería-vs-málaga-2026-06-20",
-    "team_a": "Almería",
-    "team_b": "Málaga",
-    "league": "LaLiga SmartBank",
-    "date": "2026-06-20",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "LaLiga TV Hypermotion",
-        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-      },
-      {
-        "name": "ESPN 5",
-        "url": "https://tvtvhd.com/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "id": "36780",
-    "slug": "plaza-colonia-vs-atenas-2026-06-20",
-    "team_a": "Plaza Colonia",
-    "team_b": "Atenas",
-    "league": "Segunda División",
-    "date": "2026-06-20",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36782",
-    "slug": "bélgica-vs-argentina-2026-06-20",
-    "team_a": "Bélgica",
-    "team_b": "Argentina",
-    "league": "Hockey – Pro League Femenino",
-    "date": "2026-06-20",
-    "time": "06:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36785",
-    "slug": "rugby:-premiership---final---a-confirmar-2026-06-20",
-    "team_a": "",
-    "team_b": "",
-    "league": "Rugby:  Premiership – Final – A Confirmar",
-    "date": "2026-06-20",
-    "time": "08:45",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
     "id": "36787",
