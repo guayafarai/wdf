@@ -1,194 +1,34 @@
 [
   {
-    "id": "36759",
-    "slug": "brasil-vs-haití-2026-06-19",
-    "team_a": "Brasil",
-    "team_b": "Haití",
-    "league": "Copa del Mundo",
-    "date": "2026-06-19",
-    "time": "19:30",
+    "id": "Barcelona-2026-06-20",
+    "slug": "barcelona-vs-real-madrid-2026-06-20",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-06-20",
+    "time": "20:00",
     "streams": [
       {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv"
+        "name": "Demo",
+        "url": "https://example.com/embed/barcelona-real-madrid"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "36761",
-    "slug": "real-potosí-vs-gualberto-villarroel-sj-2026-06-19",
-    "team_a": "Real Potosí",
-    "team_b": "Gualberto Villarroel SJ",
-    "league": "Primera División",
-    "date": "2026-06-19",
-    "time": "16:30",
-    "streams": [
-      {
-        "name": "Futbol Canal",
-        "url": "https://tvtvhd.com/online/canales.php?stream=even1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "36767",
-    "slug": "mlb---atlanta-braves-vs.-milwaukee-brewers-2026-06-19",
-    "team_a": "",
-    "team_b": "",
-    "league": "MLB – Atlanta Braves vs. Milwaukee Brewers",
-    "date": "2026-06-19",
-    "time": "18:00",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36762",
-    "slug": "miramar-misiones-vs-huracán-2026-06-19",
-    "team_a": "Miramar Misiones",
-    "team_b": "Huracán",
-    "league": "Segunda División",
-    "date": "2026-06-19",
-    "time": "16:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
-    "id": "36760",
-    "slug": "turquía-vs-paraguay-2026-06-19",
-    "team_a": "Turquía",
-    "team_b": "Paraguay",
-    "league": "Copa del Mundo",
-    "date": "2026-06-19",
+    "id": "América-2026-06-20",
+    "slug": "américa-vs-chivas-2026-06-20",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-06-20",
     "time": "22:00",
     "streams": [
       {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "Dsports Mundial",
-        "url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney3"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Win Sports",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
-      },
-      {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+        "name": "Demo",
+        "url": "https://example.com/embed/america-chivas"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
-    "id": "36758",
-    "slug": "escocia-vs-marruecos-2026-06-19",
-    "team_a": "Escocia",
-    "team_b": "Marruecos",
-    "league": "Copa del Mundo",
-    "date": "2026-06-19",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "Tigo Sports",
-        "url": "https://tvtvhd.com/online/canales.php?stream=even2"
-      },
-      {
-        "name": "Dsports Mundial",
-        "url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2"
-      },
-      {
-        "name": "Telefe",
-        "url": "https://tvtvhd.com/canales.php?stream=telefe"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Caracol TV",
-        "url": "https://tvtvhd.com/canales.php?stream=caracol"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
-    "id": "36766",
-    "slug": "rugby---sr-americas---final---a-confirmar-2026-06-19",
-    "team_a": "",
-    "team_b": "",
-    "league": "Rugby – SR Americas – Final – A Confirmar",
-    "date": "2026-06-19",
-    "time": "17:50",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36768",
-    "slug": "andrew-stewart-vs-zayne-havener-2026-06-19",
-    "team_a": "Andrew Stewart",
-    "team_b": "Zayne Havener",
-    "league": "ESPN Knockout – LFA 235",
-    "date": "2026-06-19",
-    "time": "19:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
