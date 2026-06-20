@@ -16,22 +16,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "36779",
-    "slug": "tacuarembó-vs-paysandu-2026-06-20",
-    "team_a": "Tacuarembó",
-    "team_b": "Paysandu",
-    "league": "Segunda División",
-    "date": "2026-06-20",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
     "id": "36772",
     "slug": "túnez-vs-japón-2026-06-20",
     "team_a": "Túnez",
@@ -77,12 +61,16 @@
     "time": "19:00",
     "streams": [
       {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
         "name": "DSports",
         "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "ECUAVISA",
+        "url": "https://tvtvhd.com/online/canales.php?stream=ecdf_ligapro"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
       },
       {
         "name": "Win Sports",
@@ -101,7 +89,7 @@
         "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "36774",
@@ -134,46 +122,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "36789",
-    "slug": "phoenix-vs-seattle-2026-06-20",
-    "team_a": "Phoenix",
-    "team_b": "Seattle",
-    "league": "WNBA",
-    "date": "2026-06-20",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "ESPN 7",
-        "url": "https://tvtvhd.com/canales.php?stream=espn7"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
-    "id": "36776",
-    "slug": "almería-vs-málaga-|-final-2/2-2026-06-20",
-    "team_a": "Almería",
-    "team_b": "Málaga | Final 2/2",
-    "league": "LaLiga SmartBank",
-    "date": "2026-06-20",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney3"
-      },
-      {
-        "name": "LaLiga TV Hypermotion",
-        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-      },
-      {
-        "name": "ESPN 5",
-        "url": "https://tvtvhd.com/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
   },
   {
     "id": "36780",
@@ -238,37 +186,5 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
-    "id": "36773",
-    "slug": "san-antonio-bulo-bulo-vs-blooming-2026-06-20",
-    "team_a": "San Antonio Bulo Bulo",
-    "team_b": "Blooming",
-    "league": "Primera División",
-    "date": "2026-06-20",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Futbol Canal",
-        "url": "https://tvtvhd.com/online/canales.php?stream=even1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "36788",
-    "slug": "ryan-garner-vs-michael-magnesi-2026-06-20",
-    "team_a": "Ryan Garner",
-    "team_b": "Michael Magnesi",
-    "league": "ESPN Knockout",
-    "date": "2026-06-20",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   }
 ]
