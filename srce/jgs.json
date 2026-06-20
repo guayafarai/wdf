@@ -68,50 +68,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
-    "id": "36769",
-    "slug": "países-bajos-vs-suecia-2026-06-20",
-    "team_a": "Países Bajos",
-    "team_b": "Suecia",
-    "league": "Copa del Mundo",
-    "date": "2026-06-20",
-    "time": "12:00",
-    "streams": [
-      {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "America Television",
-        "url": "https://tvtvhd.com/canales.php?stream=americatv"
-      },
-      {
-        "name": "Win Sports",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
-      },
-      {
-        "name": "Canal 5 MX",
-        "url": "https://tvtvhd.com/canales.php?stream=canal5"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv"
-      },
-      {
-        "name": "Azteca 7",
-        "url": "https://tvtvhd.com/canales.php?stream=azteca7"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
     "id": "36771",
     "slug": "ecuador-vs-curazao-2026-06-20",
     "team_a": "Ecuador",
@@ -298,22 +254,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "36787",
-    "slug": "atlanta-vs-indiana-2026-06-20",
-    "team_a": "Atlanta",
-    "team_b": "Indiana",
-    "league": "WNBA",
-    "date": "2026-06-20",
-    "time": "12:00",
-    "streams": [
-      {
-        "name": "ESPN 7",
-        "url": "https://tvtvhd.com/canales.php?stream=espn7"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
   },
   {
     "id": "36788",
