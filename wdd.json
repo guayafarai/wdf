@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-20T21:10:02.439485Z",
+    "last_updated": "2026-06-20T23:01:44.700155Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 12
+    "total_events": 7
   },
   "data": [
     {
@@ -82,73 +82,13 @@
       }
     },
     {
-      "id": 36779,
-      "attributes": {
-        "diary_description": "Segunda División: \nTacuarembó vs Paysandu",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-06-20",
-        "createdAt": "2026-06-20T02:13:02.681Z",
-        "updatedAt": "2026-06-20T13:58:28.273Z",
-        "publishedAt": "2026-06-20T06:48:54.878Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 831,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk1",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 16,
-            "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2025-08-03T13:14:04.349Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
-              "image": {
-                "data": {
-                  "id": 350,
-                  "attributes": {
-                    "name": "uruguay_e2b9597af8.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uruguay_e2b9597af8_6abda609fb",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.71,
-                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:14:00.876Z",
-                    "updatedAt": "2025-08-03T13:14:00.876Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 36772,
       "attributes": {
         "diary_description": "Copa del Mundo: Túnez vs Japón",
         "diary_hour": "23:00:00",
         "date_diary": "2026-06-20",
         "createdAt": "2026-06-20T02:07:12.106Z",
-        "updatedAt": "2026-06-20T14:03:47.600Z",
+        "updatedAt": "2026-06-20T22:22:34.662Z",
         "publishedAt": "2026-06-20T06:48:38.402Z",
         "channels": {
           "data": []
@@ -161,6 +101,14 @@
                 "embed_name": "Telemundo",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8=",
                 "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+              }
+            },
+            {
+              "id": 1458,
+              "attributes": {
+                "embed_name": "Telemundo HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dGVsZW11bmRv",
+                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=telemundo"
               }
             },
             {
@@ -185,6 +133,14 @@
                 "embed_name": "DSports | OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM=",
                 "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=dsports"
+              }
+            },
+            {
+              "id": 1455,
+              "attributes": {
+                "embed_name": "DSports HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZHNwb3J0cw==",
+                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=dsports"
               }
             },
             {
@@ -309,29 +265,13 @@
         "diary_hour": "19:00:00",
         "date_diary": "2026-06-20",
         "createdAt": "2026-06-20T02:05:39.591Z",
-        "updatedAt": "2026-06-20T16:47:33.241Z",
+        "updatedAt": "2026-06-20T22:24:51.701Z",
         "publishedAt": "2026-06-20T06:48:38.402Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
-            {
-              "id": 787,
-              "attributes": {
-                "embed_name": "Telemundo",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8=",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-              }
-            },
-            {
-              "id": 1458,
-              "attributes": {
-                "embed_name": "Telemundo HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dGVsZW11bmRv",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=telemundo"
-              }
-            },
             {
               "id": 644,
               "attributes": {
@@ -362,6 +302,30 @@
                 "embed_name": "DSports HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZHNwb3J0cw==",
                 "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=dsports"
+              }
+            },
+            {
+              "id": 1161,
+              "attributes": {
+                "embed_name": "ECUAVISA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZWNkZl9saWdhcHJv",
+                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=ecdf_ligapro"
+              }
+            },
+            {
+              "id": 787,
+              "attributes": {
+                "embed_name": "Telemundo",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8=",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+              }
+            },
+            {
+              "id": 1458,
+              "attributes": {
+                "embed_name": "Telemundo HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dGVsZW11bmRv",
+                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=telemundo"
               }
             },
             {
@@ -724,174 +688,6 @@
       }
     },
     {
-      "id": 36789,
-      "attributes": {
-        "diary_description": "WNBA – Phoenix vs Seattle",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-06-20",
-        "createdAt": "2026-06-20T02:22:02.625Z",
-        "updatedAt": "2026-06-20T02:22:02.625Z",
-        "publishedAt": "2026-06-20T06:49:10.602Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 653,
-              "attributes": {
-                "embed_name": "ESPN 7",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNw==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-              }
-            },
-            {
-              "id": 1396,
-              "attributes": {
-                "embed_name": "ESPN 7 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNw==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn7"
-              }
-            },
-            {
-              "id": 1397,
-              "attributes": {
-                "embed_name": "ESPN 7 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG43",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn7"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 133,
-            "attributes": {
-              "name": "Amistosos Paises",
-              "createdAt": "2025-03-01T00:14:07.871Z",
-              "updatedAt": "2025-08-03T13:20:12.777Z",
-              "publishedAt": "2025-03-01T00:14:09.910Z",
-              "image": {
-                "data": {
-                  "id": 347,
-                  "attributes": {
-                    "name": "amistosos_bbe2ec4c17.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistosos_bbe2ec4c17_02fd4e7093",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.87,
-                    "url": "/uploads/amistosos_bbe2ec4c17_02fd4e7093.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:12:14.467Z",
-                    "updatedAt": "2025-08-15T11:15:10.464Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36776,
-      "attributes": {
-        "diary_description": "LaLiga SmartBank: \nAlmería vs Málaga | Final 2/2",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-06-20",
-        "createdAt": "2026-06-20T02:11:34.784Z",
-        "updatedAt": "2026-06-20T13:56:55.274Z",
-        "publishedAt": "2026-06-20T06:48:38.402Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 835,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkz",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-              }
-            },
-            {
-              "id": 522,
-              "attributes": {
-                "embed_name": "LaLiga TV Hypermotion ",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1oeXBlcm1vdGlvbjE=",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-              }
-            },
-            {
-              "id": 645,
-              "attributes": {
-                "embed_name": "ESPN 5",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNQ==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-              }
-            },
-            {
-              "id": 474,
-              "attributes": {
-                "embed_name": "ESPN 5 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNQ==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn5"
-              }
-            },
-            {
-              "id": 599,
-              "attributes": {
-                "embed_name": "ESPN 5 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG41",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn5"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 7,
-            "attributes": {
-              "name": "España",
-              "createdAt": "2023-11-22T15:34:02.037Z",
-              "updatedAt": "2025-08-15T18:33:39.904Z",
-              "publishedAt": "2023-11-22T15:34:03.379Z",
-              "image": {
-                "data": {
-                  "id": 375,
-                  "attributes": {
-                    "name": "espana_a8510f9b5f.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "espana_a8510f9b5f_9213b1e460",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.46,
-                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-15T18:33:34.734Z",
-                    "updatedAt": "2025-08-15T18:33:34.734Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 36780,
       "attributes": {
         "diary_description": "Segunda División: \nPlaza Colonia vs Atenas",
@@ -1168,192 +964,6 @@
                     "provider_metadata": null,
                     "createdAt": "2026-06-11T15:42:04.186Z",
                     "updatedAt": "2026-06-11T15:42:04.186Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36773,
-      "attributes": {
-        "diary_description": " Primera División: \nSan Antonio Bulo Bulo vs Blooming",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-06-20",
-        "createdAt": "2026-06-20T02:08:01.496Z",
-        "updatedAt": "2026-06-20T02:08:01.496Z",
-        "publishedAt": "2026-06-20T06:48:38.402Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1381,
-              "attributes": {
-                "embed_name": "Futbol Canal",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE=",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-              }
-            },
-            {
-              "id": 1383,
-              "attributes": {
-                "embed_name": "Futbol Canal | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE=",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-              }
-            },
-            {
-              "id": 1384,
-              "attributes": {
-                "embed_name": "Futbol Canal | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE=",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 18,
-            "attributes": {
-              "name": "Bolivia",
-              "createdAt": "2023-11-22T15:49:30.375Z",
-              "updatedAt": "2025-08-03T16:33:08.297Z",
-              "publishedAt": "2023-11-22T15:49:34.480Z",
-              "image": {
-                "data": {
-                  "id": 366,
-                  "attributes": {
-                    "name": "bolivia-png.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 831,
-                    "height": 832,
-                    "formats": {
-                      "small": {
-                        "ext": ".png",
-                        "url": "/uploads/small_bolivia_png_81cfc9f71f.png",
-                        "hash": "small_bolivia_png_81cfc9f71f",
-                        "mime": "image/png",
-                        "name": "small_bolivia-png.png",
-                        "path": null,
-                        "size": 65.21,
-                        "width": 499,
-                        "height": 500
-                      },
-                      "medium": {
-                        "ext": ".png",
-                        "url": "/uploads/medium_bolivia_png_81cfc9f71f.png",
-                        "hash": "medium_bolivia_png_81cfc9f71f",
-                        "mime": "image/png",
-                        "name": "medium_bolivia-png.png",
-                        "path": null,
-                        "size": 121.48,
-                        "width": 749,
-                        "height": 750
-                      },
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_bolivia_png_81cfc9f71f.png",
-                        "hash": "thumbnail_bolivia_png_81cfc9f71f",
-                        "mime": "image/png",
-                        "name": "thumbnail_bolivia-png.png",
-                        "path": null,
-                        "size": 11.54,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "bolivia_png_81cfc9f71f",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 20.97,
-                    "url": "/uploads/bolivia_png_81cfc9f71f.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:32:14.648Z",
-                    "updatedAt": "2025-08-03T16:32:14.648Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36788,
-      "attributes": {
-        "diary_description": "ESPN Knockout – Ryan Garner vs Michael Magnesi",
-        "diary_hour": "13:00:00",
-        "date_diary": "2026-06-20",
-        "createdAt": "2026-06-20T02:20:26.843Z",
-        "updatedAt": "2026-06-20T02:20:26.843Z",
-        "publishedAt": "2026-06-20T06:48:54.878Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 656,
-              "attributes": {
-                "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMw==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1357,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1358,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn3"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 52,
-            "attributes": {
-              "name": "Boxeo",
-              "createdAt": "2024-01-23T08:29:53.264Z",
-              "updatedAt": "2025-08-08T17:07:11.502Z",
-              "publishedAt": "2024-01-23T08:29:54.683Z",
-              "image": {
-                "data": {
-                  "id": 368,
-                  "attributes": {
-                    "name": "boxeo_2024_b15889ae93.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "boxeo_2024_b15889ae93_ae58e10dcb",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.39,
-                    "url": "/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-08T17:07:05.112Z",
-                    "updatedAt": "2025-08-08T17:07:05.112Z"
                   }
                 }
               }
