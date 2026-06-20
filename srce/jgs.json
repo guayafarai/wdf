@@ -192,22 +192,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "36781",
-    "slug": "motogp---gp-chequia---clasificación-2026-06-20",
-    "team_a": "",
-    "team_b": "",
-    "league": "MotoGP – GP Chequia – Clasificación",
-    "date": "2026-06-20",
-    "time": "03:45",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36783",
     "slug": "inglaterra-vs-argentina-2026-06-20",
     "team_a": "Inglaterra",
