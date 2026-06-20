@@ -16,22 +16,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "36778",
-    "slug": "fénix-vs-oriental-2026-06-20",
-    "team_a": "Fénix",
-    "team_b": "Oriental",
-    "league": "Segunda División",
-    "date": "2026-06-20",
-    "time": "11:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
     "id": "36779",
     "slug": "tacuarembó-vs-paysandu-2026-06-20",
     "team_a": "Tacuarembó",
@@ -194,22 +178,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "36786",
-    "slug": "golf---us-open-2026---tercera-vuelta-2026-06-20",
-    "team_a": "",
-    "team_b": "",
-    "league": "Golf – Us Open 2026 – Tercera Vuelta",
-    "date": "2026-06-20",
-    "time": "11:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36789",
