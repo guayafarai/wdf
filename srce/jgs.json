@@ -1,37 +1,5 @@
 [
   {
-    "id": "36793",
-    "slug": "bélgica-vs-irán-2026-06-21",
-    "team_a": "Bélgica",
-    "team_b": "Irán",
-    "league": "Copa del Mundo",
-    "date": "2026-06-21",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Telefe",
-        "url": "https://tvtvhd.com/canales.php?stream=telefe"
-      },
-      {
-        "name": "Caracol TV",
-        "url": "https://tvtvhd.com/canales.php?stream=caracol"
-      },
-      {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
     "id": "36794",
     "slug": "uruguay-vs-islas-de-cabo-verde-2026-06-21",
     "team_a": "Uruguay",
@@ -160,6 +128,38 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
+    "id": "36793",
+    "slug": "bélgica-vs-irán-2026-06-21",
+    "team_a": "Bélgica",
+    "team_b": "Irán",
+    "league": "Copa del Mundo",
+    "date": "2026-06-21",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "Telemundo",
+        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Tigo Sports",
+        "url": "https://tvtvhd.com/online/canales.php?stream=even2"
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://tvtvhd.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "FOX Sports 1 USA",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+      },
+      {
+        "name": "Telefe",
+        "url": "https://tvtvhd.com/canales.php?stream=telefe"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+  },
+  {
     "id": "36795",
     "slug": "nueva-zelanda-vs-egipto-2026-06-21",
     "team_a": "Nueva Zelanda",
@@ -224,22 +224,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
   },
   {
-    "id": "36799",
-    "slug": "la-luz-vs-cerrito-2026-06-21",
-    "team_a": "La Luz",
-    "team_b": "Cerrito",
-    "league": "Segunda División",
-    "date": "2026-06-21",
-    "time": "10:30",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
     "id": "36801",
     "slug": "são-bernardo-vs-juventude-2026-06-21",
     "team_a": "São Bernardo",
@@ -254,22 +238,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
-  },
-  {
-    "id": "36810",
-    "slug": "golf---us-open-2026---última-vuelta-2026-06-21",
-    "team_a": "",
-    "team_b": "",
-    "league": "Golf – Us Open 2026 – Última Vuelta",
-    "date": "2026-06-21",
-    "time": "10:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36812",
@@ -318,61 +286,5 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36792",
-    "slug": "españa-vs-arabia-saudita-2026-06-21",
-    "team_a": "España",
-    "team_b": "Arabia Saudita",
-    "league": "Copa del Mundo",
-    "date": "2026-06-21",
-    "time": "11:00",
-    "streams": [
-      {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Tigo Sports HD",
-        "url": "https://tvtvhd.com/online/canales.php?stream=even2"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Telefe",
-        "url": "https://tvtvhd.com/canales.php?stream=telefe"
-      },
-      {
-        "name": "Win Sports",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
-      },
-      {
-        "name": "America Television",
-        "url": "https://tvtvhd.com/canales.php?stream=americatv"
-      },
-      {
-        "name": "Canal 5 MX",
-        "url": "https://tvtvhd.com/canales.php?stream=canal5"
-      },
-      {
-        "name": "Azteca 7",
-        "url": "https://tvtvhd.com/canales.php?stream=azteca7"
-      },
-      {
-        "name": "Universo",
-        "url": "https://tvtvhd.com/canales.php?stream=universo"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   }
 ]
