@@ -16,98 +16,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "36772",
-    "slug": "túnez-vs-japón-2026-06-20",
-    "team_a": "Túnez",
-    "team_b": "Japón",
-    "league": "Copa del Mundo",
-    "date": "2026-06-20",
-    "time": "23:00",
-    "streams": [
-      {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Universo",
-        "url": "https://tvtvhd.com/canales.php?stream=universo"
-      },
-      {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
-    "id": "36771",
-    "slug": "ecuador-vs-curazao-2026-06-20",
-    "team_a": "Ecuador",
-    "team_b": "Curazao",
-    "league": "Copa del Mundo",
-    "date": "2026-06-20",
-    "time": "19:00",
-    "streams": [
-      {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "ECUAVISA",
-        "url": "https://tvtvhd.com/online/canales.php?stream=ecdf_ligapro"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "Win Sports",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
-      },
-      {
-        "name": "Universo",
-        "url": "https://tvtvhd.com/canales.php?stream=universo"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv"
-      },
-      {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36774",
-    "slug": "real-tomayapo-vs-abb-2026-06-20",
-    "team_a": "Real Tomayapo",
-    "team_b": "ABB",
-    "league": "Primera División",
-    "date": "2026-06-20",
-    "time": "16:30",
-    "streams": [
-      {
-        "name": "Futbol Canal",
-        "url": "https://tvtvhd.com/online/canales.php?stream=even1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-  },
-  {
     "id": "36775",
     "slug": "the-strongest-vs-aurora-2026-06-20",
     "team_a": "The Strongest",
@@ -124,67 +32,43 @@
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
   },
   {
-    "id": "36780",
-    "slug": "plaza-colonia-vs-atenas-2026-06-20",
-    "team_a": "Plaza Colonia",
-    "team_b": "Atenas",
-    "league": "Segunda División",
-    "date": "2026-06-20",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney7"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
-  },
-  {
-    "id": "36770",
-    "slug": "alemania-vs-costa-de-marfil-2026-06-20",
-    "team_a": "Alemania",
-    "team_b": "Costa de Marfil",
+    "id": "36772",
+    "slug": "túnez-vs-japón-2026-06-20",
+    "team_a": "Túnez",
+    "team_b": "Japón",
     "league": "Copa del Mundo",
     "date": "2026-06-20",
-    "time": "15:00",
+    "time": "23:00",
     "streams": [
-      {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
       {
         "name": "DSports",
         "url": "https://tvtvhd.com/canales.php?stream=dsports"
       },
       {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney6"
+        "name": "Tigo Sports",
+        "url": "https://tvtvhd.com/online/canales.php?stream=even2"
       },
       {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "America Television",
-        "url": "https://tvtvhd.com/canales.php?stream=americatv"
-      },
-      {
-        "name": "Telefe",
-        "url": "https://tvtvhd.com/canales.php?stream=telefe"
+        "name": "Telemundo",
+        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
       },
       {
         "name": "Sportv BR",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
       },
       {
-        "name": "Caracol TV",
-        "url": "https://tvtvhd.com/canales.php?stream=caracol"
+        "name": "Universo",
+        "url": "https://tvtvhd.com/canales.php?stream=universo"
+      },
+      {
+        "name": "FOX Sports 1 USA",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
       },
       {
         "name": "Deportes TV. C",
         "url": "https://tvtvhd.com/canales.php?stream=goltv"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   }
 ]
