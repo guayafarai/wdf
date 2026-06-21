@@ -1,5 +1,41 @@
 [
   {
+    "id": "36793",
+    "slug": "bélgica-vs-irán-2026-06-21",
+    "team_a": "Bélgica",
+    "team_b": "Irán",
+    "league": "Copa del Mundo",
+    "date": "2026-06-21",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "Dsports 2",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports2"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Tigo Sports",
+        "url": "https://tvtvhd.com/online/canales.php?stream=even2"
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://tvtvhd.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "FOX Sports 1 USA",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+      },
+      {
+        "name": "Telefe",
+        "url": "https://tvtvhd.com/canales.php?stream=telefe"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports2"
+  },
+  {
     "id": "36794",
     "slug": "uruguay-vs-islas-de-cabo-verde-2026-06-21",
     "team_a": "Uruguay",
@@ -96,22 +132,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
-    "id": "36802",
-    "slug": "huachipato-vs-puerto-montt-2026-06-21",
-    "team_a": "Huachipato",
-    "team_b": "Puerto Montt",
-    "league": "Copa Chile",
-    "date": "2026-06-21",
-    "time": "11:30",
-    "streams": [
-      {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "36805",
     "slug": "o'higgins-vs-unión-española-2026-06-21",
     "team_a": "O'Higgins",
@@ -126,38 +146,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36793",
-    "slug": "bélgica-vs-irán-2026-06-21",
-    "team_a": "Bélgica",
-    "team_b": "Irán",
-    "league": "Copa del Mundo",
-    "date": "2026-06-21",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "Tigo Sports",
-        "url": "https://tvtvhd.com/online/canales.php?stream=even2"
-      },
-      {
-        "name": "Caracol TV",
-        "url": "https://tvtvhd.com/canales.php?stream=caracol"
-      },
-      {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
-      },
-      {
-        "name": "Telefe",
-        "url": "https://tvtvhd.com/canales.php?stream=telefe"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
     "id": "36795",
