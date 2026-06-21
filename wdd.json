@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-21T11:40:54.800532Z",
+    "last_updated": "2026-06-21T13:55:44.214323Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 22
+    "total_events": 20
   },
   "data": [
     {
@@ -649,94 +649,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T16:01:20.348Z",
                     "updatedAt": "2025-08-03T16:01:20.348Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36806,
-      "attributes": {
-        "diary_description": "MotoGP – GP Chequia – Carrera Moto3 / Moto2 / MotoGP",
-        "diary_hour": "03:45:00",
-        "date_diary": "2026-06-21",
-        "createdAt": "2026-06-21T03:06:33.297Z",
-        "updatedAt": "2026-06-21T03:06:33.297Z",
-        "publishedAt": "2026-06-21T08:15:28.621Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 108,
-            "attributes": {
-              "name": "MOTO GP",
-              "createdAt": "2024-06-30T11:32:49.911Z",
-              "updatedAt": "2025-08-23T15:09:20.078Z",
-              "publishedAt": "2024-06-30T11:32:52.382Z",
-              "image": {
-                "data": {
-                  "id": 386,
-                  "attributes": {
-                    "name": "motogp_modified_10d300b047.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 298,
-                    "height": 298,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_motogp_modified_10d300b047_8484f8e991.png",
-                        "hash": "thumbnail_motogp_modified_10d300b047_8484f8e991",
-                        "mime": "image/png",
-                        "name": "thumbnail_motogp_modified_10d300b047.png",
-                        "path": null,
-                        "size": 14.56,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "motogp_modified_10d300b047_8484f8e991",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 10.5,
-                    "url": "/uploads/motogp_modified_10d300b047_8484f8e991.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-23T15:09:16.118Z",
-                    "updatedAt": "2025-08-23T15:09:16.118Z"
                   }
                 }
               }
@@ -2036,105 +1948,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T16:01:20.348Z",
                     "updatedAt": "2025-08-03T16:01:20.348Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36807,
-      "attributes": {
-        "diary_description": "Hockey – Pro League Femenino – Argentina vs China",
-        "diary_hour": "04:30:00",
-        "date_diary": "2026-06-21",
-        "createdAt": "2026-06-21T03:07:18.581Z",
-        "updatedAt": "2026-06-21T03:07:18.581Z",
-        "publishedAt": "2026-06-21T08:15:28.621Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 645,
-              "attributes": {
-                "embed_name": "ESPN 5",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNQ==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-              }
-            },
-            {
-              "id": 474,
-              "attributes": {
-                "embed_name": "ESPN 5 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNQ==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn5"
-              }
-            },
-            {
-              "id": 599,
-              "attributes": {
-                "embed_name": "ESPN 5 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG41",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn5"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 148,
-            "attributes": {
-              "name": "Hokey ",
-              "createdAt": "2025-12-12T17:17:04.064Z",
-              "updatedAt": "2025-12-12T17:17:06.611Z",
-              "publishedAt": "2025-12-12T17:17:06.607Z",
-              "image": {
-                "data": {
-                  "id": 422,
-                  "attributes": {
-                    "name": "hokey.jpg",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 518,
-                    "height": 518,
-                    "formats": {
-                      "small": {
-                        "ext": ".jpg",
-                        "url": "/uploads/small_hokey_53ec88fc22.jpg",
-                        "hash": "small_hokey_53ec88fc22",
-                        "mime": "image/jpeg",
-                        "name": "small_hokey.jpg",
-                        "path": null,
-                        "size": 40.54,
-                        "width": 500,
-                        "height": 500
-                      },
-                      "thumbnail": {
-                        "ext": ".jpg",
-                        "url": "/uploads/thumbnail_hokey_53ec88fc22.jpg",
-                        "hash": "thumbnail_hokey_53ec88fc22",
-                        "mime": "image/jpeg",
-                        "name": "thumbnail_hokey.jpg",
-                        "path": null,
-                        "size": 8.6,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "hokey_53ec88fc22",
-                    "ext": ".jpg",
-                    "mime": "image/jpeg",
-                    "size": 42.27,
-                    "url": "/uploads/hokey_53ec88fc22.jpg",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-12-12T17:16:55.627Z",
-                    "updatedAt": "2025-12-12T17:16:55.627Z"
                   }
                 }
               }
