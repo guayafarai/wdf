@@ -1,16 +1,20 @@
 [
   {
-    "id": "36793",
-    "slug": "bélgica-vs-irán-2026-06-21",
-    "team_a": "Bélgica",
-    "team_b": "Irán",
+    "id": "36794",
+    "slug": "uruguay-vs-islas-de-cabo-verde-2026-06-21",
+    "team_a": "Uruguay",
+    "team_b": "Islas de Cabo Verde",
     "league": "Copa del Mundo",
     "date": "2026-06-21",
-    "time": "14:00",
+    "time": "17:00",
     "streams": [
       {
-        "name": "Dsports 2",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports2"
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney4"
       },
       {
         "name": "Telemundo",
@@ -21,99 +25,19 @@
         "url": "https://tvtvhd.com/online/canales.php?stream=even2"
       },
       {
-        "name": "Caracol TV",
-        "url": "https://tvtvhd.com/canales.php?stream=caracol"
-      },
-      {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
-      },
-      {
-        "name": "Telefe",
-        "url": "https://tvtvhd.com/canales.php?stream=telefe"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports2"
-  },
-  {
-    "id": "36794",
-    "slug": "uruguay-vs-islas-de-cabo-verde-2026-06-21",
-    "team_a": "Uruguay",
-    "team_b": "Islas de Cabo Verde",
-    "league": "Copa del Mundo",
-    "date": "2026-06-21",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
         "name": "America Television",
         "url": "https://tvtvhd.com/canales.php?stream=americatv"
       },
       {
         "name": "FOX Sports 1 USA",
         "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
-    "id": "36796",
-    "slug": "always-ready-vs-bolívar-2026-06-21",
-    "team_a": "Always Ready",
-    "team_b": "Bolívar",
-    "league": "Primera División",
-    "date": "2026-06-21",
-    "time": "14:00",
-    "streams": [
+      },
       {
-        "name": "Futbol Canal",
-        "url": "https://tvtvhd.com/online/canales.php?stream=even1"
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "36800",
-    "slug": "rentistas-vs-uruguay-montevideo-2026-06-21",
-    "team_a": "Rentistas",
-    "team_b": "Uruguay Montevideo",
-    "league": "Segunda División",
-    "date": "2026-06-21",
-    "time": "13:30",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
-    "id": "36811",
-    "slug": "indycar-series-road-america-2026-06-21",
-    "team_a": "",
-    "team_b": "",
-    "league": "IndyCar Series Road America",
-    "date": "2026-06-21",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "36813",
@@ -242,22 +166,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36803",
-    "slug": "deportes-temuco-vs-deportes-concepción-2026-06-21",
-    "team_a": "Deportes Temuco",
-    "team_b": "Deportes Concepción",
-    "league": "Copa Chile",
-    "date": "2026-06-21",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
     "id": "36804",
