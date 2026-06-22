@@ -69,20 +69,20 @@
     "time": "12:00",
     "streams": [
       {
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
         "name": "Telemundo",
         "url": "https://tvtvhd.com/canales.php?stream=telemundo"
       },
       {
-        "name": "DSports HD",
-        "url": "https://tvtvhd.com/online/canales.php?stream=dsports"
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
       },
       {
         "name": "Disney+",
         "url": "https://tvtvhd.com/canales.php?stream=disney1"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
       },
       {
         "name": "Telefe",
@@ -105,7 +105,7 @@
         "url": "https://tvtvhd.com/canales.php?stream=goltv"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "36820",
