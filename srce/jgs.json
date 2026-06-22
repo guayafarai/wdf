@@ -1,125 +1,5 @@
 [
   {
-    "id": "36794",
-    "slug": "uruguay-vs-islas-de-cabo-verde-2026-06-21",
-    "team_a": "Uruguay",
-    "team_b": "Islas de Cabo Verde",
-    "league": "Copa del Mundo",
-    "date": "2026-06-21",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney4"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "Tigo Sports",
-        "url": "https://tvtvhd.com/online/canales.php?stream=even2"
-      },
-      {
-        "name": "America Television",
-        "url": "https://tvtvhd.com/canales.php?stream=americatv"
-      },
-      {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36813",
-    "slug": "los-angeles-vs-new-york-2026-06-21",
-    "team_a": "Los Angeles",
-    "team_b": "New York",
-    "league": "WNBA",
-    "date": "2026-06-21",
-    "time": "19:00",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36805",
-    "slug": "o'higgins-vs-unión-española-2026-06-21",
-    "team_a": "O'Higgins",
-    "team_b": "Unión Española",
-    "league": "Copa Chile",
-    "date": "2026-06-21",
-    "time": "19:00",
-    "streams": [
-      {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36795",
-    "slug": "nueva-zelanda-vs-egipto-2026-06-21",
-    "team_a": "Nueva Zelanda",
-    "team_b": "Egipto",
-    "league": "Copa del Mundo",
-    "date": "2026-06-21",
-    "time": "20:00",
-    "streams": [
-      {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
-    "id": "36797",
-    "slug": "real-oruro-vs-independiente-petrolero-2026-06-21",
-    "team_a": "Real Oruro",
-    "team_b": "Independiente Petrolero",
-    "league": "Primera División",
-    "date": "2026-06-21",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "Futbol Canal",
-        "url": "https://tvtvhd.com/online/canales.php?stream=even1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-  },
-  {
     "id": "36798",
     "slug": "oriente-petrolero-vs-nacional-potosí-2026-06-21",
     "team_a": "Oriente Petrolero",
@@ -136,51 +16,35 @@
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
   },
   {
-    "id": "36801",
-    "slug": "são-bernardo-vs-juventude-2026-06-21",
-    "team_a": "São Bernardo",
-    "team_b": "Juventude",
-    "league": "Serie B",
+    "id": "36795",
+    "slug": "nueva-zelanda-vs-egipto-2026-06-21",
+    "team_a": "Nueva Zelanda",
+    "team_b": "Egipto",
+    "league": "Copa del Mundo",
     "date": "2026-06-21",
-    "time": "15:00",
+    "time": "20:00",
     "streams": [
       {
-        "name": "Premiere BR",
-        "url": "https://tvtvhd.com/canales.php?stream=premiere1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
-  },
-  {
-    "id": "36812",
-    "slug": "philadelphia-phillies-vs-new-york-mets-2026-06-21",
-    "team_a": "Philadelphia Phillies",
-    "team_b": "New York Mets",
-    "league": "MLB",
-    "date": "2026-06-21",
-    "time": "18:00",
-    "streams": [
+        "name": "DSports HD",
+        "url": "https://tvtvhd.com/online/canales.php?stream=dsports"
+      },
       {
-        "name": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36804",
-    "slug": "universidad-chile-vs-santiago-wanderers-2026-06-21",
-    "team_a": "Universidad Chile",
-    "team_b": "Santiago Wanderers",
-    "league": "Copa Chile",
-    "date": "2026-06-21",
-    "time": "16:30",
-    "streams": [
+        "name": "Telemundo HD",
+        "url": "https://tvtvhd.com/online/canales.php?stream=telemundo"
+      },
       {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "FOX Sports 1 USA",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+    "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=dsports"
   }
 ]
