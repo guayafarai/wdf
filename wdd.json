@@ -1,18 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-06-21T23:05:53.024711Z",
+    "last_updated": "2026-06-22T03:35:09.843893Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 9
+    "total_events": 2
   },
   "data": [
     {
-      "id": 36794,
+      "id": 36798,
       "attributes": {
-        "diary_description": "Copa del Mundo: Uruguay vs Islas de Cabo Verde",
-        "diary_hour": "17:00:00",
+        "diary_description": "Primera División: \nOriente Petrolero vs Nacional Potosí",
+        "diary_hour": "19:30:00",
         "date_diary": "2026-06-21",
-        "createdAt": "2026-06-21T02:55:49.202Z",
-        "updatedAt": "2026-06-21T23:00:54.863Z",
+        "createdAt": "2026-06-21T02:59:49.709Z",
+        "updatedAt": "2026-06-21T02:59:49.709Z",
         "publishedAt": "2026-06-21T08:15:20.079Z",
         "channels": {
           "data": []
@@ -20,352 +20,93 @@
         "embeds": {
           "data": [
             {
-              "id": 644,
+              "id": 1381,
               "attributes": {
-                "embed_name": "DSports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+                "embed_name": "Futbol Canal",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE=",
+                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
               }
             },
             {
-              "id": 341,
+              "id": 1383,
               "attributes": {
-                "embed_name": "DSports | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=dsports"
+                "embed_name": "Futbol Canal | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE=",
+                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
               }
             },
             {
-              "id": 748,
+              "id": 1384,
               "attributes": {
-                "embed_name": "DSports | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM=",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=dsports"
-              }
-            },
-            {
-              "id": 1455,
-              "attributes": {
-                "embed_name": "DSports HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZHNwb3J0cw==",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=dsports"
-              }
-            },
-            {
-              "id": 827,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk0",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
-              }
-            },
-            {
-              "id": 787,
-              "attributes": {
-                "embed_name": "Telemundo",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8=",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-              }
-            },
-            {
-              "id": 1458,
-              "attributes": {
-                "embed_name": "Telemundo HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dGVsZW11bmRv",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=telemundo"
-              }
-            },
-            {
-              "id": 850,
-              "attributes": {
-                "embed_name": "Tigo Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjI=",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even2"
-              }
-            },
-            {
-              "id": 419,
-              "attributes": {
-                "embed_name": "Tigo Sports HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjI=",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even2"
-              }
-            },
-            {
-              "id": 1378,
-              "attributes": {
-                "embed_name": "America Television",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1hbWVyaWNhdHY=",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=americatv"
-              }
-            },
-            {
-              "id": 1460,
-              "attributes": {
-                "embed_name": "America TV | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09YW1lcmljYXR2",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=americatv"
-              }
-            },
-            {
-              "id": 1224,
-              "attributes": {
-                "embed_name": "FOX Sports 1 USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09Zm94c3BvcnRzMV91c2E=",
-                "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
-              }
-            },
-            {
-              "id": 1209,
-              "attributes": {
-                "embed_name": "Sportv BR",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-              }
-            },
-            {
-              "id": 1465,
-              "attributes": {
-                "embed_name": "Sportv BR HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09c3BvcnR2",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=sportv"
+                "embed_name": "Futbol Canal | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE=",
+                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 151,
+            "id": 18,
             "attributes": {
-              "name": "mundial 2026",
-              "createdAt": "2026-06-11T10:02:46.045Z",
-              "updatedAt": "2026-06-11T15:42:08.705Z",
-              "publishedAt": "2026-06-11T10:02:47.907Z",
+              "name": "Bolivia",
+              "createdAt": "2023-11-22T15:49:30.375Z",
+              "updatedAt": "2025-08-03T16:33:08.297Z",
+              "publishedAt": "2023-11-22T15:49:34.480Z",
               "image": {
                 "data": {
-                  "id": 436,
+                  "id": 366,
                   "attributes": {
-                    "name": "mundialfifa2026.png",
+                    "name": "bolivia-png.png",
                     "alternativeText": null,
                     "caption": null,
-                    "width": 1254,
-                    "height": 1254,
+                    "width": 831,
+                    "height": 832,
                     "formats": {
-                      "large": {
-                        "ext": ".png",
-                        "url": "/uploads/large_mundialfifa2026_eed63ad360.png",
-                        "hash": "large_mundialfifa2026_eed63ad360",
-                        "mime": "image/png",
-                        "name": "large_mundialfifa2026.png",
-                        "path": null,
-                        "size": 742.11,
-                        "width": 1000,
-                        "height": 1000
-                      },
                       "small": {
                         "ext": ".png",
-                        "url": "/uploads/small_mundialfifa2026_eed63ad360.png",
-                        "hash": "small_mundialfifa2026_eed63ad360",
+                        "url": "/uploads/small_bolivia_png_81cfc9f71f.png",
+                        "hash": "small_bolivia_png_81cfc9f71f",
                         "mime": "image/png",
-                        "name": "small_mundialfifa2026.png",
+                        "name": "small_bolivia-png.png",
                         "path": null,
-                        "size": 221.27,
-                        "width": 500,
+                        "size": 65.21,
+                        "width": 499,
                         "height": 500
                       },
                       "medium": {
                         "ext": ".png",
-                        "url": "/uploads/medium_mundialfifa2026_eed63ad360.png",
-                        "hash": "medium_mundialfifa2026_eed63ad360",
+                        "url": "/uploads/medium_bolivia_png_81cfc9f71f.png",
+                        "hash": "medium_bolivia_png_81cfc9f71f",
                         "mime": "image/png",
-                        "name": "medium_mundialfifa2026.png",
+                        "name": "medium_bolivia-png.png",
                         "path": null,
-                        "size": 454.69,
-                        "width": 750,
+                        "size": 121.48,
+                        "width": 749,
                         "height": 750
                       },
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_mundialfifa2026_eed63ad360.png",
-                        "hash": "thumbnail_mundialfifa2026_eed63ad360",
+                        "url": "/uploads/thumbnail_bolivia_png_81cfc9f71f.png",
+                        "hash": "thumbnail_bolivia_png_81cfc9f71f",
                         "mime": "image/png",
-                        "name": "thumbnail_mundialfifa2026.png",
+                        "name": "thumbnail_bolivia-png.png",
                         "path": null,
-                        "size": 31.67,
+                        "size": 11.54,
                         "width": 156,
                         "height": 156
                       }
                     },
-                    "hash": "mundialfifa2026_eed63ad360",
+                    "hash": "bolivia_png_81cfc9f71f",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 390.7,
-                    "url": "/uploads/mundialfifa2026_eed63ad360.png",
+                    "size": 20.97,
+                    "url": "/uploads/bolivia_png_81cfc9f71f.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-06-11T15:42:04.186Z",
-                    "updatedAt": "2026-06-11T15:42:04.186Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36813,
-      "attributes": {
-        "diary_description": "WNBA – Los Angeles vs New York",
-        "diary_hour": "19:00:00",
-        "date_diary": "2026-06-21",
-        "createdAt": "2026-06-21T03:11:46.217Z",
-        "updatedAt": "2026-06-21T14:51:42.343Z",
-        "publishedAt": "2026-06-21T08:15:38.072Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 520,
-              "attributes": {
-                "embed_name": "ESPN 4",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNA==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-              }
-            },
-            {
-              "id": 1398,
-              "attributes": {
-                "embed_name": "ESPN 4 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNA==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn4"
-              }
-            },
-            {
-              "id": 1399,
-              "attributes": {
-                "embed_name": "ESPN 4 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG40",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn4"
-              }
-            },
-            {
-              "id": 1463,
-              "attributes": {
-                "embed_name": "ESPN 4 HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjQ=",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=espn4"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 133,
-            "attributes": {
-              "name": "Amistosos Paises",
-              "createdAt": "2025-03-01T00:14:07.871Z",
-              "updatedAt": "2025-08-03T13:20:12.777Z",
-              "publishedAt": "2025-03-01T00:14:09.910Z",
-              "image": {
-                "data": {
-                  "id": 347,
-                  "attributes": {
-                    "name": "amistosos_bbe2ec4c17.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistosos_bbe2ec4c17_02fd4e7093",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.87,
-                    "url": "/uploads/amistosos_bbe2ec4c17_02fd4e7093.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:12:14.467Z",
-                    "updatedAt": "2025-08-15T11:15:10.464Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36805,
-      "attributes": {
-        "diary_description": "Copa Chile: O'Higgins vs Unión Española",
-        "diary_hour": "19:00:00",
-        "date_diary": "2026-06-21",
-        "createdAt": "2026-06-21T03:04:49.166Z",
-        "updatedAt": "2026-06-21T15:00:48.353Z",
-        "publishedAt": "2026-06-21T08:15:28.621Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 624,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-              }
-            },
-            {
-              "id": 318,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-              }
-            },
-            {
-              "id": 1464,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dG50c3BvcnRzY2hpbGU=",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=tntsportschile"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 12,
-            "attributes": {
-              "name": "Chile",
-              "createdAt": "2023-11-22T15:42:40.655Z",
-              "updatedAt": "2025-08-03T16:01:24.110Z",
-              "publishedAt": "2023-11-22T15:42:42.314Z",
-              "image": {
-                "data": {
-                  "id": 361,
-                  "attributes": {
-                    "name": "chile_86c07a7b38.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "chile_86c07a7b38_fad5126fd0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.7,
-                    "url": "/uploads/chile_86c07a7b38_fad5126fd0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:01:20.348Z",
-                    "updatedAt": "2025-08-03T16:01:20.348Z"
+                    "createdAt": "2025-08-03T16:32:14.648Z",
+                    "updatedAt": "2025-08-03T16:32:14.648Z"
                   }
                 }
               }
@@ -381,7 +122,7 @@
         "diary_hour": "20:00:00",
         "date_diary": "2026-06-21",
         "createdAt": "2026-06-21T02:57:53.702Z",
-        "updatedAt": "2026-06-21T23:02:17.842Z",
+        "updatedAt": "2026-06-22T00:23:51.861Z",
         "publishedAt": "2026-06-21T08:15:20.079Z",
         "channels": {
           "data": []
@@ -389,11 +130,19 @@
         "embeds": {
           "data": [
             {
-              "id": 787,
+              "id": 1455,
               "attributes": {
-                "embed_name": "Telemundo",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8=",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+                "embed_name": "DSports HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZHNwb3J0cw==",
+                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=dsports"
+              }
+            },
+            {
+              "id": 644,
+              "attributes": {
+                "embed_name": "DSports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
               }
             },
             {
@@ -405,11 +154,11 @@
               }
             },
             {
-              "id": 644,
+              "id": 787,
               "attributes": {
-                "embed_name": "DSports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+                "embed_name": "Telemundo",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8=",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
               }
             },
             {
@@ -426,14 +175,6 @@
                 "embed_name": "DSports | OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM=",
                 "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=dsports"
-              }
-            },
-            {
-              "id": 1455,
-              "attributes": {
-                "embed_name": "DSports HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZHNwb3J0cw==",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=dsports"
               }
             },
             {
@@ -567,446 +308,6 @@
                     "provider_metadata": null,
                     "createdAt": "2026-06-11T15:42:04.186Z",
                     "updatedAt": "2026-06-11T15:42:04.186Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36797,
-      "attributes": {
-        "diary_description": "Primera División: \nReal Oruro vs Independiente Petrolero",
-        "diary_hour": "17:00:00",
-        "date_diary": "2026-06-21",
-        "createdAt": "2026-06-21T02:59:16.361Z",
-        "updatedAt": "2026-06-21T02:59:16.361Z",
-        "publishedAt": "2026-06-21T08:15:20.079Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1381,
-              "attributes": {
-                "embed_name": "Futbol Canal",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE=",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-              }
-            },
-            {
-              "id": 1383,
-              "attributes": {
-                "embed_name": "Futbol Canal | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE=",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-              }
-            },
-            {
-              "id": 1384,
-              "attributes": {
-                "embed_name": "Futbol Canal | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE=",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 18,
-            "attributes": {
-              "name": "Bolivia",
-              "createdAt": "2023-11-22T15:49:30.375Z",
-              "updatedAt": "2025-08-03T16:33:08.297Z",
-              "publishedAt": "2023-11-22T15:49:34.480Z",
-              "image": {
-                "data": {
-                  "id": 366,
-                  "attributes": {
-                    "name": "bolivia-png.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 831,
-                    "height": 832,
-                    "formats": {
-                      "small": {
-                        "ext": ".png",
-                        "url": "/uploads/small_bolivia_png_81cfc9f71f.png",
-                        "hash": "small_bolivia_png_81cfc9f71f",
-                        "mime": "image/png",
-                        "name": "small_bolivia-png.png",
-                        "path": null,
-                        "size": 65.21,
-                        "width": 499,
-                        "height": 500
-                      },
-                      "medium": {
-                        "ext": ".png",
-                        "url": "/uploads/medium_bolivia_png_81cfc9f71f.png",
-                        "hash": "medium_bolivia_png_81cfc9f71f",
-                        "mime": "image/png",
-                        "name": "medium_bolivia-png.png",
-                        "path": null,
-                        "size": 121.48,
-                        "width": 749,
-                        "height": 750
-                      },
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_bolivia_png_81cfc9f71f.png",
-                        "hash": "thumbnail_bolivia_png_81cfc9f71f",
-                        "mime": "image/png",
-                        "name": "thumbnail_bolivia-png.png",
-                        "path": null,
-                        "size": 11.54,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "bolivia_png_81cfc9f71f",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 20.97,
-                    "url": "/uploads/bolivia_png_81cfc9f71f.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:32:14.648Z",
-                    "updatedAt": "2025-08-03T16:32:14.648Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36798,
-      "attributes": {
-        "diary_description": "Primera División: \nOriente Petrolero vs Nacional Potosí",
-        "diary_hour": "19:30:00",
-        "date_diary": "2026-06-21",
-        "createdAt": "2026-06-21T02:59:49.709Z",
-        "updatedAt": "2026-06-21T02:59:49.709Z",
-        "publishedAt": "2026-06-21T08:15:20.079Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1381,
-              "attributes": {
-                "embed_name": "Futbol Canal",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE=",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-              }
-            },
-            {
-              "id": 1383,
-              "attributes": {
-                "embed_name": "Futbol Canal | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE=",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-              }
-            },
-            {
-              "id": 1384,
-              "attributes": {
-                "embed_name": "Futbol Canal | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE=",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 18,
-            "attributes": {
-              "name": "Bolivia",
-              "createdAt": "2023-11-22T15:49:30.375Z",
-              "updatedAt": "2025-08-03T16:33:08.297Z",
-              "publishedAt": "2023-11-22T15:49:34.480Z",
-              "image": {
-                "data": {
-                  "id": 366,
-                  "attributes": {
-                    "name": "bolivia-png.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 831,
-                    "height": 832,
-                    "formats": {
-                      "small": {
-                        "ext": ".png",
-                        "url": "/uploads/small_bolivia_png_81cfc9f71f.png",
-                        "hash": "small_bolivia_png_81cfc9f71f",
-                        "mime": "image/png",
-                        "name": "small_bolivia-png.png",
-                        "path": null,
-                        "size": 65.21,
-                        "width": 499,
-                        "height": 500
-                      },
-                      "medium": {
-                        "ext": ".png",
-                        "url": "/uploads/medium_bolivia_png_81cfc9f71f.png",
-                        "hash": "medium_bolivia_png_81cfc9f71f",
-                        "mime": "image/png",
-                        "name": "medium_bolivia-png.png",
-                        "path": null,
-                        "size": 121.48,
-                        "width": 749,
-                        "height": 750
-                      },
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_bolivia_png_81cfc9f71f.png",
-                        "hash": "thumbnail_bolivia_png_81cfc9f71f",
-                        "mime": "image/png",
-                        "name": "thumbnail_bolivia-png.png",
-                        "path": null,
-                        "size": 11.54,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "bolivia_png_81cfc9f71f",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 20.97,
-                    "url": "/uploads/bolivia_png_81cfc9f71f.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:32:14.648Z",
-                    "updatedAt": "2025-08-03T16:32:14.648Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36801,
-      "attributes": {
-        "diary_description": "Serie B: \nSão Bernardo vs Juventude",
-        "diary_hour": "15:00:00",
-        "date_diary": "2026-06-21",
-        "createdAt": "2026-06-21T03:01:34.161Z",
-        "updatedAt": "2026-06-21T03:01:34.161Z",
-        "publishedAt": "2026-06-21T08:15:20.079Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1320,
-              "attributes": {
-                "embed_name": "Premiere BR ",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1wcmVtaWVyZTE=",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 1,
-            "attributes": {
-              "name": "Brasil",
-              "createdAt": "2023-11-22T14:40:01.140Z",
-              "updatedAt": "2025-08-03T15:06:25.755Z",
-              "publishedAt": "2023-11-22T14:42:50.953Z",
-              "image": {
-                "data": {
-                  "id": 355,
-                  "attributes": {
-                    "name": "brasil_25a533e5f7.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "brasil_25a533e5f7_a1a1ef7a7c",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.73,
-                    "url": "/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:06:21.382Z",
-                    "updatedAt": "2025-08-03T15:06:21.382Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36812,
-      "attributes": {
-        "diary_description": "MLB – Philadelphia Phillies vs New York Mets",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-06-21",
-        "createdAt": "2026-06-21T03:11:02.372Z",
-        "updatedAt": "2026-06-21T14:51:28.556Z",
-        "publishedAt": "2026-06-21T08:15:38.072Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 656,
-              "attributes": {
-                "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMw==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1357,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1358,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1462,
-              "attributes": {
-                "embed_name": "ESPN 3 HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjM=",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=espn3"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 70,
-            "attributes": {
-              "name": "MLB Preseason",
-              "createdAt": "2024-02-23T06:14:15.840Z",
-              "updatedAt": "2025-08-03T14:39:12.740Z",
-              "publishedAt": "2024-02-23T06:14:18.809Z",
-              "image": {
-                "data": {
-                  "id": 352,
-                  "attributes": {
-                    "name": "mlb_f5711cc440.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "mlb_f5711cc440_dde64767e4",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.66,
-                    "url": "/uploads/mlb_f5711cc440_dde64767e4.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:39:07.537Z",
-                    "updatedAt": "2025-08-03T14:39:07.537Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36804,
-      "attributes": {
-        "diary_description": "Copa Chile: \nUniversidad Chile vs Santiago Wanderers",
-        "diary_hour": "16:30:00",
-        "date_diary": "2026-06-21",
-        "createdAt": "2026-06-21T03:04:16.023Z",
-        "updatedAt": "2026-06-21T15:00:19.722Z",
-        "publishedAt": "2026-06-21T08:15:28.621Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 624,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-              }
-            },
-            {
-              "id": 318,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-              }
-            },
-            {
-              "id": 1464,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dG50c3BvcnRzY2hpbGU=",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=tntsportschile"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 12,
-            "attributes": {
-              "name": "Chile",
-              "createdAt": "2023-11-22T15:42:40.655Z",
-              "updatedAt": "2025-08-03T16:01:24.110Z",
-              "publishedAt": "2023-11-22T15:42:42.314Z",
-              "image": {
-                "data": {
-                  "id": 361,
-                  "attributes": {
-                    "name": "chile_86c07a7b38.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "chile_86c07a7b38_fad5126fd0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.7,
-                    "url": "/uploads/chile_86c07a7b38_fad5126fd0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:01:20.348Z",
-                    "updatedAt": "2025-08-03T16:01:20.348Z"
                   }
                 }
               }
