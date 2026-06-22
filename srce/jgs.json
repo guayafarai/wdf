@@ -60,54 +60,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=dsports"
   },
   {
-    "id": "36815",
-    "slug": "argentina-vs-austria-2026-06-22",
-    "team_a": "Argentina",
-    "team_b": "Austria",
-    "league": "Copa del Mundo",
-    "date": "2026-06-22",
-    "time": "12:00",
-    "streams": [
-      {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1"
-      },
-      {
-        "name": "Telefe",
-        "url": "https://tvtvhd.com/canales.php?stream=telefe"
-      },
-      {
-        "name": "Caracol TV",
-        "url": "https://tvtvhd.com/canales.php?stream=caracol"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Universo",
-        "url": "https://tvtvhd.com/canales.php?stream=universo"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
     "id": "36820",
     "slug": "san-diego-padres-vs-atlanta-braves-2026-06-22",
     "team_a": "San Diego Padres",
@@ -165,8 +117,8 @@
         "url": "https://tvtvhd.com/canales.php?stream=telemundo"
       },
       {
-        "name": "DSports HD",
-        "url": "https://tvtvhd.com/online/canales.php?stream=dsports"
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
       },
       {
         "name": "Deportes TV. C",
