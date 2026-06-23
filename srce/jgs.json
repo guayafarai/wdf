@@ -1,41 +1,5 @@
 [
   {
-    "id": "36821",
-    "slug": "portugal-vs-uzbekistán-2026-06-23",
-    "team_a": "Portugal",
-    "team_b": "Uzbekistán",
-    "league": "Copa del Mundo",
-    "date": "2026-06-23",
-    "time": "12:00",
-    "streams": [
-      {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Telefe",
-        "url": "https://tvtvhd.com/canales.php?stream=telefe"
-      },
-      {
-        "name": "Win Sports",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
     "id": "36823",
     "slug": "panamá-vs-croacia-2026-06-23",
     "team_a": "Panamá",
