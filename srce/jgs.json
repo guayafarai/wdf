@@ -1,86 +1,34 @@
 [
   {
-    "id": "36817",
-    "slug": "noruega-vs-senegal-2026-06-22",
-    "team_a": "Noruega",
-    "team_b": "Senegal",
-    "league": "Copa del Mundo",
-    "date": "2026-06-22",
-    "time": "19:00",
+    "id": "Barcelona-2026-06-23",
+    "slug": "barcelona-vs-real-madrid-2026-06-23",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-06-23",
+    "time": "20:00",
     "streams": [
       {
-        "name": "DSports HD",
-        "url": "https://tvtvhd.com/online/canales.php?stream=dsports"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Win Sports",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
-      },
-      {
-        "name": "Canal 5 MX",
-        "url": "https://tvtvhd.com/canales.php?stream=canal5"
-      },
-      {
-        "name": "America Television",
-        "url": "https://tvtvhd.com/canales.php?stream=americatv"
+        "name": "Demo",
+        "url": "https://example.com/embed/barcelona-real-madrid"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "36820",
-    "slug": "san-diego-padres-vs-atlanta-braves-2026-06-22",
-    "team_a": "San Diego Padres",
-    "team_b": "Atlanta Braves",
-    "league": "MLB",
-    "date": "2026-06-22",
-    "time": "21:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36818",
-    "slug": "jordania-vs-argelia-2026-06-22",
-    "team_a": "Jordania",
-    "team_b": "Argelia",
-    "league": "Copa del Mundo",
-    "date": "2026-06-22",
+    "id": "América-2026-06-23",
+    "slug": "américa-vs-chivas-2026-06-23",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-06-23",
     "time": "22:00",
     "streams": [
       {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "DSports HD",
-        "url": "https://tvtvhd.com/online/canales.php?stream=dsports"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+        "name": "Demo",
+        "url": "https://example.com/embed/america-chivas"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
