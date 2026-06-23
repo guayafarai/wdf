@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-23T16:24:24.707496Z",
+    "last_updated": "2026-06-23T19:06:23.912615Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 7
+    "total_events": 6
   },
   "data": [
     {
@@ -12,7 +12,7 @@
         "diary_hour": "12:00:00",
         "date_diary": "2026-06-23",
         "createdAt": "2026-06-23T01:31:41.475Z",
-        "updatedAt": "2026-06-23T01:31:41.475Z",
+        "updatedAt": "2026-06-23T16:52:28.760Z",
         "publishedAt": "2026-06-23T15:23:43.555Z",
         "channels": {
           "data": []
@@ -140,35 +140,11 @@
               }
             },
             {
-              "id": 620,
+              "id": 1438,
               "attributes": {
-                "embed_name": "Azteca 7",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1henRlY2E3",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
-              }
-            },
-            {
-              "id": 1386,
-              "attributes": {
-                "embed_name": "Azteca 7 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1henRlY2E3",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=azteca7"
-              }
-            },
-            {
-              "id": 1387,
-              "attributes": {
-                "embed_name": "Azteca 7 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWF6dGVjYTc=",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=azteca7"
-              }
-            },
-            {
-              "id": 1459,
-              "attributes": {
-                "embed_name": "Azteca 7 HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09YXp0ZWNhNw==",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=azteca7"
+                "embed_name": "Deportes TV. C",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1nb2x0dg==",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=goltv"
               }
             }
           ]
@@ -261,7 +237,7 @@
         "diary_hour": "18:00:00",
         "date_diary": "2026-06-23",
         "createdAt": "2026-06-23T01:38:20.563Z",
-        "updatedAt": "2026-06-23T01:38:20.563Z",
+        "updatedAt": "2026-06-23T16:53:55.121Z",
         "publishedAt": "2026-06-23T15:23:43.555Z",
         "channels": {
           "data": []
@@ -346,6 +322,14 @@
                 "embed_name": "TYC Sports HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dHljc3BvcnRz",
                 "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=tycsports"
+              }
+            },
+            {
+              "id": 1438,
+              "attributes": {
+                "embed_name": "Deportes TV. C",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1nb2x0dg==",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=goltv"
               }
             }
           ]
@@ -522,7 +506,7 @@
         "diary_hour": "15:00:00",
         "date_diary": "2026-06-23",
         "createdAt": "2026-06-23T01:35:53.165Z",
-        "updatedAt": "2026-06-23T01:35:53.165Z",
+        "updatedAt": "2026-06-23T16:53:01.615Z",
         "publishedAt": "2026-06-23T15:23:43.555Z",
         "channels": {
           "data": []
@@ -551,6 +535,14 @@
                 "embed_name": "DSports",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
                 "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+              }
+            },
+            {
+              "id": 834,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXky",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
               }
             },
             {
@@ -615,6 +607,14 @@
                 "embed_name": "America TV | HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09YW1lcmljYXR2",
                 "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=americatv"
+              }
+            },
+            {
+              "id": 1438,
+              "attributes": {
+                "embed_name": "Deportes TV. C",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1nb2x0dg==",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=goltv"
               }
             }
           ]
@@ -707,7 +707,7 @@
         "diary_hour": "21:00:00",
         "date_diary": "2026-06-23",
         "createdAt": "2026-06-23T01:41:36.435Z",
-        "updatedAt": "2026-06-23T01:43:50.903Z",
+        "updatedAt": "2026-06-23T16:54:26.802Z",
         "publishedAt": "2026-06-23T15:23:43.555Z",
         "channels": {
           "data": []
@@ -728,6 +728,14 @@
                 "embed_name": "Telemundo HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dGVsZW11bmRv",
                 "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=telemundo"
+              }
+            },
+            {
+              "id": 835,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkz",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
               }
             },
             {
@@ -787,38 +795,6 @@
               }
             },
             {
-              "id": 620,
-              "attributes": {
-                "embed_name": "Azteca 7",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1henRlY2E3",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
-              }
-            },
-            {
-              "id": 1386,
-              "attributes": {
-                "embed_name": "Azteca 7 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1henRlY2E3",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=azteca7"
-              }
-            },
-            {
-              "id": 1387,
-              "attributes": {
-                "embed_name": "Azteca 7 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWF6dGVjYTc=",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=azteca7"
-              }
-            },
-            {
-              "id": 1459,
-              "attributes": {
-                "embed_name": "Azteca 7 HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09YXp0ZWNhNw==",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=azteca7"
-              }
-            },
-            {
               "id": 1378,
               "attributes": {
                 "embed_name": "America Television",
@@ -840,6 +816,14 @@
                 "embed_name": "FOX Sports 1 USA",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09Zm94c3BvcnRzMV91c2E=",
                 "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+              }
+            },
+            {
+              "id": 1438,
+              "attributes": {
+                "embed_name": "Deportes TV. C",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1nb2x0dg==",
+                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=goltv"
               }
             }
           ]
@@ -917,113 +901,6 @@
                     "provider_metadata": null,
                     "createdAt": "2026-06-11T15:42:04.186Z",
                     "updatedAt": "2026-06-11T15:42:04.186Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36826,
-      "attributes": {
-        "diary_description": "Hockey – Pro League Masculino – Argentina vs España",
-        "diary_hour": "10:30:00",
-        "date_diary": "2026-06-23",
-        "createdAt": "2026-06-23T01:47:08.481Z",
-        "updatedAt": "2026-06-23T01:47:08.481Z",
-        "publishedAt": "2026-06-23T15:23:43.555Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1461,
-              "attributes": {
-                "embed_name": "ESPN 2 HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjI=",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=espn2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 148,
-            "attributes": {
-              "name": "Hokey ",
-              "createdAt": "2025-12-12T17:17:04.064Z",
-              "updatedAt": "2025-12-12T17:17:06.611Z",
-              "publishedAt": "2025-12-12T17:17:06.607Z",
-              "image": {
-                "data": {
-                  "id": 422,
-                  "attributes": {
-                    "name": "hokey.jpg",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 518,
-                    "height": 518,
-                    "formats": {
-                      "small": {
-                        "ext": ".jpg",
-                        "url": "/uploads/small_hokey_53ec88fc22.jpg",
-                        "hash": "small_hokey_53ec88fc22",
-                        "mime": "image/jpeg",
-                        "name": "small_hokey.jpg",
-                        "path": null,
-                        "size": 40.54,
-                        "width": 500,
-                        "height": 500
-                      },
-                      "thumbnail": {
-                        "ext": ".jpg",
-                        "url": "/uploads/thumbnail_hokey_53ec88fc22.jpg",
-                        "hash": "thumbnail_hokey_53ec88fc22",
-                        "mime": "image/jpeg",
-                        "name": "thumbnail_hokey.jpg",
-                        "path": null,
-                        "size": 8.6,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "hokey_53ec88fc22",
-                    "ext": ".jpg",
-                    "mime": "image/jpeg",
-                    "size": 42.27,
-                    "url": "/uploads/hokey_53ec88fc22.jpg",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-12-12T17:16:55.627Z",
-                    "updatedAt": "2025-12-12T17:16:55.627Z"
                   }
                 }
               }
