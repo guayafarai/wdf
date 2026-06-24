@@ -10,18 +10,18 @@
     "streams": [
       {
         "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
       },
       {
         "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
       },
       {
         "name": "Canal 5 MX",
-        "url": "https://tvtvhd.com/canales.php?stream=canal5"
+        "url": "https://tvhd2.com/canales.php?stream=canal5"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
   },
   {
     "id": "36839",
@@ -34,10 +34,10 @@
     "streams": [
       {
         "name": "ESPN 5",
-        "url": "https://tvtvhd.com/canales.php?stream=espn5"
+        "url": "https://tvhd2.com/canales.php?stream=espn5"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
   },
   {
     "id": "36831",
@@ -50,18 +50,18 @@
     "streams": [
       {
         "name": "Dsports 2",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports2"
+        "url": "https://tvhd2.com/canales.php?stream=dsports2"
       },
       {
         "name": "Universo",
-        "url": "https://tvtvhd.com/canales.php?stream=universo"
+        "url": "https://tvhd2.com/canales.php?stream=universo"
       },
       {
         "name": "FOX Sports 1 USA",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+        "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports2"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports2"
   },
   {
     "id": "36833",
@@ -74,38 +74,38 @@
     "streams": [
       {
         "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
       },
       {
         "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1"
+        "url": "https://tvhd2.com/canales.php?stream=disney1"
       },
       {
         "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
       },
       {
         "name": "Telefe",
-        "url": "https://tvtvhd.com/canales.php?stream=telefe"
+        "url": "https://tvhd2.com/canales.php?stream=telefe"
       },
       {
         "name": "Caracol TV",
-        "url": "https://tvtvhd.com/canales.php?stream=caracol"
+        "url": "https://tvhd2.com/canales.php?stream=caracol"
       },
       {
         "name": "America Television",
-        "url": "https://tvtvhd.com/canales.php?stream=americatv"
+        "url": "https://tvhd2.com/canales.php?stream=americatv"
       },
       {
         "name": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv"
+        "url": "https://tvhd2.com/canales.php?stream=goltv"
       },
       {
         "name": "TVE la 1 ES",
         "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE="
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
   },
   {
     "id": "36834",
@@ -118,14 +118,14 @@
     "streams": [
       {
         "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+        "url": "https://tvhd2.com/canales.php?stream=tycsports"
       },
       {
         "name": "FOX Sports 1 USA",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+        "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
   },
   {
     "id": "36836",
@@ -138,10 +138,10 @@
     "streams": [
       {
         "name": "TNT Sports Premiun CL",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+        "url": "https://tvhd2.com/canales.php?stream=tntsportschile"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
     "id": "36838",
@@ -154,10 +154,10 @@
     "streams": [
       {
         "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+        "url": "https://tvhd2.com/canales.php?stream=espn2"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
   },
   {
     "id": "36840",
@@ -170,10 +170,10 @@
     "streams": [
       {
         "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+        "url": "https://tvhd2.com/canales.php?stream=espn2"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
   },
   {
     "id": "36830",
@@ -186,26 +186,26 @@
     "streams": [
       {
         "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
       },
       {
         "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
       },
       {
         "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+        "url": "https://tvhd2.com/canales.php?stream=tycsports"
       },
       {
         "name": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv"
+        "url": "https://tvhd2.com/canales.php?stream=goltv"
       },
       {
         "name": "CAZÉ TV",
         "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2dydS1uaXRyby9saXZlL2NsaWVudHMvZGFzaC1zZC9lbmMvdHdydWxkamcyby9vdXQvdjEvMjlhNDM2MDM4MTU5NDYzMTgzZjYyNGNlODZkNmVkNGEvY2VuYy1zZC5tcGQ=&k=OWRkMzRhZTk3Y2YxNDdiYThmNTU2OTdmMzcyMTI4ODc6YzZlYTk1ZmZkNTdmYjc0NTMxZDVjYzIwNDZiOTc2MzY="
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
   },
   {
     "id": "36832",
@@ -218,21 +218,21 @@
     "streams": [
       {
         "name": "DSports +",
-        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
+        "url": "https://tvhd2.com/canales.php?stream=dsportsplus"
       },
       {
         "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+        "url": "https://tvhd2.com/canales.php?stream=tycsports"
       },
       {
         "name": "Universo",
-        "url": "https://tvtvhd.com/canales.php?stream=universo"
+        "url": "https://tvhd2.com/canales.php?stream=universo"
       },
       {
         "name": "FOX Sports 1 USA",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+        "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsportsplus"
   }
 ]
