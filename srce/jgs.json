@@ -1,49 +1,5 @@
 [
   {
-    "id": "36831",
-    "slug": "bosnia-herzegovina-vs-qatar-2026-06-24",
-    "team_a": "Bosnia-Herzegovina",
-    "team_b": "Qatar",
-    "league": "Copa del Mundo",
-    "date": "2026-06-24",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36833",
-    "slug": "escocia-vs-brasil-2026-06-24",
-    "team_a": "Escocia",
-    "team_b": "Brasil",
-    "league": "Copa del Mundo",
-    "date": "2026-06-24",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "Telemundo",
-        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Telefe",
-        "url": "https://tvtvhd.com/canales.php?stream=telefe"
-      },
-      {
-        "name": "Caracol TV",
-        "url": "https://tvtvhd.com/canales.php?stream=caracol"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
     "id": "36835",
     "slug": "república-checa-vs-méxico-2026-06-24",
     "team_a": "República Checa",
@@ -84,40 +40,72 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
-    "id": "36830",
-    "slug": "suiza-vs-canadá-2026-06-24",
-    "team_a": "Suiza",
-    "team_b": "Canadá",
+    "id": "36831",
+    "slug": "bosnia-herzegovina-vs-qatar-2026-06-24",
+    "team_a": "Bosnia-Herzegovina",
+    "team_b": "Qatar",
     "league": "Copa del Mundo",
     "date": "2026-06-24",
     "time": "14:00",
     "streams": [
       {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "36832",
-    "slug": "marruecos-vs-haití-2026-06-24",
-    "team_a": "Marruecos",
-    "team_b": "Haití",
-    "league": "Copa del Mundo",
-    "date": "2026-06-24",
-    "time": "17:00",
-    "streams": [
+        "name": "Dsports 2",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports2"
+      },
       {
-        "name": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+        "name": "Universo",
+        "url": "https://tvtvhd.com/canales.php?stream=universo"
       },
       {
         "name": "FOX Sports 1 USA",
         "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports2"
+  },
+  {
+    "id": "36833",
+    "slug": "escocia-vs-brasil-2026-06-24",
+    "team_a": "Escocia",
+    "team_b": "Brasil",
+    "league": "Copa del Mundo",
+    "date": "2026-06-24",
+    "time": "17:00",
+    "streams": [
+      {
+        "name": "Telemundo",
+        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1"
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Telefe",
+        "url": "https://tvtvhd.com/canales.php?stream=telefe"
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://tvtvhd.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "America Television",
+        "url": "https://tvtvhd.com/canales.php?stream=americatv"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvtvhd.com/canales.php?stream=goltv"
+      },
+      {
+        "name": "TVE la 1 ES",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE="
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
     "id": "36834",
@@ -186,5 +174,65 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36830",
+    "slug": "suiza-vs-canadá-2026-06-24",
+    "team_a": "Suiza",
+    "team_b": "Canadá",
+    "league": "Copa del Mundo",
+    "date": "2026-06-24",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "Telemundo",
+        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvtvhd.com/canales.php?stream=goltv"
+      },
+      {
+        "name": "CAZÉ TV",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2dydS1uaXRyby9saXZlL2NsaWVudHMvZGFzaC1zZC9lbmMvdHdydWxkamcyby9vdXQvdjEvMjlhNDM2MDM4MTU5NDYzMTgzZjYyNGNlODZkNmVkNGEvY2VuYy1zZC5tcGQ=&k=OWRkMzRhZTk3Y2YxNDdiYThmNTU2OTdmMzcyMTI4ODc6YzZlYTk1ZmZkNTdmYjc0NTMxZDVjYzIwNDZiOTc2MzY="
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36832",
+    "slug": "marruecos-vs-haití-2026-06-24",
+    "team_a": "Marruecos",
+    "team_b": "Haití",
+    "league": "Copa del Mundo",
+    "date": "2026-06-24",
+    "time": "17:00",
+    "streams": [
+      {
+        "name": "DSports +",
+        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
+      },
+      {
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Universo",
+        "url": "https://tvtvhd.com/canales.php?stream=universo"
+      },
+      {
+        "name": "FOX Sports 1 USA",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
   }
 ]
