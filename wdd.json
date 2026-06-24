@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-24T10:17:14.608228Z",
+    "last_updated": "2026-06-24T13:14:50.557189Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 11
+    "total_events": 10
   },
   "data": [
     {
@@ -440,90 +440,6 @@
                     "provider_metadata": null,
                     "createdAt": "2026-06-11T15:42:04.186Z",
                     "updatedAt": "2026-06-11T15:42:04.186Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36837,
-      "attributes": {
-        "diary_description": "ESPN Knockout – Lewis Crocker vs Liam Paro",
-        "diary_hour": "04:00:00",
-        "date_diary": "2026-06-24",
-        "createdAt": "2026-06-24T00:19:20.853Z",
-        "updatedAt": "2026-06-24T00:19:20.853Z",
-        "publishedAt": "2026-06-24T07:12:38.508Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1461,
-              "attributes": {
-                "embed_name": "ESPN 2 HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjI=",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=espn2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 52,
-            "attributes": {
-              "name": "Boxeo",
-              "createdAt": "2024-01-23T08:29:53.264Z",
-              "updatedAt": "2025-08-08T17:07:11.502Z",
-              "publishedAt": "2024-01-23T08:29:54.683Z",
-              "image": {
-                "data": {
-                  "id": 368,
-                  "attributes": {
-                    "name": "boxeo_2024_b15889ae93.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "boxeo_2024_b15889ae93_ae58e10dcb",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.39,
-                    "url": "/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-08T17:07:05.112Z",
-                    "updatedAt": "2025-08-08T17:07:05.112Z"
                   }
                 }
               }
