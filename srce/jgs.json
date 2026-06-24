@@ -68,22 +68,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
-    "id": "36837",
-    "slug": "lewis-crocker-vs-liam-paro-2026-06-24",
-    "team_a": "Lewis Crocker",
-    "team_b": "Liam Paro",
-    "league": "ESPN Knockout",
-    "date": "2026-06-24",
-    "time": "04:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36839",
     "slug": "tampa-bay-rays-vs-kansas-city-royals-2026-06-24",
     "team_a": "Tampa Bay Rays",
