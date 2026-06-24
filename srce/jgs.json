@@ -1,34 +1,206 @@
 [
   {
-    "id": "Barcelona-2026-06-24",
-    "slug": "barcelona-vs-real-madrid-2026-06-24",
-    "team_a": "Barcelona",
-    "team_b": "Real Madrid",
-    "league": "La Liga",
+    "id": "36831",
+    "slug": "bosnia-herzegovina-vs-qatar-2026-06-24",
+    "team_a": "Bosnia-Herzegovina",
+    "team_b": "Qatar",
+    "league": "Copa del Mundo",
+    "date": "2026-06-24",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "36833",
+    "slug": "escocia-vs-brasil-2026-06-24",
+    "team_a": "Escocia",
+    "team_b": "Brasil",
+    "league": "Copa del Mundo",
+    "date": "2026-06-24",
+    "time": "17:00",
+    "streams": [
+      {
+        "name": "Telemundo",
+        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Telefe",
+        "url": "https://tvtvhd.com/canales.php?stream=telefe"
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://tvtvhd.com/canales.php?stream=caracol"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36835",
+    "slug": "república-checa-vs-méxico-2026-06-24",
+    "team_a": "República Checa",
+    "team_b": "México",
+    "league": "Copa del Mundo",
     "date": "2026-06-24",
     "time": "20:00",
     "streams": [
       {
-        "name": "Demo",
-        "url": "https://example.com/embed/barcelona-real-madrid"
+        "name": "Telemundo",
+        "url": "https://tvtvhd.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://tvtvhd.com/canales.php?stream=canal5"
       }
     ],
-    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
-    "id": "América-2026-06-24",
-    "slug": "américa-vs-chivas-2026-06-24",
-    "team_a": "América",
-    "team_b": "Chivas",
-    "league": "Liga MX",
+    "id": "36837",
+    "slug": "lewis-crocker-vs-liam-paro-2026-06-24",
+    "team_a": "Lewis Crocker",
+    "team_b": "Liam Paro",
+    "league": "ESPN Knockout",
     "date": "2026-06-24",
-    "time": "22:00",
+    "time": "04:00",
     "streams": [
       {
-        "name": "Demo",
-        "url": "https://example.com/embed/america-chivas"
+        "name": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2"
       }
     ],
-    "decoded_iframe_url": "https://example.com/embed/america-chivas"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36839",
+    "slug": "tampa-bay-rays-vs-kansas-city-royals-2026-06-24",
+    "team_a": "Tampa Bay Rays",
+    "team_b": "Kansas City Royals",
+    "league": "MLB",
+    "date": "2026-06-24",
+    "time": "17:30",
+    "streams": [
+      {
+        "name": "ESPN 5",
+        "url": "https://tvtvhd.com/canales.php?stream=espn5"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36830",
+    "slug": "suiza-vs-canadá-2026-06-24",
+    "team_a": "Suiza",
+    "team_b": "Canadá",
+    "league": "Copa del Mundo",
+    "date": "2026-06-24",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+  },
+  {
+    "id": "36832",
+    "slug": "marruecos-vs-haití-2026-06-24",
+    "team_a": "Marruecos",
+    "team_b": "Haití",
+    "league": "Copa del Mundo",
+    "date": "2026-06-24",
+    "time": "17:00",
+    "streams": [
+      {
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "FOX Sports 1 USA",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+  },
+  {
+    "id": "36834",
+    "slug": "sur-áfrica-vs-corea-del-sur-2026-06-24",
+    "team_a": "Sur África",
+    "team_b": "Corea del Sur",
+    "league": "Copa del Mundo",
+    "date": "2026-06-24",
+    "time": "20:00",
+    "streams": [
+      {
+        "name": "TYC Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "FOX Sports 1 USA",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+  },
+  {
+    "id": "36836",
+    "slug": "unión-la-calera-vs-universidad-chile-2026-06-24",
+    "team_a": "Unión La Calera",
+    "team_b": "Universidad Chile",
+    "league": "Copa Chile",
+    "date": "2026-06-24",
+    "time": "18:30",
+    "streams": [
+      {
+        "name": "TNT Sports Premiun CL",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36838",
+    "slug": "alemania-vs-argentina-2026-06-24",
+    "team_a": "Alemania",
+    "team_b": "Argentina",
+    "league": "Hockey – Pro League Masculino",
+    "date": "2026-06-24",
+    "time": "13:30",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36840",
+    "slug": "nba-draft---segunda-ronda-2026-06-24",
+    "team_a": "",
+    "team_b": "",
+    "league": "NBA Draft – Segunda Ronda",
+    "date": "2026-06-24",
+    "time": "19:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   }
 ]
