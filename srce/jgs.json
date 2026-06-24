@@ -40,30 +40,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
   },
   {
-    "id": "36831",
-    "slug": "bosnia-herzegovina-vs-qatar-2026-06-24",
-    "team_a": "Bosnia-Herzegovina",
-    "team_b": "Qatar",
-    "league": "Copa del Mundo",
-    "date": "2026-06-24",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Dsports 2",
-        "url": "https://tvhd2.com/canales.php?stream=dsports2"
-      },
-      {
-        "name": "Universo",
-        "url": "https://tvhd2.com/canales.php?stream=universo"
-      },
-      {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports2"
-  },
-  {
     "id": "36833",
     "slug": "escocia-vs-brasil-2026-06-24",
     "team_a": "Escocia",
@@ -77,12 +53,16 @@
         "url": "https://tvhd2.com/canales.php?stream=telemundo"
       },
       {
-        "name": "Disney+",
-        "url": "https://tvhd2.com/canales.php?stream=disney1"
-      },
-      {
         "name": "DSports",
         "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Tigo Sports",
+        "url": "https://tvhd2.com/online/canales.php?stream=even2"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://tvhd2.com/canales.php?stream=disney1"
       },
       {
         "name": "Telefe",
@@ -144,22 +124,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36838",
-    "slug": "alemania-vs-argentina-2026-06-24",
-    "team_a": "Alemania",
-    "team_b": "Argentina",
-    "league": "Hockey – Pro League Masculino",
-    "date": "2026-06-24",
-    "time": "13:30",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36840",
     "slug": "nba-draft---segunda-ronda-2026-06-24",
     "team_a": "",
@@ -174,38 +138,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36830",
-    "slug": "suiza-vs-canadá-2026-06-24",
-    "team_a": "Suiza",
-    "team_b": "Canadá",
-    "league": "Copa del Mundo",
-    "date": "2026-06-24",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvhd2.com/canales.php?stream=goltv"
-      },
-      {
-        "name": "CAZÉ TV",
-        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2dydS1uaXRyby9saXZlL2NsaWVudHMvZGFzaC1zZC9lbmMvdHdydWxkamcyby9vdXQvdjEvMjlhNDM2MDM4MTU5NDYzMTgzZjYyNGNlODZkNmVkNGEvY2VuYy1zZC5tcGQ=&k=OWRkMzRhZTk3Y2YxNDdiYThmNTU2OTdmMzcyMTI4ODc6YzZlYTk1ZmZkNTdmYjc0NTMxZDVjYzIwNDZiOTc2MzY="
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
   },
   {
     "id": "36832",
