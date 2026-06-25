@@ -32,34 +32,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
   },
   {
-    "id": "36845",
-    "slug": "japón-vs-suecia-2026-06-25",
-    "team_a": "Japón",
-    "team_b": "Suecia",
-    "league": "Copa del Mundo",
-    "date": "2026-06-25",
-    "time": "18:00",
-    "streams": [
-      {
-        "name": "DSports +",
-        "url": "https://tvhd2.com/canales.php?stream=dsportsplus"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsportsplus"
-  },
-  {
     "id": "36846",
     "slug": "paraguay-vs-australia-2026-06-25",
     "team_a": "Paraguay",
@@ -88,96 +60,36 @@
     "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
   },
   {
-    "id": "36843",
-    "slug": "ecuador-vs-alemania-2026-06-25",
-    "team_a": "Ecuador",
-    "team_b": "Alemania",
+    "id": "36845",
+    "slug": "japón-vs-suecia-2026-06-25",
+    "team_a": "Japón",
+    "team_b": "Suecia",
     "league": "Copa del Mundo",
     "date": "2026-06-25",
-    "time": "15:00",
+    "time": "18:00",
     "streams": [
       {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      },
-      {
         "name": "Tigo Sports",
-        "url": "https://tvhd2.com/online/canales.php?stream=even2"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
+        "url": "https://tvhd2.com/online/canales.php?stream=even1"
       },
       {
         "name": "TYC Sports",
         "url": "https://tvhd2.com/canales.php?stream=tycsports"
       },
       {
-        "name": "Telefe",
-        "url": "https://tvhd2.com/canales.php?stream=telefe"
+        "name": "DSports +",
+        "url": "https://tvhd2.com/canales.php?stream=dsportsplus"
       },
       {
         "name": "Sportv BR",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
       },
       {
-        "name": "Caracol TV",
-        "url": "https://tvhd2.com/canales.php?stream=caracol"
-      },
-      {
-        "name": "Canal 5 MX",
-        "url": "https://tvhd2.com/canales.php?stream=canal5"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvhd2.com/canales.php?stream=goltv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
-  },
-  {
-    "id": "36851",
-    "slug": "golf---travelers-championship---primera-vuelta-2026-06-25",
-    "team_a": "",
-    "team_b": "",
-    "league": "Golf – Travelers Championship – Primera Vuelta",
-    "date": "2026-06-25",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36842",
-    "slug": "curazao-vs-costa-de-marfil-2026-06-25",
-    "team_a": "Curazao",
-    "team_b": "Costa de Marfil",
-    "league": "Copa del Mundo",
-    "date": "2026-06-25",
-    "time": "15:00",
-    "streams": [
-      {
-        "name": "Dsports 2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
-      },
-      {
-        "name": "Sportv 2 BR",
-        "url": "https://tvhd2.com/canales.php?stream=sportv2"
-      },
-      {
-        "name": "Universo",
-        "url": "https://tvhd2.com/canales.php?stream=universo"
-      },
-      {
         "name": "FOX Sports 1 USA",
         "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
   },
   {
     "id": "36847",
@@ -221,6 +133,10 @@
     "time": "18:00",
     "streams": [
       {
+        "name": "Tigo Sports 2",
+        "url": "https://tvhd2.com/online/canales.php?stream=even2"
+      },
+      {
         "name": "Telemundo",
         "url": "https://tvhd2.com/canales.php?stream=telemundo"
       },
@@ -237,6 +153,6 @@
         "url": "https://tvhd2.com/canales.php?stream=goltv"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even2"
   }
 ]
