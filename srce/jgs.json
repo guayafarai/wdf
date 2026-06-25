@@ -32,50 +32,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
   },
   {
-    "id": "36843",
-    "slug": "ecuador-vs-alemania-2026-06-25",
-    "team_a": "Ecuador",
-    "team_b": "Alemania",
-    "league": "Copa del Mundo",
-    "date": "2026-06-25",
-    "time": "15:00",
-    "streams": [
-      {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Telefe",
-        "url": "https://tvhd2.com/canales.php?stream=telefe"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Caracol TV",
-        "url": "https://tvhd2.com/canales.php?stream=caracol"
-      },
-      {
-        "name": "Canal 5 MX",
-        "url": "https://tvhd2.com/canales.php?stream=canal5"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvhd2.com/canales.php?stream=goltv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
-  },
-  {
     "id": "36845",
     "slug": "japón-vs-suecia-2026-06-25",
     "team_a": "Japón",
@@ -132,36 +88,52 @@
     "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
   },
   {
-    "id": "36849",
-    "slug": "inglaterra-vs-argentina-2026-06-25",
-    "team_a": "Inglaterra",
-    "team_b": "Argentina",
-    "league": "Hockey – Pro League Femenino",
+    "id": "36843",
+    "slug": "ecuador-vs-alemania-2026-06-25",
+    "team_a": "Ecuador",
+    "team_b": "Alemania",
+    "league": "Copa del Mundo",
     "date": "2026-06-25",
-    "time": "11:00",
+    "time": "15:00",
     "streams": [
       {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36850",
-    "slug": "pittsburgh-pirates-vs-seattle-mariners-2026-06-25",
-    "team_a": "Pittsburgh Pirates",
-    "team_b": "Seattle Mariners",
-    "league": "MLB",
-    "date": "2026-06-25",
-    "time": "11:30",
-    "streams": [
+        "name": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
+      },
       {
-        "name": "ESPN 3",
-        "url": "https://tvhd2.com/canales.php?stream=espn3"
+        "name": "Tigo Sports",
+        "url": "https://tvhd2.com/online/canales.php?stream=even2"
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "TYC Sports",
+        "url": "https://tvhd2.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Telefe",
+        "url": "https://tvhd2.com/canales.php?stream=telefe"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://tvhd2.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://tvhd2.com/canales.php?stream=canal5"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
   },
   {
     "id": "36851",
