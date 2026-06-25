@@ -149,12 +149,12 @@
     "time": "17:00",
     "streams": [
       {
-        "name": "DSports +",
-        "url": "https://tvhd2.com/canales.php?stream=dsportsplus"
-      },
-      {
         "name": "TYC Sports",
         "url": "https://tvhd2.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "DSports +",
+        "url": "https://tvhd2.com/canales.php?stream=dsportsplus"
       },
       {
         "name": "Universo",
@@ -165,6 +165,6 @@
         "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsportsplus"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
   }
 ]
