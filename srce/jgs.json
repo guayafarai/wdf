@@ -1,170 +1,34 @@
 [
   {
-    "id": "36835",
-    "slug": "república-checa-vs-méxico-2026-06-24",
-    "team_a": "República Checa",
-    "team_b": "México",
-    "league": "Copa del Mundo",
-    "date": "2026-06-24",
+    "id": "Barcelona-2026-06-25",
+    "slug": "barcelona-vs-real-madrid-2026-06-25",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-06-25",
     "time": "20:00",
     "streams": [
       {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Canal 5 MX",
-        "url": "https://tvhd2.com/canales.php?stream=canal5"
+        "name": "Demo",
+        "url": "https://example.com/embed/barcelona-real-madrid"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "36839",
-    "slug": "tampa-bay-rays-vs-kansas-city-royals-2026-06-24",
-    "team_a": "Tampa Bay Rays",
-    "team_b": "Kansas City Royals",
-    "league": "MLB",
-    "date": "2026-06-24",
-    "time": "17:30",
+    "id": "América-2026-06-25",
+    "slug": "américa-vs-chivas-2026-06-25",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-06-25",
+    "time": "22:00",
     "streams": [
       {
-        "name": "ESPN 5",
-        "url": "https://tvhd2.com/canales.php?stream=espn5"
+        "name": "Demo",
+        "url": "https://example.com/embed/america-chivas"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "36833",
-    "slug": "escocia-vs-brasil-2026-06-24",
-    "team_a": "Escocia",
-    "team_b": "Brasil",
-    "league": "Copa del Mundo",
-    "date": "2026-06-24",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Tigo Sports",
-        "url": "https://tvhd2.com/online/canales.php?stream=even2"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://tvhd2.com/canales.php?stream=disney1"
-      },
-      {
-        "name": "Telefe",
-        "url": "https://tvhd2.com/canales.php?stream=telefe"
-      },
-      {
-        "name": "Caracol TV",
-        "url": "https://tvhd2.com/canales.php?stream=caracol"
-      },
-      {
-        "name": "America Television",
-        "url": "https://tvhd2.com/canales.php?stream=americatv"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvhd2.com/canales.php?stream=goltv"
-      },
-      {
-        "name": "TVE la 1 ES",
-        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE="
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
-  },
-  {
-    "id": "36834",
-    "slug": "sur-áfrica-vs-corea-del-sur-2026-06-24",
-    "team_a": "Sur África",
-    "team_b": "Corea del Sur",
-    "league": "Copa del Mundo",
-    "date": "2026-06-24",
-    "time": "20:00",
-    "streams": [
-      {
-        "name": "TYC Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "36836",
-    "slug": "unión-la-calera-vs-universidad-chile-2026-06-24",
-    "team_a": "Unión La Calera",
-    "team_b": "Universidad Chile",
-    "league": "Copa Chile",
-    "date": "2026-06-24",
-    "time": "18:30",
-    "streams": [
-      {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36840",
-    "slug": "nba-draft---segunda-ronda-2026-06-24",
-    "team_a": "",
-    "team_b": "",
-    "league": "NBA Draft – Segunda Ronda",
-    "date": "2026-06-24",
-    "time": "19:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36832",
-    "slug": "marruecos-vs-haití-2026-06-24",
-    "team_a": "Marruecos",
-    "team_b": "Haití",
-    "league": "Copa del Mundo",
-    "date": "2026-06-24",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "TYC Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "DSports +",
-        "url": "https://tvhd2.com/canales.php?stream=dsportsplus"
-      },
-      {
-        "name": "Universo",
-        "url": "https://tvhd2.com/canales.php?stream=universo"
-      },
-      {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
