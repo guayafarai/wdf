@@ -1,37 +1,5 @@
 [
   {
-    "id": "36848",
-    "slug": "colo-colo-vs-o'higgins-2026-06-25",
-    "team_a": "Colo-Colo",
-    "team_b": "O'Higgins",
-    "league": "Copa Chile",
-    "date": "2026-06-25",
-    "time": "18:30",
-    "streams": [
-      {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36852",
-    "slug": "st.-louis-cardinals-vs-arizona-diamondbacks-2026-06-25",
-    "team_a": "St. Louis Cardinals",
-    "team_b": "Arizona Diamondbacks",
-    "league": "MLB",
-    "date": "2026-06-25",
-    "time": "18:30",
-    "streams": [
-      {
-        "name": "ESPN 5",
-        "url": "https://tvhd2.com/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
-  },
-  {
     "id": "36846",
     "slug": "paraguay-vs-australia-2026-06-25",
     "team_a": "Paraguay",
@@ -40,6 +8,10 @@
     "date": "2026-06-25",
     "time": "21:00",
     "streams": [
+      {
+        "name": "Tigo Sports",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1"
+      },
       {
         "name": "Dsports 2",
         "url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
@@ -51,38 +23,6 @@
       {
         "name": "Universo",
         "url": "https://tvhd2.com/canales.php?stream=universo"
-      },
-      {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
-  },
-  {
-    "id": "36845",
-    "slug": "japón-vs-suecia-2026-06-25",
-    "team_a": "Japón",
-    "team_b": "Suecia",
-    "league": "Copa del Mundo",
-    "date": "2026-06-25",
-    "time": "18:00",
-    "streams": [
-      {
-        "name": "Tigo Sports",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "DSports +",
-        "url": "https://tvhd2.com/canales.php?stream=dsportsplus"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
       },
       {
         "name": "FOX Sports 1 USA",
@@ -101,6 +41,10 @@
     "time": "21:00",
     "streams": [
       {
+        "name": "Tigo Sports 2",
+        "url": "https://tvhd2.com/online/canales.php?stream=even2"
+      },
+      {
         "name": "Telemundo",
         "url": "https://tvhd2.com/canales.php?stream=telemundo"
       },
@@ -115,38 +59,6 @@
       {
         "name": "Sportv BR",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvhd2.com/canales.php?stream=goltv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
-  },
-  {
-    "id": "36844",
-    "slug": "túnez-vs-países-bajos-2026-06-25",
-    "team_a": "Túnez",
-    "team_b": "Países Bajos",
-    "league": "Copa del Mundo",
-    "date": "2026-06-25",
-    "time": "18:00",
-    "streams": [
-      {
-        "name": "Tigo Sports 2",
-        "url": "https://tvhd2.com/online/canales.php?stream=even2"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Win Sports",
-        "url": "https://tvhd2.com/canales.php?stream=winsports"
       },
       {
         "name": "Deportes TV. C",
