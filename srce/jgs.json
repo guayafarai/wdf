@@ -28,22 +28,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
   },
   {
-    "id": "36861",
-    "slug": "f2-spielberg---clasificación-2026-06-26",
-    "team_a": "",
-    "team_b": "",
-    "league": "F2 Spielberg – Clasificación",
-    "date": "2026-06-26",
-    "time": "08:40",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36856",
     "slug": "uruguay-vs-españa-2026-06-26",
     "team_a": "Uruguay",
@@ -136,22 +120,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
   },
   {
-    "id": "36862",
-    "slug": "argentina-vs-españa-2026-06-26",
-    "team_a": "Argentina",
-    "team_b": "España",
-    "league": "Hockey – Pro League Femenino",
-    "date": "2026-06-26",
-    "time": "09:30",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvhd2.com/canales.php?stream=espn4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn4"
-  },
-  {
     "id": "36855",
     "slug": "islas-de-cabo-verde-vs-arabia-saudita-2026-06-26",
     "team_a": "Islas de Cabo Verde",
@@ -174,22 +142,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=sportv2"
-  },
-  {
-    "id": "36863",
-    "slug": "f1-gp-austria---práctica-#2-2026-06-26",
-    "team_a": "",
-    "team_b": "",
-    "league": "F1 GP Austria – Práctica #2",
-    "date": "2026-06-26",
-    "time": "09:55",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
   },
   {
     "id": "36864",
