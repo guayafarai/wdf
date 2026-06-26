@@ -1,24 +1,20 @@
 [
   {
-    "id": "36846",
-    "slug": "paraguay-vs-australia-2026-06-25",
-    "team_a": "Paraguay",
-    "team_b": "Australia",
+    "id": "36857",
+    "slug": "egipto-vs-irán-2026-06-26",
+    "team_a": "Egipto",
+    "team_b": "Irán",
     "league": "Copa del Mundo",
-    "date": "2026-06-25",
-    "time": "21:00",
+    "date": "2026-06-26",
+    "time": "22:00",
     "streams": [
       {
-        "name": "Tigo Sports",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1"
+        "name": "TYC Sports",
+        "url": "https://tvhd2.com/canales.php?stream=tycsports"
       },
       {
-        "name": "Dsports 2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
-      },
-      {
-        "name": "Telefe",
-        "url": "https://tvhd2.com/canales.php?stream=telefe"
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
       },
       {
         "name": "Universo",
@@ -29,42 +25,262 @@
         "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
   },
   {
-    "id": "36847",
-    "slug": "turquía-vs-ee.-uu.-2026-06-25",
-    "team_a": "Turquía",
-    "team_b": "EE. UU.",
-    "league": "Copa del Mundo",
-    "date": "2026-06-25",
-    "time": "21:00",
+    "id": "36859",
+    "slug": "f2-spielberg---práctica-2026-06-26",
+    "team_a": "",
+    "team_b": "",
+    "league": "F2 Spielberg – Práctica",
+    "date": "2026-06-26",
+    "time": "03:50",
     "streams": [
       {
-        "name": "Tigo Sports 2",
-        "url": "https://tvhd2.com/online/canales.php?stream=even2"
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36861",
+    "slug": "f2-spielberg---clasificación-2026-06-26",
+    "team_a": "",
+    "team_b": "",
+    "league": "F2 Spielberg – Clasificación",
+    "date": "2026-06-26",
+    "time": "08:40",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36854",
+    "slug": "senegal-vs-iraq-2026-06-26",
+    "team_a": "Senegal",
+    "team_b": "Iraq",
+    "league": "Copa del Mundo",
+    "date": "2026-06-26",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "Universo",
+        "url": "https://tvhd2.com/canales.php?stream=universo"
       },
+      {
+        "name": "FOX Sports 1 USA",
+        "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=universo"
+  },
+  {
+    "id": "36856",
+    "slug": "uruguay-vs-españa-2026-06-26",
+    "team_a": "Uruguay",
+    "team_b": "España",
+    "league": "Copa del Mundo",
+    "date": "2026-06-26",
+    "time": "19:00",
+    "streams": [
       {
         "name": "Telemundo",
         "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
       },
       {
         "name": "TYC Sports",
         "url": "https://tvhd2.com/canales.php?stream=tycsports"
       },
       {
+        "name": "Telefe",
+        "url": "https://tvhd2.com/canales.php?stream=telefe"
+      },
+      {
         "name": "Sportv BR",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
       },
       {
-        "name": "Deportes TV. C",
-        "url": "https://tvhd2.com/canales.php?stream=goltv"
+        "name": "Caracol TV",
+        "url": "https://tvhd2.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://tvhd2.com/canales.php?stream=canal5"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even2"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36865",
+    "slug": "golf---travelers-championship---segunda-vuelta-2026-06-26",
+    "team_a": "",
+    "team_b": "",
+    "league": "Golf – Travelers Championship – Segunda Vuelta",
+    "date": "2026-06-26",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36858",
+    "slug": "nueva-zelanda-vs-bélgica-2026-06-26",
+    "team_a": "Nueva Zelanda",
+    "team_b": "Bélgica",
+    "league": "Copa del Mundo",
+    "date": "2026-06-26",
+    "time": "22:00",
+    "streams": [
+      {
+        "name": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36860",
+    "slug": "f1-gp-austria---práctica-#1-2026-06-26",
+    "team_a": "",
+    "team_b": "",
+    "league": "F1 GP Austria – Práctica #1",
+    "date": "2026-06-26",
+    "time": "06:25",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36862",
+    "slug": "argentina-vs-españa-2026-06-26",
+    "team_a": "Argentina",
+    "team_b": "España",
+    "league": "Hockey – Pro League Femenino",
+    "date": "2026-06-26",
+    "time": "09:30",
+    "streams": [
+      {
+        "name": "ESPN 4",
+        "url": "https://tvhd2.com/canales.php?stream=espn4"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "36853",
+    "slug": "noruega-vs-francia-2026-06-26",
+    "team_a": "Noruega",
+    "team_b": "Francia",
+    "league": "Copa del Mundo",
+    "date": "2026-06-26",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "TYC Sports",
+        "url": "https://tvhd2.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Telefe",
+        "url": "https://tvhd2.com/canales.php?stream=telefe"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Win Sports",
+        "url": "https://tvhd2.com/canales.php?stream=winsports"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36855",
+    "slug": "islas-de-cabo-verde-vs-arabia-saudita-2026-06-26",
+    "team_a": "Islas de Cabo Verde",
+    "team_b": "Arabia Saudita",
+    "league": "Copa del Mundo",
+    "date": "2026-06-26",
+    "time": "19:00",
+    "streams": [
+      {
+        "name": "Sportv 2 BR",
+        "url": "https://tvhd2.com/canales.php?stream=sportv2"
+      },
+      {
+        "name": "Universo",
+        "url": "https://tvhd2.com/canales.php?stream=universo"
+      },
+      {
+        "name": "FOX Sports 1 USA",
+        "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=sportv2"
+  },
+  {
+    "id": "36863",
+    "slug": "f1-gp-austria---práctica-#2-2026-06-26",
+    "team_a": "",
+    "team_b": "",
+    "league": "F1 GP Austria – Práctica #2",
+    "date": "2026-06-26",
+    "time": "09:55",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36864",
+    "slug": "españa-vs-argentina-2026-06-26",
+    "team_a": "España",
+    "team_b": "Argentina",
+    "league": "Hockey – Pro League Masculino",
+    "date": "2026-06-26",
+    "time": "10:30",
+    "streams": [
+      {
+        "name": "ESPN 5",
+        "url": "https://tvhd2.com/canales.php?stream=espn5"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36866",
+    "slug": "eduardo-torres-vs-aziz-osorbek-uulu-2026-06-26",
+    "team_a": "Eduardo Torres",
+    "team_b": "Aziz Osorbek Uulu",
+    "league": "ESPN Knockout – LFA 236",
+    "date": "2026-06-26",
+    "time": "18:30",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
   }
 ]
