@@ -28,22 +28,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
   },
   {
-    "id": "36859",
-    "slug": "f2-spielberg---práctica-2026-06-26",
-    "team_a": "",
-    "team_b": "",
-    "league": "F2 Spielberg – Práctica",
-    "date": "2026-06-26",
-    "time": "03:50",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36861",
     "slug": "f2-spielberg---clasificación-2026-06-26",
     "team_a": "",
