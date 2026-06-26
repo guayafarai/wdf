@@ -1,78 +1,70 @@
 {
   "metadata": {
-    "last_updated": "2026-06-26T02:46:07.800135Z",
+    "last_updated": "2026-06-26T06:49:47.652007Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 2
+    "total_events": 14
   },
   "data": [
     {
-      "id": 36846,
+      "id": 36857,
       "attributes": {
-        "diary_description": "Copa del Mundo: \nParaguay vs Australia",
-        "diary_hour": "21:00:00",
-        "date_diary": "2026-06-25",
-        "createdAt": "2026-06-25T02:05:22.218Z",
-        "updatedAt": "2026-06-26T01:27:39.622Z",
-        "publishedAt": "2026-06-25T03:01:11.101Z",
+        "diary_description": "Copa del Mundo: \nEgipto vs Irán",
+        "diary_hour": "22:00:00",
+        "date_diary": "2026-06-26",
+        "createdAt": "2026-06-26T00:53:20.382Z",
+        "updatedAt": "2026-06-26T00:53:20.382Z",
+        "publishedAt": "2026-06-26T05:48:50.644Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 850,
+              "id": 18,
               "attributes": {
-                "embed_name": "Tigo Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMQ==",
-                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
+                "embed_name": "TYC Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXR5Y3Nwb3J0cw==",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
               }
             },
             {
-              "id": 419,
+              "id": 596,
               "attributes": {
-                "embed_name": "Tigo Sports HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMQ==",
-                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
+                "embed_name": "TyC Sports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPXR5Y3Nwb3J0cw==",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=tycsports"
               }
             },
             {
-              "id": 181,
+              "id": 955,
               "attributes": {
-                "embed_name": "Dsports 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHMy",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
+                "embed_name": "TYC Sports | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09dHljc3BvcnRz",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=tycsports"
               }
             },
             {
-              "id": 1250,
+              "id": 1456,
               "attributes": {
-                "embed_name": "Dsports 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHMy",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports2"
+                "embed_name": "TYC Sports HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10eWNzcG9ydHM=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=tycsports"
               }
             },
             {
-              "id": 1410,
+              "id": 1209,
               "attributes": {
-                "embed_name": "Dsports 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZHNwb3J0czI=",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=dsports2"
+                "embed_name": "Sportv BR",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg==",
+                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
               }
             },
             {
-              "id": 1468,
+              "id": 1465,
               "attributes": {
-                "embed_name": "Dsports 2 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRzMg==",
-                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=dsports2"
-              }
-            },
-            {
-              "id": 759,
-              "attributes": {
-                "embed_name": "Telefe",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXRlbGVmZQ==",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telefe"
+                "embed_name": "Sportv BR HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09c3BvcnR2",
+                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=sportv"
               }
             },
             {
@@ -130,35 +122,255 @@
       }
     },
     {
-      "id": 36847,
+      "id": 36859,
       "attributes": {
-        "diary_description": "Copa del Mundo: Turquía vs EE. UU.",
-        "diary_hour": "21:00:00",
-        "date_diary": "2026-06-25",
-        "createdAt": "2026-06-25T02:07:49.332Z",
-        "updatedAt": "2026-06-26T01:28:34.433Z",
-        "publishedAt": "2026-06-25T03:01:11.101Z",
+        "diary_description": "F2 Spielberg – Práctica",
+        "diary_hour": "03:50:00",
+        "date_diary": "2026-06-26",
+        "createdAt": "2026-06-26T00:59:37.128Z",
+        "updatedAt": "2026-06-26T00:59:37.128Z",
+        "publishedAt": "2026-06-26T05:48:50.644Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 1048,
+              "id": 640,
               "attributes": {
-                "embed_name": "Tigo Sports 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMg==",
-                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even2"
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
               }
             },
             {
-              "id": 1047,
+              "id": 1133,
               "attributes": {
-                "embed_name": "Tigo Sports 2 HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMg==",
-                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even2"
+                "embed_name": "ESPN 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn2"
               }
             },
+            {
+              "id": 1377,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjI=",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn2"
+              }
+            },
+            {
+              "id": 1461,
+              "attributes": {
+                "embed_name": "ESPN 2 HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=espn2"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 81,
+            "attributes": {
+              "name": "Formula 2",
+              "createdAt": "2024-02-29T08:36:50.949Z",
+              "updatedAt": "2025-11-29T11:59:59.018Z",
+              "publishedAt": "2024-02-29T08:36:51.957Z",
+              "image": {
+                "data": {
+                  "id": 418,
+                  "attributes": {
+                    "name": "F2.jpg",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 65,
+                    "height": 65,
+                    "formats": null,
+                    "hash": "F2_a3360f82a5",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "size": 1.78,
+                    "url": "/uploads/F2_a3360f82a5.jpg",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-11-29T11:59:51.055Z",
+                    "updatedAt": "2025-11-29T11:59:51.055Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 36861,
+      "attributes": {
+        "diary_description": "F2 Spielberg – Clasificación",
+        "diary_hour": "08:40:00",
+        "date_diary": "2026-06-26",
+        "createdAt": "2026-06-26T01:04:07.602Z",
+        "updatedAt": "2026-06-26T01:04:07.602Z",
+        "publishedAt": "2026-06-26T05:48:50.644Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+              }
+            },
+            {
+              "id": 1133,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn2"
+              }
+            },
+            {
+              "id": 1377,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjI=",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn2"
+              }
+            },
+            {
+              "id": 1461,
+              "attributes": {
+                "embed_name": "ESPN 2 HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=espn2"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 81,
+            "attributes": {
+              "name": "Formula 2",
+              "createdAt": "2024-02-29T08:36:50.949Z",
+              "updatedAt": "2025-11-29T11:59:59.018Z",
+              "publishedAt": "2024-02-29T08:36:51.957Z",
+              "image": {
+                "data": {
+                  "id": 418,
+                  "attributes": {
+                    "name": "F2.jpg",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 65,
+                    "height": 65,
+                    "formats": null,
+                    "hash": "F2_a3360f82a5",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "size": 1.78,
+                    "url": "/uploads/F2_a3360f82a5.jpg",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-11-29T11:59:51.055Z",
+                    "updatedAt": "2025-11-29T11:59:51.055Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 36854,
+      "attributes": {
+        "diary_description": "Copa del Mundo: Senegal vs Iraq",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-06-26",
+        "createdAt": "2026-06-26T00:45:37.345Z",
+        "updatedAt": "2026-06-26T00:45:37.345Z",
+        "publishedAt": "2026-06-26T05:48:50.644Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 790,
+              "attributes": {
+                "embed_name": "Universo",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXVuaXZlcnNv",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=universo"
+              }
+            },
+            {
+              "id": 1224,
+              "attributes": {
+                "embed_name": "FOX Sports 1 USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWZveHNwb3J0czFfdXNh",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 151,
+            "attributes": {
+              "name": "mundial 2026",
+              "createdAt": "2026-06-11T10:02:46.045Z",
+              "updatedAt": "2026-06-24T23:22:13.248Z",
+              "publishedAt": "2026-06-11T10:02:47.907Z",
+              "image": {
+                "data": {
+                  "id": 437,
+                  "attributes": {
+                    "name": "copamundial.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "copamundial_69c33e7ee4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.91,
+                    "url": "/uploads/copamundial_69c33e7ee4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-06-24T23:22:08.564Z",
+                    "updatedAt": "2026-06-24T23:22:42.745Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 36856,
+      "attributes": {
+        "diary_description": "Copa del Mundo: \nUruguay vs España",
+        "diary_hour": "19:00:00",
+        "date_diary": "2026-06-26",
+        "createdAt": "2026-06-26T00:50:00.700Z",
+        "updatedAt": "2026-06-26T00:51:31.330Z",
+        "publishedAt": "2026-06-26T05:48:50.644Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
             {
               "id": 787,
               "attributes": {
@@ -173,38 +385,6 @@
                 "embed_name": "Telemundo HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8=",
                 "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=telemundo"
-              }
-            },
-            {
-              "id": 644,
-              "attributes": {
-                "embed_name": "DSports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM=",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-              }
-            },
-            {
-              "id": 341,
-              "attributes": {
-                "embed_name": "DSports | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM=",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=dsports"
-              }
-            },
-            {
-              "id": 748,
-              "attributes": {
-                "embed_name": "DSports | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZHNwb3J0cw==",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=dsports"
-              }
-            },
-            {
-              "id": 1455,
-              "attributes": {
-                "embed_name": "DSports HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
-                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=dsports"
               }
             },
             {
@@ -240,6 +420,14 @@
               }
             },
             {
+              "id": 759,
+              "attributes": {
+                "embed_name": "Telefe",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXRlbGVmZQ==",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telefe"
+              }
+            },
+            {
               "id": 1209,
               "attributes": {
                 "embed_name": "Sportv BR",
@@ -256,11 +444,19 @@
               }
             },
             {
-              "id": 1438,
+              "id": 736,
               "attributes": {
-                "embed_name": "Deportes TV. C",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWdvbHR2",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=goltv"
+                "embed_name": "Caracol TV",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWNhcmFjb2w=",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=caracol"
+              }
+            },
+            {
+              "id": 996,
+              "attributes": {
+                "embed_name": "Canal 5 MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWNhbmFsNQ==",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=canal5"
               }
             }
           ]
@@ -293,6 +489,880 @@
                     "provider_metadata": null,
                     "createdAt": "2026-06-24T23:22:08.564Z",
                     "updatedAt": "2026-06-24T23:22:42.745Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 36865,
+      "attributes": {
+        "diary_description": "Golf – Travelers Championship – Segunda Vuelta",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-06-26",
+        "createdAt": "2026-06-26T01:07:47.574Z",
+        "updatedAt": "2026-06-26T01:07:47.574Z",
+        "publishedAt": "2026-06-26T05:48:57.227Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+              }
+            },
+            {
+              "id": 1133,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn2"
+              }
+            },
+            {
+              "id": 1377,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjI=",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn2"
+              }
+            },
+            {
+              "id": 1461,
+              "attributes": {
+                "embed_name": "ESPN 2 HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=espn2"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 22,
+            "attributes": {
+              "name": "Golf",
+              "createdAt": "2023-11-23T13:25:40.717Z",
+              "updatedAt": "2025-09-04T14:08:20.151Z",
+              "publishedAt": "2023-11-23T13:25:42.231Z",
+              "image": {
+                "data": {
+                  "id": 393,
+                  "attributes": {
+                    "name": "golf_4a8d942645.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "golf_4a8d942645_6c3bec75aa",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.51,
+                    "url": "/uploads/golf_4a8d942645_6c3bec75aa.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-04T14:08:15.762Z",
+                    "updatedAt": "2025-09-04T14:08:15.762Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 36858,
+      "attributes": {
+        "diary_description": "Copa del Mundo: \nNueva Zelanda vs Bélgica",
+        "diary_hour": "22:00:00",
+        "date_diary": "2026-06-26",
+        "createdAt": "2026-06-26T00:54:47.178Z",
+        "updatedAt": "2026-06-26T00:54:47.178Z",
+        "publishedAt": "2026-06-26T05:48:50.644Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 787,
+              "attributes": {
+                "embed_name": "Telemundo",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXRlbGVtdW5kbw==",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
+              }
+            },
+            {
+              "id": 1458,
+              "attributes": {
+                "embed_name": "Telemundo HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=telemundo"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 151,
+            "attributes": {
+              "name": "mundial 2026",
+              "createdAt": "2026-06-11T10:02:46.045Z",
+              "updatedAt": "2026-06-24T23:22:13.248Z",
+              "publishedAt": "2026-06-11T10:02:47.907Z",
+              "image": {
+                "data": {
+                  "id": 437,
+                  "attributes": {
+                    "name": "copamundial.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "copamundial_69c33e7ee4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.91,
+                    "url": "/uploads/copamundial_69c33e7ee4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-06-24T23:22:08.564Z",
+                    "updatedAt": "2026-06-24T23:22:42.745Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 36860,
+      "attributes": {
+        "diary_description": "F1 GP Austria – Práctica #1",
+        "diary_hour": "06:25:00",
+        "date_diary": "2026-06-26",
+        "createdAt": "2026-06-26T01:03:15.857Z",
+        "updatedAt": "2026-06-26T01:03:15.857Z",
+        "publishedAt": "2026-06-26T05:48:50.644Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+              }
+            },
+            {
+              "id": 1133,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn2"
+              }
+            },
+            {
+              "id": 1377,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjI=",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn2"
+              }
+            },
+            {
+              "id": 1461,
+              "attributes": {
+                "embed_name": "ESPN 2 HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=espn2"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 79,
+            "attributes": {
+              "name": "Formula 1",
+              "createdAt": "2024-02-29T07:22:54.123Z",
+              "updatedAt": "2025-08-03T13:13:28.428Z",
+              "publishedAt": "2024-02-29T07:22:55.381Z",
+              "image": {
+                "data": {
+                  "id": 349,
+                  "attributes": {
+                    "name": "moto_g_145967b8f1.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 180,
+                    "height": 180,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_moto_g_145967b8f1_c975c7c8e9.png",
+                        "hash": "thumbnail_moto_g_145967b8f1_c975c7c8e9",
+                        "mime": "image/png",
+                        "name": "thumbnail_moto_g_145967b8f1.png",
+                        "path": null,
+                        "size": 7.56,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "moto_g_145967b8f1_c975c7c8e9",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.47,
+                    "url": "/uploads/moto_g_145967b8f1_c975c7c8e9.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:13:24.212Z",
+                    "updatedAt": "2025-08-03T13:13:24.212Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 36862,
+      "attributes": {
+        "diary_description": " Hockey – Pro League Femenino – Argentina vs España",
+        "diary_hour": "09:30:00",
+        "date_diary": "2026-06-26",
+        "createdAt": "2026-06-26T01:04:58.480Z",
+        "updatedAt": "2026-06-26T01:04:58.480Z",
+        "publishedAt": "2026-06-26T05:48:50.644Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 520,
+              "attributes": {
+                "embed_name": "ESPN 4",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG40",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn4"
+              }
+            },
+            {
+              "id": 1398,
+              "attributes": {
+                "embed_name": "ESPN 4 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn4"
+              }
+            },
+            {
+              "id": 1399,
+              "attributes": {
+                "embed_name": "ESPN 4 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjQ=",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn4"
+              }
+            },
+            {
+              "id": 1463,
+              "attributes": {
+                "embed_name": "ESPN 4 HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjQ=",
+                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=espn4"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 148,
+            "attributes": {
+              "name": "Hokey ",
+              "createdAt": "2025-12-12T17:17:04.064Z",
+              "updatedAt": "2025-12-12T17:17:06.611Z",
+              "publishedAt": "2025-12-12T17:17:06.607Z",
+              "image": {
+                "data": {
+                  "id": 422,
+                  "attributes": {
+                    "name": "hokey.jpg",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 518,
+                    "height": 518,
+                    "formats": {
+                      "small": {
+                        "ext": ".jpg",
+                        "url": "/uploads/small_hokey_53ec88fc22.jpg",
+                        "hash": "small_hokey_53ec88fc22",
+                        "mime": "image/jpeg",
+                        "name": "small_hokey.jpg",
+                        "path": null,
+                        "size": 40.54,
+                        "width": 500,
+                        "height": 500
+                      },
+                      "thumbnail": {
+                        "ext": ".jpg",
+                        "url": "/uploads/thumbnail_hokey_53ec88fc22.jpg",
+                        "hash": "thumbnail_hokey_53ec88fc22",
+                        "mime": "image/jpeg",
+                        "name": "thumbnail_hokey.jpg",
+                        "path": null,
+                        "size": 8.6,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "hokey_53ec88fc22",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "size": 42.27,
+                    "url": "/uploads/hokey_53ec88fc22.jpg",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-12-12T17:16:55.627Z",
+                    "updatedAt": "2025-12-12T17:16:55.627Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 36853,
+      "attributes": {
+        "diary_description": "Copa del Mundo: \nNoruega vs Francia",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-06-26",
+        "createdAt": "2026-06-26T00:41:57.219Z",
+        "updatedAt": "2026-06-26T00:44:08.789Z",
+        "publishedAt": "2026-06-26T05:48:50.644Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 787,
+              "attributes": {
+                "embed_name": "Telemundo",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXRlbGVtdW5kbw==",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
+              }
+            },
+            {
+              "id": 1458,
+              "attributes": {
+                "embed_name": "Telemundo HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=telemundo"
+              }
+            },
+            {
+              "id": 18,
+              "attributes": {
+                "embed_name": "TYC Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXR5Y3Nwb3J0cw==",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
+              }
+            },
+            {
+              "id": 596,
+              "attributes": {
+                "embed_name": "TyC Sports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPXR5Y3Nwb3J0cw==",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=tycsports"
+              }
+            },
+            {
+              "id": 955,
+              "attributes": {
+                "embed_name": "TYC Sports | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09dHljc3BvcnRz",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=tycsports"
+              }
+            },
+            {
+              "id": 1456,
+              "attributes": {
+                "embed_name": "TYC Sports HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10eWNzcG9ydHM=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=tycsports"
+              }
+            },
+            {
+              "id": 759,
+              "attributes": {
+                "embed_name": "Telefe",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXRlbGVmZQ==",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telefe"
+              }
+            },
+            {
+              "id": 1209,
+              "attributes": {
+                "embed_name": "Sportv BR",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg==",
+                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+              }
+            },
+            {
+              "id": 1465,
+              "attributes": {
+                "embed_name": "Sportv BR HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09c3BvcnR2",
+                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=sportv"
+              }
+            },
+            {
+              "id": 691,
+              "attributes": {
+                "embed_name": "Win Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=winsports"
+              }
+            },
+            {
+              "id": 700,
+              "attributes": {
+                "embed_name": "Win Sports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=winsports"
+              }
+            },
+            {
+              "id": 1406,
+              "attributes": {
+                "embed_name": "Win Sports ┃OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09d2luc3BvcnRz",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=winsports"
+              }
+            },
+            {
+              "id": 1457,
+              "attributes": {
+                "embed_name": "Win Sports HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT13aW5zcG9ydHM=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=winsports"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 151,
+            "attributes": {
+              "name": "mundial 2026",
+              "createdAt": "2026-06-11T10:02:46.045Z",
+              "updatedAt": "2026-06-24T23:22:13.248Z",
+              "publishedAt": "2026-06-11T10:02:47.907Z",
+              "image": {
+                "data": {
+                  "id": 437,
+                  "attributes": {
+                    "name": "copamundial.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "copamundial_69c33e7ee4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.91,
+                    "url": "/uploads/copamundial_69c33e7ee4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-06-24T23:22:08.564Z",
+                    "updatedAt": "2026-06-24T23:22:42.745Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 36855,
+      "attributes": {
+        "diary_description": "Copa del Mundo: Islas de Cabo Verde vs Arabia Saudita",
+        "diary_hour": "19:00:00",
+        "date_diary": "2026-06-26",
+        "createdAt": "2026-06-26T00:47:12.421Z",
+        "updatedAt": "2026-06-26T00:47:12.421Z",
+        "publishedAt": "2026-06-26T05:48:50.644Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 771,
+              "attributes": {
+                "embed_name": "Sportv 2 BR",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0djI=",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=sportv2"
+              }
+            },
+            {
+              "id": 790,
+              "attributes": {
+                "embed_name": "Universo",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXVuaXZlcnNv",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=universo"
+              }
+            },
+            {
+              "id": 1224,
+              "attributes": {
+                "embed_name": "FOX Sports 1 USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWZveHNwb3J0czFfdXNh",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 151,
+            "attributes": {
+              "name": "mundial 2026",
+              "createdAt": "2026-06-11T10:02:46.045Z",
+              "updatedAt": "2026-06-24T23:22:13.248Z",
+              "publishedAt": "2026-06-11T10:02:47.907Z",
+              "image": {
+                "data": {
+                  "id": 437,
+                  "attributes": {
+                    "name": "copamundial.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "copamundial_69c33e7ee4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.91,
+                    "url": "/uploads/copamundial_69c33e7ee4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-06-24T23:22:08.564Z",
+                    "updatedAt": "2026-06-24T23:22:42.745Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 36863,
+      "attributes": {
+        "diary_description": "F1 GP Austria – Práctica #2",
+        "diary_hour": "09:55:00",
+        "date_diary": "2026-06-26",
+        "createdAt": "2026-06-26T01:05:41.106Z",
+        "updatedAt": "2026-06-26T01:05:41.106Z",
+        "publishedAt": "2026-06-26T05:48:57.227Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+              }
+            },
+            {
+              "id": 1133,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn2"
+              }
+            },
+            {
+              "id": 1377,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjI=",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn2"
+              }
+            },
+            {
+              "id": 1461,
+              "attributes": {
+                "embed_name": "ESPN 2 HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=espn2"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 79,
+            "attributes": {
+              "name": "Formula 1",
+              "createdAt": "2024-02-29T07:22:54.123Z",
+              "updatedAt": "2025-08-03T13:13:28.428Z",
+              "publishedAt": "2024-02-29T07:22:55.381Z",
+              "image": {
+                "data": {
+                  "id": 349,
+                  "attributes": {
+                    "name": "moto_g_145967b8f1.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 180,
+                    "height": 180,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_moto_g_145967b8f1_c975c7c8e9.png",
+                        "hash": "thumbnail_moto_g_145967b8f1_c975c7c8e9",
+                        "mime": "image/png",
+                        "name": "thumbnail_moto_g_145967b8f1.png",
+                        "path": null,
+                        "size": 7.56,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "moto_g_145967b8f1_c975c7c8e9",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.47,
+                    "url": "/uploads/moto_g_145967b8f1_c975c7c8e9.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:13:24.212Z",
+                    "updatedAt": "2025-08-03T13:13:24.212Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 36864,
+      "attributes": {
+        "diary_description": "Hockey – Pro League Masculino – España vs Argentina",
+        "diary_hour": "10:30:00",
+        "date_diary": "2026-06-26",
+        "createdAt": "2026-06-26T01:07:02.793Z",
+        "updatedAt": "2026-06-26T01:07:02.793Z",
+        "publishedAt": "2026-06-26T05:48:57.227Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 645,
+              "attributes": {
+                "embed_name": "ESPN 5",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG41",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
+              }
+            },
+            {
+              "id": 474,
+              "attributes": {
+                "embed_name": "ESPN 5 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG41",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn5"
+              }
+            },
+            {
+              "id": 599,
+              "attributes": {
+                "embed_name": "ESPN 5 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjU=",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn5"
+              }
+            },
+            {
+              "id": 1466,
+              "attributes": {
+                "embed_name": "ESPN 5 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNQ==",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=espn5"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 148,
+            "attributes": {
+              "name": "Hokey ",
+              "createdAt": "2025-12-12T17:17:04.064Z",
+              "updatedAt": "2025-12-12T17:17:06.611Z",
+              "publishedAt": "2025-12-12T17:17:06.607Z",
+              "image": {
+                "data": {
+                  "id": 422,
+                  "attributes": {
+                    "name": "hokey.jpg",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 518,
+                    "height": 518,
+                    "formats": {
+                      "small": {
+                        "ext": ".jpg",
+                        "url": "/uploads/small_hokey_53ec88fc22.jpg",
+                        "hash": "small_hokey_53ec88fc22",
+                        "mime": "image/jpeg",
+                        "name": "small_hokey.jpg",
+                        "path": null,
+                        "size": 40.54,
+                        "width": 500,
+                        "height": 500
+                      },
+                      "thumbnail": {
+                        "ext": ".jpg",
+                        "url": "/uploads/thumbnail_hokey_53ec88fc22.jpg",
+                        "hash": "thumbnail_hokey_53ec88fc22",
+                        "mime": "image/jpeg",
+                        "name": "thumbnail_hokey.jpg",
+                        "path": null,
+                        "size": 8.6,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "hokey_53ec88fc22",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "size": 42.27,
+                    "url": "/uploads/hokey_53ec88fc22.jpg",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-12-12T17:16:55.627Z",
+                    "updatedAt": "2025-12-12T17:16:55.627Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 36866,
+      "attributes": {
+        "diary_description": "ESPN Knockout – LFA 236 – Eduardo Torres vs Aziz Osorbek Uulu",
+        "diary_hour": "18:30:00",
+        "date_diary": "2026-06-26",
+        "createdAt": "2026-06-26T01:08:33.330Z",
+        "updatedAt": "2026-06-26T01:08:33.330Z",
+        "publishedAt": "2026-06-26T05:48:57.227Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+              }
+            },
+            {
+              "id": 1133,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn2"
+              }
+            },
+            {
+              "id": 1377,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjI=",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn2"
+              }
+            },
+            {
+              "id": 1461,
+              "attributes": {
+                "embed_name": "ESPN 2 HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=espn2"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 52,
+            "attributes": {
+              "name": "Boxeo",
+              "createdAt": "2024-01-23T08:29:53.264Z",
+              "updatedAt": "2025-08-08T17:07:11.502Z",
+              "publishedAt": "2024-01-23T08:29:54.683Z",
+              "image": {
+                "data": {
+                  "id": 368,
+                  "attributes": {
+                    "name": "boxeo_2024_b15889ae93.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "boxeo_2024_b15889ae93_ae58e10dcb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.39,
+                    "url": "/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-08T17:07:05.112Z",
+                    "updatedAt": "2025-08-08T17:07:05.112Z"
                   }
                 }
               }
