@@ -9,15 +9,19 @@
     "time": "16:00",
     "streams": [
       {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
+        "name": "Dsports 2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
+      },
+      {
+        "name": "Universo",
+        "url": "https://tvhd2.com/canales.php?stream=universo"
       },
       {
         "name": "FOX Sports 1 USA",
         "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
+    "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
   },
   {
     "id": "36869",
@@ -29,16 +33,20 @@
     "time": "18:30",
     "streams": [
       {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
+      {
         "name": "Sportv BR",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
       },
       {
-        "name": "Caracol TV",
-        "url": "https://tvhd2.com/canales.php?stream=caracol"
-      },
-      {
         "name": "Telemundo",
         "url": "https://tvhd2.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://tvhd2.com/canales.php?stream=caracol"
       },
       {
         "name": "Canal 5 MX",
@@ -49,7 +57,7 @@
         "url": "https://tvhd2.com/canales.php?stream=americatv"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
     "id": "36871",
@@ -61,27 +69,23 @@
     "time": "21:00",
     "streams": [
       {
-        "name": "DSports +",
-        "url": "https://tvhd2.com/canales.php?stream=dsportsplus"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "36873",
-    "slug": "atenas-vs-tacuarembó-2026-06-27",
-    "team_a": "Atenas",
-    "team_b": "Tacuarembó",
-    "league": "Segunda División",
-    "date": "2026-06-27",
-    "time": "08:00",
-    "streams": [
+        "name": "Dsports 2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
+      },
       {
-        "name": "Disney+",
-        "url": "https://tvhd2.com/canales.php?stream=disney1"
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Universo",
+        "url": "https://tvhd2.com/canales.php?stream=universo"
+      },
+      {
+        "name": "FOX Sports 1 USA",
+        "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=disney1"
+    "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
   },
   {
     "id": "36875",
@@ -132,38 +136,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsports"
   },
   {
-    "id": "36884",
-    "slug": "f2-spielberg---carrera-sprint-2026-06-27",
-    "team_a": "",
-    "team_b": "",
-    "league": "F2 Spielberg – Carrera Sprint",
-    "date": "2026-06-27",
-    "time": "07:05",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36885",
-    "slug": "motogp---gp-países-bajos---sprint-2026-06-27",
-    "team_a": "",
-    "team_b": "",
-    "league": "MotoGP – GP Países Bajos – Sprint",
-    "date": "2026-06-27",
-    "time": "07:30",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvhd2.com/canales.php?stream=espn4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn4"
-  },
-  {
     "id": "36887",
     "slug": "sudáfrica-vs-uruguay-2026-06-27",
     "team_a": "Sudáfrica",
@@ -196,6 +168,22 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
   },
   {
+    "id": "36874",
+    "slug": "uruguay-montevideo-vs-fénix-2026-06-27",
+    "team_a": "Uruguay Montevideo",
+    "team_b": "Fénix",
+    "league": "Segunda División",
+    "date": "2026-06-27",
+    "time": "11:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
+  },
+  {
     "id": "36868",
     "slug": "panamá-vs-inglaterra-2026-06-27",
     "team_a": "Panamá",
@@ -205,11 +193,27 @@
     "time": "16:00",
     "streams": [
       {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
+      },
+      {
         "name": "TYC Sports",
         "url": "https://tvhd2.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://tvhd2.com/canales.php?stream=canal5"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
     "id": "36870",
@@ -221,11 +225,23 @@
     "time": "18:30",
     "streams": [
       {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
+        "name": "DSports +",
+        "url": "https://tvhd2.com/canales.php?stream=dsportsplus"
+      },
+      {
+        "name": "TYC Sports",
+        "url": "https://tvhd2.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Universo",
+        "url": "https://tvhd2.com/canales.php?stream=universo"
+      },
+      {
+        "name": "FOX Sports 1 USA",
+        "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsportsplus"
   },
   {
     "id": "36872",
@@ -236,6 +252,10 @@
     "date": "2026-06-27",
     "time": "21:00",
     "streams": [
+      {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
       {
         "name": "TYC Sports",
         "url": "https://tvhd2.com/canales.php?stream=tycsports"
@@ -253,23 +273,7 @@
         "url": "https://tvhd2.com/canales.php?stream=winsports"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "36874",
-    "slug": "uruguay-montevideo-vs-fénix-2026-06-27",
-    "team_a": "Uruguay Montevideo",
-    "team_b": "Fénix",
-    "league": "Segunda División",
-    "date": "2026-06-27",
-    "time": "11:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
     "id": "36877",
