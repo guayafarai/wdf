@@ -132,22 +132,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsports"
   },
   {
-    "id": "36882",
-    "slug": "f1-gp-austria---práctica-#3-2026-06-27",
-    "team_a": "",
-    "team_b": "",
-    "league": "F1 GP Austria – Práctica #3",
-    "date": "2026-06-27",
-    "time": "05:25",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36884",
     "slug": "f2-spielberg---carrera-sprint-2026-06-27",
     "team_a": "",
@@ -302,22 +286,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36883",
-    "slug": "alemania-vs-argentina-2026-06-27",
-    "team_a": "Alemania",
-    "team_b": "Argentina",
-    "league": "Hockey – Pro League Masculino",
-    "date": "2026-06-27",
-    "time": "06:30",
-    "streams": [
-      {
-        "name": "ESPN 5",
-        "url": "https://tvhd2.com/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
   },
   {
     "id": "36886",
