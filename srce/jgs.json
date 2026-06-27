@@ -1,66 +1,418 @@
 [
   {
-    "id": "36857",
-    "slug": "egipto-vs-irán-2026-06-26",
-    "team_a": "Egipto",
-    "team_b": "Irán",
+    "id": "36867",
+    "slug": "croacia-vs-ghana-2026-06-27",
+    "team_a": "Croacia",
+    "team_b": "Ghana",
     "league": "Copa del Mundo",
-    "date": "2026-06-26",
-    "time": "22:00",
+    "date": "2026-06-27",
+    "time": "16:00",
     "streams": [
       {
-        "name": "DSports +",
-        "url": "https://tvhd2.com/canales.php?stream=dsportsplus"
-      },
-      {
-        "name": "Tigo Sports 2",
-        "url": "https://tvhd2.com/online/canales.php?stream=even2"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Universo",
-        "url": "https://tvhd2.com/canales.php?stream=universo"
+        "name": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
       },
       {
         "name": "FOX Sports 1 USA",
         "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsportsplus"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
   },
   {
-    "id": "36858",
-    "slug": "nueva-zelanda-vs-bélgica-2026-06-26",
-    "team_a": "Nueva Zelanda",
-    "team_b": "Bélgica",
+    "id": "36869",
+    "slug": "colombia-vs-portugal-2026-06-27",
+    "team_a": "Colombia",
+    "team_b": "Portugal",
     "league": "Copa del Mundo",
-    "date": "2026-06-26",
-    "time": "22:00",
+    "date": "2026-06-27",
+    "time": "18:30",
     "streams": [
       {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
       },
       {
-        "name": "Tigo Sports",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1"
+        "name": "Caracol TV",
+        "url": "https://tvhd2.com/canales.php?stream=caracol"
       },
       {
         "name": "Telemundo",
         "url": "https://tvhd2.com/canales.php?stream=telemundo"
       },
       {
-        "name": "Deportes TV. C",
-        "url": "https://tvhd2.com/canales.php?stream=goltv"
+        "name": "Canal 5 MX",
+        "url": "https://tvhd2.com/canales.php?stream=canal5"
+      },
+      {
+        "name": "America Television",
+        "url": "https://tvhd2.com/canales.php?stream=americatv"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+  },
+  {
+    "id": "36871",
+    "slug": "argelia-vs-austria-2026-06-27",
+    "team_a": "Argelia",
+    "team_b": "Austria",
+    "league": "Copa del Mundo",
+    "date": "2026-06-27",
+    "time": "21:00",
+    "streams": [
+      {
+        "name": "DSports +",
+        "url": "https://tvhd2.com/canales.php?stream=dsportsplus"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsportsplus"
+  },
+  {
+    "id": "36873",
+    "slug": "atenas-vs-tacuarembó-2026-06-27",
+    "team_a": "Atenas",
+    "team_b": "Tacuarembó",
+    "league": "Segunda División",
+    "date": "2026-06-27",
+    "time": "08:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvhd2.com/canales.php?stream=disney1"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=disney1"
+  },
+  {
+    "id": "36875",
+    "slug": "huracán-vs-rentistas-2026-06-27",
+    "team_a": "Huracán",
+    "team_b": "Rentistas",
+    "league": "Segunda División",
+    "date": "2026-06-27",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36876",
+    "slug": "paysandu-vs-miramar-misiones-2026-06-27",
+    "team_a": "Paysandu",
+    "team_b": "Miramar Misiones",
+    "league": "Segunda División",
+    "date": "2026-06-27",
+    "time": "17:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36878",
+    "slug": "independiente-vs-racing-club-2026-06-27",
+    "team_a": "Independiente",
+    "team_b": "Racing Club",
+    "league": "Torneo de Reserva",
+    "date": "2026-06-27",
+    "time": "13:00",
+    "streams": [
+      {
+        "name": "TNT Sports",
+        "url": "https://tvhd2.com/canales.php?stream=tntsports"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsports"
+  },
+  {
+    "id": "36879",
+    "slug": "motogp---gp-países-bajos---clasificación-2026-06-27",
+    "team_a": "",
+    "team_b": "",
+    "league": "MotoGP – GP Países Bajos – Clasificación",
+    "date": "2026-06-27",
+    "time": "03:45",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36882",
+    "slug": "f1-gp-austria---práctica-#3-2026-06-27",
+    "team_a": "",
+    "team_b": "",
+    "league": "F1 GP Austria – Práctica #3",
+    "date": "2026-06-27",
+    "time": "05:25",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36884",
+    "slug": "f2-spielberg---carrera-sprint-2026-06-27",
+    "team_a": "",
+    "team_b": "",
+    "league": "F2 Spielberg – Carrera Sprint",
+    "date": "2026-06-27",
+    "time": "07:05",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36885",
+    "slug": "motogp---gp-países-bajos---sprint-2026-06-27",
+    "team_a": "",
+    "team_b": "",
+    "league": "MotoGP – GP Países Bajos – Sprint",
+    "date": "2026-06-27",
+    "time": "07:30",
+    "streams": [
+      {
+        "name": "ESPN 4",
+        "url": "https://tvhd2.com/canales.php?stream=espn4"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "36887",
+    "slug": "sudáfrica-vs-uruguay-2026-06-27",
+    "team_a": "Sudáfrica",
+    "team_b": "Uruguay",
+    "league": "Rugby – World Rugby U20 Championship",
+    "date": "2026-06-27",
+    "time": "11:20",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36889",
+    "slug": "jon-miguez-vs-samuel-molina-2026-06-27",
+    "team_a": "Jon Miguez",
+    "team_b": "Samuel Molina",
+    "league": "ESPN Knockout",
+    "date": "2026-06-27",
+    "time": "13:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36868",
+    "slug": "panamá-vs-inglaterra-2026-06-27",
+    "team_a": "Panamá",
+    "team_b": "Inglaterra",
+    "league": "Copa del Mundo",
+    "date": "2026-06-27",
+    "time": "16:00",
+    "streams": [
+      {
+        "name": "TYC Sports",
+        "url": "https://tvhd2.com/canales.php?stream=tycsports"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
+  },
+  {
+    "id": "36870",
+    "slug": "rd-del-congo-vs-uzbekistán-2026-06-27",
+    "team_a": "RD del Congo",
+    "team_b": "Uzbekistán",
+    "league": "Copa del Mundo",
+    "date": "2026-06-27",
+    "time": "18:30",
+    "streams": [
+      {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "36872",
+    "slug": "jordania-vs-argentina-2026-06-27",
+    "team_a": "Jordania",
+    "team_b": "Argentina",
+    "league": "Copa del Mundo",
+    "date": "2026-06-27",
+    "time": "21:00",
+    "streams": [
+      {
+        "name": "TYC Sports",
+        "url": "https://tvhd2.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Telefe",
+        "url": "https://tvhd2.com/canales.php?stream=telefe"
+      },
+      {
+        "name": "Win Sports",
+        "url": "https://tvhd2.com/canales.php?stream=winsports"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
+  },
+  {
+    "id": "36874",
+    "slug": "uruguay-montevideo-vs-fénix-2026-06-27",
+    "team_a": "Uruguay Montevideo",
+    "team_b": "Fénix",
+    "league": "Segunda División",
+    "date": "2026-06-27",
+    "time": "11:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36877",
+    "slug": "river-plate-vs-lanús-2026-06-27",
+    "team_a": "River Plate",
+    "team_b": "Lanús",
+    "league": "Torneo de Reserva",
+    "date": "2026-06-27",
+    "time": "10:00",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvhd2.com/canales.php?stream=espn3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36881",
+    "slug": "argentina-vs-estados-unidos-2026-06-27",
+    "team_a": "Argentina",
+    "team_b": "Estados Unidos",
+    "league": "Rugby – World Rugby U20 Championship",
+    "date": "2026-06-27",
+    "time": "03:50",
+    "streams": [
+      {
+        "name": "ESPN 5",
+        "url": "https://tvhd2.com/canales.php?stream=espn5"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36883",
+    "slug": "alemania-vs-argentina-2026-06-27",
+    "team_a": "Alemania",
+    "team_b": "Argentina",
+    "league": "Hockey – Pro League Masculino",
+    "date": "2026-06-27",
+    "time": "06:30",
+    "streams": [
+      {
+        "name": "ESPN 5",
+        "url": "https://tvhd2.com/canales.php?stream=espn5"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36886",
+    "slug": "f1-gp-austria---clasificación-2026-06-27",
+    "team_a": "",
+    "team_b": "",
+    "league": "F1 GP Austria – Clasificación",
+    "date": "2026-06-27",
+    "time": "08:55",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36888",
+    "slug": "golf---travelers-championship---tercera-vuelta-2026-06-27",
+    "team_a": "",
+    "team_b": "",
+    "league": "Golf – Travelers Championship – Tercera Vuelta",
+    "date": "2026-06-27",
+    "time": "12:00",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvhd2.com/canales.php?stream=espn3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36890",
+    "slug": "toulouse-vs-montpellier-2026-06-27",
+    "team_a": "Toulouse",
+    "team_b": "Montpellier",
+    "league": "Rugby – Top 14",
+    "date": "2026-06-27",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "ESPN 4",
+        "url": "https://tvhd2.com/canales.php?stream=espn4"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "36880",
+    "slug": "argentina-vs-estados-unidos-2026-06-27",
+    "team_a": "Argentina",
+    "team_b": "Estados Unidos",
+    "league": "Rugby – World Rugby U20 Championship",
+    "date": "2026-06-27",
+    "time": "03:50",
+    "streams": [
+      {
+        "name": "ESPN 5",
+        "url": "https://tvhd2.com/canales.php?stream=espn5"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
   }
 ]
