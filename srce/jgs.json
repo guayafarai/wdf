@@ -168,22 +168,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
   },
   {
-    "id": "36874",
-    "slug": "uruguay-montevideo-vs-fénix-2026-06-27",
-    "team_a": "Uruguay Montevideo",
-    "team_b": "Fénix",
-    "league": "Segunda División",
-    "date": "2026-06-27",
-    "time": "11:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
     "id": "36868",
     "slug": "panamá-vs-inglaterra-2026-06-27",
     "team_a": "Panamá",
@@ -274,38 +258,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36877",
-    "slug": "river-plate-vs-lanús-2026-06-27",
-    "team_a": "River Plate",
-    "team_b": "Lanús",
-    "league": "Torneo de Reserva",
-    "date": "2026-06-27",
-    "time": "10:00",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvhd2.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36886",
-    "slug": "f1-gp-austria---clasificación-2026-06-27",
-    "team_a": "",
-    "team_b": "",
-    "league": "F1 GP Austria – Clasificación",
-    "date": "2026-06-27",
-    "time": "08:55",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
   },
   {
     "id": "36888",
