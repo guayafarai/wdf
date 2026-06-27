@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-27T19:10:50.028014Z",
+    "last_updated": "2026-06-27T20:54:41.209871Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 13
+    "total_events": 11
   },
   "data": [
     {
@@ -566,124 +566,6 @@
       }
     },
     {
-      "id": 36887,
-      "attributes": {
-        "diary_description": "Rugby – World Rugby U20 Championship – Sudáfrica vs Uruguay",
-        "diary_hour": "11:20:00",
-        "date_diary": "2026-06-27",
-        "createdAt": "2026-06-27T08:44:58.737Z",
-        "updatedAt": "2026-06-27T08:45:00.862Z",
-        "publishedAt": "2026-06-27T08:45:00.858Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjI=",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1461,
-              "attributes": {
-                "embed_name": "ESPN 2 HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=espn2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 134,
-            "attributes": {
-              "name": "Rugby",
-              "createdAt": "2025-03-01T00:16:20.346Z",
-              "updatedAt": "2025-11-16T14:52:22.575Z",
-              "publishedAt": "2025-03-01T00:16:22.392Z",
-              "image": {
-                "data": {
-                  "id": 413,
-                  "attributes": {
-                    "name": "Rugby.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 763,
-                    "height": 763,
-                    "formats": {
-                      "small": {
-                        "ext": ".png",
-                        "url": "/uploads/small_Rugby_f99a2b54da.png",
-                        "hash": "small_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "small_Rugby.png",
-                        "path": null,
-                        "size": 138.17,
-                        "width": 500,
-                        "height": 500
-                      },
-                      "medium": {
-                        "ext": ".png",
-                        "url": "/uploads/medium_Rugby_f99a2b54da.png",
-                        "hash": "medium_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "medium_Rugby.png",
-                        "path": null,
-                        "size": 250.24,
-                        "width": 750,
-                        "height": 750
-                      },
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Rugby_f99a2b54da.png",
-                        "hash": "thumbnail_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "thumbnail_Rugby.png",
-                        "path": null,
-                        "size": 22.03,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "Rugby_f99a2b54da",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 74.94,
-                    "url": "/uploads/Rugby_f99a2b54da.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-11-16T14:52:15.177Z",
-                    "updatedAt": "2025-11-16T14:52:15.177Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 36889,
       "attributes": {
         "diary_description": "ESPN Knockout – Jon Miguez vs Samuel Molina",
@@ -1219,90 +1101,6 @@
                     "provider_metadata": null,
                     "createdAt": "2026-06-24T23:22:08.564Z",
                     "updatedAt": "2026-06-24T23:22:42.745Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36888,
-      "attributes": {
-        "diary_description": "Golf – Travelers Championship – Tercera Vuelta",
-        "diary_hour": "12:00:00",
-        "date_diary": "2026-06-27",
-        "createdAt": "2026-06-27T08:45:46.586Z",
-        "updatedAt": "2026-06-27T08:45:48.250Z",
-        "publishedAt": "2026-06-27T08:45:48.246Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 656,
-              "attributes": {
-                "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1357,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4z",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1358,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjM=",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1462,
-              "attributes": {
-                "embed_name": "ESPN 3 HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjM=",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=espn3"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 22,
-            "attributes": {
-              "name": "Golf",
-              "createdAt": "2023-11-23T13:25:40.717Z",
-              "updatedAt": "2025-09-04T14:08:20.151Z",
-              "publishedAt": "2023-11-23T13:25:42.231Z",
-              "image": {
-                "data": {
-                  "id": 393,
-                  "attributes": {
-                    "name": "golf_4a8d942645.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "golf_4a8d942645_6c3bec75aa",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.51,
-                    "url": "/uploads/golf_4a8d942645_6c3bec75aa.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T14:08:15.762Z",
-                    "updatedAt": "2025-09-04T14:08:15.762Z"
                   }
                 }
               }
