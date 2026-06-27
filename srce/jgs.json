@@ -132,22 +132,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsports"
   },
   {
-    "id": "36879",
-    "slug": "motogp---gp-países-bajos---clasificación-2026-06-27",
-    "team_a": "",
-    "team_b": "",
-    "league": "MotoGP – GP Países Bajos – Clasificación",
-    "date": "2026-06-27",
-    "time": "03:45",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36882",
     "slug": "f1-gp-austria---práctica-#3-2026-06-27",
     "team_a": "",
@@ -320,22 +304,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
   },
   {
-    "id": "36881",
-    "slug": "argentina-vs-estados-unidos-2026-06-27",
-    "team_a": "Argentina",
-    "team_b": "Estados Unidos",
-    "league": "Rugby – World Rugby U20 Championship",
-    "date": "2026-06-27",
-    "time": "03:50",
-    "streams": [
-      {
-        "name": "ESPN 5",
-        "url": "https://tvhd2.com/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
-  },
-  {
     "id": "36883",
     "slug": "alemania-vs-argentina-2026-06-27",
     "team_a": "Alemania",
@@ -398,21 +366,5 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36880",
-    "slug": "argentina-vs-estados-unidos-2026-06-27",
-    "team_a": "Argentina",
-    "team_b": "Estados Unidos",
-    "league": "Rugby – World Rugby U20 Championship",
-    "date": "2026-06-27",
-    "time": "03:50",
-    "streams": [
-      {
-        "name": "ESPN 5",
-        "url": "https://tvhd2.com/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
   }
 ]
