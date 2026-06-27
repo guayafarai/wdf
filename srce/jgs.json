@@ -1,29 +1,5 @@
 [
   {
-    "id": "36867",
-    "slug": "croacia-vs-ghana-2026-06-27",
-    "team_a": "Croacia",
-    "team_b": "Ghana",
-    "league": "Copa del Mundo",
-    "date": "2026-06-27",
-    "time": "16:00",
-    "streams": [
-      {
-        "name": "Dsports 2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
-      },
-      {
-        "name": "Universo",
-        "url": "https://tvhd2.com/canales.php?stream=universo"
-      },
-      {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
-  },
-  {
     "id": "36869",
     "slug": "colombia-vs-portugal-2026-06-27",
     "team_a": "Colombia",
@@ -88,6 +64,34 @@
     "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
   },
   {
+    "id": "36867",
+    "slug": "croacia-vs-ghana-2026-06-27",
+    "team_a": "Croacia",
+    "team_b": "Ghana",
+    "league": "Copa del Mundo",
+    "date": "2026-06-27",
+    "time": "16:00",
+    "streams": [
+      {
+        "name": "Tigo Sports 2",
+        "url": "https://tvhd2.com/online/canales.php?stream=even2"
+      },
+      {
+        "name": "Dsports 2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
+      },
+      {
+        "name": "Universo",
+        "url": "https://tvhd2.com/canales.php?stream=universo"
+      },
+      {
+        "name": "FOX Sports 1 USA",
+        "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even2"
+  },
+  {
     "id": "36875",
     "slug": "huracán-vs-rentistas-2026-06-27",
     "team_a": "Huracán",
@@ -118,70 +122,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36878",
-    "slug": "independiente-vs-racing-club-2026-06-27",
-    "team_a": "Independiente",
-    "team_b": "Racing Club",
-    "league": "Torneo de Reserva",
-    "date": "2026-06-27",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "TNT Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tntsports"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "36889",
-    "slug": "jon-miguez-vs-samuel-molina-2026-06-27",
-    "team_a": "Jon Miguez",
-    "team_b": "Samuel Molina",
-    "league": "ESPN Knockout",
-    "date": "2026-06-27",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36868",
-    "slug": "panamá-vs-inglaterra-2026-06-27",
-    "team_a": "Panamá",
-    "team_b": "Inglaterra",
-    "league": "Copa del Mundo",
-    "date": "2026-06-27",
-    "time": "16:00",
-    "streams": [
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Canal 5 MX",
-        "url": "https://tvhd2.com/canales.php?stream=canal5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
     "id": "36870",
@@ -242,6 +182,42 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "36868",
+    "slug": "panamá-vs-inglaterra-2026-06-27",
+    "team_a": "Panamá",
+    "team_b": "Inglaterra",
+    "league": "Copa del Mundo",
+    "date": "2026-06-27",
+    "time": "16:00",
+    "streams": [
+      {
+        "name": "Tigo Sports",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1"
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "TYC Sports",
+        "url": "https://tvhd2.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://tvhd2.com/canales.php?stream=canal5"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
   },
   {
     "id": "36890",
