@@ -136,22 +136,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsports"
   },
   {
-    "id": "36887",
-    "slug": "sudáfrica-vs-uruguay-2026-06-27",
-    "team_a": "Sudáfrica",
-    "team_b": "Uruguay",
-    "league": "Rugby – World Rugby U20 Championship",
-    "date": "2026-06-27",
-    "time": "11:20",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36889",
     "slug": "jon-miguez-vs-samuel-molina-2026-06-27",
     "team_a": "Jon Miguez",
@@ -258,22 +242,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36888",
-    "slug": "golf---travelers-championship---tercera-vuelta-2026-06-27",
-    "team_a": "",
-    "team_b": "",
-    "league": "Golf – Travelers Championship – Tercera Vuelta",
-    "date": "2026-06-27",
-    "time": "12:00",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvhd2.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
   },
   {
     "id": "36890",
