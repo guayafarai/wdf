@@ -1,49 +1,5 @@
 [
   {
-    "id": "36865",
-    "slug": "golf---travelers-championship---segunda-vuelta-2026-06-26",
-    "team_a": "",
-    "team_b": "",
-    "league": "Golf – Travelers Championship – Segunda Vuelta",
-    "date": "2026-06-26",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36854",
-    "slug": "senegal-vs-iraq-2026-06-26",
-    "team_a": "Senegal",
-    "team_b": "Iraq",
-    "league": "Copa del Mundo",
-    "date": "2026-06-26",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Tigo Sports 2",
-        "url": "https://tvhd2.com/online/canales.php?stream=even2"
-      },
-      {
-        "name": "Dsports 2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
-      },
-      {
-        "name": "Universo",
-        "url": "https://tvhd2.com/canales.php?stream=universo"
-      },
-      {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even2"
-  },
-  {
     "id": "36856",
     "slug": "uruguay-vs-españa-2026-06-26",
     "team_a": "Uruguay",
@@ -53,8 +9,8 @@
     "time": "19:00",
     "streams": [
       {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
+        "name": "Tigo Sports",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1"
       },
       {
         "name": "Telemundo",
@@ -63,6 +19,10 @@
       {
         "name": "TYC Sports",
         "url": "https://tvhd2.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
       },
       {
         "name": "Telefe",
@@ -89,7 +49,7 @@
         "url": "https://tvhd2.com/canales.php?stream=goltv"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
   },
   {
     "id": "36857",
@@ -124,70 +84,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsportsplus"
   },
   {
-    "id": "36866",
-    "slug": "eduardo-torres-vs-aziz-osorbek-uulu-2026-06-26",
-    "team_a": "Eduardo Torres",
-    "team_b": "Aziz Osorbek Uulu",
-    "league": "ESPN Knockout – LFA 236",
-    "date": "2026-06-26",
-    "time": "18:30",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36853",
-    "slug": "noruega-vs-francia-2026-06-26",
-    "team_a": "Noruega",
-    "team_b": "Francia",
-    "league": "Copa del Mundo",
-    "date": "2026-06-26",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Tigo Sports",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Telefe",
-        "url": "https://tvhd2.com/canales.php?stream=telefe"
-      },
-      {
-        "name": "America Television",
-        "url": "https://tvhd2.com/canales.php?stream=americatv"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Win Sports",
-        "url": "https://tvhd2.com/canales.php?stream=winsports"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvhd2.com/canales.php?stream=goltv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
-  },
-  {
     "id": "36855",
     "slug": "islas-de-cabo-verde-vs-arabia-saudita-2026-06-26",
     "team_a": "Islas de Cabo Verde",
@@ -199,6 +95,10 @@
       {
         "name": "Dsports 2",
         "url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
+      },
+      {
+        "name": "Tigo Sports 2",
+        "url": "https://tvhd2.com/online/canales.php?stream=even2"
       },
       {
         "name": "Sportv 2 BR",
@@ -214,6 +114,22 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
+  },
+  {
+    "id": "36866",
+    "slug": "eduardo-torres-vs-aziz-osorbek-uulu-2026-06-26",
+    "team_a": "Eduardo Torres",
+    "team_b": "Aziz Osorbek Uulu",
+    "league": "ESPN Knockout – LFA 236",
+    "date": "2026-06-26",
+    "time": "18:30",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
   },
   {
     "id": "36858",
