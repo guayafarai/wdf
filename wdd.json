@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-28T16:05:22.735930Z",
+    "last_updated": "2026-06-28T18:00:54.233493Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 15
+    "total_events": 14
   },
   "data": [
     {
@@ -977,102 +977,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T16:01:20.348Z",
                     "updatedAt": "2025-08-03T16:01:20.348Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36904,
-      "attributes": {
-        "diary_description": "F1 GP Austria – Carrera",
-        "diary_hour": "07:55:00",
-        "date_diary": "2026-06-28",
-        "createdAt": "2026-06-28T01:43:46.629Z",
-        "updatedAt": "2026-06-28T01:43:46.629Z",
-        "publishedAt": "2026-06-28T04:32:41.297Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjI=",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1461,
-              "attributes": {
-                "embed_name": "ESPN 2 HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==",
-                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=espn2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 79,
-            "attributes": {
-              "name": "Formula 1",
-              "createdAt": "2024-02-29T07:22:54.123Z",
-              "updatedAt": "2025-08-03T13:13:28.428Z",
-              "publishedAt": "2024-02-29T07:22:55.381Z",
-              "image": {
-                "data": {
-                  "id": 349,
-                  "attributes": {
-                    "name": "moto_g_145967b8f1.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 180,
-                    "height": 180,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_moto_g_145967b8f1_c975c7c8e9.png",
-                        "hash": "thumbnail_moto_g_145967b8f1_c975c7c8e9",
-                        "mime": "image/png",
-                        "name": "thumbnail_moto_g_145967b8f1.png",
-                        "path": null,
-                        "size": 7.56,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "moto_g_145967b8f1_c975c7c8e9",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.47,
-                    "url": "/uploads/moto_g_145967b8f1_c975c7c8e9.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:13:24.212Z",
-                    "updatedAt": "2025-08-03T13:13:24.212Z"
                   }
                 }
               }
