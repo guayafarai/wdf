@@ -9,15 +9,23 @@
     "time": "14:00",
     "streams": [
       {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
+      {
         "name": "Canal 5 MX",
         "url": "https://tvhd2.com/canales.php?stream=canal5"
       },
       {
         "name": "Telemundo",
         "url": "https://tvhd2.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=canal5"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
     "id": "36893",
@@ -34,22 +42,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36895",
-    "slug": "vélez-sársfield-vs-newell's-old-boys-2026-06-28",
-    "team_a": "Vélez Sársfield",
-    "team_b": "Newell's Old Boys",
-    "league": "Torneo de Reserva",
-    "date": "2026-06-28",
-    "time": "09:00",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvhd2.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
   },
   {
     "id": "36898",
