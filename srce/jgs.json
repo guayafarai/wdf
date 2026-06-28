@@ -220,22 +220,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36904",
-    "slug": "f1-gp-austria---carrera-2026-06-28",
-    "team_a": "",
-    "team_b": "",
-    "league": "F1 GP Austria – Carrera",
-    "date": "2026-06-28",
-    "time": "07:55",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36907",
     "slug": "golf---travelers-championship---última-vuelta-2026-06-28",
     "team_a": "",
