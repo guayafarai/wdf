@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-28T10:05:36.556362Z",
+    "last_updated": "2026-06-28T12:13:36.129961Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 19
+    "total_events": 17
   },
   "data": [
     {
@@ -361,94 +361,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T16:01:20.348Z",
                     "updatedAt": "2025-08-03T16:01:20.348Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36902,
-      "attributes": {
-        "diary_description": "MotoGP – GP Países Bajos – Carrera Moto3 / Moto2 / MotoGP",
-        "diary_hour": "03:45:00",
-        "date_diary": "2026-06-28",
-        "createdAt": "2026-06-28T01:42:17.486Z",
-        "updatedAt": "2026-06-28T01:42:17.486Z",
-        "publishedAt": "2026-06-28T04:32:41.297Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjI=",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 108,
-            "attributes": {
-              "name": "MOTO GP",
-              "createdAt": "2024-06-30T11:32:49.911Z",
-              "updatedAt": "2025-08-23T15:09:20.078Z",
-              "publishedAt": "2024-06-30T11:32:52.382Z",
-              "image": {
-                "data": {
-                  "id": 386,
-                  "attributes": {
-                    "name": "motogp_modified_10d300b047.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 298,
-                    "height": 298,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_motogp_modified_10d300b047_8484f8e991.png",
-                        "hash": "thumbnail_motogp_modified_10d300b047_8484f8e991",
-                        "mime": "image/png",
-                        "name": "thumbnail_motogp_modified_10d300b047.png",
-                        "path": null,
-                        "size": 14.56,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "motogp_modified_10d300b047_8484f8e991",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 10.5,
-                    "url": "/uploads/motogp_modified_10d300b047_8484f8e991.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-23T15:09:16.118Z",
-                    "updatedAt": "2025-08-23T15:09:16.118Z"
                   }
                 }
               }
@@ -1200,82 +1112,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T16:01:20.348Z",
                     "updatedAt": "2025-08-03T16:01:20.348Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36901,
-      "attributes": {
-        "diary_description": "F2 Spielberg – Carrera",
-        "diary_hour": "03:00:00",
-        "date_diary": "2026-06-28",
-        "createdAt": "2026-06-28T01:41:34.975Z",
-        "updatedAt": "2026-06-28T01:41:34.975Z",
-        "publishedAt": "2026-06-28T04:32:41.297Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjI=",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 81,
-            "attributes": {
-              "name": "Formula 2",
-              "createdAt": "2024-02-29T08:36:50.949Z",
-              "updatedAt": "2025-11-29T11:59:59.018Z",
-              "publishedAt": "2024-02-29T08:36:51.957Z",
-              "image": {
-                "data": {
-                  "id": 418,
-                  "attributes": {
-                    "name": "F2.jpg",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 65,
-                    "height": 65,
-                    "formats": null,
-                    "hash": "F2_a3360f82a5",
-                    "ext": ".jpg",
-                    "mime": "image/jpeg",
-                    "size": 1.78,
-                    "url": "/uploads/F2_a3360f82a5.jpg",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-11-29T11:59:51.055Z",
-                    "updatedAt": "2025-11-29T11:59:51.055Z"
                   }
                 }
               }
