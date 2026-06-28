@@ -76,22 +76,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36903",
-    "slug": "inglaterra-vs-argentina-2026-06-28",
-    "team_a": "Inglaterra",
-    "team_b": "Argentina",
-    "league": "Hockey – Pro League Femenino",
-    "date": "2026-06-28",
-    "time": "07:30",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvhd2.com/canales.php?stream=espn4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn4"
-  },
-  {
     "id": "36905",
     "slug": "premier-padel-valladolid---final-femenina-2026-06-28",
     "team_a": "",
