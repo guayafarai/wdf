@@ -84,22 +84,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36902",
-    "slug": "motogp---gp-países-bajos---carrera-moto3-/-moto2-/-motogp-2026-06-28",
-    "team_a": "",
-    "team_b": "",
-    "league": "MotoGP – GP Países Bajos – Carrera Moto3 / Moto2 / MotoGP",
-    "date": "2026-06-28",
-    "time": "03:45",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36903",
     "slug": "inglaterra-vs-argentina-2026-06-28",
     "team_a": "Inglaterra",
@@ -258,22 +242,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36901",
-    "slug": "f2-spielberg---carrera-2026-06-28",
-    "team_a": "",
-    "team_b": "",
-    "league": "F2 Spielberg – Carrera",
-    "date": "2026-06-28",
-    "time": "03:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
   },
   {
     "id": "36904",
