@@ -9,23 +9,23 @@
     "time": "14:00",
     "streams": [
       {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Canal 5 MX",
-        "url": "https://tvhd2.com/canales.php?stream=canal5"
+        "name": "DSports HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=dsports"
       },
       {
         "name": "Telemundo",
         "url": "https://tvhd2.com/canales.php?stream=telemundo"
       },
       {
+        "name": "Canal 5 MX",
+        "url": "https://tvhd2.com/canales.php?stream=canal5"
+      },
+      {
         "name": "Deportes TV. C",
         "url": "https://tvhd2.com/canales.php?stream=goltv"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=dsports"
   },
   {
     "id": "36893",
@@ -76,38 +76,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36905",
-    "slug": "premier-padel-valladolid---final-femenina-2026-06-28",
-    "team_a": "",
-    "team_b": "",
-    "league": "Premier Padel Valladolid – Final Femenina",
-    "date": "2026-06-28",
-    "time": "10:00",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvhd2.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36906",
-    "slug": "premier-padel-valladolid---final-masculina-2026-06-28",
-    "team_a": "",
-    "team_b": "",
-    "league": "Premier Padel Valladolid – Final Masculina",
-    "date": "2026-06-28",
-    "time": "11:30",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvhd2.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
-  },
-  {
     "id": "36908",
     "slug": "boston-red-sox-vs-new-york-yankees-2026-06-28",
     "team_a": "Boston Red Sox",
@@ -140,22 +108,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
   },
   {
-    "id": "36892",
-    "slug": "river-plate-vs-la-luz-2026-06-28",
-    "team_a": "River Plate",
-    "team_b": "La Luz",
-    "league": "Segunda División",
-    "date": "2026-06-28",
-    "time": "10:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvhd2.com/canales.php?stream=disney1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=disney1"
-  },
-  {
     "id": "36894",
     "slug": "oriental-vs-deportivo-colonia-2026-06-28",
     "team_a": "Oriental",
@@ -186,22 +138,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "36897",
-    "slug": "la-serena-vs-cobreloa-2026-06-28",
-    "team_a": "La Serena",
-    "team_b": "Cobreloa",
-    "league": "Copa Chile",
-    "date": "2026-06-28",
-    "time": "11:30",
-    "streams": [
-      {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
     "id": "36899",
