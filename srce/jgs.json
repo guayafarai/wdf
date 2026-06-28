@@ -28,22 +28,6 @@
     "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=dsports"
   },
   {
-    "id": "36893",
-    "slug": "cerrito-vs-plaza-colonia-2026-06-28",
-    "team_a": "Cerrito",
-    "team_b": "Plaza Colonia",
-    "league": "Segunda División",
-    "date": "2026-06-28",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvhd2.com/canales.php?stream=espn"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
-  },
-  {
     "id": "36898",
     "slug": "unión-la-calera-vs-santiago-wanderers-2026-06-28",
     "team_a": "Unión La Calera",
@@ -124,22 +108,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
   },
   {
-    "id": "36896",
-    "slug": "boca-juniors-vs-atlético-tucumán-2026-06-28",
-    "team_a": "Boca Juniors",
-    "team_b": "Atlético Tucumán",
-    "league": "Torneo de Reserva",
-    "date": "2026-06-28",
-    "time": "12:00",
-    "streams": [
-      {
-        "name": "TNT Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tntsports"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsports"
-  },
-  {
     "id": "36899",
     "slug": "universidad-chile-vs-unión-san-felipe-2026-06-28",
     "team_a": "Universidad Chile",
@@ -154,21 +122,5 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36907",
-    "slug": "golf---travelers-championship---última-vuelta-2026-06-28",
-    "team_a": "",
-    "team_b": "",
-    "league": "Golf – Travelers Championship – Última Vuelta",
-    "date": "2026-06-28",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvhd2.com/canales.php?stream=espn4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn4"
   }
 ]
