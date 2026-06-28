@@ -1,74 +1,310 @@
 [
   {
-    "id": "36871",
-    "slug": "argelia-vs-austria-2026-06-27",
-    "team_a": "Argelia",
-    "team_b": "Austria",
+    "id": "36891",
+    "slug": "sur-áfrica-vs-canadá-2026-06-28",
+    "team_a": "Sur África",
+    "team_b": "Canadá",
     "league": "Copa del Mundo",
-    "date": "2026-06-27",
-    "time": "21:00",
+    "date": "2026-06-28",
+    "time": "14:00",
     "streams": [
       {
-        "name": "Dsports 2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
-      },
-      {
-        "name": "Tigo Sports 2",
-        "url": "https://tvhd2.com/online/canales.php?stream=even2"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Universo",
-        "url": "https://tvhd2.com/canales.php?stream=universo"
-      },
-      {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
-  },
-  {
-    "id": "36872",
-    "slug": "jordania-vs-argentina-2026-06-27",
-    "team_a": "Jordania",
-    "team_b": "Argentina",
-    "league": "Copa del Mundo",
-    "date": "2026-06-27",
-    "time": "21:00",
-    "streams": [
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Tigo Sports",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tycsports"
+        "name": "Canal 5 MX",
+        "url": "https://tvhd2.com/canales.php?stream=canal5"
       },
       {
         "name": "Telemundo",
         "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "Telefe",
-        "url": "https://tvhd2.com/canales.php?stream=telefe"
-      },
-      {
-        "name": "Win Sports",
-        "url": "https://tvhd2.com/canales.php?stream=winsports"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvhd2.com/canales.php?stream=goltv"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=canal5"
+  },
+  {
+    "id": "36893",
+    "slug": "cerrito-vs-plaza-colonia-2026-06-28",
+    "team_a": "Cerrito",
+    "team_b": "Plaza Colonia",
+    "league": "Segunda División",
+    "date": "2026-06-28",
+    "time": "13:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvhd2.com/canales.php?stream=espn"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36895",
+    "slug": "vélez-sársfield-vs-newell's-old-boys-2026-06-28",
+    "team_a": "Vélez Sársfield",
+    "team_b": "Newell's Old Boys",
+    "league": "Torneo de Reserva",
+    "date": "2026-06-28",
+    "time": "09:00",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvhd2.com/canales.php?stream=espn3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36898",
+    "slug": "unión-la-calera-vs-santiago-wanderers-2026-06-28",
+    "team_a": "Unión La Calera",
+    "team_b": "Santiago Wanderers",
+    "league": "Copa Chile",
+    "date": "2026-06-28",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "TNT Sports Premiun CL",
+        "url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36900",
+    "slug": "puerto-montt-vs-deportes-concepción-2026-06-28",
+    "team_a": "Puerto Montt",
+    "team_b": "Deportes Concepción",
+    "league": "Copa Chile",
+    "date": "2026-06-28",
+    "time": "19:00",
+    "streams": [
+      {
+        "name": "TNT Sports Premiun CL",
+        "url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36902",
+    "slug": "motogp---gp-países-bajos---carrera-moto3-/-moto2-/-motogp-2026-06-28",
+    "team_a": "",
+    "team_b": "",
+    "league": "MotoGP – GP Países Bajos – Carrera Moto3 / Moto2 / MotoGP",
+    "date": "2026-06-28",
+    "time": "03:45",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36903",
+    "slug": "inglaterra-vs-argentina-2026-06-28",
+    "team_a": "Inglaterra",
+    "team_b": "Argentina",
+    "league": "Hockey – Pro League Femenino",
+    "date": "2026-06-28",
+    "time": "07:30",
+    "streams": [
+      {
+        "name": "ESPN 4",
+        "url": "https://tvhd2.com/canales.php?stream=espn4"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "36905",
+    "slug": "premier-padel-valladolid---final-femenina-2026-06-28",
+    "team_a": "",
+    "team_b": "",
+    "league": "Premier Padel Valladolid – Final Femenina",
+    "date": "2026-06-28",
+    "time": "10:00",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvhd2.com/canales.php?stream=espn3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36906",
+    "slug": "premier-padel-valladolid---final-masculina-2026-06-28",
+    "team_a": "",
+    "team_b": "",
+    "league": "Premier Padel Valladolid – Final Masculina",
+    "date": "2026-06-28",
+    "time": "11:30",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvhd2.com/canales.php?stream=espn3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36908",
+    "slug": "boston-red-sox-vs-new-york-yankees-2026-06-28",
+    "team_a": "Boston Red Sox",
+    "team_b": "New York Yankees",
+    "league": "MLB",
+    "date": "2026-06-28",
+    "time": "18:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36909",
+    "slug": "golden-state-vs-new-york-2026-06-28",
+    "team_a": "Golden State",
+    "team_b": "New York",
+    "league": "WNBA",
+    "date": "2026-06-28",
+    "time": "18:00",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvhd2.com/canales.php?stream=espn3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36892",
+    "slug": "river-plate-vs-la-luz-2026-06-28",
+    "team_a": "River Plate",
+    "team_b": "La Luz",
+    "league": "Segunda División",
+    "date": "2026-06-28",
+    "time": "10:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvhd2.com/canales.php?stream=disney1"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=disney1"
+  },
+  {
+    "id": "36894",
+    "slug": "oriental-vs-deportivo-colonia-2026-06-28",
+    "team_a": "Oriental",
+    "team_b": "Deportivo Colonia",
+    "league": "Segunda División",
+    "date": "2026-06-28",
+    "time": "16:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvhd2.com/canales.php?stream=espn"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36896",
+    "slug": "boca-juniors-vs-atlético-tucumán-2026-06-28",
+    "team_a": "Boca Juniors",
+    "team_b": "Atlético Tucumán",
+    "league": "Torneo de Reserva",
+    "date": "2026-06-28",
+    "time": "12:00",
+    "streams": [
+      {
+        "name": "TNT Sports",
+        "url": "https://tvhd2.com/canales.php?stream=tntsports"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsports"
+  },
+  {
+    "id": "36897",
+    "slug": "la-serena-vs-cobreloa-2026-06-28",
+    "team_a": "La Serena",
+    "team_b": "Cobreloa",
+    "league": "Copa Chile",
+    "date": "2026-06-28",
+    "time": "11:30",
+    "streams": [
+      {
+        "name": "TNT Sports Premiun CL",
+        "url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36899",
+    "slug": "universidad-chile-vs-unión-san-felipe-2026-06-28",
+    "team_a": "Universidad Chile",
+    "team_b": "Unión San Felipe",
+    "league": "Copa Chile",
+    "date": "2026-06-28",
+    "time": "16:30",
+    "streams": [
+      {
+        "name": "TNT Sports Premiun CL",
+        "url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36901",
+    "slug": "f2-spielberg---carrera-2026-06-28",
+    "team_a": "",
+    "team_b": "",
+    "league": "F2 Spielberg – Carrera",
+    "date": "2026-06-28",
+    "time": "03:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36904",
+    "slug": "f1-gp-austria---carrera-2026-06-28",
+    "team_a": "",
+    "team_b": "",
+    "league": "F1 GP Austria – Carrera",
+    "date": "2026-06-28",
+    "time": "07:55",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36907",
+    "slug": "golf---travelers-championship---última-vuelta-2026-06-28",
+    "team_a": "",
+    "team_b": "",
+    "league": "Golf – Travelers Championship – Última Vuelta",
+    "date": "2026-06-28",
+    "time": "13:00",
+    "streams": [
+      {
+        "name": "ESPN 4",
+        "url": "https://tvhd2.com/canales.php?stream=espn4"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn4"
   }
 ]
