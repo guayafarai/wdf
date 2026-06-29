@@ -1,12 +1,108 @@
 [
   {
-    "id": "36900",
-    "slug": "puerto-montt-vs-deportes-concepción-2026-06-28",
-    "team_a": "Puerto Montt",
-    "team_b": "Deportes Concepción",
+    "id": "36910",
+    "slug": "brasil-vs-japón-2026-06-29",
+    "team_a": "Brasil",
+    "team_b": "Japón",
+    "league": "Copa del Mundo",
+    "date": "2026-06-29",
+    "time": "12:00",
+    "streams": [
+      {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://tvhd2.com/canales.php?stream=caracol"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "36912",
+    "slug": "países-bajos-vs-marruecos-2026-06-29",
+    "team_a": "Países Bajos",
+    "team_b": "Marruecos",
+    "league": "Copa del Mundo",
+    "date": "2026-06-29",
+    "time": "20:00",
+    "streams": [
+      {
+        "name": "Canal 5 MX",
+        "url": "https://tvhd2.com/canales.php?stream=canal5"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=canal5"
+  },
+  {
+    "id": "36914",
+    "slug": "tenis---wimbledon---dia-#1---primera-ronda-2026-06-29",
+    "team_a": "",
+    "team_b": "",
+    "league": "Tenis – Wimbledon – Dia #1 – Primera Ronda",
+    "date": "2026-06-29",
+    "time": "05:00",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvhd2.com/canales.php?stream=espn3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36911",
+    "slug": "alemania-vs-paraguay-2026-06-29",
+    "team_a": "Alemania",
+    "team_b": "Paraguay",
+    "league": "Copa del Mundo",
+    "date": "2026-06-29",
+    "time": "15:30",
+    "streams": [
+      {
+        "name": "TYC Sports",
+        "url": "https://tvhd2.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://tvhd2.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://tvhd2.com/canales.php?stream=canal5"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
+  },
+  {
+    "id": "36913",
+    "slug": "unión-española-vs-colo-colo-2026-06-29",
+    "team_a": "Unión Española",
+    "team_b": "Colo-Colo",
     "league": "Copa Chile",
-    "date": "2026-06-28",
-    "time": "19:00",
+    "date": "2026-06-29",
+    "time": "18:30",
     "streams": [
       {
         "name": "TNT Sports Premiun CL",
@@ -14,5 +110,37 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36915",
+    "slug": "cleveland-guardians-vs-texas-rangers-2026-06-29",
+    "team_a": "Cleveland Guardians",
+    "team_b": "Texas Rangers",
+    "league": "MLB",
+    "date": "2026-06-29",
+    "time": "18:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/canales.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36916",
+    "slug": "seattle-mariners-vs-los-angeles-angels-2026-06-29",
+    "team_a": "Seattle Mariners",
+    "team_b": "Los Angeles Angels",
+    "league": "MLB",
+    "date": "2026-06-29",
+    "time": "20:30",
+    "streams": [
+      {
+        "name": "ESPN 5",
+        "url": "https://tvhd2.com/canales.php?stream=espn5"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
   }
 ]
