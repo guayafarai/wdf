@@ -77,16 +77,16 @@
     "time": "15:30",
     "streams": [
       {
-        "name": "Tigo Sports HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1"
-      },
-      {
         "name": "Telemundo HD",
         "url": "https://tvhd2.com/online/canales.php?stream=telemundo"
       },
       {
         "name": "DSports HD",
         "url": "https://tvhd2.com/online/canales.php?stream=dsports"
+      },
+      {
+        "name": "Tigo Sports HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1"
       },
       {
         "name": "TYC Sports",
@@ -113,6 +113,6 @@
         "url": "https://tvhd2.com/canales.php?stream=goltv"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=telemundo"
   }
 ]
