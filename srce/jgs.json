@@ -1,49 +1,5 @@
 [
   {
-    "id": "36891",
-    "slug": "sur-áfrica-vs-canadá-2026-06-28",
-    "team_a": "Sur África",
-    "team_b": "Canadá",
-    "league": "Copa del Mundo",
-    "date": "2026-06-28",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "DSports HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=dsports"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "Canal 5 MX",
-        "url": "https://tvhd2.com/canales.php?stream=canal5"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvhd2.com/canales.php?stream=goltv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=dsports"
-  },
-  {
-    "id": "36898",
-    "slug": "unión-la-calera-vs-santiago-wanderers-2026-06-28",
-    "team_a": "Unión La Calera",
-    "team_b": "Santiago Wanderers",
-    "league": "Copa Chile",
-    "date": "2026-06-28",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "36900",
     "slug": "puerto-montt-vs-deportes-concepción-2026-06-28",
     "team_a": "Puerto Montt",
@@ -51,70 +7,6 @@
     "league": "Copa Chile",
     "date": "2026-06-28",
     "time": "19:00",
-    "streams": [
-      {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36908",
-    "slug": "boston-red-sox-vs-new-york-yankees-2026-06-28",
-    "team_a": "Boston Red Sox",
-    "team_b": "New York Yankees",
-    "league": "MLB",
-    "date": "2026-06-28",
-    "time": "18:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36909",
-    "slug": "golden-state-vs-new-york-2026-06-28",
-    "team_a": "Golden State",
-    "team_b": "New York",
-    "league": "WNBA",
-    "date": "2026-06-28",
-    "time": "18:00",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvhd2.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36894",
-    "slug": "oriental-vs-deportivo-colonia-2026-06-28",
-    "team_a": "Oriental",
-    "team_b": "Deportivo Colonia",
-    "league": "Segunda División",
-    "date": "2026-06-28",
-    "time": "16:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvhd2.com/canales.php?stream=espn"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36899",
-    "slug": "universidad-chile-vs-unión-san-felipe-2026-06-28",
-    "team_a": "Universidad Chile",
-    "team_b": "Unión San Felipe",
-    "league": "Copa Chile",
-    "date": "2026-06-28",
-    "time": "16:30",
     "streams": [
       {
         "name": "TNT Sports Premiun CL",
