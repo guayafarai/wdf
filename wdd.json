@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-06-29T21:20:04.394715Z",
+    "last_updated": "2026-06-29T22:50:23.855641Z",
     "source": "https://pltvhd.com/diaries.json",
     "total_events": 5
   },
@@ -332,21 +332,13 @@
         "diary_hour": "15:30:00",
         "date_diary": "2026-06-29",
         "createdAt": "2026-06-29T02:27:00.021Z",
-        "updatedAt": "2026-06-29T20:36:47.525Z",
+        "updatedAt": "2026-06-29T21:57:37.233Z",
         "publishedAt": "2026-06-29T02:40:56.861Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
-            {
-              "id": 419,
-              "attributes": {
-                "embed_name": "Tigo Sports HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMQ==",
-                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
-              }
-            },
             {
               "id": 1458,
               "attributes": {
@@ -361,6 +353,14 @@
                 "embed_name": "DSports HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
                 "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=dsports"
+              }
+            },
+            {
+              "id": 419,
+              "attributes": {
+                "embed_name": "Tigo Sports HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMQ==",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
               }
             },
             {
