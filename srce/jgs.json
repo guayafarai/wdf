@@ -1,33 +1,5 @@
 [
   {
-    "id": "36910",
-    "slug": "brasil-vs-japón-2026-06-29",
-    "team_a": "Brasil",
-    "team_b": "Japón",
-    "league": "Copa del Mundo",
-    "date": "2026-06-29",
-    "time": "12:00",
-    "streams": [
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Caracol TV",
-        "url": "https://tvhd2.com/canales.php?stream=caracol"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
     "id": "36912",
     "slug": "países-bajos-vs-marruecos-2026-06-29",
     "team_a": "Países Bajos",
@@ -48,20 +20,40 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=canal5"
   },
   {
-    "id": "36914",
-    "slug": "tenis---wimbledon---dia-#1---primera-ronda-2026-06-29",
-    "team_a": "",
-    "team_b": "",
-    "league": "Tenis – Wimbledon – Dia #1 – Primera Ronda",
+    "id": "36910",
+    "slug": "brasil-vs-japón-2026-06-29",
+    "team_a": "Brasil",
+    "team_b": "Japón",
+    "league": "Copa del Mundo",
     "date": "2026-06-29",
-    "time": "05:00",
+    "time": "12:00",
     "streams": [
       {
-        "name": "ESPN 3",
-        "url": "https://tvhd2.com/canales.php?stream=espn3"
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Tigo Sports",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://tvhd2.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
     "id": "36911",
