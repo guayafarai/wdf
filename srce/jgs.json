@@ -74,15 +74,15 @@
     "team_b": "Paraguay",
     "league": "Copa del Mundo",
     "date": "2026-06-29",
-    "time": "15:30",
+    "time": "16:00",
     "streams": [
       {
-        "name": "Telemundo HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telemundo"
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
       },
       {
-        "name": "DSports HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=dsports"
+        "name": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
       },
       {
         "name": "Tigo Sports HD",
@@ -113,6 +113,6 @@
         "url": "https://tvhd2.com/canales.php?stream=goltv"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=telemundo"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   }
 ]
