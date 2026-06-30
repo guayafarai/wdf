@@ -90,10 +90,14 @@
     "streams": [
       {
         "name": "ESPN 2",
-        "url": "https://tvhd2.com/canales.php?stream=espn2"
+        "url": "https://tvhd2.com/online/canal.php?stream=even4"
+      },
+      {
+        "name": "ESPN 2 | OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=espn2"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
   },
   {
     "id": "36918",
@@ -134,9 +138,29 @@
     "streams": [
       {
         "name": "ESPN 2",
-        "url": "https://tvhd2.com/canales.php?stream=espn2"
+        "url": "https://tvhd2.com/online/canal.php?stream=even4"
+      },
+      {
+        "name": "ESPN 2 | OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=espn2"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
+  },
+  {
+    "id": "36923",
+    "slug": "majchrzak-kamil-vs-tabilo-alejandro-2026-06-30",
+    "team_a": "Majchrzak Kamil",
+    "team_b": "Tabilo Alejandro",
+    "league": "",
+    "date": "2026-06-30",
+    "time": "06:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/online/canal.php?stream=even4"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
   }
 ]
