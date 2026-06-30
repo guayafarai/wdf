@@ -1,29 +1,5 @@
 [
   {
-    "id": "36917",
-    "slug": "costa-de-marfil-vs-noruega-2026-06-30",
-    "team_a": "Costa de Marfil",
-    "team_b": "Noruega",
-    "league": "Copa del Mundo",
-    "date": "2026-06-30",
-    "time": "12:00",
-    "streams": [
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
     "id": "36919",
     "slug": "méxico-vs-ecuador-2026-06-30",
     "team_a": "México",
@@ -80,6 +56,26 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
+    "id": "36924",
+    "slug": "tenis---wimbledon---dia-#2---primera-ronda-2026-06-30",
+    "team_a": "",
+    "team_b": "",
+    "league": "Tenis – Wimbledon – Dia #2 – Primera Ronda",
+    "date": "2026-06-30",
+    "time": "12:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/online/canal.php?stream=even4"
+      },
+      {
+        "name": "ESPN 2 | OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=espn2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
+  },
+  {
     "id": "36922",
     "slug": "mlb---chicago-cubs-vs.-san-diego-padres-2026-06-30",
     "team_a": "",
@@ -95,25 +91,53 @@
       {
         "name": "ESPN 2 | OP2",
         "url": "https://tvhd2.com/vivo/canal.php?stream=espn2"
+      },
+      {
+        "name": "America Television",
+        "url": "https://tvhd2.com/canales.php?stream=americatv"
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
   },
   {
-    "id": "36924",
-    "slug": "tenis---wimbledon---dia-#2---primera-ronda-2026-06-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "Tenis – Wimbledon – Dia #2 – Primera Ronda",
+    "id": "36917",
+    "slug": "costa-de-marfil-vs-noruega-2026-06-30",
+    "team_a": "Costa de Marfil",
+    "team_b": "Noruega",
+    "league": "Copa del Mundo",
     "date": "2026-06-30",
     "time": "12:00",
     "streams": [
       {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even4"
+        "name": "Tigo Sports",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1"
+      },
+      {
+        "name": "DSports HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=dsports"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "America Television",
+        "url": "https://tvhd2.com/canales.php?stream=americatv"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv"
+      },
+      {
+        "name": "DSports +",
+        "url": "https://tvhd2.com/canales.php?stream=dsportsplus"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
   },
   {
     "id": "36918",
@@ -139,6 +163,10 @@
       {
         "name": "America Television",
         "url": "https://tvhd2.com/canales.php?stream=americatv"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv"
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
