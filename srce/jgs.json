@@ -9,6 +9,14 @@
     "time": "19:00",
     "streams": [
       {
+        "name": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php"
+      },
+      {
+        "name": "DSPORTS TV",
+        "url": "https://tvhd2.com/online/canales.php?stream=even3"
+      },
+      {
         "name": "DSports",
         "url": "https://tvhd2.com/canales.php?stream=dsports"
       },
@@ -29,7 +37,7 @@
         "url": "https://tvhd2.com/canales.php?stream=universo"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   },
   {
     "id": "36931",
@@ -64,22 +72,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36934",
-    "slug": "toronto-blue-jays-vs-new-york-mets-2026-07-01",
-    "team_a": "Toronto Blue Jays",
-    "team_b": "New York Mets",
-    "league": "MLB",
-    "date": "2026-07-01",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "ESPN 5",
-        "url": "https://tvhd2.com/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
-  },
-  {
     "id": "36935",
     "slug": "milwaukee-brewers-vs-cincinnati-reds-2026-07-01",
     "team_a": "Milwaukee Brewers",
@@ -105,7 +97,7 @@
     "time": "15:00",
     "streams": [
       {
-        "name": "Dsports Mundial",
+        "name": "Dsports HD1",
         "url": "https://tvhd1.com/canales/dsportsar.php"
       },
       {
