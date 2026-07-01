@@ -1,11 +1,67 @@
 [
   {
-    "id": "36925",
-    "slug": "audax-italiano-vs-palestino-2026-06-30",
-    "team_a": "Audax Italiano",
-    "team_b": "Palestino",
+    "id": "36927",
+    "slug": "inglaterra-vs-rd-del-congo-2026-07-01",
+    "team_a": "Inglaterra",
+    "team_b": "RD del Congo",
+    "league": "Copa del Mundo",
+    "date": "2026-07-01",
+    "time": "11:00",
+    "streams": [
+      {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://tvhd2.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "36929",
+    "slug": "ee.-uu.-vs-bosnia-herzegovina-2026-07-01",
+    "team_a": "EE. UU.",
+    "team_b": "Bosnia-Herzegovina",
+    "league": "Copa del Mundo",
+    "date": "2026-07-01",
+    "time": "19:00",
+    "streams": [
+      {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "TYC Sports",
+        "url": "https://tvhd2.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://tvhd2.com/online/canales.php?stream=canal5"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Universo",
+        "url": "https://tvhd2.com/canales.php?stream=universo"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "36931",
+    "slug": "deportes-limache-vs-coquimbo-unido-2026-07-01",
+    "team_a": "Deportes Limache",
+    "team_b": "Coquimbo Unido",
     "league": "Copa Chile",
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "time": "17:00",
     "streams": [
       {
@@ -16,84 +72,12 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36922",
-    "slug": "mlb---chicago-cubs-vs.-san-diego-padres-2026-06-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "MLB – Chicago Cubs vs. San Diego Padres",
-    "date": "2026-06-30",
-    "time": "19:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
-  },
-  {
-    "id": "36919",
-    "slug": "méxico-vs-ecuador-2026-06-30",
-    "team_a": "México",
-    "team_b": "Ecuador",
-    "league": "Copa del Mundo",
-    "date": "2026-06-30",
-    "time": "20:00",
-    "streams": [
-      {
-        "name": "ECUAVISA",
-        "url": "https://tvhd2.com/online/canales.php?stream=ecdf_ligapro"
-      },
-      {
-        "name": "Tigo Sports HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1"
-      },
-      {
-        "name": "Telemundo HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telemundo"
-      },
-      {
-        "name": "Canal 5 MX",
-        "url": "https://tvhd2.com/online/canales.php?stream=canal5"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Win Sports",
-        "url": "https://tvhd2.com/canales.php?stream=winsports"
-      },
-      {
-        "name": "Universo",
-        "url": "https://tvhd2.com/canales.php?stream=universo"
-      },
-      {
-        "name": "DSports +",
-        "url": "https://tvhd2.com/canales.php?stream=dsportsplus"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvhd2.com/canales.php?stream=goltv"
-      },
-      {
-        "name": "America TV | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=americatv"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "36926",
-    "slug": "universidad-católica-vs-everton-2026-06-30",
-    "team_a": "Universidad Católica",
-    "team_b": "Everton",
+    "id": "36932",
+    "slug": "universidad-chile-vs-unión-la-calera-2026-07-01",
+    "team_a": "Universidad Chile",
+    "team_b": "Unión La Calera",
     "league": "Copa Chile",
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "time": "19:30",
     "streams": [
       {
@@ -104,43 +88,103 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36918",
-    "slug": "francia-vs-suecia-2026-06-30",
-    "team_a": "Francia",
-    "team_b": "Suecia",
+    "id": "36934",
+    "slug": "toronto-blue-jays-vs-new-york-mets-2026-07-01",
+    "team_a": "Toronto Blue Jays",
+    "team_b": "New York Mets",
+    "league": "MLB",
+    "date": "2026-07-01",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "ESPN 5",
+        "url": "https://tvhd2.com/canales.php?stream=espn5"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36928",
+    "slug": "bélgica-vs-senegal-2026-07-01",
+    "team_a": "Bélgica",
+    "team_b": "Senegal",
     "league": "Copa del Mundo",
-    "date": "2026-06-30",
-    "time": "16:00",
+    "date": "2026-07-01",
+    "time": "15:00",
     "streams": [
       {
         "name": "DSports",
         "url": "https://tvhd2.com/canales.php?stream=dsports"
       },
       {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Win Sports",
+        "url": "https://tvhd2.com/canales.php?stream=winsports"
+      },
+      {
+        "name": "America Television",
+        "url": "https://tvhd2.com/canales.php?stream=americatv"
+      },
+      {
         "name": "Telemundo",
         "url": "https://tvhd2.com/canales.php?stream=telemundo"
       },
       {
-        "name": "America TV | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=americatv"
-      },
-      {
-        "name": "Tigo Sports HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvhd2.com/canales.php?stream=goltv"
-      },
-      {
-        "name": "DSports +",
-        "url": "https://tvhd2.com/canales.php?stream=dsportsplus"
+        "name": "FOX Sports 1 USA",
+        "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "36930",
+    "slug": "ldu-quito-vs-orense-2026-07-01",
+    "team_a": "LDU Quito",
+    "team_b": "Orense",
+    "league": "Serie A",
+    "date": "2026-07-01",
+    "time": "17:00",
+    "streams": [
+      {
+        "name": "ECDF LigaPro",
+        "url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
+  },
+  {
+    "id": "36933",
+    "slug": "tenis---wimbledon---dia-#3---segunda-ronda-2026-07-01",
+    "team_a": "",
+    "team_b": "",
+    "league": "Tenis – Wimbledon – Dia #3 – Segunda Ronda",
+    "date": "2026-07-01",
+    "time": "05:00",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvhd2.com/canales.php?stream=espn3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36935",
+    "slug": "milwaukee-brewers-vs-cincinnati-reds-2026-07-01",
+    "team_a": "Milwaukee Brewers",
+    "team_b": "Cincinnati Reds",
+    "league": "MLB",
+    "date": "2026-07-01",
+    "time": "19:00",
+    "streams": [
+      {
+        "name": "ESPN 4",
+        "url": "https://tvhd2.com/canales.php?stream=espn4"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn4"
   }
 ]
