@@ -105,12 +105,24 @@
     "time": "15:00",
     "streams": [
       {
-        "name": "DSports HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=dsports"
+        "name": "Dsports Mundial",
+        "url": "https://tvhd1.com/canales/dsportsar.php"
       },
       {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "DSPORTS TV",
+        "url": "https://tvhd2.com/online/canales.php?stream=even3"
+      },
+      {
+        "name": "Tigo Sports HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
       },
       {
         "name": "Win Sports",
@@ -121,15 +133,11 @@
         "url": "https://tvhd2.com/canales.php?stream=americatv"
       },
       {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      },
-      {
         "name": "FOX Sports 1 USA",
         "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   },
   {
     "id": "36930",
