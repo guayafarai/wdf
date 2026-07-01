@@ -16,62 +16,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36919",
-    "slug": "méxico-vs-ecuador-2026-06-30",
-    "team_a": "México",
-    "team_b": "Ecuador",
-    "league": "Copa del Mundo",
-    "date": "2026-06-30",
-    "time": "20:00",
-    "streams": [
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Win Sports",
-        "url": "https://tvhd2.com/canales.php?stream=winsports"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36920",
-    "slug": "méxico-vs-ecuador-2026-06-30",
-    "team_a": "México",
-    "team_b": "Ecuador",
-    "league": "Copa del Mundo",
-    "date": "2026-06-30",
-    "time": "20:00",
-    "streams": [
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "Win Sports",
-        "url": "https://tvhd2.com/canales.php?stream=winsports"
-      },
-      {
-        "name": "Canal 5 MX",
-        "url": "https://tvhd2.com/canales.php?stream=canal5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
     "id": "36922",
     "slug": "mlb---chicago-cubs-vs.-san-diego-padres-2026-06-30",
     "team_a": "",
@@ -83,17 +27,65 @@
       {
         "name": "ESPN 2",
         "url": "https://tvhd2.com/online/canal.php?stream=even4"
-      },
-      {
-        "name": "ESPN 2 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn2"
-      },
-      {
-        "name": "America Television",
-        "url": "https://tvhd2.com/canales.php?stream=americatv"
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
+  },
+  {
+    "id": "36919",
+    "slug": "méxico-vs-ecuador-2026-06-30",
+    "team_a": "México",
+    "team_b": "Ecuador",
+    "league": "Copa del Mundo",
+    "date": "2026-06-30",
+    "time": "20:00",
+    "streams": [
+      {
+        "name": "ECUAVISA",
+        "url": "https://tvhd2.com/online/canales.php?stream=ecdf_ligapro"
+      },
+      {
+        "name": "Tigo Sports HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1"
+      },
+      {
+        "name": "Telemundo HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://tvhd2.com/online/canales.php?stream=canal5"
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Win Sports",
+        "url": "https://tvhd2.com/canales.php?stream=winsports"
+      },
+      {
+        "name": "Universo",
+        "url": "https://tvhd2.com/canales.php?stream=universo"
+      },
+      {
+        "name": "DSports +",
+        "url": "https://tvhd2.com/canales.php?stream=dsportsplus"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv"
+      },
+      {
+        "name": "America TV | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=americatv"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=ecdf_ligapro"
   },
   {
     "id": "36926",
