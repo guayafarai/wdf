@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-01T21:22:03.010957Z",
+    "last_updated": "2026-07-01T23:07:22.127015Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 7
+    "total_events": 6
   },
   "data": [
     {
@@ -12,13 +12,29 @@
         "diary_hour": "19:00:00",
         "date_diary": "2026-07-01",
         "createdAt": "2026-07-01T01:45:39.390Z",
-        "updatedAt": "2026-07-01T01:45:39.390Z",
+        "updatedAt": "2026-07-01T22:10:23.852Z",
         "publishedAt": "2026-07-01T03:20:30.759Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
+            {
+              "id": 756,
+              "attributes": {
+                "embed_name": "Dsports HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzYXIucGhw",
+                "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+              }
+            },
+            {
+              "id": 1362,
+              "attributes": {
+                "embed_name": "DSPORTS TV",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMw==",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even3"
+              }
+            },
             {
               "id": 644,
               "attributes": {
@@ -306,90 +322,6 @@
       }
     },
     {
-      "id": 36934,
-      "attributes": {
-        "diary_description": "MLB – Toronto Blue Jays vs New York Mets",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-07-01",
-        "createdAt": "2026-07-01T01:50:55.984Z",
-        "updatedAt": "2026-07-01T03:20:39.559Z",
-        "publishedAt": "2026-07-01T03:20:39.556Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 645,
-              "attributes": {
-                "embed_name": "ESPN 5",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG41",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
-              }
-            },
-            {
-              "id": 474,
-              "attributes": {
-                "embed_name": "ESPN 5 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG41",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn5"
-              }
-            },
-            {
-              "id": 599,
-              "attributes": {
-                "embed_name": "ESPN 5 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjU=",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn5"
-              }
-            },
-            {
-              "id": 1466,
-              "attributes": {
-                "embed_name": "ESPN 5 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNQ==",
-                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=espn5"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 70,
-            "attributes": {
-              "name": "MLB Preseason",
-              "createdAt": "2024-02-23T06:14:15.840Z",
-              "updatedAt": "2025-08-03T14:39:12.740Z",
-              "publishedAt": "2024-02-23T06:14:18.809Z",
-              "image": {
-                "data": {
-                  "id": 352,
-                  "attributes": {
-                    "name": "mlb_f5711cc440.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "mlb_f5711cc440_dde64767e4",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.66,
-                    "url": "/uploads/mlb_f5711cc440_dde64767e4.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:39:07.537Z",
-                    "updatedAt": "2025-08-03T14:39:07.537Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 36935,
       "attributes": {
         "diary_description": "MLB – Milwaukee Brewers vs Cincinnati Reds",
@@ -474,7 +406,7 @@
             {
               "id": 756,
               "attributes": {
-                "embed_name": "Dsports Mundial",
+                "embed_name": "Dsports HD1",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzYXIucGhw",
                 "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
               }
