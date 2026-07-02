@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-02T09:56:17.025150Z",
+    "last_updated": "2026-07-02T12:07:36.711641Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 10
+    "total_events": 11
   },
   "data": [
     {
@@ -23,8 +23,8 @@
               "id": 520,
               "attributes": {
                 "embed_name": "ESPN 4",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjE=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjI=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
               }
             }
           ]
@@ -106,13 +106,29 @@
         "diary_hour": "14:00:00",
         "date_diary": "2026-07-02",
         "createdAt": "2026-07-02T01:47:29.942Z",
-        "updatedAt": "2026-07-02T01:47:29.942Z",
+        "updatedAt": "2026-07-02T10:15:14.201Z",
         "publishedAt": "2026-07-02T09:02:03.717Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
+            {
+              "id": 450,
+              "attributes": {
+                "embed_name": "Canal 5 MX HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9jYW5hbDUucGhw",
+                "decoded_iframe_url": "https://tvhd1.com/canales/canal5.php"
+              }
+            },
+            {
+              "id": 756,
+              "attributes": {
+                "embed_name": "Dsports HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzYXIucGhw",
+                "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+              }
+            },
             {
               "id": 644,
               "attributes": {
@@ -238,7 +254,7 @@
         "diary_hour": "22:00:00",
         "date_diary": "2026-07-02",
         "createdAt": "2026-07-02T01:51:39.108Z",
-        "updatedAt": "2026-07-02T01:51:39.108Z",
+        "updatedAt": "2026-07-02T10:15:46.880Z",
         "publishedAt": "2026-07-02T09:02:03.717Z",
         "channels": {
           "data": []
@@ -251,6 +267,22 @@
                 "embed_name": "DSports",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM=",
                 "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+              }
+            },
+            {
+              "id": 756,
+              "attributes": {
+                "embed_name": "Dsports HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzYXIucGhw",
+                "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+              }
+            },
+            {
+              "id": 450,
+              "attributes": {
+                "embed_name": "Canal 5 MX HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9jYW5hbDUucGhw",
+                "decoded_iframe_url": "https://tvhd1.com/canales/canal5.php"
               }
             },
             {
@@ -517,8 +549,8 @@
               "id": 520,
               "attributes": {
                 "embed_name": "ESPN 4",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjE=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjI=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
               }
             }
           ]
@@ -594,13 +626,149 @@
       }
     },
     {
+      "id": 36942,
+      "attributes": {
+        "diary_description": "Tenis – Wimbledon – Dia #4 – Segunda Ronda",
+        "diary_hour": "05:00:00",
+        "date_diary": "2026-07-02",
+        "createdAt": "2026-07-02T01:55:42.588Z",
+        "updatedAt": "2026-07-02T10:09:09.716Z",
+        "publishedAt": "2026-07-02T09:02:03.717Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 656,
+              "attributes": {
+                "embed_name": "ESPN 3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+              }
+            },
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjE=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
+              }
+            },
+            {
+              "id": 1461,
+              "attributes": {
+                "embed_name": "ESPN 2 HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjE=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 53,
+            "attributes": {
+              "name": "Tennis",
+              "createdAt": "2024-01-25T06:16:42.975Z",
+              "updatedAt": "2025-08-03T14:36:42.387Z",
+              "publishedAt": "2024-01-25T06:16:44.102Z",
+              "image": {
+                "data": {
+                  "id": 351,
+                  "attributes": {
+                    "name": "Tenis_a5d5fcd1d1.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "Tenis_a5d5fcd1d1_594ebf0186",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.18,
+                    "url": "/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T14:36:38.398Z",
+                    "updatedAt": "2025-08-03T14:36:38.398Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 36947,
+      "attributes": {
+        "diary_description": "De Minaur Alex vs Mannarino Adrian",
+        "diary_hour": "05:30:00",
+        "date_diary": "2026-07-02",
+        "createdAt": "2026-07-02T10:10:53.608Z",
+        "updatedAt": "2026-07-02T10:12:55.156Z",
+        "publishedAt": "2026-07-02T10:10:55.085Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 656,
+              "attributes": {
+                "embed_name": "ESPN 3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 53,
+            "attributes": {
+              "name": "Tennis",
+              "createdAt": "2024-01-25T06:16:42.975Z",
+              "updatedAt": "2025-08-03T14:36:42.387Z",
+              "publishedAt": "2024-01-25T06:16:44.102Z",
+              "image": {
+                "data": {
+                  "id": 351,
+                  "attributes": {
+                    "name": "Tenis_a5d5fcd1d1.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "Tenis_a5d5fcd1d1_594ebf0186",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.18,
+                    "url": "/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T14:36:38.398Z",
+                    "updatedAt": "2025-08-03T14:36:38.398Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 36937,
       "attributes": {
         "diary_description": "Copa del Mundo: Portugal vs Croacia",
         "diary_hour": "18:00:00",
         "date_diary": "2026-07-02",
         "createdAt": "2026-07-02T01:49:57.421Z",
-        "updatedAt": "2026-07-02T01:49:57.421Z",
+        "updatedAt": "2026-07-02T10:14:50.943Z",
         "publishedAt": "2026-07-02T09:02:03.717Z",
         "channels": {
           "data": []
@@ -613,6 +781,14 @@
                 "embed_name": "DSports",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM=",
                 "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+              }
+            },
+            {
+              "id": 756,
+              "attributes": {
+                "embed_name": "Dsports HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzYXIucGhw",
+                "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
               }
             },
             {
@@ -637,6 +813,14 @@
                 "embed_name": "DSports HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
                 "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=dsports"
+              }
+            },
+            {
+              "id": 450,
+              "attributes": {
+                "embed_name": "Canal 5 MX HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9jYW5hbDUucGhw",
+                "decoded_iframe_url": "https://tvhd1.com/canales/canal5.php"
               }
             },
             {
@@ -811,8 +995,8 @@
               "id": 656,
               "attributes": {
                 "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
               }
             },
             {
@@ -869,74 +1053,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-09-04T14:08:15.762Z",
                     "updatedAt": "2025-09-04T14:08:15.762Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36942,
-      "attributes": {
-        "diary_description": "Tenis – Wimbledon – Dia #4 – Segunda Ronda",
-        "diary_hour": "05:00:00",
-        "date_diary": "2026-07-02",
-        "createdAt": "2026-07-02T01:55:42.588Z",
-        "updatedAt": "2026-07-02T09:23:27.435Z",
-        "publishedAt": "2026-07-02T09:02:03.717Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjE=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
-              }
-            },
-            {
-              "id": 1461,
-              "attributes": {
-                "embed_name": "ESPN 2 HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjE=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 53,
-            "attributes": {
-              "name": "Tennis",
-              "createdAt": "2024-01-25T06:16:42.975Z",
-              "updatedAt": "2025-08-03T14:36:42.387Z",
-              "publishedAt": "2024-01-25T06:16:44.102Z",
-              "image": {
-                "data": {
-                  "id": 351,
-                  "attributes": {
-                    "name": "Tenis_a5d5fcd1d1.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "Tenis_a5d5fcd1d1_594ebf0186",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.18,
-                    "url": "/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:36:38.398Z",
-                    "updatedAt": "2025-08-03T14:36:38.398Z"
                   }
                 }
               }
