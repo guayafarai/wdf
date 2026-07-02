@@ -1,70 +1,34 @@
 [
   {
-    "id": "36929",
-    "slug": "ee.-uu.-vs-bosnia-herzegovina-2026-07-01",
-    "team_a": "EE. UU.",
-    "team_b": "Bosnia-Herzegovina",
-    "league": "Copa del Mundo",
-    "date": "2026-07-01",
-    "time": "19:00",
+    "id": "Barcelona-2026-07-02",
+    "slug": "barcelona-vs-real-madrid-2026-07-02",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-07-02",
+    "time": "20:00",
     "streams": [
       {
-        "name": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php"
-      },
-      {
-        "name": "Canal 5 MX HD1",
-        "url": "https://tvhd1.com/canales/canal5.php"
-      },
-      {
-        "name": "FOX ONE USA",
-        "url": "https://tvhd1.com/canales/foxone.php"
-      },
-      {
-        "name": "Telemundo HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telemundo"
-      },
-      {
-        "name": "Tigo Sports",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1"
-      },
-      {
-        "name": "DSPORTS TV",
-        "url": "https://tvhd2.com/online/canales.php?stream=even3"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Canal 5 MX",
-        "url": "https://tvhd2.com/online/canales.php?stream=canal5"
-      },
-      {
-        "name": "Universo",
-        "url": "https://tvhd2.com/canales.php?stream=universo"
+        "name": "Demo",
+        "url": "https://example.com/embed/barcelona-real-madrid"
       }
     ],
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "36932",
-    "slug": "universidad-chile-vs-unión-la-calera-2026-07-01",
-    "team_a": "Universidad Chile",
-    "team_b": "Unión La Calera",
-    "league": "Copa Chile",
-    "date": "2026-07-01",
-    "time": "19:30",
+    "id": "América-2026-07-02",
+    "slug": "américa-vs-chivas-2026-07-02",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-07-02",
+    "time": "22:00",
     "streams": [
       {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+        "name": "Demo",
+        "url": "https://example.com/embed/america-chivas"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
