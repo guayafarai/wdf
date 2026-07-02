@@ -1,37 +1,5 @@
 [
   {
-    "id": "36938",
-    "slug": "suiza-vs-argelia-2026-07-02",
-    "team_a": "Suiza",
-    "team_b": "Argelia",
-    "league": "Copa del Mundo",
-    "date": "2026-07-02",
-    "time": "22:00",
-    "streams": [
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php"
-      },
-      {
-        "name": "Canal 5 MX HD1",
-        "url": "https://tvhd1.com/canales/canal5.php"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "FOX Sports 1 USA",
-        "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
     "id": "36936",
     "slug": "españa-vs-austria-2026-07-02",
     "team_a": "España",
@@ -112,6 +80,54 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
   },
   {
+    "id": "36938",
+    "slug": "suiza-vs-argelia-2026-07-02",
+    "team_a": "Suiza",
+    "team_b": "Argelia",
+    "league": "Copa del Mundo",
+    "date": "2026-07-02",
+    "time": "22:00",
+    "streams": [
+      {
+        "name": "TV LA 1 España HD1",
+        "url": "https://tvhd1.com/canales/tvla1es.php"
+      },
+      {
+        "name": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php"
+      },
+      {
+        "name": "Canal 5 MX HD1",
+        "url": "https://tvhd1.com/canales/canal5.php"
+      },
+      {
+        "name": "FOX ONE HD1",
+        "url": "https://tvhd1.com/canales/foxone.php"
+      },
+      {
+        "name": "DSPORTS TV",
+        "url": "https://tvhd2.com/online/canales.php?stream=even2"
+      },
+      {
+        "name": "DSports HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=dsports"
+      },
+      {
+        "name": "Telemundo HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo"
+      },
+      {
+        "name": "FOX Sports 1 USA",
+        "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd1.com/canales/tvla1es.php"
+  },
+  {
     "id": "36937",
     "slug": "portugal-vs-croacia-2026-07-02",
     "team_a": "Portugal",
@@ -155,6 +171,10 @@
       {
         "name": "America Television",
         "url": "https://tvhd2.com/canales.php?stream=americatv"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv"
       }
     ],
     "decoded_iframe_url": "https://tvhd1.com/canales/tvla1es.php"
