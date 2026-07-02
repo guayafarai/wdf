@@ -1,61 +1,5 @@
 [
   {
-    "id": "36946",
-    "slug": "rugby---world-rugby-uruguay-2026-07-02",
-    "team_a": "",
-    "team_b": "",
-    "league": "Rugby – World Rugby Uruguay",
-    "date": "2026-07-02",
-    "time": "04:30",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-  },
-  {
-    "id": "36936",
-    "slug": "españa-vs-austria-2026-07-02",
-    "team_a": "España",
-    "team_b": "Austria",
-    "league": "Copa del Mundo",
-    "date": "2026-07-02",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Canal 5 MX HD1",
-        "url": "https://tvhd1.com/canales/canal5.php"
-      },
-      {
-        "name": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "Caracol TV",
-        "url": "https://tvhd2.com/canales.php?stream=caracol"
-      },
-      {
-        "name": "Canal 5 MX",
-        "url": "https://tvhd2.com/online/canales.php?stream=canal5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd1.com/canales/canal5.php"
-  },
-  {
     "id": "36938",
     "slug": "suiza-vs-argelia-2026-07-02",
     "team_a": "Suiza",
@@ -88,6 +32,70 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
+    "id": "36948",
+    "slug": "tennis-2026-07-02",
+    "team_a": "",
+    "team_b": "",
+    "league": "tennis",
+    "date": "2026-07-02",
+    "time": "11:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/online/canal.php?stream=even1"
+      },
+      {
+        "name": "ESPN 3",
+        "url": "https://tvhd2.com/online/canal.php?stream=even3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
+  },
+  {
+    "id": "36936",
+    "slug": "españa-vs-austria-2026-07-02",
+    "team_a": "España",
+    "team_b": "Austria",
+    "league": "Copa del Mundo",
+    "date": "2026-07-02",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "TV LA 1 España HD1",
+        "url": "https://tvhd1.com/canales/tvla1es.php"
+      },
+      {
+        "name": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php"
+      },
+      {
+        "name": "Canal 5 MX HD1",
+        "url": "https://tvhd1.com/canales/canal5.php"
+      },
+      {
+        "name": "FOX ONE HD1",
+        "url": "https://tvhd1.com/canales/foxone.php"
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://tvhd2.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://tvhd2.com/online/canales.php?stream=canal5"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd1.com/canales/tvla1es.php"
+  },
+  {
     "id": "36940",
     "slug": "o'higgins-vs-colo-colo-2026-07-02",
     "team_a": "O'Higgins",
@@ -118,58 +126,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "36943",
-    "slug": "argentina-vs-irlanda-2026-07-02",
-    "team_a": "Argentina",
-    "team_b": "Irlanda",
-    "league": "Rugby – World Rugby U20 Championship",
-    "date": "2026-07-02",
-    "time": "06:20",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-  },
-  {
-    "id": "36942",
-    "slug": "tenis---wimbledon---dia-#4---segunda-ronda-2026-07-02",
-    "team_a": "",
-    "team_b": "",
-    "league": "Tenis – Wimbledon – Dia #4 – Segunda Ronda",
-    "date": "2026-07-02",
-    "time": "05:00",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3"
-      },
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
-  },
-  {
-    "id": "36947",
-    "slug": "de-minaur-alex-vs-mannarino-adrian-2026-07-02",
-    "team_a": "De Minaur Alex",
-    "team_b": "Mannarino Adrian",
-    "league": "",
-    "date": "2026-07-02",
-    "time": "05:30",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
   },
   {
     "id": "36937",
