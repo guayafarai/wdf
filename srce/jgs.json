@@ -112,26 +112,6 @@
     "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
   },
   {
-    "id": "36959",
-    "slug": "suiza-vs-argelia-2026-07-03",
-    "team_a": "Suiza",
-    "team_b": "Argelia",
-    "league": "Copa del Mundo",
-    "date": "2026-07-03",
-    "time": "00:15",
-    "streams": [
-      {
-        "name": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php"
-      },
-      {
-        "name": "DSports HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=dsports"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
-  },
-  {
     "id": "36950",
     "slug": "argentina-vs-islas-de-cabo-verde-2026-07-03",
     "team_a": "Argentina",
