@@ -1,94 +1,10 @@
 {
   "metadata": {
-    "last_updated": "2026-07-03T15:05:13.154495Z",
+    "last_updated": "2026-07-03T17:18:04.103105Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 8
+    "total_events": 6
   },
   "data": [
-    {
-      "id": 36955,
-      "attributes": {
-        "diary_description": "F3 Silverstone – Clasificación",
-        "diary_hour": "07:55:00",
-        "date_diary": "2026-07-03",
-        "createdAt": "2026-07-03T00:53:01.933Z",
-        "updatedAt": "2026-07-03T00:53:01.933Z",
-        "publishedAt": "2026-07-03T01:06:34.833Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 656,
-              "attributes": {
-                "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjM=",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1357,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4z",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1358,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjM=",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1462,
-              "attributes": {
-                "embed_name": "ESPN 3 HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjM=",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 81,
-            "attributes": {
-              "name": "Formula 2",
-              "createdAt": "2024-02-29T08:36:50.949Z",
-              "updatedAt": "2025-11-29T11:59:59.018Z",
-              "publishedAt": "2024-02-29T08:36:51.957Z",
-              "image": {
-                "data": {
-                  "id": 418,
-                  "attributes": {
-                    "name": "F2.jpg",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 65,
-                    "height": 65,
-                    "formats": null,
-                    "hash": "F2_a3360f82a5",
-                    "ext": ".jpg",
-                    "mime": "image/jpeg",
-                    "size": 1.78,
-                    "url": "/uploads/F2_a3360f82a5.jpg",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-11-29T11:59:51.055Z",
-                    "updatedAt": "2025-11-29T11:59:51.055Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 36957,
       "attributes": {
@@ -336,13 +252,21 @@
         "diary_hour": "13:00:00",
         "date_diary": "2026-07-03",
         "createdAt": "2026-07-03T00:40:59.690Z",
-        "updatedAt": "2026-07-03T10:17:25.816Z",
+        "updatedAt": "2026-07-03T15:21:45.568Z",
         "publishedAt": "2026-07-03T01:06:26.657Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
+            {
+              "id": 1430,
+              "attributes": {
+                "embed_name": "TV LA 1 España HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy90dmxhMWVzLnBocA==",
+                "decoded_iframe_url": "https://tvhd1.com/canales/tvla1es.php"
+              }
+            },
             {
               "id": 756,
               "attributes": {
@@ -352,11 +276,51 @@
               }
             },
             {
+              "id": 1455,
+              "attributes": {
+                "embed_name": "DSports HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=dsports"
+              }
+            },
+            {
+              "id": 1362,
+              "attributes": {
+                "embed_name": "DSPORTS TV",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMg==",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even2"
+              }
+            },
+            {
+              "id": 1458,
+              "attributes": {
+                "embed_name": "Telemundo HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=telemundo"
+              }
+            },
+            {
+              "id": 1456,
+              "attributes": {
+                "embed_name": "TYC Sports HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10eWNzcG9ydHM=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=tycsports"
+              }
+            },
+            {
               "id": 644,
               "attributes": {
                 "embed_name": "DSports",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM=",
                 "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+              }
+            },
+            {
+              "id": 1465,
+              "attributes": {
+                "embed_name": "Sportv BR HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09c3BvcnR2",
+                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=sportv"
               }
             },
             {
@@ -373,14 +337,6 @@
                 "embed_name": "DSports | OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZHNwb3J0cw==",
                 "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=dsports"
-              }
-            },
-            {
-              "id": 1455,
-              "attributes": {
-                "embed_name": "DSports HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
-                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=dsports"
               }
             },
             {
@@ -408,11 +364,11 @@
               }
             },
             {
-              "id": 1456,
+              "id": 787,
               "attributes": {
-                "embed_name": "TYC Sports HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10eWNzcG9ydHM=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=tycsports"
+                "embed_name": "Telemundo",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXRlbGVtdW5kbw==",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
               }
             },
             {
@@ -424,27 +380,11 @@
               }
             },
             {
-              "id": 1465,
+              "id": 1438,
               "attributes": {
-                "embed_name": "Sportv BR HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09c3BvcnR2",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=sportv"
-              }
-            },
-            {
-              "id": 787,
-              "attributes": {
-                "embed_name": "Telemundo",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXRlbGVtdW5kbw==",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
-              }
-            },
-            {
-              "id": 1458,
-              "attributes": {
-                "embed_name": "Telemundo HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=telemundo"
+                "embed_name": "Deportes TV. C",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWdvbHR2",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=goltv"
               }
             }
           ]
@@ -486,81 +426,57 @@
       }
     },
     {
-      "id": 36956,
+      "id": 36961,
       "attributes": {
-        "diary_description": "F2 Silverstone – Clasificación",
-        "diary_hour": "08:40:00",
+        "diary_description": "Tenis – Wimbledon – Dia #5 – Tercera Ronda",
+        "diary_hour": "11:30:00",
         "date_diary": "2026-07-03",
-        "createdAt": "2026-07-03T00:53:46.761Z",
-        "updatedAt": "2026-07-03T00:53:46.761Z",
-        "publishedAt": "2026-07-03T01:06:34.833Z",
+        "createdAt": "2026-07-03T16:15:37.717Z",
+        "updatedAt": "2026-07-03T16:15:39.588Z",
+        "publishedAt": "2026-07-03T16:15:39.585Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 656,
+              "id": 640,
               "attributes": {
-                "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjM=",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1357,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4z",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1358,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjM=",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1462,
-              "attributes": {
-                "embed_name": "ESPN 3 HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjM=",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjE=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 81,
+            "id": 53,
             "attributes": {
-              "name": "Formula 2",
-              "createdAt": "2024-02-29T08:36:50.949Z",
-              "updatedAt": "2025-11-29T11:59:59.018Z",
-              "publishedAt": "2024-02-29T08:36:51.957Z",
+              "name": "Tennis",
+              "createdAt": "2024-01-25T06:16:42.975Z",
+              "updatedAt": "2025-08-03T14:36:42.387Z",
+              "publishedAt": "2024-01-25T06:16:44.102Z",
               "image": {
                 "data": {
-                  "id": 418,
+                  "id": 351,
                   "attributes": {
-                    "name": "F2.jpg",
+                    "name": "Tenis_a5d5fcd1d1.png",
                     "alternativeText": null,
                     "caption": null,
-                    "width": 65,
-                    "height": 65,
+                    "width": 64,
+                    "height": 64,
                     "formats": null,
-                    "hash": "F2_a3360f82a5",
-                    "ext": ".jpg",
-                    "mime": "image/jpeg",
-                    "size": 1.78,
-                    "url": "/uploads/F2_a3360f82a5.jpg",
+                    "hash": "Tenis_a5d5fcd1d1_594ebf0186",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.18,
+                    "url": "/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2025-11-29T11:59:51.055Z",
-                    "updatedAt": "2025-11-29T11:59:51.055Z"
+                    "createdAt": "2025-08-03T14:36:38.398Z",
+                    "updatedAt": "2025-08-03T14:36:38.398Z"
                   }
                 }
               }
@@ -849,66 +765,6 @@
                     "provider_metadata": null,
                     "createdAt": "2026-06-24T23:22:08.564Z",
                     "updatedAt": "2026-06-24T23:22:42.745Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36954,
-      "attributes": {
-        "diary_description": "Tenis – Wimbledon – Dia #5 – Tercera Ronda",
-        "diary_hour": "07:30:00",
-        "date_diary": "2026-07-03",
-        "createdAt": "2026-07-03T00:52:03.825Z",
-        "updatedAt": "2026-07-03T12:38:19.580Z",
-        "publishedAt": "2026-07-03T01:06:34.833Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjE=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 53,
-            "attributes": {
-              "name": "Tennis",
-              "createdAt": "2024-01-25T06:16:42.975Z",
-              "updatedAt": "2025-08-03T14:36:42.387Z",
-              "publishedAt": "2024-01-25T06:16:44.102Z",
-              "image": {
-                "data": {
-                  "id": 351,
-                  "attributes": {
-                    "name": "Tenis_a5d5fcd1d1.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "Tenis_a5d5fcd1d1_594ebf0186",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.18,
-                    "url": "/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:36:38.398Z",
-                    "updatedAt": "2025-08-03T14:36:38.398Z"
                   }
                 }
               }
