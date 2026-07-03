@@ -96,22 +96,6 @@
     "decoded_iframe_url": "https://tvhd1.com/canales/canal5.php"
   },
   {
-    "id": "36961",
-    "slug": "tenis---wimbledon---dia-#5---tercera-ronda-2026-07-03",
-    "team_a": "",
-    "team_b": "",
-    "league": "Tenis – Wimbledon – Dia #5 – Tercera Ronda",
-    "date": "2026-07-03",
-    "time": "11:30",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
-  },
-  {
     "id": "36958",
     "slug": "atlanta-braves-vs-new-york-mets-2026-07-03",
     "team_a": "Atlanta Braves",
