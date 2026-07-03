@@ -1,21 +1,5 @@
 [
   {
-    "id": "36955",
-    "slug": "f3-silverstone---clasificación-2026-07-03",
-    "team_a": "",
-    "team_b": "",
-    "league": "F3 Silverstone – Clasificación",
-    "date": "2026-07-03",
-    "time": "07:55",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
-  },
-  {
     "id": "36957",
     "slug": "golf---u.s.-senior-open-golf-championship---segunda-vuelta-2026-07-03",
     "team_a": "",
@@ -81,43 +65,55 @@
     "time": "13:00",
     "streams": [
       {
+        "name": "TV LA 1 España HD1",
+        "url": "https://tvhd1.com/canales/tvla1es.php"
+      },
+      {
         "name": "Dsports HD1",
         "url": "https://tvhd1.com/canales/dsportsar.php"
       },
       {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
+        "name": "DSports HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=dsports"
       },
       {
-        "name": "TYC Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tycsports"
+        "name": "DSPORTS TV",
+        "url": "https://tvhd2.com/online/canales.php?stream=even2"
       },
       {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+        "name": "Telemundo HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo"
       },
       {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
+        "name": "TYC Sports HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Sportv BR HD",
+        "url": "https://tvtvhd.com/online/canales.php?stream=sportv"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv"
       }
     ],
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+    "decoded_iframe_url": "https://tvhd1.com/canales/tvla1es.php"
   },
   {
-    "id": "36956",
-    "slug": "f2-silverstone---clasificación-2026-07-03",
+    "id": "36961",
+    "slug": "tenis---wimbledon---dia-#5---tercera-ronda-2026-07-03",
     "team_a": "",
     "team_b": "",
-    "league": "F2 Silverstone – Clasificación",
+    "league": "Tenis – Wimbledon – Dia #5 – Tercera Ronda",
     "date": "2026-07-03",
-    "time": "08:40",
+    "time": "11:30",
     "streams": [
       {
-        "name": "ESPN 3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/online/canal.php?stream=even1"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
   },
   {
     "id": "36958",
@@ -138,22 +134,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-  },
-  {
-    "id": "36954",
-    "slug": "tenis---wimbledon---dia-#5---tercera-ronda-2026-07-03",
-    "team_a": "",
-    "team_b": "",
-    "league": "Tenis – Wimbledon – Dia #5 – Tercera Ronda",
-    "date": "2026-07-03",
-    "time": "05:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
   },
   {
     "id": "36950",
