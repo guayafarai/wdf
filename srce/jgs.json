@@ -1,85 +1,5 @@
 [
   {
-    "id": "36949",
-    "slug": "australia-vs-egipto-2026-07-03",
-    "team_a": "Australia",
-    "team_b": "Egipto",
-    "league": "Copa del Mundo",
-    "date": "2026-07-03",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36951",
-    "slug": "colombia-vs-ghana-2026-07-03",
-    "team_a": "Colombia",
-    "team_b": "Ghana",
-    "league": "Copa del Mundo",
-    "date": "2026-07-03",
-    "time": "20:30",
-    "streams": [
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Caracol TV",
-        "url": "https://tvhd2.com/canales.php?stream=caracol"
-      },
-      {
-        "name": "Canal 5 MX",
-        "url": "https://tvhd2.com/online/canales.php?stream=canal5"
-      },
-      {
-        "name": "Canal 5 MX HD1",
-        "url": "https://tvhd1.com/canales/canal5.php"
-      },
-      {
-        "name": "America Television",
-        "url": "https://tvhd2.com/canales.php?stream=americatv"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36953",
-    "slug": "f2-silverstone---prácticas-2026-07-03",
-    "team_a": "",
-    "team_b": "",
-    "league": "F2 Silverstone – Prácticas",
-    "date": "2026-07-03",
-    "time": "03:45",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn2"
-  },
-  {
     "id": "36955",
     "slug": "f3-silverstone---clasificación-2026-07-03",
     "team_a": "",
@@ -112,29 +32,25 @@
     "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
   },
   {
-    "id": "36950",
-    "slug": "argentina-vs-islas-de-cabo-verde-2026-07-03",
-    "team_a": "Argentina",
-    "team_b": "Islas de Cabo Verde",
+    "id": "36951",
+    "slug": "colombia-vs-ghana-2026-07-03",
+    "team_a": "Colombia",
+    "team_b": "Ghana",
     "league": "Copa del Mundo",
     "date": "2026-07-03",
-    "time": "17:00",
+    "time": "20:30",
     "streams": [
+      {
+        "name": "Canal 5 MX HD1",
+        "url": "https://tvhd1.com/canales/canal5.php"
+      },
+      {
+        "name": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php"
+      },
       {
         "name": "DSports",
         "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Telefe",
-        "url": "https://tvhd2.com/canales.php?stream=telefe"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
       },
       {
         "name": "Caracol TV",
@@ -145,10 +61,6 @@
         "url": "https://tvhd2.com/online/canales.php?stream=canal5"
       },
       {
-        "name": "Canal 5 MX HD1",
-        "url": "https://tvhd1.com/canales/canal5.php"
-      },
-      {
         "name": "America Television",
         "url": "https://tvhd2.com/canales.php?stream=americatv"
       },
@@ -157,43 +69,39 @@
         "url": "https://tvhd2.com/canales.php?stream=telemundo"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvhd1.com/canales/canal5.php"
   },
   {
-    "id": "36952",
-    "slug": "f3-silverstone---prácticas-2026-07-03",
-    "team_a": "",
-    "team_b": "",
-    "league": "F3 Silverstone – Prácticas",
+    "id": "36949",
+    "slug": "australia-vs-egipto-2026-07-03",
+    "team_a": "Australia",
+    "team_b": "Egipto",
+    "league": "Copa del Mundo",
     "date": "2026-07-03",
-    "time": "02:45",
+    "time": "13:00",
     "streams": [
       {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn2"
-  },
-  {
-    "id": "36954",
-    "slug": "tenis---wimbledon---dia-#5---tercera-ronda-2026-07-03",
-    "team_a": "",
-    "team_b": "",
-    "league": "Tenis – Wimbledon – Dia #5 – Tercera Ronda",
-    "date": "2026-07-03",
-    "time": "05:00",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2"
+        "name": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php"
       },
       {
-        "name": "ESPN 4 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn4"
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "TYC Sports",
+        "url": "https://tvhd2.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   },
   {
     "id": "36956",
@@ -230,5 +138,73 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
+  },
+  {
+    "id": "36954",
+    "slug": "tenis---wimbledon---dia-#5---tercera-ronda-2026-07-03",
+    "team_a": "",
+    "team_b": "",
+    "league": "Tenis – Wimbledon – Dia #5 – Tercera Ronda",
+    "date": "2026-07-03",
+    "time": "05:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/online/canal.php?stream=even1"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
+  },
+  {
+    "id": "36950",
+    "slug": "argentina-vs-islas-de-cabo-verde-2026-07-03",
+    "team_a": "Argentina",
+    "team_b": "Islas de Cabo Verde",
+    "league": "Copa del Mundo",
+    "date": "2026-07-03",
+    "time": "17:00",
+    "streams": [
+      {
+        "name": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php"
+      },
+      {
+        "name": "Canal 5 MX HD1",
+        "url": "https://tvhd1.com/canales/canal5.php"
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "TYC Sports",
+        "url": "https://tvhd2.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Telefe",
+        "url": "https://tvhd2.com/canales.php?stream=telefe"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://tvhd2.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://tvhd2.com/online/canales.php?stream=canal5"
+      },
+      {
+        "name": "America Television",
+        "url": "https://tvhd2.com/canales.php?stream=americatv"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   }
 ]
