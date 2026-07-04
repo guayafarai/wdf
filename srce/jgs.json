@@ -1,21 +1,5 @@
 [
   {
-    "id": "36957",
-    "slug": "golf---u.s.-senior-open-golf-championship---segunda-vuelta-2026-07-03",
-    "team_a": "",
-    "team_b": "",
-    "league": "Golf – U.S. Senior Open Golf Championship – Segunda Vuelta",
-    "date": "2026-07-03",
-    "time": "16:30",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
-  },
-  {
     "id": "36951",
     "slug": "colombia-vs-ghana-2026-07-03",
     "team_a": "Colombia",
@@ -33,27 +17,55 @@
         "url": "https://tvhd1.com/canales/dsportsar.php"
       },
       {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
+        "name": "DSports | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=dsports"
       },
       {
-        "name": "Caracol TV",
-        "url": "https://tvhd2.com/canales.php?stream=caracol"
+        "name": "Caracol TV  | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=caracol"
+      },
+      {
+        "name": "Telemundo | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo"
+      },
+      {
+        "name": "TV LA 1 España HD1",
+        "url": "https://tvhd1.com/canales/tvla1es.php"
+      },
+      {
+        "name": "America TV | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=americatv"
       },
       {
         "name": "Canal 5 MX",
         "url": "https://tvhd2.com/online/canales.php?stream=canal5"
       },
       {
-        "name": "America Television",
-        "url": "https://tvhd2.com/canales.php?stream=americatv"
+        "name": "DSPORTS TV",
+        "url": "https://tvhd2.com/online/canales.php?stream=even2"
       },
       {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
+        "name": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv"
       }
     ],
     "decoded_iframe_url": "https://tvhd1.com/canales/canal5.php"
+  },
+  {
+    "id": "36957",
+    "slug": "golf---u.s.-senior-open-golf-championship---segunda-vuelta-2026-07-03",
+    "team_a": "",
+    "team_b": "",
+    "league": "Golf – U.S. Senior Open Golf Championship – Segunda Vuelta",
+    "date": "2026-07-03",
+    "time": "16:30",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
   },
   {
     "id": "36950",
@@ -107,6 +119,10 @@
       {
         "name": "Canal 5 MX",
         "url": "https://tvhd2.com/online/canales.php?stream=canal5"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv"
       }
     ],
     "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
