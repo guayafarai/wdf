@@ -16,26 +16,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36971",
-    "slug": "golf---u.s.-senior-open-golf-championship---tercera-vuelta-2026-07-04",
-    "team_a": "",
-    "team_b": "",
-    "league": "Golf – U.S. Senior Open Golf Championship – Tercera Vuelta",
-    "date": "2026-07-04",
-    "time": "11:00",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvhd2.com/online/canal.php?stream=even4"
-      },
-      {
-        "name": "ESPN 4 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
-  },
-  {
     "id": "36962",
     "slug": "canadá-vs-marruecos-2026-07-04",
     "team_a": "Canadá",
