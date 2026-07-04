@@ -36,22 +36,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36966",
-    "slug": "japón-vs-italia-2026-07-04",
-    "team_a": "Japón",
-    "team_b": "Italia",
-    "league": "Rugby – Nations Championship",
-    "date": "2026-07-04",
-    "time": "03:30",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
-  },
-  {
     "id": "36968",
     "slug": "tenis---wimbledon---dia-#6---tercera-ronda-2026-07-04",
     "team_a": "",
@@ -138,26 +122,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36967",
-    "slug": "f3-silverstone---carrera-sprint-2026-07-04",
-    "team_a": "",
-    "team_b": "",
-    "league": "F3 Silverstone – Carrera Sprint",
-    "date": "2026-07-04",
-    "time": "03:30",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even1"
-      },
-      {
-        "name": "ESPN 2 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
   },
   {
     "id": "36970",
