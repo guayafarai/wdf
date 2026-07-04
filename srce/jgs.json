@@ -36,22 +36,6 @@
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
   },
   {
-    "id": "36974",
-    "slug": "giron-vs-zverev-2026-07-04",
-    "team_a": "GIRON",
-    "team_b": "ZVEREV",
-    "league": "",
-    "date": "2026-07-04",
-    "time": "09:45",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvhd2.com/online/canal.php?stream=even4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
-  },
-  {
     "id": "36962",
     "slug": "canadá-vs-marruecos-2026-07-04",
     "team_a": "Canadá",
@@ -110,22 +94,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36970",
-    "slug": "ciclismo---tour-de-france---etapa-#1-2026-07-04",
-    "team_a": "",
-    "team_b": "",
-    "league": "Ciclismo – Tour de France – Etapa #1",
-    "date": "2026-07-04",
-    "time": "09:30",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
   },
   {
     "id": "36972",
