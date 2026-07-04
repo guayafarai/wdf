@@ -16,22 +16,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36969",
-    "slug": "f2-silverstone---carrera-sprint-2026-07-04",
-    "team_a": "",
-    "team_b": "",
-    "league": "F2 Silverstone – Carrera Sprint",
-    "date": "2026-07-04",
-    "time": "07:35",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
-  },
-  {
     "id": "36971",
     "slug": "golf---u.s.-senior-open-golf-championship---tercera-vuelta-2026-07-04",
     "team_a": "",
@@ -85,39 +69,31 @@
         "url": "https://tvhd2.com/online/canales.php?stream=even1"
       },
       {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
+        "name": "DSports | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=dsports"
+      },
+      {
+        "name": "America TV | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=americatv"
+      },
+      {
+        "name": "Win Sports HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=winsports"
+      },
+      {
+        "name": "Telemundo | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo"
       },
       {
         "name": "TV LA 1 España HD1",
         "url": "https://tvhd1.com/canales/tvla1es.php"
       },
       {
-        "name": "Telemundo | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telemundo"
+        "name": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv"
       }
     ],
     "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
-  },
-  {
-    "id": "36963",
-    "slug": "paraguay-vs-francia-2026-07-04",
-    "team_a": "Paraguay",
-    "team_b": "Francia",
-    "league": "Copa del Mundo",
-    "date": "2026-07-04",
-    "time": "16:00",
-    "streams": [
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
     "id": "36965",
@@ -182,5 +158,61 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
+  },
+  {
+    "id": "36963",
+    "slug": "paraguay-vs-francia-2026-07-04",
+    "team_a": "Paraguay",
+    "team_b": "Francia",
+    "league": "Copa del Mundo",
+    "date": "2026-07-04",
+    "time": "16:00",
+    "streams": [
+      {
+        "name": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php"
+      },
+      {
+        "name": "Canal 5 MX HD1",
+        "url": "https://tvhd1.com/canales/canal5.php"
+      },
+      {
+        "name": "DSPORTS TV HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1"
+      },
+      {
+        "name": "DSports | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=dsports"
+      },
+      {
+        "name": "Telemundo | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo"
+      },
+      {
+        "name": "TYC Sports | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Telefe | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telefe"
+      },
+      {
+        "name": "Caracol TV  | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=caracol"
+      },
+      {
+        "name": "TV LA 1 España HD1",
+        "url": "https://tvhd1.com/canales/tvla1es.php"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://tvhd2.com/online/canales.php?stream=canal5"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   }
 ]
