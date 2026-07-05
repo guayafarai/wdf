@@ -100,38 +100,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36984",
-    "slug": "f1-academy-silverstone---carrera-#2-2026-07-05",
-    "team_a": "",
-    "team_b": "",
-    "league": "F1 Academy Silverstone – Carrera #2",
-    "date": "2026-07-05",
-    "time": "03:55",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-  },
-  {
-    "id": "36986",
-    "slug": "f2-silverstone---carrera-2026-07-05",
-    "team_a": "",
-    "team_b": "",
-    "league": "F2 Silverstone – Carrera",
-    "date": "2026-07-05",
-    "time": "05:05",
-    "streams": [
-      {
-        "name": "ESPN 5",
-        "url": "https://tvhd2.com/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
-  },
-  {
     "id": "36988",
     "slug": "tenis---wimbledon---dia-#7---octavos-de-final-2026-07-05",
     "team_a": "",
@@ -250,38 +218,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36983",
-    "slug": "f3-silverstone---carrera-2026-07-05",
-    "team_a": "",
-    "team_b": "",
-    "league": "F3 Silverstone – Carrera",
-    "date": "2026-07-05",
-    "time": "02:20",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-  },
-  {
-    "id": "36985",
-    "slug": "tenis---wimbledon---dia-#7---octavos-de-final-2026-07-05",
-    "team_a": "",
-    "team_b": "",
-    "league": "Tenis – Wimbledon – Dia #7 – Octavos de Final",
-    "date": "2026-07-05",
-    "time": "05:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
   },
   {
     "id": "36987",
