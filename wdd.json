@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-05T19:07:12.742176Z",
+    "last_updated": "2026-07-05T20:51:41.923368Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 13
+    "total_events": 10
   },
   "data": [
     {
@@ -12,7 +12,7 @@
         "diary_hour": "15:00:00",
         "date_diary": "2026-07-05",
         "createdAt": "2026-07-05T00:10:13.176Z",
-        "updatedAt": "2026-07-05T17:31:54.942Z",
+        "updatedAt": "2026-07-05T20:19:06.019Z",
         "publishedAt": "2026-07-05T03:18:35.029Z",
         "channels": {
           "data": []
@@ -28,6 +28,14 @@
               }
             },
             {
+              "id": 1252,
+              "attributes": {
+                "embed_name": "Dsports LATAM HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzbGF0YW0ucGhw",
+                "decoded_iframe_url": "https://tvhd1.com/canales/dsportslatam.php"
+              }
+            },
+            {
               "id": 1430,
               "attributes": {
                 "embed_name": "TV LA 1 España HD1",
@@ -36,11 +44,19 @@
               }
             },
             {
-              "id": 644,
+              "id": 638,
               "attributes": {
-                "embed_name": "DSports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM=",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+                "embed_name": "Sportv Brasil HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9zcG9ydHYxLnBocA==",
+                "decoded_iframe_url": "https://tvhd1.com/canales/sportv1.php"
+              }
+            },
+            {
+              "id": 1425,
+              "attributes": {
+                "embed_name": "FOX ONE HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9mb3hvbmUucGhw",
+                "decoded_iframe_url": "https://tvhd1.com/canales/foxone.php"
               }
             },
             {
@@ -49,6 +65,14 @@
                 "embed_name": "TYC Sports TV HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMQ==",
                 "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
+              }
+            },
+            {
+              "id": 644,
+              "attributes": {
+                "embed_name": "DSports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM=",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
               }
             },
             {
@@ -202,166 +226,6 @@
       }
     },
     {
-      "id": 36977,
-      "attributes": {
-        "diary_description": "Torneo de Reserva: Boca Juniors vs River Plate",
-        "diary_hour": "12:00:00",
-        "date_diary": "2026-07-05",
-        "createdAt": "2026-07-05T00:13:49.321Z",
-        "updatedAt": "2026-07-05T00:13:49.321Z",
-        "publishedAt": "2026-07-05T03:18:35.029Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjI=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjI=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjI=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-              }
-            },
-            {
-              "id": 1461,
-              "attributes": {
-                "embed_name": "ESPN 2 HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjI=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 72,
-            "attributes": {
-              "name": "Argentina",
-              "createdAt": "2024-02-25T19:00:29.066Z",
-              "updatedAt": "2025-08-03T16:02:49.460Z",
-              "publishedAt": "2024-02-25T19:00:31.510Z",
-              "image": {
-                "data": {
-                  "id": 362,
-                  "attributes": {
-                    "name": "argentina_2bd748026e.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "argentina_2bd748026e_628913fc18",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.86,
-                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:02:45.389Z",
-                    "updatedAt": "2025-08-03T16:02:45.389Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36979,
-      "attributes": {
-        "diary_description": "Copa Chile: \nSantiago Wanderers vs Universidad Chile",
-        "diary_hour": "11:30:00",
-        "date_diary": "2026-07-05",
-        "createdAt": "2026-07-05T00:15:53.568Z",
-        "updatedAt": "2026-07-05T00:15:53.568Z",
-        "publishedAt": "2026-07-05T03:18:35.029Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 624,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-              }
-            },
-            {
-              "id": 318,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile"
-              }
-            },
-            {
-              "id": 1464,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
-                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=tntsportschile"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 12,
-            "attributes": {
-              "name": "Chile",
-              "createdAt": "2023-11-22T15:42:40.655Z",
-              "updatedAt": "2025-08-03T16:01:24.110Z",
-              "publishedAt": "2023-11-22T15:42:42.314Z",
-              "image": {
-                "data": {
-                  "id": 361,
-                  "attributes": {
-                    "name": "chile_86c07a7b38.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "chile_86c07a7b38_fad5126fd0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.7,
-                    "url": "/uploads/chile_86c07a7b38_fad5126fd0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:01:20.348Z",
-                    "updatedAt": "2025-08-03T16:01:20.348Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 36981,
       "attributes": {
         "diary_description": "Copa Chile: Unión Española vs O'Higgins",
@@ -429,90 +293,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T16:01:20.348Z",
                     "updatedAt": "2025-08-03T16:01:20.348Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36990,
-      "attributes": {
-        "diary_description": "Golf – U.S. Senior Open Golf Championship – Última Vuelta",
-        "diary_hour": "12:00:00",
-        "date_diary": "2026-07-05",
-        "createdAt": "2026-07-05T00:26:45.977Z",
-        "updatedAt": "2026-07-05T00:26:45.977Z",
-        "publishedAt": "2026-07-05T03:18:45.157Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 656,
-              "attributes": {
-                "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
-              }
-            },
-            {
-              "id": 1357,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
-              }
-            },
-            {
-              "id": 1358,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
-              }
-            },
-            {
-              "id": 1462,
-              "attributes": {
-                "embed_name": "ESPN 3 HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 22,
-            "attributes": {
-              "name": "Golf",
-              "createdAt": "2023-11-23T13:25:40.717Z",
-              "updatedAt": "2025-09-04T14:08:20.151Z",
-              "publishedAt": "2023-11-23T13:25:42.231Z",
-              "image": {
-                "data": {
-                  "id": 393,
-                  "attributes": {
-                    "name": "golf_4a8d942645.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "golf_4a8d942645_6c3bec75aa",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.51,
-                    "url": "/uploads/golf_4a8d942645_6c3bec75aa.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T14:08:15.762Z",
-                    "updatedAt": "2025-09-04T14:08:15.762Z"
                   }
                 }
               }
