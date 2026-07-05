@@ -1,5 +1,53 @@
 [
   {
+    "id": "36975",
+    "slug": "brasil-vs-noruega-2026-07-05",
+    "team_a": "Brasil",
+    "team_b": "Noruega",
+    "league": "Copa del Mundo",
+    "date": "2026-07-05",
+    "time": "15:00",
+    "streams": [
+      {
+        "name": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php"
+      },
+      {
+        "name": "TV LA 1 España HD1",
+        "url": "https://tvhd1.com/canales/tvla1es.php"
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "TYC Sports TV HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1"
+      },
+      {
+        "name": "TYC Sports | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Caracol TV  | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=caracol"
+      },
+      {
+        "name": "America TV | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=americatv"
+      },
+      {
+        "name": "Telemundo | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+  },
+  {
     "id": "36977",
     "slug": "boca-juniors-vs-river-plate-2026-07-05",
     "team_a": "Boca Juniors",
@@ -94,50 +142,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36975",
-    "slug": "brasil-vs-noruega-2026-07-05",
-    "team_a": "Brasil",
-    "team_b": "Noruega",
-    "league": "Copa del Mundo",
-    "date": "2026-07-05",
-    "time": "15:00",
-    "streams": [
-      {
-        "name": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php"
-      },
-      {
-        "name": "TV LA 1 España HD1",
-        "url": "https://tvhd1.com/canales/tvla1es.php"
-      },
-      {
-        "name": "TYC Sports | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=tycsports"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Caracol TV",
-        "url": "https://tvhd2.com/canales.php?stream=caracol"
-      },
-      {
-        "name": "America Television",
-        "url": "https://tvhd2.com/canales.php?stream=americatv"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvhd2.com/canales.php?stream=goltv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   },
   {
     "id": "36978",
