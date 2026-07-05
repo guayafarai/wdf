@@ -1,22 +1,366 @@
 [
   {
-    "id": "36965",
-    "slug": "universidad-católica-vs-copiapó-2026-07-04",
-    "team_a": "Universidad Católica",
-    "team_b": "Copiapó",
-    "league": "Copa Chile",
-    "date": "2026-07-04",
-    "time": "19:30",
+    "id": "36975",
+    "slug": "brasil-vs-noruega-2026-07-05",
+    "team_a": "Brasil",
+    "team_b": "Noruega",
+    "league": "Copa del Mundo",
+    "date": "2026-07-05",
+    "time": "15:00",
     "streams": [
       {
-        "name": "TNT Sports Chile HD",
-        "url": "https://tvhd2.com/online/canal.php?stream=even4"
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
       },
+      {
+        "name": "TYC Sports",
+        "url": "https://tvhd2.com/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://tvhd2.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "America Television",
+        "url": "https://tvhd2.com/canales.php?stream=americatv"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "36977",
+    "slug": "boca-juniors-vs-river-plate-2026-07-05",
+    "team_a": "Boca Juniors",
+    "team_b": "River Plate",
+    "league": "Torneo de Reserva",
+    "date": "2026-07-05",
+    "time": "12:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/online/canal.php?stream=even2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
+  },
+  {
+    "id": "36979",
+    "slug": "santiago-wanderers-vs-universidad-chile-2026-07-05",
+    "team_a": "Santiago Wanderers",
+    "team_b": "Universidad Chile",
+    "league": "Copa Chile",
+    "date": "2026-07-05",
+    "time": "11:30",
+    "streams": [
       {
         "name": "TNT Sports Premiun CL",
         "url": "https://tvhd2.com/canales.php?stream=tntsportschile"
       }
     ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36981",
+    "slug": "unión-española-vs-o'higgins-2026-07-05",
+    "team_a": "Unión Española",
+    "team_b": "O'Higgins",
+    "league": "Copa Chile",
+    "date": "2026-07-05",
+    "time": "16:30",
+    "streams": [
+      {
+        "name": "TNT Sports Premiun CL",
+        "url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36982",
+    "slug": "deportes-limache-vs-san-marcos-2026-07-05",
+    "team_a": "Deportes Limache",
+    "team_b": "San Marcos",
+    "league": "Copa Chile",
+    "date": "2026-07-05",
+    "time": "19:00",
+    "streams": [
+      {
+        "name": "TNT Sports Premiun CL",
+        "url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36984",
+    "slug": "f1-academy-silverstone---carrera-#2-2026-07-05",
+    "team_a": "",
+    "team_b": "",
+    "league": "F1 Academy Silverstone – Carrera #2",
+    "date": "2026-07-05",
+    "time": "03:55",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/online/canal.php?stream=even2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
+  },
+  {
+    "id": "36986",
+    "slug": "f2-silverstone---carrera-2026-07-05",
+    "team_a": "",
+    "team_b": "",
+    "league": "F2 Silverstone – Carrera",
+    "date": "2026-07-05",
+    "time": "05:05",
+    "streams": [
+      {
+        "name": "ESPN 5",
+        "url": "https://tvhd2.com/canales.php?stream=espn5"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36988",
+    "slug": "tenis---wimbledon---dia-#7---octavos-de-final-2026-07-05",
+    "team_a": "",
+    "team_b": "",
+    "league": "Tenis – Wimbledon – Dia #7 – Octavos de Final",
+    "date": "2026-07-05",
+    "time": "07:00",
+    "streams": [
+      {
+        "name": "ESPN 4",
+        "url": "https://tvhd2.com/online/canal.php?stream=even4"
+      },
+      {
+        "name": "ESPN 4 | OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=espn4"
+      }
+    ],
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
+  },
+  {
+    "id": "36990",
+    "slug": "golf---u.s.-senior-open-golf-championship---última-vuelta-2026-07-05",
+    "team_a": "",
+    "team_b": "",
+    "league": "Golf – U.S. Senior Open Golf Championship – Última Vuelta",
+    "date": "2026-07-05",
+    "time": "12:00",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvhd2.com/online/canal.php?stream=even3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+  },
+  {
+    "id": "36993",
+    "slug": "macará-vs-ldu-quito-2026-07-05",
+    "team_a": "Macará",
+    "team_b": "LDU Quito",
+    "league": "Serie A",
+    "date": "2026-07-05",
+    "time": "13:00",
+    "streams": [
+      {
+        "name": "ECDF LigaPro",
+        "url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
+  },
+  {
+    "id": "36976",
+    "slug": "méxico-vs-inglaterra-2026-07-05",
+    "team_a": "México",
+    "team_b": "Inglaterra",
+    "league": "Copa del Mundo",
+    "date": "2026-07-05",
+    "time": "19:00",
+    "streams": [
+      {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Telefe",
+        "url": "https://tvhd2.com/canales.php?stream=telefe"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://tvhd2.com/online/canales.php?stream=canal5"
+      },
+      {
+        "name": "Canal 5 MX HD1",
+        "url": "https://tvhd1.com/canales/canal5.php"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Universo",
+        "url": "https://tvhd2.com/canales.php?stream=universo"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "36978",
+    "slug": "náutico-vs-juventude-2026-07-05",
+    "team_a": "Náutico",
+    "team_b": "Juventude",
+    "league": "Serie B",
+    "date": "2026-07-05",
+    "time": "18:30",
+    "streams": [
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+  },
+  {
+    "id": "36980",
+    "slug": "ñublense-vs-curicó-unido-2026-07-05",
+    "team_a": "Ñublense",
+    "team_b": "Curicó Unido",
+    "league": "Copa Chile",
+    "date": "2026-07-05",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "TNT Sports Premiun CL",
+        "url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36983",
+    "slug": "f3-silverstone---carrera-2026-07-05",
+    "team_a": "",
+    "team_b": "",
+    "league": "F3 Silverstone – Carrera",
+    "date": "2026-07-05",
+    "time": "02:20",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/online/canal.php?stream=even2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
+  },
+  {
+    "id": "36985",
+    "slug": "tenis---wimbledon---dia-#7---octavos-de-final-2026-07-05",
+    "team_a": "",
+    "team_b": "",
+    "league": "Tenis – Wimbledon – Dia #7 – Octavos de Final",
+    "date": "2026-07-05",
+    "time": "05:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/online/canal.php?stream=even2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
+  },
+  {
+    "id": "36987",
+    "slug": "ciclismo---tour-de-france---etapa-#2-2026-07-05",
+    "team_a": "",
+    "team_b": "",
+    "league": "Ciclismo – Tour de France – Etapa #2",
+    "date": "2026-07-05",
+    "time": "06:30",
+    "streams": [
+      {
+        "name": "ESPN 5",
+        "url": "https://tvhd2.com/canales.php?stream=espn5"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36989",
+    "slug": "f1-gp-gran-bretaña---la-previa-2026-07-05",
+    "team_a": "",
+    "team_b": "",
+    "league": "F1 GP Gran Bretaña – La Previa",
+    "date": "2026-07-05",
+    "time": "07:30",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvhd2.com/online/canal.php?stream=even3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+  },
+  {
+    "id": "36991",
+    "slug": "los-angeles-dodgers-vs-san-diego-padres-2026-07-05",
+    "team_a": "Los Angeles Dodgers",
+    "team_b": "San Diego Padres",
+    "league": "MLB",
+    "date": "2026-07-05",
+    "time": "18:00",
+    "streams": [
+      {
+        "name": "ESPN 5",
+        "url": "https://tvhd2.com/canales.php?stream=espn5"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36992",
+    "slug": "las-vegas-vs-indiana-2026-07-05",
+    "team_a": "Las Vegas",
+    "team_b": "Indiana",
+    "league": "WNBA",
+    "date": "2026-07-05",
+    "time": "18:00",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvhd2.com/online/canal.php?stream=even3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+  },
+  {
+    "id": "36994",
+    "slug": "delfin-vs-emelec-2026-07-05",
+    "team_a": "Delfin",
+    "team_b": "Emelec",
+    "league": "Serie A",
+    "date": "2026-07-05",
+    "time": "17:00",
+    "streams": [
+      {
+        "name": "ECDF LigaPro",
+        "url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
   }
 ]
