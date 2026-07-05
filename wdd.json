@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-05T20:51:41.923368Z",
+    "last_updated": "2026-07-05T21:55:59.448948Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 10
+    "total_events": 9
   },
   "data": [
     {
@@ -293,66 +293,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T16:01:20.348Z",
                     "updatedAt": "2025-08-03T16:01:20.348Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36993,
-      "attributes": {
-        "diary_description": "Serie A: \nMacará vs LDU Quito",
-        "diary_hour": "13:00:00",
-        "date_diary": "2026-07-05",
-        "createdAt": "2026-07-05T02:12:13.753Z",
-        "updatedAt": "2026-07-05T02:12:13.753Z",
-        "publishedAt": "2026-07-05T03:18:45.157Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 914,
-              "attributes": {
-                "embed_name": "ECDF LigaPro",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 13,
-            "attributes": {
-              "name": "Ecuador",
-              "createdAt": "2023-11-22T15:42:56.252Z",
-              "updatedAt": "2025-08-03T14:39:57.465Z",
-              "publishedAt": "2023-11-22T15:42:57.903Z",
-              "image": {
-                "data": {
-                  "id": 353,
-                  "attributes": {
-                    "name": "ecuador_6b5e87e044.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "ecuador_6b5e87e044_2fd81bc301",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.82,
-                    "url": "/uploads/ecuador_6b5e87e044_2fd81bc301.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:39:52.709Z",
-                    "updatedAt": "2025-08-03T14:39:52.709Z"
                   }
                 }
               }
