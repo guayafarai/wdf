@@ -1,41 +1,5 @@
 [
   {
-    "id": "36975",
-    "slug": "brasil-vs-noruega-2026-07-05",
-    "team_a": "Brasil",
-    "team_b": "Noruega",
-    "league": "Copa del Mundo",
-    "date": "2026-07-05",
-    "time": "15:00",
-    "streams": [
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Caracol TV",
-        "url": "https://tvhd2.com/canales.php?stream=caracol"
-      },
-      {
-        "name": "America Television",
-        "url": "https://tvhd2.com/canales.php?stream=americatv"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
     "id": "36977",
     "slug": "boca-juniors-vs-river-plate-2026-07-05",
     "team_a": "Boca Juniors",
@@ -152,40 +116,56 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "36976",
-    "slug": "méxico-vs-inglaterra-2026-07-05",
-    "team_a": "México",
-    "team_b": "Inglaterra",
+    "id": "36975",
+    "slug": "brasil-vs-noruega-2026-07-05",
+    "team_a": "Brasil",
+    "team_b": "Noruega",
     "league": "Copa del Mundo",
     "date": "2026-07-05",
-    "time": "19:00",
+    "time": "15:00",
     "streams": [
+      {
+        "name": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php"
+      },
       {
         "name": "DSports",
         "url": "https://tvhd2.com/canales.php?stream=dsports"
       },
       {
-        "name": "Telefe",
-        "url": "https://tvhd2.com/canales.php?stream=telefe"
+        "name": "TYC Sports",
+        "url": "https://tvhd2.com/canales.php?stream=tycsports"
       },
       {
-        "name": "Canal 5 MX",
-        "url": "https://tvhd2.com/online/canales.php?stream=canal5"
+        "name": "Caracol TV",
+        "url": "https://tvhd2.com/canales.php?stream=caracol"
       },
       {
-        "name": "Canal 5 MX HD1",
-        "url": "https://tvhd1.com/canales/canal5.php"
+        "name": "America Television",
+        "url": "https://tvhd2.com/canales.php?stream=americatv"
       },
       {
         "name": "Telemundo",
         "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "Universo",
-        "url": "https://tvhd2.com/canales.php?stream=universo"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+  },
+  {
+    "id": "36995",
+    "slug": "tennis-2026-07-05",
+    "team_a": "",
+    "team_b": "",
+    "league": "tennis",
+    "date": "2026-07-05",
+    "time": "08:30",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://tvhd2.com/online/canal.php?stream=even2"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
   },
   {
     "id": "36978",
@@ -218,22 +198,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36987",
-    "slug": "ciclismo---tour-de-france---etapa-#2-2026-07-05",
-    "team_a": "",
-    "team_b": "",
-    "league": "Ciclismo – Tour de France – Etapa #2",
-    "date": "2026-07-05",
-    "time": "06:30",
-    "streams": [
-      {
-        "name": "ESPN 5",
-        "url": "https://tvhd2.com/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
   },
   {
     "id": "36989",
@@ -298,5 +262,45 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
+  },
+  {
+    "id": "36976",
+    "slug": "méxico-vs-inglaterra-2026-07-05",
+    "team_a": "México",
+    "team_b": "Inglaterra",
+    "league": "Copa del Mundo",
+    "date": "2026-07-05",
+    "time": "19:00",
+    "streams": [
+      {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php"
+      },
+      {
+        "name": "Canal 5 MX HD1",
+        "url": "https://tvhd1.com/canales/canal5.php"
+      },
+      {
+        "name": "Telefe",
+        "url": "https://tvhd2.com/canales.php?stream=telefe"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://tvhd2.com/online/canales.php?stream=canal5"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Universo",
+        "url": "https://tvhd2.com/canales.php?stream=universo"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   }
 ]
