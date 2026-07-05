@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-05T15:08:58.849986Z",
+    "last_updated": "2026-07-05T17:01:55.848834Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 16
+    "total_events": 13
   },
   "data": [
     {
@@ -242,158 +242,6 @@
       }
     },
     {
-      "id": 36982,
-      "attributes": {
-        "diary_description": "Copa Chile: \nDeportes Limache vs San Marcos",
-        "diary_hour": "19:00:00",
-        "date_diary": "2026-07-05",
-        "createdAt": "2026-07-05T00:18:08.743Z",
-        "updatedAt": "2026-07-05T00:18:08.743Z",
-        "publishedAt": "2026-07-05T03:18:35.029Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 624,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-              }
-            },
-            {
-              "id": 318,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile"
-              }
-            },
-            {
-              "id": 1464,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
-                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=tntsportschile"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 12,
-            "attributes": {
-              "name": "Chile",
-              "createdAt": "2023-11-22T15:42:40.655Z",
-              "updatedAt": "2025-08-03T16:01:24.110Z",
-              "publishedAt": "2023-11-22T15:42:42.314Z",
-              "image": {
-                "data": {
-                  "id": 361,
-                  "attributes": {
-                    "name": "chile_86c07a7b38.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "chile_86c07a7b38_fad5126fd0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.7,
-                    "url": "/uploads/chile_86c07a7b38_fad5126fd0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:01:20.348Z",
-                    "updatedAt": "2025-08-03T16:01:20.348Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36988,
-      "attributes": {
-        "diary_description": "Tenis – Wimbledon – Dia #7 – Octavos de Final",
-        "diary_hour": "07:00:00",
-        "date_diary": "2026-07-05",
-        "createdAt": "2026-07-05T00:25:25.768Z",
-        "updatedAt": "2026-07-05T00:25:25.768Z",
-        "publishedAt": "2026-07-05T03:18:45.157Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 520,
-              "attributes": {
-                "embed_name": "ESPN 4",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjQ=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
-              }
-            },
-            {
-              "id": 1398,
-              "attributes": {
-                "embed_name": "ESPN 4 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn4"
-              }
-            },
-            {
-              "id": 1399,
-              "attributes": {
-                "embed_name": "ESPN 4 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjQ=",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn4"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 53,
-            "attributes": {
-              "name": "Tennis",
-              "createdAt": "2024-01-25T06:16:42.975Z",
-              "updatedAt": "2025-08-03T14:36:42.387Z",
-              "publishedAt": "2024-01-25T06:16:44.102Z",
-              "image": {
-                "data": {
-                  "id": 351,
-                  "attributes": {
-                    "name": "Tenis_a5d5fcd1d1.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "Tenis_a5d5fcd1d1_594ebf0186",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.18,
-                    "url": "/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:36:38.398Z",
-                    "updatedAt": "2025-08-03T14:36:38.398Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 36990,
       "attributes": {
         "diary_description": "Golf – U.S. Senior Open Golf Championship – Última Vuelta",
@@ -538,13 +386,73 @@
       }
     },
     {
+      "id": 36982,
+      "attributes": {
+        "diary_description": "Copa Chile: \nDeportes Limache vs San Marcos",
+        "diary_hour": "19:00:00",
+        "date_diary": "2026-07-05",
+        "createdAt": "2026-07-05T00:18:08.743Z",
+        "updatedAt": "2026-07-05T16:57:49.559Z",
+        "publishedAt": "2026-07-05T03:18:35.029Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1464,
+              "attributes": {
+                "embed_name": "TNT Sports Premiun CL HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=tntsportschile"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 12,
+            "attributes": {
+              "name": "Chile",
+              "createdAt": "2023-11-22T15:42:40.655Z",
+              "updatedAt": "2025-08-03T16:01:24.110Z",
+              "publishedAt": "2023-11-22T15:42:42.314Z",
+              "image": {
+                "data": {
+                  "id": 361,
+                  "attributes": {
+                    "name": "chile_86c07a7b38.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "chile_86c07a7b38_fad5126fd0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.7,
+                    "url": "/uploads/chile_86c07a7b38_fad5126fd0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:01:20.348Z",
+                    "updatedAt": "2025-08-03T16:01:20.348Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 36975,
       "attributes": {
         "diary_description": "Copa del Mundo: \nBrasil vs Noruega",
         "diary_hour": "15:00:00",
         "date_diary": "2026-07-05",
         "createdAt": "2026-07-05T00:10:13.176Z",
-        "updatedAt": "2026-07-05T13:46:47.830Z",
+        "updatedAt": "2026-07-05T17:01:09.840Z",
         "publishedAt": "2026-07-05T03:18:35.029Z",
         "channels": {
           "data": []
@@ -557,6 +465,22 @@
                 "embed_name": "Dsports HD1",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzYXIucGhw",
                 "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+              }
+            },
+            {
+              "id": 1430,
+              "attributes": {
+                "embed_name": "TV LA 1 España HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy90dmxhMWVzLnBocA==",
+                "decoded_iframe_url": "https://tvhd1.com/canales/tvla1es.php"
+              }
+            },
+            {
+              "id": 1456,
+              "attributes": {
+                "embed_name": "TYC Sports | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10eWNzcG9ydHM=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=tycsports"
               }
             },
             {
@@ -616,14 +540,6 @@
               }
             },
             {
-              "id": 1456,
-              "attributes": {
-                "embed_name": "TYC Sports | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10eWNzcG9ydHM=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=tycsports"
-              }
-            },
-            {
               "id": 736,
               "attributes": {
                 "embed_name": "Caracol TV",
@@ -670,6 +586,14 @@
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8=",
                 "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=telemundo"
               }
+            },
+            {
+              "id": 1438,
+              "attributes": {
+                "embed_name": "Deportes TV. C",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWdvbHR2",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=goltv"
+              }
             }
           ]
         },
@@ -701,66 +625,6 @@
                     "provider_metadata": null,
                     "createdAt": "2026-06-24T23:22:08.564Z",
                     "updatedAt": "2026-06-24T23:22:42.745Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36995,
-      "attributes": {
-        "diary_description": "tennis",
-        "diary_hour": "08:30:00",
-        "date_diary": "2026-07-05",
-        "createdAt": "2026-07-05T13:49:00.048Z",
-        "updatedAt": "2026-07-05T13:49:01.691Z",
-        "publishedAt": "2026-07-05T13:49:01.688Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjI=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 53,
-            "attributes": {
-              "name": "Tennis",
-              "createdAt": "2024-01-25T06:16:42.975Z",
-              "updatedAt": "2025-08-03T14:36:42.387Z",
-              "publishedAt": "2024-01-25T06:16:44.102Z",
-              "image": {
-                "data": {
-                  "id": 351,
-                  "attributes": {
-                    "name": "Tenis_a5d5fcd1d1.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "Tenis_a5d5fcd1d1_594ebf0186",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.18,
-                    "url": "/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:36:38.398Z",
-                    "updatedAt": "2025-08-03T14:36:38.398Z"
                   }
                 }
               }
@@ -829,178 +693,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T15:06:21.382Z",
                     "updatedAt": "2025-08-03T15:06:21.382Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36980,
-      "attributes": {
-        "diary_description": "Copa Chile: \nÑublense vs Curicó Unido",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-07-05",
-        "createdAt": "2026-07-05T00:16:35.241Z",
-        "updatedAt": "2026-07-05T00:16:35.241Z",
-        "publishedAt": "2026-07-05T03:18:35.029Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 624,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-              }
-            },
-            {
-              "id": 318,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile"
-              }
-            },
-            {
-              "id": 1464,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
-                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=tntsportschile"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 12,
-            "attributes": {
-              "name": "Chile",
-              "createdAt": "2023-11-22T15:42:40.655Z",
-              "updatedAt": "2025-08-03T16:01:24.110Z",
-              "publishedAt": "2023-11-22T15:42:42.314Z",
-              "image": {
-                "data": {
-                  "id": 361,
-                  "attributes": {
-                    "name": "chile_86c07a7b38.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "chile_86c07a7b38_fad5126fd0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.7,
-                    "url": "/uploads/chile_86c07a7b38_fad5126fd0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:01:20.348Z",
-                    "updatedAt": "2025-08-03T16:01:20.348Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 36989,
-      "attributes": {
-        "diary_description": "F1 GP Gran Bretaña – La Previa",
-        "diary_hour": "07:30:00",
-        "date_diary": "2026-07-05",
-        "createdAt": "2026-07-05T00:26:01.552Z",
-        "updatedAt": "2026-07-05T00:26:01.552Z",
-        "publishedAt": "2026-07-05T03:18:45.157Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 656,
-              "attributes": {
-                "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
-              }
-            },
-            {
-              "id": 1357,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
-              }
-            },
-            {
-              "id": 1358,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
-              }
-            },
-            {
-              "id": 1462,
-              "attributes": {
-                "embed_name": "ESPN 3 HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 79,
-            "attributes": {
-              "name": "Formula 1",
-              "createdAt": "2024-02-29T07:22:54.123Z",
-              "updatedAt": "2025-08-03T13:13:28.428Z",
-              "publishedAt": "2024-02-29T07:22:55.381Z",
-              "image": {
-                "data": {
-                  "id": 349,
-                  "attributes": {
-                    "name": "moto_g_145967b8f1.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 180,
-                    "height": 180,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_moto_g_145967b8f1_c975c7c8e9.png",
-                        "hash": "thumbnail_moto_g_145967b8f1_c975c7c8e9",
-                        "mime": "image/png",
-                        "name": "thumbnail_moto_g_145967b8f1.png",
-                        "path": null,
-                        "size": 7.56,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "moto_g_145967b8f1_c975c7c8e9",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.47,
-                    "url": "/uploads/moto_g_145967b8f1_c975c7c8e9.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:13:24.212Z",
-                    "updatedAt": "2025-08-03T13:13:24.212Z"
                   }
                 }
               }
@@ -1244,21 +936,13 @@
         "diary_hour": "19:00:00",
         "date_diary": "2026-07-05",
         "createdAt": "2026-07-05T00:12:24.632Z",
-        "updatedAt": "2026-07-05T13:47:52.808Z",
+        "updatedAt": "2026-07-05T16:57:26.911Z",
         "publishedAt": "2026-07-05T03:18:35.029Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
-            {
-              "id": 644,
-              "attributes": {
-                "embed_name": "DSports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM=",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-              }
-            },
             {
               "id": 756,
               "attributes": {
@@ -1273,6 +957,22 @@
                 "embed_name": "Canal 5 MX HD1",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9jYW5hbDUucGhw",
                 "decoded_iframe_url": "https://tvhd1.com/canales/canal5.php"
+              }
+            },
+            {
+              "id": 1473,
+              "attributes": {
+                "embed_name": "Telefe | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlZmU=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=telefe"
+              }
+            },
+            {
+              "id": 644,
+              "attributes": {
+                "embed_name": "DSports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM=",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
               }
             },
             {
@@ -1292,43 +992,11 @@
               }
             },
             {
-              "id": 759,
-              "attributes": {
-                "embed_name": "Telefe",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXRlbGVmZQ==",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telefe"
-              }
-            },
-            {
               "id": 1455,
               "attributes": {
                 "embed_name": "DSports | HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
                 "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=dsports"
-              }
-            },
-            {
-              "id": 996,
-              "attributes": {
-                "embed_name": "Canal 5 MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1jYW5hbDU=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=canal5"
-              }
-            },
-            {
-              "id": 1473,
-              "attributes": {
-                "embed_name": "Telefe | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlZmU=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=telefe"
-              }
-            },
-            {
-              "id": 787,
-              "attributes": {
-                "embed_name": "Telemundo",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXRlbGVtdW5kbw==",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
               }
             },
             {
@@ -1340,11 +1008,43 @@
               }
             },
             {
+              "id": 759,
+              "attributes": {
+                "embed_name": "Telefe",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXRlbGVmZQ==",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telefe"
+              }
+            },
+            {
+              "id": 996,
+              "attributes": {
+                "embed_name": "Canal 5 MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1jYW5hbDU=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=canal5"
+              }
+            },
+            {
+              "id": 787,
+              "attributes": {
+                "embed_name": "Telemundo",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXRlbGVtdW5kbw==",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
+              }
+            },
+            {
               "id": 790,
               "attributes": {
                 "embed_name": "Universo",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXVuaXZlcnNv",
                 "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=universo"
+              }
+            },
+            {
+              "id": 1438,
+              "attributes": {
+                "embed_name": "Deportes TV. C",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWdvbHR2",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=goltv"
               }
             }
           ]
@@ -1377,6 +1077,66 @@
                     "provider_metadata": null,
                     "createdAt": "2026-06-24T23:22:08.564Z",
                     "updatedAt": "2026-06-24T23:22:42.745Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 36980,
+      "attributes": {
+        "diary_description": "Copa Chile: \nÑublense vs Curicó Unido",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-07-05",
+        "createdAt": "2026-07-05T00:16:35.241Z",
+        "updatedAt": "2026-07-05T16:57:39.433Z",
+        "publishedAt": "2026-07-05T03:18:35.029Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 318,
+              "attributes": {
+                "embed_name": "TNT Sports Premiun CL OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 12,
+            "attributes": {
+              "name": "Chile",
+              "createdAt": "2023-11-22T15:42:40.655Z",
+              "updatedAt": "2025-08-03T16:01:24.110Z",
+              "publishedAt": "2023-11-22T15:42:42.314Z",
+              "image": {
+                "data": {
+                  "id": 361,
+                  "attributes": {
+                    "name": "chile_86c07a7b38.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "chile_86c07a7b38_fad5126fd0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.7,
+                    "url": "/uploads/chile_86c07a7b38_fad5126fd0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:01:20.348Z",
+                    "updatedAt": "2025-08-03T16:01:20.348Z"
                   }
                 }
               }
