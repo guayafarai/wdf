@@ -48,42 +48,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36982",
-    "slug": "deportes-limache-vs-san-marcos-2026-07-05",
-    "team_a": "Deportes Limache",
-    "team_b": "San Marcos",
-    "league": "Copa Chile",
-    "date": "2026-07-05",
-    "time": "19:00",
-    "streams": [
-      {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36988",
-    "slug": "tenis---wimbledon---dia-#7---octavos-de-final-2026-07-05",
-    "team_a": "",
-    "team_b": "",
-    "league": "Tenis – Wimbledon – Dia #7 – Octavos de Final",
-    "date": "2026-07-05",
-    "time": "07:00",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvhd2.com/online/canal.php?stream=even4"
-      },
-      {
-        "name": "ESPN 4 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
-  },
-  {
     "id": "36990",
     "slug": "golf---u.s.-senior-open-golf-championship---última-vuelta-2026-07-05",
     "team_a": "",
@@ -116,6 +80,22 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
   },
   {
+    "id": "36982",
+    "slug": "deportes-limache-vs-san-marcos-2026-07-05",
+    "team_a": "Deportes Limache",
+    "team_b": "San Marcos",
+    "league": "Copa Chile",
+    "date": "2026-07-05",
+    "time": "19:00",
+    "streams": [
+      {
+        "name": "TNT Sports Premiun CL HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=tntsportschile"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=tntsportschile"
+  },
+  {
     "id": "36975",
     "slug": "brasil-vs-noruega-2026-07-05",
     "team_a": "Brasil",
@@ -129,12 +109,16 @@
         "url": "https://tvhd1.com/canales/dsportsar.php"
       },
       {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
+        "name": "TV LA 1 España HD1",
+        "url": "https://tvhd1.com/canales/tvla1es.php"
       },
       {
-        "name": "TYC Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tycsports"
+        "name": "TYC Sports | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=tycsports"
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
       },
       {
         "name": "Caracol TV",
@@ -147,25 +131,13 @@
       {
         "name": "Telemundo",
         "url": "https://tvhd2.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv"
       }
     ],
     "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
-  },
-  {
-    "id": "36995",
-    "slug": "tennis-2026-07-05",
-    "team_a": "",
-    "team_b": "",
-    "league": "tennis",
-    "date": "2026-07-05",
-    "time": "08:30",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
   },
   {
     "id": "36978",
@@ -182,38 +154,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "36980",
-    "slug": "ñublense-vs-curicó-unido-2026-07-05",
-    "team_a": "Ñublense",
-    "team_b": "Curicó Unido",
-    "league": "Copa Chile",
-    "date": "2026-07-05",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36989",
-    "slug": "f1-gp-gran-bretaña---la-previa-2026-07-05",
-    "team_a": "",
-    "team_b": "",
-    "league": "F1 GP Gran Bretaña – La Previa",
-    "date": "2026-07-05",
-    "time": "07:30",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
   },
   {
     "id": "36991",
@@ -273,10 +213,6 @@
     "time": "19:00",
     "streams": [
       {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
         "name": "Dsports HD1",
         "url": "https://tvhd1.com/canales/dsportsar.php"
       },
@@ -285,22 +221,46 @@
         "url": "https://tvhd1.com/canales/canal5.php"
       },
       {
-        "name": "Telefe",
-        "url": "https://tvhd2.com/canales.php?stream=telefe"
+        "name": "Telefe | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telefe"
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Telemundo | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo"
       },
       {
         "name": "Canal 5 MX",
         "url": "https://tvhd2.com/online/canales.php?stream=canal5"
       },
       {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      },
-      {
         "name": "Universo",
         "url": "https://tvhd2.com/canales.php?stream=universo"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+  },
+  {
+    "id": "36980",
+    "slug": "ñublense-vs-curicó-unido-2026-07-05",
+    "team_a": "Ñublense",
+    "team_b": "Curicó Unido",
+    "league": "Copa Chile",
+    "date": "2026-07-05",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "TNT Sports Premiun CL OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile"
   }
 ]
