@@ -16,22 +16,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "37001",
-    "slug": "tenis---wimbledon---dia-#8---octavos-de-final-2026-07-06",
-    "team_a": "",
-    "team_b": "",
-    "league": "Tenis – Wimbledon – Dia #8 – Octavos de Final",
-    "date": "2026-07-06",
-    "time": "05:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-  },
-  {
     "id": "36996",
     "slug": "portugal-vs-españa-2026-07-06",
     "team_a": "Portugal",
@@ -110,22 +94,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "37002",
-    "slug": "ciclismo---tour-de-france---etapa-#3-2026-07-06",
-    "team_a": "",
-    "team_b": "",
-    "league": "Ciclismo – Tour de France – Etapa #3",
-    "date": "2026-07-06",
-    "time": "05:00",
-    "streams": [
-      {
-        "name": "ESPN 5",
-        "url": "https://tvhd2.com/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
   },
   {
     "id": "37003",
