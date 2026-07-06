@@ -1,65 +1,5 @@
 [
   {
-    "id": "36975",
-    "slug": "brasil-vs-noruega-2026-07-05",
-    "team_a": "Brasil",
-    "team_b": "Noruega",
-    "league": "Copa del Mundo",
-    "date": "2026-07-05",
-    "time": "15:00",
-    "streams": [
-      {
-        "name": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php"
-      },
-      {
-        "name": "Dsports LATAM HD1",
-        "url": "https://tvhd1.com/canales/dsportslatam.php"
-      },
-      {
-        "name": "TV LA 1 España HD1",
-        "url": "https://tvhd1.com/canales/tvla1es.php"
-      },
-      {
-        "name": "Sportv Brasil HD1",
-        "url": "https://tvhd1.com/canales/sportv1.php"
-      },
-      {
-        "name": "FOX ONE HD1",
-        "url": "https://tvhd1.com/canales/foxone.php"
-      },
-      {
-        "name": "TYC Sports TV HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "TYC Sports | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Caracol TV  | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=caracol"
-      },
-      {
-        "name": "America TV | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=americatv"
-      },
-      {
-        "name": "Telemundo | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telemundo"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvhd2.com/canales.php?stream=goltv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
-  },
-  {
     "id": "36981",
     "slug": "unión-española-vs-o'higgins-2026-07-05",
     "team_a": "Unión Española",
@@ -103,9 +43,73 @@
       {
         "name": "Sportv BR",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Sportv Brasil HD1",
+        "url": "https://tvhd1.com/canales/sportv1.php"
       }
     ],
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+  },
+  {
+    "id": "36976",
+    "slug": "méxico-vs-inglaterra-2026-07-05",
+    "team_a": "México",
+    "team_b": "Inglaterra",
+    "league": "Copa del Mundo",
+    "date": "2026-07-05",
+    "time": "19:00",
+    "streams": [
+      {
+        "name": "Canal 5 MX HD1",
+        "url": "https://tvhd1.com/canales/canal5.php"
+      },
+      {
+        "name": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php"
+      },
+      {
+        "name": "TUDN Mexico HD1",
+        "url": "https://tvhd1.com/canales/tudnmx.php"
+      },
+      {
+        "name": "Dsports LATAM HD1",
+        "url": "https://tvhd1.com/canales/dsportslatam.php"
+      },
+      {
+        "name": "FOX ONE HD1",
+        "url": "https://tvhd1.com/canales/foxone.php"
+      },
+      {
+        "name": "TYC Sports TV HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1"
+      },
+      {
+        "name": "Telefe | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telefe"
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Telemundo | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://tvhd2.com/online/canales.php?stream=canal5"
+      },
+      {
+        "name": "Universo",
+        "url": "https://tvhd2.com/canales.php?stream=universo"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd1.com/canales/canal5.php"
   },
   {
     "id": "36991",
@@ -154,49 +158,5 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "36976",
-    "slug": "méxico-vs-inglaterra-2026-07-05",
-    "team_a": "México",
-    "team_b": "Inglaterra",
-    "league": "Copa del Mundo",
-    "date": "2026-07-05",
-    "time": "19:00",
-    "streams": [
-      {
-        "name": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php"
-      },
-      {
-        "name": "Canal 5 MX HD1",
-        "url": "https://tvhd1.com/canales/canal5.php"
-      },
-      {
-        "name": "Telefe | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telefe"
-      },
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Telemundo | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telemundo"
-      },
-      {
-        "name": "Canal 5 MX",
-        "url": "https://tvhd2.com/online/canales.php?stream=canal5"
-      },
-      {
-        "name": "Universo",
-        "url": "https://tvhd2.com/canales.php?stream=universo"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvhd2.com/canales.php?stream=goltv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   }
 ]
