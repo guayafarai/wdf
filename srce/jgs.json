@@ -100,22 +100,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "37003",
-    "slug": "kansas-city-royals-vs-philadelphia-phillies-2026-07-06",
-    "team_a": "Kansas City Royals",
-    "team_b": "Philadelphia Phillies",
-    "league": "MLB",
-    "date": "2026-07-06",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "ESPN 5",
-        "url": "https://tvhd2.com/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
-  },
-  {
     "id": "37004",
     "slug": "new-york-yankees-vs-tampa-bar-rays-2026-07-06",
     "team_a": "New York Yankees",
