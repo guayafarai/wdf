@@ -1,93 +1,5 @@
 [
   {
-    "id": "37006",
-    "slug": "argentina-vs-egipto-2026-07-07",
-    "team_a": "Argentina",
-    "team_b": "Egipto",
-    "league": "Copa del Mundo",
-    "date": "2026-07-07",
-    "time": "11:00",
-    "streams": [
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php"
-      },
-      {
-        "name": "TYC Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tycsports"
-      },
-      {
-        "name": "Telefe",
-        "url": "https://tvhd2.com/canales.php?stream=telefe"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Caracol TV",
-        "url": "https://tvhd2.com/canales.php?stream=caracol"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "37007",
-    "slug": "suiza-vs-colombia-2026-07-07",
-    "team_a": "Suiza",
-    "team_b": "Colombia",
-    "league": "Copa del Mundo",
-    "date": "2026-07-07",
-    "time": "15:00",
-    "streams": [
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Caracol TV",
-        "url": "https://tvhd2.com/canales.php?stream=caracol"
-      },
-      {
-        "name": "Canal 5 MX",
-        "url": "https://tvhd2.com/online/canales.php?stream=canal5"
-      },
-      {
-        "name": "Canal 5 MX HD1",
-        "url": "https://tvhd1.com/canales/canal5.php"
-      },
-      {
-        "name": "America Television",
-        "url": "https://tvhd2.com/canales.php?stream=americatv"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "Universo",
-        "url": "https://tvhd2.com/canales.php?stream=universo"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
     "id": "37008",
     "slug": "gualberto-villarroel-sj-vs-real-tomayapo-2026-07-07",
     "team_a": "Gualberto Villarroel SJ",
@@ -118,74 +30,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "37010",
-    "slug": "ciclismo---tour-de-france---etapa-#4-2026-07-07",
-    "team_a": "",
-    "team_b": "",
-    "league": "Ciclismo – Tour de France – Etapa #4",
-    "date": "2026-07-07",
-    "time": "06:00",
-    "streams": [
-      {
-        "name": "ESPN 5",
-        "url": "https://tvhd2.com/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "37011",
-    "slug": "argentina-vs-inglaterra-2026-07-07",
-    "team_a": "Argentina",
-    "team_b": "Inglaterra",
-    "league": "Rugby – World Rugby U20 Championship",
-    "date": "2026-07-07",
-    "time": "06:20",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvhd2.com/online/canal.php?stream=even4"
-      },
-      {
-        "name": "ESPN 4 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
-  },
-  {
-    "id": "37012",
-    "slug": "tenis---wimbledon---dia-#9---cuartos-de-final-2026-07-07",
-    "team_a": "",
-    "team_b": "",
-    "league": "Tenis – Wimbledon – Dia #9 – Cuartos de Final",
-    "date": "2026-07-07",
-    "time": "07:00",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
-  },
-  {
-    "id": "37013",
-    "slug": "tenis---wimbledon---dia-#9---cuartos-de-final-2026-07-07",
-    "team_a": "",
-    "team_b": "",
-    "league": "Tenis – Wimbledon – Dia #9 – Cuartos de Final",
-    "date": "2026-07-07",
-    "time": "07:30",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
   },
   {
     "id": "37014",
@@ -254,5 +98,109 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
+  },
+  {
+    "id": "37006",
+    "slug": "argentina-vs-egipto-2026-07-07",
+    "team_a": "Argentina",
+    "team_b": "Egipto",
+    "league": "Copa del Mundo",
+    "date": "2026-07-07",
+    "time": "11:00",
+    "streams": [
+      {
+        "name": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php"
+      },
+      {
+        "name": "TV LA 1 España HD1",
+        "url": "https://tvhd1.com/canales/tvla1es.php"
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "TYC Sports | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=tycsports"
+      },
+      {
+        "name": "Telefe | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telefe"
+      },
+      {
+        "name": "Telemundo | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "name": "Caracol TV  | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=caracol"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+  },
+  {
+    "id": "37007",
+    "slug": "suiza-vs-colombia-2026-07-07",
+    "team_a": "Suiza",
+    "team_b": "Colombia",
+    "league": "Copa del Mundo",
+    "date": "2026-07-07",
+    "time": "15:00",
+    "streams": [
+      {
+        "name": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php"
+      },
+      {
+        "name": "Canal 5 MX HD1",
+        "url": "https://tvhd1.com/canales/canal5.php"
+      },
+      {
+        "name": "TV LA 1 España HD1",
+        "url": "https://tvhd1.com/canales/tvla1es.php"
+      },
+      {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Sportv BR HD",
+        "url": "https://tvtvhd.com/online/canales.php?stream=sportv"
+      },
+      {
+        "name": "America TV | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=americatv"
+      },
+      {
+        "name": "Telemundo | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://tvhd2.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://tvhd2.com/online/canales.php?stream=canal5"
+      },
+      {
+        "name": "Universo",
+        "url": "https://tvhd2.com/canales.php?stream=universo"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   }
 ]
