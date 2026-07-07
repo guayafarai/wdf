@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-07T20:49:21.726284Z",
+    "last_updated": "2026-07-07T22:07:24.098165Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 6
+    "total_events": 5
   },
   "data": [
     {
@@ -167,82 +167,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T14:39:52.709Z",
                     "updatedAt": "2025-08-03T14:39:52.709Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37015,
-      "attributes": {
-        "diary_description": "MLB – St. Louis Cardinals vs Milwaukee Brewers",
-        "diary_hour": "13:00:00",
-        "date_diary": "2026-07-07",
-        "createdAt": "2026-07-07T03:33:47.158Z",
-        "updatedAt": "2026-07-07T03:33:47.158Z",
-        "publishedAt": "2026-07-07T03:44:07.235Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 653,
-              "attributes": {
-                "embed_name": "ESPN 7",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG43",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn7"
-              }
-            },
-            {
-              "id": 1396,
-              "attributes": {
-                "embed_name": "ESPN 7 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG43",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn7"
-              }
-            },
-            {
-              "id": 1397,
-              "attributes": {
-                "embed_name": "ESPN 7 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjc=",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn7"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 70,
-            "attributes": {
-              "name": "MLB Preseason",
-              "createdAt": "2024-02-23T06:14:15.840Z",
-              "updatedAt": "2025-08-03T14:39:12.740Z",
-              "publishedAt": "2024-02-23T06:14:18.809Z",
-              "image": {
-                "data": {
-                  "id": 352,
-                  "attributes": {
-                    "name": "mlb_f5711cc440.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "mlb_f5711cc440_dde64767e4",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.66,
-                    "url": "/uploads/mlb_f5711cc440_dde64767e4.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:39:07.537Z",
-                    "updatedAt": "2025-08-03T14:39:07.537Z"
                   }
                 }
               }
@@ -426,7 +350,7 @@
         "diary_hour": "15:00:00",
         "date_diary": "2026-07-07",
         "createdAt": "2026-07-07T03:24:36.402Z",
-        "updatedAt": "2026-07-07T20:27:33.948Z",
+        "updatedAt": "2026-07-07T22:07:03.248Z",
         "publishedAt": "2026-07-07T03:44:07.235Z",
         "channels": {
           "data": []
@@ -434,19 +358,19 @@
         "embeds": {
           "data": [
             {
-              "id": 450,
-              "attributes": {
-                "embed_name": "Canal 5 MX HD1",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9jYW5hbDUucGhw",
-                "decoded_iframe_url": "https://tvhd1.com/canales/canal5.php"
-              }
-            },
-            {
               "id": 644,
               "attributes": {
                 "embed_name": "DSports",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM=",
                 "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+              }
+            },
+            {
+              "id": 1472,
+              "attributes": {
+                "embed_name": "Caracol TV  | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1jYXJhY29s",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=caracol"
               }
             },
             {
@@ -495,6 +419,14 @@
                 "embed_name": "Telemundo | HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8=",
                 "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=telemundo"
+              }
+            },
+            {
+              "id": 1474,
+              "attributes": {
+                "embed_name": "Universo | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT11bml2ZXJzbw==",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=universo"
               }
             },
             {
