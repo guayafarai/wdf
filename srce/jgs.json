@@ -1,21 +1,5 @@
 [
   {
-    "id": "36998",
-    "slug": "universidad-católica-vs-mushuc-runa-2026-07-06",
-    "team_a": "Universidad Católica",
-    "team_b": "Mushuc Runa",
-    "league": "Serie A",
-    "date": "2026-07-06",
-    "time": "16:30",
-    "streams": [
-      {
-        "name": "ECDF LigaPro",
-        "url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
     "id": "36999",
     "slug": "orense-vs-técnico-universitario-2026-07-06",
     "team_a": "Orense",
@@ -46,42 +30,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "37004",
-    "slug": "new-york-yankees-vs-tampa-bar-rays-2026-07-06",
-    "team_a": "New York Yankees",
-    "team_b": "Tampa Bar Rays",
-    "league": "MLB",
-    "date": "2026-07-06",
-    "time": "17:30",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvhd2.com/online/canal.php?stream=even4"
-      },
-      {
-        "name": "ESPN 4 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
-  },
-  {
-    "id": "37005",
-    "slug": "miramar-misiones-vs-atenas-2026-07-06",
-    "team_a": "Miramar Misiones",
-    "team_b": "Atenas",
-    "league": "Segunda División",
-    "date": "2026-07-06",
-    "time": "16:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvhd2.com/canales.php?stream=disney2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=disney2"
   },
   {
     "id": "36997",
