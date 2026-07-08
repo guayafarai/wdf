@@ -1,12 +1,12 @@
 [
   {
-    "id": "37008",
-    "slug": "gualberto-villarroel-sj-vs-real-tomayapo-2026-07-07",
-    "team_a": "Gualberto Villarroel SJ",
-    "team_b": "Real Tomayapo",
+    "id": "37018",
+    "slug": "real-oruro-vs-universitario-de-vinto-2026-07-08",
+    "team_a": "Real Oruro",
+    "team_b": "Universitario de Vinto",
     "league": "Primera División",
-    "date": "2026-07-07",
-    "time": "18:00",
+    "date": "2026-07-08",
+    "time": "17:00",
     "streams": [
       {
         "name": "Futbol Canal",
@@ -16,13 +16,61 @@
     "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even4"
   },
   {
-    "id": "37009",
-    "slug": "aucas-vs-guayaquil-city-2026-07-07",
-    "team_a": "Aucas",
-    "team_b": "Guayaquil City",
-    "league": "Serie A",
-    "date": "2026-07-07",
+    "id": "37019",
+    "slug": "real-potosí-vs-abb-2026-07-08",
+    "team_a": "Real Potosí",
+    "team_b": "ABB",
+    "league": "Primera División",
+    "date": "2026-07-08",
     "time": "19:00",
+    "streams": [
+      {
+        "name": "Futbol Canal",
+        "url": "https://tvhd2.com/online/canales.php?stream=even4"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even4"
+  },
+  {
+    "id": "37020",
+    "slug": "santo-domingo-vs-independiente-del-valle-2026-07-08",
+    "team_a": "Santo Domingo",
+    "team_b": "Independiente del Valle",
+    "league": "Copa Ecuador",
+    "date": "2026-07-08",
+    "time": "17:30",
+    "streams": [
+      {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "37021",
+    "slug": "independiente-juniors-vs-ldu-quito-2026-07-08",
+    "team_a": "Independiente Juniors",
+    "team_b": "LDU Quito",
+    "league": "Copa Ecuador",
+    "date": "2026-07-08",
+    "time": "20:00",
+    "streams": [
+      {
+        "name": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "37022",
+    "slug": "el-nacional-vs-cumbayá-2026-07-08",
+    "team_a": "El Nacional",
+    "team_b": "Cumbayá",
+    "league": "Serie B",
+    "date": "2026-07-08",
+    "time": "15:00",
     "streams": [
       {
         "name": "ECDF LigaPro",
@@ -32,13 +80,49 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "37017",
-    "slug": "new-york-vs-dallas-2026-07-07",
-    "team_a": "New York",
-    "team_b": "Dallas",
-    "league": "WNBA",
-    "date": "2026-07-07",
-    "time": "19:00",
+    "id": "37023",
+    "slug": "ciclismo---tour-de-france---etapa-#5-2026-07-08",
+    "team_a": "",
+    "team_b": "",
+    "league": "Ciclismo – Tour de France – Etapa #5",
+    "date": "2026-07-08",
+    "time": "06:30",
+    "streams": [
+      {
+        "name": "ESPN 4",
+        "url": "https://tvhd2.com/online/canal.php?stream=even4"
+      },
+      {
+        "name": "ESPN 4 | OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=espn4"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
+  },
+  {
+    "id": "37024",
+    "slug": "tenis---wimbledon---dia-#10---cuartos-de-final-2026-07-08",
+    "team_a": "",
+    "team_b": "",
+    "league": "Tenis – Wimbledon – Dia #10 – Cuartos de Final",
+    "date": "2026-07-08",
+    "time": "07:00",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvhd2.com/online/canal.php?stream=even3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+  },
+  {
+    "id": "37025",
+    "slug": "tenis---wimbledon---dia-#10---cuartos-de-final-2026-07-08",
+    "team_a": "",
+    "team_b": "",
+    "league": "Tenis – Wimbledon – Dia #10 – Cuartos de Final",
+    "date": "2026-07-08",
+    "time": "07:30",
     "streams": [
       {
         "name": "ESPN 2",
@@ -46,5 +130,41 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
+  },
+  {
+    "id": "37026",
+    "slug": "mlb---cincinnati-reds-vs.-philadelphia-phillies-2026-07-08",
+    "team_a": "",
+    "team_b": "",
+    "league": "MLB – Cincinnati Reds vs. Philadelphia Phillies",
+    "date": "2026-07-08",
+    "time": "18:00",
+    "streams": [
+      {
+        "name": "ESPN 4",
+        "url": "https://tvhd2.com/online/canal.php?stream=even4"
+      },
+      {
+        "name": "ESPN 4 | OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=espn4"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
+  },
+  {
+    "id": "37027",
+    "slug": "mlb---san-diego-padres-vs.-arizona-diamondbacks-2026-07-08",
+    "team_a": "",
+    "team_b": "",
+    "league": "MLB – San Diego Padres vs. Arizona Diamondbacks",
+    "date": "2026-07-08",
+    "time": "21:00",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://tvhd2.com/online/canal.php?stream=even3"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
   }
 ]
