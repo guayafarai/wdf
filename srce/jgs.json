@@ -10,10 +10,10 @@
     "streams": [
       {
         "name": "Futbol Canal",
-        "url": "https://tvhd2.com/canales.php?stream=even4"
+        "url": "https://tvhd2.com/online/canales.php?stream=even4"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=even4"
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even4"
   },
   {
     "id": "37009",
@@ -32,22 +32,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "37016",
-    "slug": "tampa-bay-rays-vs-new-york-yankees-2026-07-07",
-    "team_a": "Tampa Bay Rays",
-    "team_b": "New York Yankees",
-    "league": "MLB",
-    "date": "2026-07-07",
-    "time": "17:30",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
-  },
-  {
     "id": "37017",
     "slug": "new-york-vs-dallas-2026-07-07",
     "team_a": "New York",
@@ -62,49 +46,5 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-  },
-  {
-    "id": "37007",
-    "slug": "suiza-vs-colombia-2026-07-07",
-    "team_a": "Suiza",
-    "team_b": "Colombia",
-    "league": "Copa del Mundo",
-    "date": "2026-07-07",
-    "time": "15:00",
-    "streams": [
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Caracol TV  | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=caracol"
-      },
-      {
-        "name": "America TV | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=americatv"
-      },
-      {
-        "name": "Sportv BR HD",
-        "url": "https://tvtvhd.com/online/canales.php?stream=sportv"
-      },
-      {
-        "name": "Telemundo | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telemundo"
-      },
-      {
-        "name": "Universo | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=universo"
-      },
-      {
-        "name": "Canal 5 MX",
-        "url": "https://tvhd2.com/online/canales.php?stream=canal5"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://tvhd2.com/canales.php?stream=goltv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   }
 ]
