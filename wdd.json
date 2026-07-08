@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-08T15:13:40.798420Z",
+    "last_updated": "2026-07-08T17:23:15.088502Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 10
+    "total_events": 9
   },
   "data": [
     {
@@ -405,90 +405,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T14:39:52.709Z",
                     "updatedAt": "2025-08-03T14:39:52.709Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37025,
-      "attributes": {
-        "diary_description": "Tenis – Wimbledon – Dia #10 – Cuartos de Final",
-        "diary_hour": "07:30:00",
-        "date_diary": "2026-07-08",
-        "createdAt": "2026-07-08T04:10:17.421Z",
-        "updatedAt": "2026-07-08T04:10:17.421Z",
-        "publishedAt": "2026-07-08T04:15:05.343Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjI=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjI=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjI=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-              }
-            },
-            {
-              "id": 1461,
-              "attributes": {
-                "embed_name": "ESPN 2 HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjI=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 53,
-            "attributes": {
-              "name": "Tennis",
-              "createdAt": "2024-01-25T06:16:42.975Z",
-              "updatedAt": "2025-08-03T14:36:42.387Z",
-              "publishedAt": "2024-01-25T06:16:44.102Z",
-              "image": {
-                "data": {
-                  "id": 351,
-                  "attributes": {
-                    "name": "Tenis_a5d5fcd1d1.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "Tenis_a5d5fcd1d1_594ebf0186",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.18,
-                    "url": "/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:36:38.398Z",
-                    "updatedAt": "2025-08-03T14:36:38.398Z"
                   }
                 }
               }
