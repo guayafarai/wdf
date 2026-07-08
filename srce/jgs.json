@@ -146,21 +146,5 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3mx"
-  },
-  {
-    "id": "37028",
-    "slug": "lausanne-sport-vs-flamengo-2026-07-08",
-    "team_a": "Lausanne Sport",
-    "team_b": "Flamengo",
-    "league": "Partido Amistoso Internacional",
-    "date": "2026-07-08",
-    "time": "14:30",
-    "streams": [
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   }
 ]
