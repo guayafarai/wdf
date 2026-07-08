@@ -1,19 +1,19 @@
 {
   "metadata": {
-    "last_updated": "2026-07-08T02:05:39.439477Z",
+    "last_updated": "2026-07-08T05:44:37.606990Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 3
+    "total_events": 10
   },
   "data": [
     {
-      "id": 37008,
+      "id": 37018,
       "attributes": {
-        "diary_description": "Primera División: Gualberto Villarroel SJ vs Real Tomayapo",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-07-07",
-        "createdAt": "2026-07-07T03:26:53.892Z",
-        "updatedAt": "2026-07-07T03:26:53.892Z",
-        "publishedAt": "2026-07-07T03:44:07.235Z",
+        "diary_description": "Primera División: \nReal Oruro vs Universitario de Vinto",
+        "diary_hour": "17:00:00",
+        "date_diary": "2026-07-08",
+        "createdAt": "2026-07-08T04:04:20.936Z",
+        "updatedAt": "2026-07-08T04:04:20.936Z",
+        "publishedAt": "2026-07-08T04:15:05.343Z",
         "channels": {
           "data": []
         },
@@ -116,14 +116,252 @@
       }
     },
     {
-      "id": 37009,
+      "id": 37019,
       "attributes": {
-        "diary_description": "Serie A: \nAucas vs Guayaquil City",
+        "diary_description": "Primera División: \nReal Potosí vs ABB",
         "diary_hour": "19:00:00",
-        "date_diary": "2026-07-07",
-        "createdAt": "2026-07-07T03:27:38.461Z",
-        "updatedAt": "2026-07-07T03:27:38.461Z",
-        "publishedAt": "2026-07-07T03:44:07.235Z",
+        "date_diary": "2026-07-08",
+        "createdAt": "2026-07-08T04:04:52.565Z",
+        "updatedAt": "2026-07-08T04:04:52.565Z",
+        "publishedAt": "2026-07-08T04:15:05.343Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1381,
+              "attributes": {
+                "embed_name": "Futbol Canal",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuNA==",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even4"
+              }
+            },
+            {
+              "id": 1383,
+              "attributes": {
+                "embed_name": "Futbol Canal | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWV2ZW40",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=even4"
+              }
+            },
+            {
+              "id": 1384,
+              "attributes": {
+                "embed_name": "Futbol Canal | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjQ=",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=even4"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 18,
+            "attributes": {
+              "name": "Bolivia",
+              "createdAt": "2023-11-22T15:49:30.375Z",
+              "updatedAt": "2025-08-03T16:33:08.297Z",
+              "publishedAt": "2023-11-22T15:49:34.480Z",
+              "image": {
+                "data": {
+                  "id": 366,
+                  "attributes": {
+                    "name": "bolivia-png.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 831,
+                    "height": 832,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "/uploads/small_bolivia_png_81cfc9f71f.png",
+                        "hash": "small_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "small_bolivia-png.png",
+                        "path": null,
+                        "size": 65.21,
+                        "width": 499,
+                        "height": 500
+                      },
+                      "medium": {
+                        "ext": ".png",
+                        "url": "/uploads/medium_bolivia_png_81cfc9f71f.png",
+                        "hash": "medium_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "medium_bolivia-png.png",
+                        "path": null,
+                        "size": 121.48,
+                        "width": 749,
+                        "height": 750
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_bolivia_png_81cfc9f71f.png",
+                        "hash": "thumbnail_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "thumbnail_bolivia-png.png",
+                        "path": null,
+                        "size": 11.54,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "bolivia_png_81cfc9f71f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 20.97,
+                    "url": "/uploads/bolivia_png_81cfc9f71f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:32:14.648Z",
+                    "updatedAt": "2025-08-03T16:32:14.648Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37020,
+      "attributes": {
+        "diary_description": "Copa Ecuador: Santo Domingo vs Independiente del Valle\n",
+        "diary_hour": "17:30:00",
+        "date_diary": "2026-07-08",
+        "createdAt": "2026-07-08T04:06:03.015Z",
+        "updatedAt": "2026-07-08T04:06:03.015Z",
+        "publishedAt": "2026-07-08T04:15:05.343Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 644,
+              "attributes": {
+                "embed_name": "DSports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM=",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+              }
+            },
+            {
+              "id": 341,
+              "attributes": {
+                "embed_name": "DSports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM=",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=dsports"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 13,
+            "attributes": {
+              "name": "Ecuador",
+              "createdAt": "2023-11-22T15:42:56.252Z",
+              "updatedAt": "2025-08-03T14:39:57.465Z",
+              "publishedAt": "2023-11-22T15:42:57.903Z",
+              "image": {
+                "data": {
+                  "id": 353,
+                  "attributes": {
+                    "name": "ecuador_6b5e87e044.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "ecuador_6b5e87e044_2fd81bc301",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.82,
+                    "url": "/uploads/ecuador_6b5e87e044_2fd81bc301.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T14:39:52.709Z",
+                    "updatedAt": "2025-08-03T14:39:52.709Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37021,
+      "attributes": {
+        "diary_description": "Copa Ecuador: \nIndependiente Juniors vs LDU Quito",
+        "diary_hour": "20:00:00",
+        "date_diary": "2026-07-08",
+        "createdAt": "2026-07-08T04:06:32.549Z",
+        "updatedAt": "2026-07-08T04:06:32.549Z",
+        "publishedAt": "2026-07-08T04:15:05.343Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 644,
+              "attributes": {
+                "embed_name": "DSports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM=",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 13,
+            "attributes": {
+              "name": "Ecuador",
+              "createdAt": "2023-11-22T15:42:56.252Z",
+              "updatedAt": "2025-08-03T14:39:57.465Z",
+              "publishedAt": "2023-11-22T15:42:57.903Z",
+              "image": {
+                "data": {
+                  "id": 353,
+                  "attributes": {
+                    "name": "ecuador_6b5e87e044.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "ecuador_6b5e87e044_2fd81bc301",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.82,
+                    "url": "/uploads/ecuador_6b5e87e044_2fd81bc301.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T14:39:52.709Z",
+                    "updatedAt": "2025-08-03T14:39:52.709Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37022,
+      "attributes": {
+        "diary_description": "Serie B: \nEl Nacional vs Cumbayá",
+        "diary_hour": "15:00:00",
+        "date_diary": "2026-07-08",
+        "createdAt": "2026-07-08T04:07:24.976Z",
+        "updatedAt": "2026-07-08T04:07:24.976Z",
+        "publishedAt": "2026-07-08T04:15:05.343Z",
         "channels": {
           "data": []
         },
@@ -176,14 +414,219 @@
       }
     },
     {
-      "id": 37017,
+      "id": 37023,
       "attributes": {
-        "diary_description": " WNBA – New York vs Dallas",
-        "diary_hour": "19:00:00",
-        "date_diary": "2026-07-07",
-        "createdAt": "2026-07-07T03:35:31.908Z",
-        "updatedAt": "2026-07-07T03:35:31.908Z",
-        "publishedAt": "2026-07-07T03:44:15.706Z",
+        "diary_description": "Ciclismo – Tour de France – Etapa #5",
+        "diary_hour": "06:30:00",
+        "date_diary": "2026-07-08",
+        "createdAt": "2026-07-08T04:08:42.603Z",
+        "updatedAt": "2026-07-08T04:08:42.603Z",
+        "publishedAt": "2026-07-08T04:15:05.343Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 520,
+              "attributes": {
+                "embed_name": "ESPN 4",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjQ=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
+              }
+            },
+            {
+              "id": 1398,
+              "attributes": {
+                "embed_name": "ESPN 4 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn4"
+              }
+            },
+            {
+              "id": 1399,
+              "attributes": {
+                "embed_name": "ESPN 4 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjQ=",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn4"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 82,
+            "attributes": {
+              "name": "Ciclismo",
+              "createdAt": "2024-03-06T10:31:11.902Z",
+              "updatedAt": "2025-09-11T14:01:56.949Z",
+              "publishedAt": "2024-03-06T10:31:39.259Z",
+              "image": {
+                "data": {
+                  "id": 397,
+                  "attributes": {
+                    "name": "Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 5000,
+                    "height": 5000,
+                    "formats": {
+                      "large": {
+                        "ext": ".png",
+                        "url": "/uploads/large_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
+                        "hash": "large_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b",
+                        "mime": "image/png",
+                        "name": "large_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148.png",
+                        "path": null,
+                        "size": 77.03,
+                        "width": 1000,
+                        "height": 1000
+                      },
+                      "small": {
+                        "ext": ".png",
+                        "url": "/uploads/small_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
+                        "hash": "small_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b",
+                        "mime": "image/png",
+                        "name": "small_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148.png",
+                        "path": null,
+                        "size": 33.72,
+                        "width": 500,
+                        "height": 500
+                      },
+                      "medium": {
+                        "ext": ".png",
+                        "url": "/uploads/medium_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
+                        "hash": "medium_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b",
+                        "mime": "image/png",
+                        "name": "medium_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148.png",
+                        "path": null,
+                        "size": 57.91,
+                        "width": 750,
+                        "height": 750
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
+                        "hash": "thumbnail_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b",
+                        "mime": "image/png",
+                        "name": "thumbnail_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148.png",
+                        "path": null,
+                        "size": 8.01,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 87.91,
+                    "url": "/uploads/Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-11T14:01:52.942Z",
+                    "updatedAt": "2025-09-11T14:01:52.942Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37024,
+      "attributes": {
+        "diary_description": "Tenis – Wimbledon – Dia #10 – Cuartos de Final",
+        "diary_hour": "07:00:00",
+        "date_diary": "2026-07-08",
+        "createdAt": "2026-07-08T04:09:27.473Z",
+        "updatedAt": "2026-07-08T04:09:27.473Z",
+        "publishedAt": "2026-07-08T04:15:05.343Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 656,
+              "attributes": {
+                "embed_name": "ESPN 3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+              }
+            },
+            {
+              "id": 1357,
+              "attributes": {
+                "embed_name": "ESPN 3 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+              }
+            },
+            {
+              "id": 1358,
+              "attributes": {
+                "embed_name": "ESPN 3 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+              }
+            },
+            {
+              "id": 1462,
+              "attributes": {
+                "embed_name": "ESPN 3 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 53,
+            "attributes": {
+              "name": "Tennis",
+              "createdAt": "2024-01-25T06:16:42.975Z",
+              "updatedAt": "2025-08-03T14:36:42.387Z",
+              "publishedAt": "2024-01-25T06:16:44.102Z",
+              "image": {
+                "data": {
+                  "id": 351,
+                  "attributes": {
+                    "name": "Tenis_a5d5fcd1d1.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "Tenis_a5d5fcd1d1_594ebf0186",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.18,
+                    "url": "/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T14:36:38.398Z",
+                    "updatedAt": "2025-08-03T14:36:38.398Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37025,
+      "attributes": {
+        "diary_description": "Tenis – Wimbledon – Dia #10 – Cuartos de Final",
+        "diary_hour": "07:30:00",
+        "date_diary": "2026-07-08",
+        "createdAt": "2026-07-08T04:10:17.421Z",
+        "updatedAt": "2026-07-08T04:10:17.421Z",
+        "publishedAt": "2026-07-08T04:15:05.343Z",
         "channels": {
           "data": []
         },
@@ -225,32 +668,192 @@
         },
         "country": {
           "data": {
-            "id": 133,
+            "id": 53,
             "attributes": {
-              "name": "Amistosos Paises",
-              "createdAt": "2025-03-01T00:14:07.871Z",
-              "updatedAt": "2025-08-03T13:20:12.777Z",
-              "publishedAt": "2025-03-01T00:14:09.910Z",
+              "name": "Tennis",
+              "createdAt": "2024-01-25T06:16:42.975Z",
+              "updatedAt": "2025-08-03T14:36:42.387Z",
+              "publishedAt": "2024-01-25T06:16:44.102Z",
               "image": {
                 "data": {
-                  "id": 347,
+                  "id": 351,
                   "attributes": {
-                    "name": "amistosos_bbe2ec4c17.png",
+                    "name": "Tenis_a5d5fcd1d1.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "amistosos_bbe2ec4c17_02fd4e7093",
+                    "hash": "Tenis_a5d5fcd1d1_594ebf0186",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 0.87,
-                    "url": "/uploads/amistosos_bbe2ec4c17_02fd4e7093.png",
+                    "size": 2.18,
+                    "url": "/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:12:14.467Z",
-                    "updatedAt": "2025-08-15T11:15:10.464Z"
+                    "createdAt": "2025-08-03T14:36:38.398Z",
+                    "updatedAt": "2025-08-03T14:36:38.398Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37026,
+      "attributes": {
+        "diary_description": "MLB – Cincinnati Reds vs. Philadelphia Phillies",
+        "diary_hour": "18:00:00",
+        "date_diary": "2026-07-08",
+        "createdAt": "2026-07-08T04:11:00.205Z",
+        "updatedAt": "2026-07-08T04:11:00.205Z",
+        "publishedAt": "2026-07-08T04:15:05.343Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 520,
+              "attributes": {
+                "embed_name": "ESPN 4",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjQ=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
+              }
+            },
+            {
+              "id": 1398,
+              "attributes": {
+                "embed_name": "ESPN 4 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn4"
+              }
+            },
+            {
+              "id": 1399,
+              "attributes": {
+                "embed_name": "ESPN 4 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjQ=",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn4"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 70,
+            "attributes": {
+              "name": "MLB Preseason",
+              "createdAt": "2024-02-23T06:14:15.840Z",
+              "updatedAt": "2025-08-03T14:39:12.740Z",
+              "publishedAt": "2024-02-23T06:14:18.809Z",
+              "image": {
+                "data": {
+                  "id": 352,
+                  "attributes": {
+                    "name": "mlb_f5711cc440.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "mlb_f5711cc440_dde64767e4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.66,
+                    "url": "/uploads/mlb_f5711cc440_dde64767e4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T14:39:07.537Z",
+                    "updatedAt": "2025-08-03T14:39:07.537Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37027,
+      "attributes": {
+        "diary_description": " MLB – San Diego Padres vs. Arizona Diamondbacks",
+        "diary_hour": "21:00:00",
+        "date_diary": "2026-07-08",
+        "createdAt": "2026-07-08T04:12:42.636Z",
+        "updatedAt": "2026-07-08T04:12:42.636Z",
+        "publishedAt": "2026-07-08T04:15:05.343Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 656,
+              "attributes": {
+                "embed_name": "ESPN 3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+              }
+            },
+            {
+              "id": 1357,
+              "attributes": {
+                "embed_name": "ESPN 3 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+              }
+            },
+            {
+              "id": 1358,
+              "attributes": {
+                "embed_name": "ESPN 3 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+              }
+            },
+            {
+              "id": 1462,
+              "attributes": {
+                "embed_name": "ESPN 3 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
+                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 70,
+            "attributes": {
+              "name": "MLB Preseason",
+              "createdAt": "2024-02-23T06:14:15.840Z",
+              "updatedAt": "2025-08-03T14:39:12.740Z",
+              "publishedAt": "2024-02-23T06:14:18.809Z",
+              "image": {
+                "data": {
+                  "id": 352,
+                  "attributes": {
+                    "name": "mlb_f5711cc440.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "mlb_f5711cc440_dde64767e4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.66,
+                    "url": "/uploads/mlb_f5711cc440_dde64767e4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T14:39:07.537Z",
+                    "updatedAt": "2025-08-03T14:39:07.537Z"
                   }
                 }
               }
