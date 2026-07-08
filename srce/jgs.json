@@ -80,58 +80,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "37023",
-    "slug": "ciclismo---tour-de-france---etapa-#5-2026-07-08",
-    "team_a": "",
-    "team_b": "",
-    "league": "Ciclismo – Tour de France – Etapa #5",
-    "date": "2026-07-08",
-    "time": "06:30",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvhd2.com/online/canal.php?stream=even4"
-      },
-      {
-        "name": "ESPN 4 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
-  },
-  {
-    "id": "37024",
-    "slug": "tenis---wimbledon---dia-#10---cuartos-de-final-2026-07-08",
-    "team_a": "",
-    "team_b": "",
-    "league": "Tenis – Wimbledon – Dia #10 – Cuartos de Final",
-    "date": "2026-07-08",
-    "time": "07:00",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
-  },
-  {
-    "id": "37025",
-    "slug": "tenis---wimbledon---dia-#10---cuartos-de-final-2026-07-08",
-    "team_a": "",
-    "team_b": "",
-    "league": "Tenis – Wimbledon – Dia #10 – Cuartos de Final",
-    "date": "2026-07-08",
-    "time": "07:30",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-  },
-  {
     "id": "37026",
     "slug": "mlb---cincinnati-reds-vs.-philadelphia-phillies-2026-07-08",
     "team_a": "",
@@ -166,5 +114,37 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+  },
+  {
+    "id": "37028",
+    "slug": "lausanne-sport-vs-flamengo-2026-07-08",
+    "team_a": "Lausanne Sport",
+    "team_b": "Flamengo",
+    "league": "Partido Amistoso Internacional",
+    "date": "2026-07-08",
+    "time": "14:30",
+    "streams": [
+      {
+        "name": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+      }
+    ],
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+  },
+  {
+    "id": "37029",
+    "slug": "unión-la-calera-vs-coquimbo-unido-2026-07-08",
+    "team_a": "Unión La Calera",
+    "team_b": "Coquimbo Unido",
+    "league": "Copa de la Liga",
+    "date": "2026-07-08",
+    "time": "18:00",
+    "streams": [
+      {
+        "name": "TNT Sports Premiun CL",
+        "url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   }
 ]
