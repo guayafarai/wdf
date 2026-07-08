@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-08T17:23:15.088502Z",
+    "last_updated": "2026-07-08T19:14:58.032108Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 9
+    "total_events": 10
   },
   "data": [
     {
@@ -709,6 +709,66 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T16:01:20.348Z",
                     "updatedAt": "2025-08-03T16:01:20.348Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37030,
+      "attributes": {
+        "diary_description": "Amistoso Internacional: Boca Juniors vs Athletico-PR",
+        "diary_hour": "19:00:00",
+        "date_diary": "2026-07-08",
+        "createdAt": "2026-07-08T17:41:06.755Z",
+        "updatedAt": "2026-07-08T17:41:57.981Z",
+        "publishedAt": "2026-07-08T17:41:57.976Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 586,
+              "attributes": {
+                "embed_name": "ESPN 3 MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4zbXg=",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3mx"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 55,
+            "attributes": {
+              "name": "Amistoso",
+              "createdAt": "2024-02-01T08:09:43.427Z",
+              "updatedAt": "2025-09-04T14:05:15.995Z",
+              "publishedAt": "2024-02-01T08:09:44.642Z",
+              "image": {
+                "data": {
+                  "id": 392,
+                  "attributes": {
+                    "name": "amistoso_paises_b9febc0d3c.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "amistoso_paises_b9febc0d3c_e1d457d1ee",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.59,
+                    "url": "/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-04T14:05:11.984Z",
+                    "updatedAt": "2025-09-04T14:05:11.984Z"
                   }
                 }
               }
