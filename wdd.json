@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-08T21:00:18.348093Z",
+    "last_updated": "2026-07-08T22:58:22.681153Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 10
+    "total_events": 9
   },
   "data": [
     {
@@ -669,74 +669,6 @@
                 "embed_name": "ESPN 3 MX",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4zbXg=",
                 "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3mx"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 55,
-            "attributes": {
-              "name": "Amistoso",
-              "createdAt": "2024-02-01T08:09:43.427Z",
-              "updatedAt": "2025-09-04T14:05:15.995Z",
-              "publishedAt": "2024-02-01T08:09:44.642Z",
-              "image": {
-                "data": {
-                  "id": 392,
-                  "attributes": {
-                    "name": "amistoso_paises_b9febc0d3c.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c_e1d457d1ee",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.59,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T14:05:11.984Z",
-                    "updatedAt": "2025-09-04T14:05:11.984Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37028,
-      "attributes": {
-        "diary_description": "Partido Amistoso Internacional: Lausanne Sport vs Flamengo",
-        "diary_hour": "14:30:00",
-        "date_diary": "2026-07-08",
-        "createdAt": "2026-07-08T14:33:21.428Z",
-        "updatedAt": "2026-07-08T20:45:06.821Z",
-        "publishedAt": "2026-07-08T14:33:23.701Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1209,
-              "attributes": {
-                "embed_name": "Sportv BR",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg==",
-                "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-              }
-            },
-            {
-              "id": 1465,
-              "attributes": {
-                "embed_name": "Sportv BR HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09c3BvcnR2",
-                "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=sportv"
               }
             }
           ]
