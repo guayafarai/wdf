@@ -146,5 +146,21 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "37030",
+    "slug": "boca-juniors-vs-athletico-pr-2026-07-08",
+    "team_a": "Boca Juniors",
+    "team_b": "Athletico-PR",
+    "league": "Amistoso Internacional",
+    "date": "2026-07-08",
+    "time": "19:00",
+    "streams": [
+      {
+        "name": "ESPN 3 MX",
+        "url": "https://tvhd2.com/canales.php?stream=espn3mx"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3mx"
   }
 ]
