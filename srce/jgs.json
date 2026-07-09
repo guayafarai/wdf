@@ -1,5 +1,21 @@
 [
   {
+    "id": "37020",
+    "slug": "santo-domingo-vs-independiente-del-valle-2026-07-08",
+    "team_a": "Santo Domingo",
+    "team_b": "Independiente del Valle",
+    "league": "Copa Ecuador",
+    "date": "2026-07-08",
+    "time": "17:30",
+    "streams": [
+      {
+        "name": "ECDF LigaPro",
+        "url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
+  },
+  {
     "id": "37018",
     "slug": "real-oruro-vs-universitario-de-vinto-2026-07-08",
     "team_a": "Real Oruro",
@@ -10,10 +26,10 @@
     "streams": [
       {
         "name": "Futbol Canal",
-        "url": "https://tvhd2.com/online/canales.php?stream=even4"
+        "url": "https://tvhd2.com/online/canales.php?stream=even1"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even4"
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
   },
   {
     "id": "37019",
@@ -26,26 +42,10 @@
     "streams": [
       {
         "name": "Futbol Canal",
-        "url": "https://tvhd2.com/online/canales.php?stream=even4"
+        "url": "https://tvhd2.com/online/canales.php?stream=even1"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even4"
-  },
-  {
-    "id": "37020",
-    "slug": "santo-domingo-vs-independiente-del-valle-2026-07-08",
-    "team_a": "Santo Domingo",
-    "team_b": "Independiente del Valle",
-    "league": "Copa Ecuador",
-    "date": "2026-07-08",
-    "time": "17:30",
-    "streams": [
-      {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
   },
   {
     "id": "37021",
@@ -62,22 +62,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "37022",
-    "slug": "el-nacional-vs-cumbayá-2026-07-08",
-    "team_a": "El Nacional",
-    "team_b": "Cumbayá",
-    "league": "Serie B",
-    "date": "2026-07-08",
-    "time": "15:00",
-    "streams": [
-      {
-        "name": "ECDF LigaPro",
-        "url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
   },
   {
     "id": "37026",
@@ -126,10 +110,14 @@
     "streams": [
       {
         "name": "TNT Sports Premiun CL",
-        "url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+        "url": "https://tvhd2.com/online/canales.php?stream=even4"
+      },
+      {
+        "name": "TNT Sports Premiun CL OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even4"
   },
   {
     "id": "37030",
@@ -143,6 +131,10 @@
       {
         "name": "ESPN 3 MX",
         "url": "https://tvhd2.com/canales.php?stream=espn3mx"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://tvhd2.com/canales.php?stream=disney1"
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3mx"
