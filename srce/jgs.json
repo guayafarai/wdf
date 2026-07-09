@@ -1,142 +1,34 @@
 [
   {
-    "id": "37020",
-    "slug": "santo-domingo-vs-independiente-del-valle-2026-07-08",
-    "team_a": "Santo Domingo",
-    "team_b": "Independiente del Valle",
-    "league": "Copa Ecuador",
-    "date": "2026-07-08",
-    "time": "17:30",
-    "streams": [
-      {
-        "name": "ECDF LigaPro",
-        "url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "37018",
-    "slug": "real-oruro-vs-universitario-de-vinto-2026-07-08",
-    "team_a": "Real Oruro",
-    "team_b": "Universitario de Vinto",
-    "league": "Primera División",
-    "date": "2026-07-08",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "Futbol Canal",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "37019",
-    "slug": "real-potosí-vs-abb-2026-07-08",
-    "team_a": "Real Potosí",
-    "team_b": "ABB",
-    "league": "Primera División",
-    "date": "2026-07-08",
-    "time": "19:00",
-    "streams": [
-      {
-        "name": "Futbol Canal",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "37021",
-    "slug": "independiente-juniors-vs-ldu-quito-2026-07-08",
-    "team_a": "Independiente Juniors",
-    "team_b": "LDU Quito",
-    "league": "Copa Ecuador",
-    "date": "2026-07-08",
+    "id": "Barcelona-2026-07-09",
+    "slug": "barcelona-vs-real-madrid-2026-07-09",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-07-09",
     "time": "20:00",
     "streams": [
       {
-        "name": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports"
+        "name": "Demo",
+        "url": "https://example.com/embed/barcelona-real-madrid"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "37026",
-    "slug": "mlb---cincinnati-reds-vs.-philadelphia-phillies-2026-07-08",
-    "team_a": "",
-    "team_b": "",
-    "league": "MLB – Cincinnati Reds vs. Philadelphia Phillies",
-    "date": "2026-07-08",
-    "time": "18:00",
+    "id": "América-2026-07-09",
+    "slug": "américa-vs-chivas-2026-07-09",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-07-09",
+    "time": "22:00",
     "streams": [
       {
-        "name": "ESPN 4",
-        "url": "https://tvhd2.com/online/canal.php?stream=even4"
-      },
-      {
-        "name": "ESPN 4 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn4"
+        "name": "Demo",
+        "url": "https://example.com/embed/america-chivas"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
-  },
-  {
-    "id": "37027",
-    "slug": "mlb---san-diego-padres-vs.-arizona-diamondbacks-2026-07-08",
-    "team_a": "",
-    "team_b": "",
-    "league": "MLB – San Diego Padres vs. Arizona Diamondbacks",
-    "date": "2026-07-08",
-    "time": "21:00",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
-  },
-  {
-    "id": "37029",
-    "slug": "unión-la-calera-vs-coquimbo-unido-2026-07-08",
-    "team_a": "Unión La Calera",
-    "team_b": "Coquimbo Unido",
-    "league": "Copa de la Liga",
-    "date": "2026-07-08",
-    "time": "18:00",
-    "streams": [
-      {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://tvhd2.com/online/canales.php?stream=even4"
-      },
-      {
-        "name": "TNT Sports Premiun CL OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even4"
-  },
-  {
-    "id": "37030",
-    "slug": "boca-juniors-vs-athletico-pr-2026-07-08",
-    "team_a": "Boca Juniors",
-    "team_b": "Athletico-PR",
-    "league": "Amistoso Internacional",
-    "date": "2026-07-08",
-    "time": "19:00",
-    "streams": [
-      {
-        "name": "ESPN 3 MX",
-        "url": "https://tvhd2.com/canales.php?stream=espn3mx"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://tvhd2.com/canales.php?stream=disney1"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3mx"
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
