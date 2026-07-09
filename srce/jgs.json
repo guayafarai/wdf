@@ -96,22 +96,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "37035",
-    "slug": "ciclismo---tour-de-france---etapa-#6-2026-07-09",
-    "team_a": "",
-    "team_b": "",
-    "league": "Ciclismo – Tour de France – Etapa #6",
-    "date": "2026-07-09",
-    "time": "05:00",
-    "streams": [
-      {
-        "name": "ESPN 5",
-        "url": "https://tvhd2.com/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
-  },
-  {
     "id": "37036",
     "slug": "golf---genesis-scottish-open---primera-vuelta-2026-07-09",
     "team_a": "",
