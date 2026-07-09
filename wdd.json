@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-07-09T17:16:09.354182Z",
+    "last_updated": "2026-07-09T19:28:33.333851Z",
     "source": "https://pltvhd.com/diaries.json",
     "total_events": 6
   },
@@ -12,7 +12,7 @@
         "diary_hour": "15:00:00",
         "date_diary": "2026-07-09",
         "createdAt": "2026-07-09T01:45:05.223Z",
-        "updatedAt": "2026-07-09T16:56:33.745Z",
+        "updatedAt": "2026-07-09T18:57:27.043Z",
         "publishedAt": "2026-07-09T03:51:42.915Z",
         "channels": {
           "data": []
@@ -20,33 +20,73 @@
         "embeds": {
           "data": [
             {
+              "id": 756,
+              "attributes": {
+                "embed_name": "Dsports HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzYXIucGhw",
+                "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+              }
+            },
+            {
               "id": 1252,
               "attributes": {
-                "embed_name": "Dsports LatinoAmerica",
+                "embed_name": "Dsports (AR/PE/CO/EC/CL/UY)",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzbGF0YW0ucGhw",
                 "decoded_iframe_url": "https://tvhd1.com/canales/dsportslatam.php"
               }
             },
             {
-              "id": 682,
+              "id": 1034,
               "attributes": {
-                "embed_name": "DSports Señal Estable",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMg==",
-                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even2"
+                "embed_name": "Red Uno HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuNA==",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even4"
               }
             },
             {
-              "id": 850,
+              "id": 465,
               "attributes": {
-                "embed_name": "Tigo Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMQ==",
-                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
+                "embed_name": "TUDN Mexico HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy90dWRubXgucGhw",
+                "decoded_iframe_url": "https://tvhd1.com/canales/tudnmx.php"
+              }
+            },
+            {
+              "id": 1430,
+              "attributes": {
+                "embed_name": "TV LA 1 España HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy90dmxhMWVzLnBocA==",
+                "decoded_iframe_url": "https://tvhd1.com/canales/tvla1es.php"
               }
             },
             {
               "id": 419,
               "attributes": {
                 "embed_name": "Tigo Sports HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMQ==",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
+              }
+            },
+            {
+              "id": 682,
+              "attributes": {
+                "embed_name": "DSports Mundo",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMg==",
+                "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even2"
+              }
+            },
+            {
+              "id": 450,
+              "attributes": {
+                "embed_name": "Canal 5 MX HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9jYW5hbDUucGhw",
+                "decoded_iframe_url": "https://tvhd1.com/canales/canal5.php"
+              }
+            },
+            {
+              "id": 850,
+              "attributes": {
+                "embed_name": "Tigo Sports",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMQ==",
                 "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
               }
@@ -89,14 +129,6 @@
                 "embed_name": "DSports",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM=",
                 "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-              }
-            },
-            {
-              "id": 756,
-              "attributes": {
-                "embed_name": "Dsports HD1",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzYXIucGhw",
-                "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
               }
             },
             {
@@ -145,14 +177,6 @@
                 "embed_name": "Canal 5 MX",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1jYW5hbDU=",
                 "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=canal5"
-              }
-            },
-            {
-              "id": 450,
-              "attributes": {
-                "embed_name": "Canal 5 MX HD1",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9jYW5hbDUucGhw",
-                "decoded_iframe_url": "https://tvhd1.com/canales/canal5.php"
               }
             },
             {
@@ -465,24 +489,24 @@
               "id": 656,
               "attributes": {
                 "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z",
+                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
               }
             },
             {
               "id": 1357,
               "attributes": {
                 "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4z",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn3"
               }
             },
             {
               "id": 1358,
               "attributes": {
                 "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjM=",
+                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
               }
             },
             {
