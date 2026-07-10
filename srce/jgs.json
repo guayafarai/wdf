@@ -52,106 +52,6 @@
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
   },
   {
-    "id": "37050",
-    "slug": "fiji-vs-inglaterra-2026-07-10",
-    "team_a": "Fiji",
-    "team_b": "Inglaterra",
-    "league": "Rugby – Nations Championship",
-    "date": "2026-07-10",
-    "time": "18:50",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvhd2.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "37040",
-    "slug": "españa-vs-bélgica-2026-07-10",
-    "team_a": "España",
-    "team_b": "Bélgica",
-    "league": "Copa del Mundo",
-    "date": "2026-07-10",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php"
-      },
-      {
-        "name": "TV LA 1 España HD1",
-        "url": "https://tvhd1.com/canales/tvla1es.php"
-      },
-      {
-        "name": "FOX Español HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=even4"
-      },
-      {
-        "name": "Tigo Sports HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=even1"
-      },
-      {
-        "name": "Telefe | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=telefe"
-      },
-      {
-        "name": "DSports | HD",
-        "url": "https://fltvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "name": "Win Sports",
-        "url": "https://tvhd2.com/canales.php?stream=winsports"
-      },
-      {
-        "name": "America Television",
-        "url": "https://tvhd2.com/canales.php?stream=americatv"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
-  },
-  {
-    "id": "37043",
-    "slug": "deportivo-maldonado-vs-albion-2026-07-10",
-    "team_a": "Deportivo Maldonado",
-    "team_b": "Albion",
-    "league": "Primera División",
-    "date": "2026-07-10",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvhd2.com/canales.php?stream=espn"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
-  },
-  {
-    "id": "37049",
-    "slug": "fiji-vs-inglaterra-2026-07-10",
-    "team_a": "Fiji",
-    "team_b": "Inglaterra",
-    "league": "Rugby – Nations Championship",
-    "date": "2026-07-10",
-    "time": "18:50",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://tvhd2.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
-  },
-  {
     "id": "37051",
     "slug": "fiji-vs-inglaterra-2026-07-10",
     "team_a": "Fiji",
@@ -166,5 +66,21 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "37043",
+    "slug": "deportivo-maldonado-vs-albion-2026-07-10",
+    "team_a": "Deportivo Maldonado",
+    "team_b": "Albion",
+    "league": "Primera División",
+    "date": "2026-07-10",
+    "time": "17:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://tvhd2.com/canales.php?stream=disney1"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=disney1"
   }
 ]
