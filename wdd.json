@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-07-10T22:56:11.838567Z",
+    "last_updated": "2026-07-10T23:55:10.178613Z",
     "source": "https://pltvhd.com/diaries.json",
     "total_events": 5
   },
@@ -23,8 +23,8 @@
               "id": 914,
               "attributes": {
                 "embed_name": "ECDF LigaPro",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8=",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
               }
             }
           ]
@@ -83,8 +83,8 @@
               "id": 914,
               "attributes": {
                 "embed_name": "ECDF LigaPro",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8=",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
               }
             }
           ]
@@ -132,7 +132,7 @@
         "diary_hour": "17:30:00",
         "date_diary": "2026-07-10",
         "createdAt": "2026-07-10T01:24:56.097Z",
-        "updatedAt": "2026-07-10T01:24:56.097Z",
+        "updatedAt": "2026-07-10T23:25:52.842Z",
         "publishedAt": "2026-07-10T10:03:55.589Z",
         "channels": {
           "data": []
@@ -143,24 +143,8 @@
               "id": 520,
               "attributes": {
                 "embed_name": "ESPN 4",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjQ=",
-                "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
-              }
-            },
-            {
-              "id": 1398,
-              "attributes": {
-                "embed_name": "ESPN 4 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn4"
-              }
-            },
-            {
-              "id": 1399,
-              "attributes": {
-                "embed_name": "ESPN 4 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjQ=",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn4"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjI=",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even2"
               }
             }
           ]
@@ -219,24 +203,24 @@
               "id": 656,
               "attributes": {
                 "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMw==",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=even3"
               }
             },
             {
               "id": 1357,
               "attributes": {
                 "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4z",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=espn3"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw==",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=espn3"
               }
             },
             {
               "id": 1358,
               "attributes": {
                 "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjM=",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=espn3"
               }
             }
           ]
@@ -329,8 +313,8 @@
               "id": 833,
               "attributes": {
                 "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWRpc25leTE=",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=disney1"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkx",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
               }
             }
           ]
