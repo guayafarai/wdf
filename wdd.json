@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-10T16:20:26.907691Z",
+    "last_updated": "2026-07-10T18:18:51.946921Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 9
+    "total_events": 8
   },
   "data": [
     {
@@ -305,82 +305,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T14:39:52.709Z",
                     "updatedAt": "2025-08-03T14:39:52.709Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37044,
-      "attributes": {
-        "diary_description": "Torneo de Reserva: \nRiver Plate  vs Racing Club",
-        "diary_hour": "10:00:00",
-        "date_diary": "2026-07-10",
-        "createdAt": "2026-07-10T01:17:40.106Z",
-        "updatedAt": "2026-07-10T01:17:40.106Z",
-        "publishedAt": "2026-07-10T10:03:55.589Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 257,
-              "attributes": {
-                "embed_name": "TNT Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXRudHNwb3J0cw==",
-                "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsports"
-              }
-            },
-            {
-              "id": 1322,
-              "attributes": {
-                "embed_name": "TNT Sports | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0cw==",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=tntsports"
-              }
-            },
-            {
-              "id": 1405,
-              "attributes": {
-                "embed_name": "TNT Sports | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09dG50c3BvcnRz",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=tntsports"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 72,
-            "attributes": {
-              "name": "Argentina",
-              "createdAt": "2024-02-25T19:00:29.066Z",
-              "updatedAt": "2025-08-03T16:02:49.460Z",
-              "publishedAt": "2024-02-25T19:00:31.510Z",
-              "image": {
-                "data": {
-                  "id": 362,
-                  "attributes": {
-                    "name": "argentina_2bd748026e.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "argentina_2bd748026e_628913fc18",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.86,
-                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:02:45.389Z",
-                    "updatedAt": "2025-08-03T16:02:45.389Z"
                   }
                 }
               }
