@@ -88,26 +88,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsports"
   },
   {
-    "id": "37046",
-    "slug": "golf---genesis-scottish-open---segunda-vuelta-2026-07-10",
-    "team_a": "",
-    "team_b": "",
-    "league": "Golf – Genesis Scottish Open – Segunda Vuelta",
-    "date": "2026-07-10",
-    "time": "07:00",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvhd2.com/online/canal.php?stream=even4"
-      },
-      {
-        "name": "ESPN 4 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
-  },
-  {
     "id": "37048",
     "slug": "denver-nuggets-vs-houston-rockets-2026-07-10",
     "team_a": "Denver Nuggets",
@@ -158,38 +138,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
-  },
-  {
-    "id": "37045",
-    "slug": "ciclismo---tour-de-france---etapa-#7-2026-07-10",
-    "team_a": "",
-    "team_b": "",
-    "league": "Ciclismo – Tour de France – Etapa #7",
-    "date": "2026-07-10",
-    "time": "06:00",
-    "streams": [
-      {
-        "name": "ESPN 5",
-        "url": "https://tvhd2.com/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "37047",
-    "slug": "tenis---wimbledon---dia-#12---semifinales-masculinas-2026-07-10",
-    "team_a": "",
-    "team_b": "",
-    "league": "Tenis – Wimbledon – Dia #12 – Semifinales Masculinas",
-    "date": "2026-07-10",
-    "time": "07:30",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
   },
   {
     "id": "37049",
