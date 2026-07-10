@@ -1,18 +1,34 @@
 [
   {
-    "id": "37032",
-    "slug": "nacional-potosí-vs-aurora-2026-07-09",
-    "team_a": "Nacional Potosí",
-    "team_b": "Aurora",
-    "league": "Primera División",
-    "date": "2026-07-09",
-    "time": "19:00",
+    "id": "Barcelona-2026-07-10",
+    "slug": "barcelona-vs-real-madrid-2026-07-10",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-07-10",
+    "time": "20:00",
     "streams": [
       {
-        "name": "Futbol Canal",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1"
+        "name": "Demo",
+        "url": "https://example.com/embed/barcelona-real-madrid"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
+  },
+  {
+    "id": "América-2026-07-10",
+    "slug": "américa-vs-chivas-2026-07-10",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-07-10",
+    "time": "22:00",
+    "streams": [
+      {
+        "name": "Demo",
+        "url": "https://example.com/embed/america-chivas"
+      }
+    ],
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
