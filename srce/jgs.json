@@ -72,22 +72,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "37044",
-    "slug": "river-plate-vs-racing-club-2026-07-10",
-    "team_a": "River Plate",
-    "team_b": "Racing Club",
-    "league": "Torneo de Reserva",
-    "date": "2026-07-10",
-    "time": "10:00",
-    "streams": [
-      {
-        "name": "TNT Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tntsports"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsports"
-  },
-  {
     "id": "37048",
     "slug": "denver-nuggets-vs-houston-rockets-2026-07-10",
     "team_a": "Denver Nuggets",
