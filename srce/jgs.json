@@ -32,38 +32,6 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "37070",
-    "slug": "moto-gp---gp-de-alemania---sprint-2026-07-11",
-    "team_a": "",
-    "team_b": "",
-    "league": "Moto GP – GP de Alemania – Sprint",
-    "date": "2026-07-11",
-    "time": "07:30",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://fltvhd.com/canales.php?stream=even2"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=even2"
-  },
-  {
-    "id": "37074",
-    "slug": "tenis---wimbledon---día-#13---final-femenina-2026-07-11",
-    "team_a": "",
-    "team_b": "",
-    "league": "Tenis – Wimbledon – Día #13 – Final Femenina",
-    "date": "2026-07-11",
-    "time": "10:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://fltvhd.com/canales.php?stream=even2"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=even2"
-  },
-  {
     "id": "37076",
     "slug": "minnesota-vs-new-york-2026-07-11",
     "team_a": "Minnesota",
@@ -100,22 +68,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
   },
   {
-    "id": "37072",
-    "slug": "golf---genesis-scottish-open---tercera-vuelta-2026-07-11",
-    "team_a": "",
-    "team_b": "",
-    "league": "Golf – Genesis Scottish Open – Tercera Vuelta",
-    "date": "2026-07-11",
-    "time": "08:30",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://fltvhd.com/online/canales.php?stream=even4"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even4"
-  },
-  {
     "id": "37079",
     "slug": "noruega-vs-inglaterra-2026-07-11",
     "team_a": "Noruega",
@@ -142,6 +94,22 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "37074",
+    "slug": "tenis---wimbledon---día-#13---final-femenina-2026-07-11",
+    "team_a": "",
+    "team_b": "",
+    "league": "Tenis – Wimbledon – Día #13 – Final Femenina",
+    "date": "2026-07-11",
+    "time": "10:00",
+    "streams": [
+      {
+        "name": "ESPN 2",
+        "url": "https://fltvhd.com/online/canales.php?stream=even2"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even2"
   },
   {
     "id": "37054",
@@ -190,22 +158,6 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "37058",
-    "slug": "juventud-vs-torque-2026-07-11",
-    "team_a": "Juventud",
-    "team_b": "Torque",
-    "league": "Primera División",
-    "date": "2026-07-11",
-    "time": "08:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney1"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
   },
   {
     "id": "37060",
@@ -283,22 +235,6 @@
     "league": "Rugby – Nations Championship",
     "date": "2026-07-11",
     "time": "13:30",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://fltvhd.com/online/canales.php?stream=even3"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
-  },
-  {
-    "id": "37071",
-    "slug": "fiji-vs-inglaterra-2026-07-11",
-    "team_a": "Fiji",
-    "team_b": "Inglaterra",
-    "league": "Rugby – Nations Championship",
-    "date": "2026-07-11",
-    "time": "08:00",
     "streams": [
       {
         "name": "ESPN 3",
