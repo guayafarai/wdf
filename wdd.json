@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-11T17:50:20.483504Z",
+    "last_updated": "2026-07-11T18:52:17.501885Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 18
+    "total_events": 17
   },
   "data": [
     {
@@ -285,66 +285,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-10-13T00:43:11.108Z",
                     "updatedAt": "2025-10-13T00:43:11.108Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37074,
-      "attributes": {
-        "diary_description": "Tenis – Wimbledon – Día #13 – Final Femenina",
-        "diary_hour": "10:00:00",
-        "date_diary": "2026-07-11",
-        "createdAt": "2026-07-11T01:05:16.762Z",
-        "updatedAt": "2026-07-11T15:34:24.337Z",
-        "publishedAt": "2026-07-11T02:18:27.619Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjI=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 53,
-            "attributes": {
-              "name": "Tennis",
-              "createdAt": "2024-01-25T06:16:42.975Z",
-              "updatedAt": "2025-08-03T14:36:42.387Z",
-              "publishedAt": "2024-01-25T06:16:44.102Z",
-              "image": {
-                "data": {
-                  "id": 351,
-                  "attributes": {
-                    "name": "Tenis_a5d5fcd1d1.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "Tenis_a5d5fcd1d1_594ebf0186",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.18,
-                    "url": "/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:36:38.398Z",
-                    "updatedAt": "2025-08-03T14:36:38.398Z"
                   }
                 }
               }
