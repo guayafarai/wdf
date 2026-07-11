@@ -68,50 +68,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
   },
   {
-    "id": "37079",
-    "slug": "noruega-vs-inglaterra-2026-07-11",
-    "team_a": "Noruega",
-    "team_b": "Inglaterra",
-    "league": "Copa del Mundo",
-    "date": "2026-07-11",
-    "time": "16:00",
-    "streams": [
-      {
-        "name": "DSports",
-        "url": "https://fltvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "name": "Canal 5 MX",
-        "url": "https://fltvhd.com/canales.php?stream=canal5"
-      },
-      {
-        "name": "Telemundo",
-        "url": "https://fltvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "name": "Azteca 7",
-        "url": "https://fltvhd.com/canales.php?stream=azteca7"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "37074",
-    "slug": "tenis---wimbledon---día-#13---final-femenina-2026-07-11",
-    "team_a": "",
-    "team_b": "",
-    "league": "Tenis – Wimbledon – Día #13 – Final Femenina",
-    "date": "2026-07-11",
-    "time": "10:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://fltvhd.com/online/canales.php?stream=even2"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even2"
-  },
-  {
     "id": "37054",
     "slug": "real-oruro-vs-gualberto-villarroel-sj-2026-07-11",
     "team_a": "Real Oruro",
@@ -121,11 +77,47 @@
     "time": "14:00",
     "streams": [
       {
-        "name": "Futbol Canal",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1"
+        "name": "Entel TV PLUS+",
+        "url": "https://fltvhd.com/online/canales.php?stream=even1"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
+  },
+  {
+    "id": "37079",
+    "slug": "noruega-vs-inglaterra-2026-07-11",
+    "team_a": "Noruega",
+    "team_b": "Inglaterra",
+    "league": "Copa del Mundo",
+    "date": "2026-07-11",
+    "time": "16:00",
+    "streams": [
+      {
+        "name": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php"
+      },
+      {
+        "name": "Dsports (AR/PE/CO/EC/CL/UY)",
+        "url": "https://tvhd1.com/canales/dsportslatam.php"
+      },
+      {
+        "name": "DSports | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=dsports"
+      },
+      {
+        "name": "Telemundo | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://fltvhd.com/canales.php?stream=canal5"
+      },
+      {
+        "name": "Azteca 7",
+        "url": "https://fltvhd.com/canales.php?stream=azteca7"
+      }
+    ],
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   },
   {
     "id": "37055",
@@ -212,22 +204,6 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=sportv"
   },
   {
-    "id": "37073",
-    "slug": "sbk---prosecco-doc-uk---donington-park---carrera-#1-2026-07-11",
-    "team_a": "",
-    "team_b": "",
-    "league": "SBK – Prosecco Doc UK – Donington Park – Carrera #1",
-    "date": "2026-07-11",
-    "time": "09:25",
-    "streams": [
-      {
-        "name": "ESPN 7",
-        "url": "https://fltvhd.com/canales.php?stream=espn7"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=espn7"
-  },
-  {
     "id": "37077",
     "slug": "los-pumas-vs-gales-2026-07-11",
     "team_a": "Los Pumas",
@@ -239,26 +215,6 @@
       {
         "name": "ESPN 3",
         "url": "https://fltvhd.com/online/canales.php?stream=even3"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
-  },
-  {
-    "id": "37075",
-    "slug": "uruguay-vs-rumania-2026-07-11",
-    "team_a": "Uruguay",
-    "team_b": "Rumania",
-    "league": "Rugby – Nations Cup",
-    "date": "2026-07-11",
-    "time": "11:50",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://fltvhd.com/online/canales.php?stream=even3"
-      },
-      {
-        "name": "ESPN 3 | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=espn3"
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
@@ -278,6 +234,38 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney2"
+  },
+  {
+    "id": "37075",
+    "slug": "uruguay-vs-rumania-2026-07-11",
+    "team_a": "Uruguay",
+    "team_b": "Rumania",
+    "league": "Rugby – Nations Cup",
+    "date": "2026-07-11",
+    "time": "11:50",
+    "streams": [
+      {
+        "name": "ESPN 3",
+        "url": "https://fltvhd.com/online/canales.php?stream=even3"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
+  },
+  {
+    "id": "37059",
+    "slug": "danubio-vs-nacional-2026-07-11",
+    "team_a": "Danubio",
+    "team_b": "Nacional",
+    "league": "Primera División",
+    "date": "2026-07-11",
+    "time": "13:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney3"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney3"
   },
   {
     "id": "37053",
@@ -330,21 +318,5 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "37059",
-    "slug": "danubio-vs-nacional-2026-07-11",
-    "team_a": "Danubio",
-    "team_b": "Nacional",
-    "league": "Primera División",
-    "date": "2026-07-11",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=espn"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=espn"
   }
 ]
