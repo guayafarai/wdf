@@ -10,10 +10,10 @@
     "streams": [
       {
         "name": "Disney+",
-        "url": "https://tvhd2.com/canales.php?stream=espn"
+        "url": "https://fltvhd.com/canales.php?stream=espn"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=espn"
   },
   {
     "id": "37064",
@@ -100,22 +100,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
   },
   {
-    "id": "37068",
-    "slug": "japón-vs-irlanda-2026-07-11",
-    "team_a": "Japón",
-    "team_b": "Irlanda",
-    "league": "Rugby – Nations Championship",
-    "date": "2026-07-11",
-    "time": "05:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://fltvhd.com/canales.php?stream=even2"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=even2"
-  },
-  {
     "id": "37072",
     "slug": "golf---genesis-scottish-open---tercera-vuelta-2026-07-11",
     "team_a": "",
@@ -130,6 +114,34 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even4"
+  },
+  {
+    "id": "37079",
+    "slug": "noruega-vs-inglaterra-2026-07-11",
+    "team_a": "Noruega",
+    "team_b": "Inglaterra",
+    "league": "Copa del Mundo",
+    "date": "2026-07-11",
+    "time": "16:00",
+    "streams": [
+      {
+        "name": "DSports",
+        "url": "https://fltvhd.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://fltvhd.com/canales.php?stream=canal5"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://fltvhd.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Azteca 7",
+        "url": "https://fltvhd.com/canales.php?stream=azteca7"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "37054",
@@ -206,10 +218,10 @@
     "streams": [
       {
         "name": "Disney+",
-        "url": "https://tvhd2.com/canales.php?stream=espn"
+        "url": "https://fltvhd.com/canales.php?stream=espn"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=espn"
   },
   {
     "id": "37063",
@@ -238,30 +250,14 @@
     "streams": [
       {
         "name": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+        "url": "https://fltvhd.com/canales.php?stream=sportv"
       },
       {
         "name": "Premiere BR",
-        "url": "https://tvhd2.com/canales.php?stream=premiere1"
+        "url": "https://fltvhd.com/canales.php?stream=premiere1"
       }
     ],
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "37069",
-    "slug": "ciclismo---tour-de-france---etapa-#8-2026-07-11",
-    "team_a": "",
-    "team_b": "",
-    "league": "Ciclismo – Tour de France – Etapa #8",
-    "date": "2026-07-11",
-    "time": "06:00",
-    "streams": [
-      {
-        "name": "ESPN 5",
-        "url": "https://fltvhd.com/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=espn5"
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=sportv"
   },
   {
     "id": "37073",
@@ -332,6 +328,22 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
   },
   {
+    "id": "37061",
+    "slug": "river-plate-vs-plaza-colonia-2026-07-11",
+    "team_a": "River Plate",
+    "team_b": "Plaza Colonia",
+    "league": "Segunda División",
+    "date": "2026-07-11",
+    "time": "11:30",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney2"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney2"
+  },
+  {
     "id": "37053",
     "slug": "argentina-vs-suiza-2026-07-11",
     "team_a": "Argentina",
@@ -394,25 +406,9 @@
     "streams": [
       {
         "name": "Disney+",
-        "url": "https://tvhd2.com/canales.php?stream=espn"
+        "url": "https://fltvhd.com/canales.php?stream=espn"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
-  },
-  {
-    "id": "37061",
-    "slug": "river-plate-vs-plaza-colonia-2026-07-11",
-    "team_a": "River Plate",
-    "team_b": "Plaza Colonia",
-    "league": "Segunda División",
-    "date": "2026-07-11",
-    "time": "11:30",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://tvhd2.com/canales.php?stream=espn"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=espn"
   }
 ]
