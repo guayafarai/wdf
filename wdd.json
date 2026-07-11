@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-11T21:42:40.656240Z",
+    "last_updated": "2026-07-11T22:40:27.869751Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 10
+    "total_events": 7
   },
   "data": [
     {
@@ -164,7 +164,7 @@
         "diary_hour": "16:00:00",
         "date_diary": "2026-07-11",
         "createdAt": "2026-07-11T13:34:10.255Z",
-        "updatedAt": "2026-07-11T21:37:16.107Z",
+        "updatedAt": "2026-07-11T22:26:50.571Z",
         "publishedAt": "2026-07-11T13:34:13.023Z",
         "channels": {
           "data": []
@@ -180,11 +180,11 @@
               }
             },
             {
-              "id": 682,
+              "id": 1455,
               "attributes": {
-                "embed_name": "FOX Español HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjQ=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even4"
+                "embed_name": "DSports | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZHNwb3J0cw==",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=dsports"
               }
             },
             {
@@ -212,6 +212,14 @@
               }
             },
             {
+              "id": 682,
+              "attributes": {
+                "embed_name": "FOX Español HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjQ=",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even4"
+              }
+            },
+            {
               "id": 1234,
               "attributes": {
                 "embed_name": "Fox GUA HD",
@@ -225,14 +233,6 @@
                 "embed_name": "Dsports (AR/PE/CO/EC/CL/UY)",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzbGF0YW0ucGhw",
                 "decoded_iframe_url": "https://tvhd1.com/canales/dsportslatam.php"
-              }
-            },
-            {
-              "id": 1455,
-              "attributes": {
-                "embed_name": "DSports | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZHNwb3J0cw==",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=dsports"
               }
             },
             {
@@ -284,38 +284,6 @@
               }
             },
             {
-              "id": 620,
-              "attributes": {
-                "embed_name": "Azteca 7",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1henRlY2E3",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=azteca7"
-              }
-            },
-            {
-              "id": 1386,
-              "attributes": {
-                "embed_name": "Azteca 7 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1henRlY2E3",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=azteca7"
-              }
-            },
-            {
-              "id": 1387,
-              "attributes": {
-                "embed_name": "Azteca 7 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWF6dGVjYTc=",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=azteca7"
-              }
-            },
-            {
-              "id": 1459,
-              "attributes": {
-                "embed_name": "Azteca 7 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09YXp0ZWNhNw==",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=azteca7"
-              }
-            },
-            {
               "id": 1438,
               "attributes": {
                 "embed_name": "Deportes TV. C",
@@ -353,168 +321,6 @@
                     "provider_metadata": null,
                     "createdAt": "2026-06-24T23:22:08.564Z",
                     "updatedAt": "2026-06-24T23:22:42.745Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37056,
-      "attributes": {
-        "diary_description": "Serie A: \nMushuc Runa vs Independiente del Valle",
-        "diary_hour": "14:10:00",
-        "date_diary": "2026-07-11",
-        "createdAt": "2026-07-11T00:35:42.878Z",
-        "updatedAt": "2026-07-11T19:09:46.958Z",
-        "publishedAt": "2026-07-11T02:17:40.249Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 368,
-              "attributes": {
-                "embed_name": "ECDF HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=ecdf_ligapro"
-              }
-            },
-            {
-              "id": 914,
-              "attributes": {
-                "embed_name": "ECDF LigaPro",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8=",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 13,
-            "attributes": {
-              "name": "Ecuador",
-              "createdAt": "2023-11-22T15:42:56.252Z",
-              "updatedAt": "2025-08-03T14:39:57.465Z",
-              "publishedAt": "2023-11-22T15:42:57.903Z",
-              "image": {
-                "data": {
-                  "id": 353,
-                  "attributes": {
-                    "name": "ecuador_6b5e87e044.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "ecuador_6b5e87e044_2fd81bc301",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.82,
-                    "url": "/uploads/ecuador_6b5e87e044_2fd81bc301.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:39:52.709Z",
-                    "updatedAt": "2025-08-03T14:39:52.709Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37054,
-      "attributes": {
-        "diary_description": "Primera División: Real Oruro vs Gualberto Villarroel SJ",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-07-11",
-        "createdAt": "2026-07-11T00:34:18.826Z",
-        "updatedAt": "2026-07-11T19:29:25.680Z",
-        "publishedAt": "2026-07-11T02:17:40.249Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1191,
-              "attributes": {
-                "embed_name": "Entel TV PLUS+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 18,
-            "attributes": {
-              "name": "Bolivia",
-              "createdAt": "2023-11-22T15:49:30.375Z",
-              "updatedAt": "2025-08-03T16:33:08.297Z",
-              "publishedAt": "2023-11-22T15:49:34.480Z",
-              "image": {
-                "data": {
-                  "id": 366,
-                  "attributes": {
-                    "name": "bolivia-png.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 831,
-                    "height": 832,
-                    "formats": {
-                      "small": {
-                        "ext": ".png",
-                        "url": "/uploads/small_bolivia_png_81cfc9f71f.png",
-                        "hash": "small_bolivia_png_81cfc9f71f",
-                        "mime": "image/png",
-                        "name": "small_bolivia-png.png",
-                        "path": null,
-                        "size": 65.21,
-                        "width": 499,
-                        "height": 500
-                      },
-                      "medium": {
-                        "ext": ".png",
-                        "url": "/uploads/medium_bolivia_png_81cfc9f71f.png",
-                        "hash": "medium_bolivia_png_81cfc9f71f",
-                        "mime": "image/png",
-                        "name": "medium_bolivia-png.png",
-                        "path": null,
-                        "size": 121.48,
-                        "width": 749,
-                        "height": 750
-                      },
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_bolivia_png_81cfc9f71f.png",
-                        "hash": "thumbnail_bolivia_png_81cfc9f71f",
-                        "mime": "image/png",
-                        "name": "thumbnail_bolivia-png.png",
-                        "path": null,
-                        "size": 11.54,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "bolivia_png_81cfc9f71f",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 20.97,
-                    "url": "/uploads/bolivia_png_81cfc9f71f.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:32:14.648Z",
-                    "updatedAt": "2025-08-03T16:32:14.648Z"
                   }
                 }
               }
@@ -650,7 +456,7 @@
         "diary_hour": "20:00:00",
         "date_diary": "2026-07-11",
         "createdAt": "2026-07-11T00:32:55.372Z",
-        "updatedAt": "2026-07-11T19:59:27.117Z",
+        "updatedAt": "2026-07-11T22:25:31.265Z",
         "publishedAt": "2026-07-11T02:17:40.249Z",
         "channels": {
           "data": []
@@ -746,6 +552,14 @@
               }
             },
             {
+              "id": 833,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkx",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
+              }
+            },
+            {
               "id": 736,
               "attributes": {
                 "embed_name": "Caracol TV",
@@ -778,6 +592,14 @@
               }
             },
             {
+              "id": 759,
+              "attributes": {
+                "embed_name": "Telefe",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dGVsZWZl",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=telefe"
+              }
+            },
+            {
               "id": 787,
               "attributes": {
                 "embed_name": "Telemundo",
@@ -794,11 +616,11 @@
               }
             },
             {
-              "id": 759,
+              "id": 1438,
               "attributes": {
-                "embed_name": "Telefe",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dGVsZWZl",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=telefe"
+                "embed_name": "Deportes TV. C",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1nb2x0dg==",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=goltv"
               }
             }
           ]
@@ -891,82 +713,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T14:39:52.709Z",
                     "updatedAt": "2025-08-03T14:39:52.709Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37063,
-      "attributes": {
-        "diary_description": " Copa Chile: \nMagallanes vs Audax Italiano",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-07-11",
-        "createdAt": "2026-07-11T00:41:03.422Z",
-        "updatedAt": "2026-07-11T19:10:14.687Z",
-        "publishedAt": "2026-07-11T02:18:06.920Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1464,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dG50c3BvcnRzY2hpbGU=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tntsportschile"
-              }
-            },
-            {
-              "id": 624,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=tntsportschile"
-              }
-            },
-            {
-              "id": 318,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=tntsportschile"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 12,
-            "attributes": {
-              "name": "Chile",
-              "createdAt": "2023-11-22T15:42:40.655Z",
-              "updatedAt": "2025-08-03T16:01:24.110Z",
-              "publishedAt": "2023-11-22T15:42:42.314Z",
-              "image": {
-                "data": {
-                  "id": 361,
-                  "attributes": {
-                    "name": "chile_86c07a7b38.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "chile_86c07a7b38_fad5126fd0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.7,
-                    "url": "/uploads/chile_86c07a7b38_fad5126fd0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:01:20.348Z",
-                    "updatedAt": "2025-08-03T16:01:20.348Z"
                   }
                 }
               }
