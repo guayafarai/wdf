@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-11T09:21:25.102493Z",
+    "last_updated": "2026-07-11T10:58:50.365417Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 27
+    "total_events": 26
   },
   "data": [
     {
@@ -133,116 +133,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T16:01:20.348Z",
                     "updatedAt": "2025-08-03T16:01:20.348Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37066,
-      "attributes": {
-        "diary_description": "Rugby – Nations Championship – Australia vs Francia",
-        "diary_hour": "02:30:00",
-        "date_diary": "2026-07-11",
-        "createdAt": "2026-07-11T00:47:39.767Z",
-        "updatedAt": "2026-07-11T00:47:39.767Z",
-        "publishedAt": "2026-07-11T02:18:06.920Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMg==",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=even2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1ldmVuMg==",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=even2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWV2ZW4y",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=even2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 134,
-            "attributes": {
-              "name": "Rugby",
-              "createdAt": "2025-03-01T00:16:20.346Z",
-              "updatedAt": "2025-11-16T14:52:22.575Z",
-              "publishedAt": "2025-03-01T00:16:22.392Z",
-              "image": {
-                "data": {
-                  "id": 413,
-                  "attributes": {
-                    "name": "Rugby.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 763,
-                    "height": 763,
-                    "formats": {
-                      "small": {
-                        "ext": ".png",
-                        "url": "/uploads/small_Rugby_f99a2b54da.png",
-                        "hash": "small_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "small_Rugby.png",
-                        "path": null,
-                        "size": 138.17,
-                        "width": 500,
-                        "height": 500
-                      },
-                      "medium": {
-                        "ext": ".png",
-                        "url": "/uploads/medium_Rugby_f99a2b54da.png",
-                        "hash": "medium_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "medium_Rugby.png",
-                        "path": null,
-                        "size": 250.24,
-                        "width": 750,
-                        "height": 750
-                      },
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Rugby_f99a2b54da.png",
-                        "hash": "thumbnail_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "thumbnail_Rugby.png",
-                        "path": null,
-                        "size": 22.03,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "Rugby_f99a2b54da",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 74.94,
-                    "url": "/uploads/Rugby_f99a2b54da.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-11-16T14:52:15.177Z",
-                    "updatedAt": "2025-11-16T14:52:15.177Z"
                   }
                 }
               }
