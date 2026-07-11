@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-11T10:58:50.365417Z",
+    "last_updated": "2026-07-11T11:55:32.337451Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 26
+    "total_events": 24
   },
   "data": [
     {
@@ -142,116 +142,6 @@
       }
     },
     {
-      "id": 37068,
-      "attributes": {
-        "diary_description": "Rugby – Nations Championship – Japón vs Irlanda",
-        "diary_hour": "05:00:00",
-        "date_diary": "2026-07-11",
-        "createdAt": "2026-07-11T00:57:50.505Z",
-        "updatedAt": "2026-07-11T00:57:50.505Z",
-        "publishedAt": "2026-07-11T02:18:06.920Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMg==",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=even2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1ldmVuMg==",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=even2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWV2ZW4y",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=even2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 134,
-            "attributes": {
-              "name": "Rugby",
-              "createdAt": "2025-03-01T00:16:20.346Z",
-              "updatedAt": "2025-11-16T14:52:22.575Z",
-              "publishedAt": "2025-03-01T00:16:22.392Z",
-              "image": {
-                "data": {
-                  "id": 413,
-                  "attributes": {
-                    "name": "Rugby.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 763,
-                    "height": 763,
-                    "formats": {
-                      "small": {
-                        "ext": ".png",
-                        "url": "/uploads/small_Rugby_f99a2b54da.png",
-                        "hash": "small_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "small_Rugby.png",
-                        "path": null,
-                        "size": 138.17,
-                        "width": 500,
-                        "height": 500
-                      },
-                      "medium": {
-                        "ext": ".png",
-                        "url": "/uploads/medium_Rugby_f99a2b54da.png",
-                        "hash": "medium_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "medium_Rugby.png",
-                        "path": null,
-                        "size": 250.24,
-                        "width": 750,
-                        "height": 750
-                      },
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Rugby_f99a2b54da.png",
-                        "hash": "thumbnail_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "thumbnail_Rugby.png",
-                        "path": null,
-                        "size": 22.03,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "Rugby_f99a2b54da",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 74.94,
-                    "url": "/uploads/Rugby_f99a2b54da.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-11-16T14:52:15.177Z",
-                    "updatedAt": "2025-11-16T14:52:15.177Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 37070,
       "attributes": {
         "diary_description": "Moto GP – GP de Alemania – Sprint",
@@ -331,82 +221,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-23T15:09:16.118Z",
                     "updatedAt": "2025-08-23T15:09:16.118Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37072,
-      "attributes": {
-        "diary_description": "Golf – Genesis Scottish Open – Tercera Vuelta",
-        "diary_hour": "08:30:00",
-        "date_diary": "2026-07-11",
-        "createdAt": "2026-07-11T01:02:26.138Z",
-        "updatedAt": "2026-07-11T01:02:26.138Z",
-        "publishedAt": "2026-07-11T02:18:27.619Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 520,
-              "attributes": {
-                "embed_name": "ESPN 4",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjI=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even2"
-              }
-            },
-            {
-              "id": 1398,
-              "attributes": {
-                "embed_name": "ESPN 4 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1ldmVuMg==",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=even2"
-              }
-            },
-            {
-              "id": 1399,
-              "attributes": {
-                "embed_name": "ESPN 4 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWV2ZW4y",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=even2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 22,
-            "attributes": {
-              "name": "Golf",
-              "createdAt": "2023-11-23T13:25:40.717Z",
-              "updatedAt": "2025-09-04T14:08:20.151Z",
-              "publishedAt": "2023-11-23T13:25:42.231Z",
-              "image": {
-                "data": {
-                  "id": 393,
-                  "attributes": {
-                    "name": "golf_4a8d942645.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "golf_4a8d942645_6c3bec75aa",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.51,
-                    "url": "/uploads/golf_4a8d942645_6c3bec75aa.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T14:08:15.762Z",
-                    "updatedAt": "2025-09-04T14:08:15.762Z"
                   }
                 }
               }
@@ -585,8 +399,8 @@
               "id": 656,
               "attributes": {
                 "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMw==",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=even3"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjM=",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
               }
             },
             {
@@ -644,105 +458,151 @@
       }
     },
     {
-      "id": 37052,
+      "id": 37068,
       "attributes": {
-        "diary_description": "Copa del Mundo: Noruega vs Inglaterra",
-        "diary_hour": "16:00:00",
+        "diary_description": "Rugby – Nations Championship – Japón vs Irlanda",
+        "diary_hour": "05:00:00",
         "date_diary": "2026-07-11",
-        "createdAt": "2026-07-11T00:29:17.832Z",
-        "updatedAt": "2026-07-11T00:29:17.832Z",
-        "publishedAt": "2026-07-11T02:17:40.249Z",
+        "createdAt": "2026-07-11T00:57:50.505Z",
+        "updatedAt": "2026-07-11T11:38:28.412Z",
+        "publishedAt": "2026-07-11T02:18:06.920Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 644,
+              "id": 640,
               "attributes": {
-                "embed_name": "DSports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=dsports"
-              }
-            },
-            {
-              "id": 341,
-              "attributes": {
-                "embed_name": "DSports | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=dsports"
-              }
-            },
-            {
-              "id": 748,
-              "attributes": {
-                "embed_name": "DSports | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM=",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=dsports"
-              }
-            },
-            {
-              "id": 1455,
-              "attributes": {
-                "embed_name": "DSports | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZHNwb3J0cw==",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=dsports"
-              }
-            },
-            {
-              "id": 996,
-              "attributes": {
-                "embed_name": "Canal 5 MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1jYW5hbDU=",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=canal5"
-              }
-            },
-            {
-              "id": 787,
-              "attributes": {
-                "embed_name": "Telemundo",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8=",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=telemundo"
-              }
-            },
-            {
-              "id": 1458,
-              "attributes": {
-                "embed_name": "Telemundo | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dGVsZW11bmRv",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=telemundo"
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMg==",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=even2"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 151,
+            "id": 134,
             "attributes": {
-              "name": "mundial 2026",
-              "createdAt": "2026-06-11T10:02:46.045Z",
-              "updatedAt": "2026-06-24T23:22:13.248Z",
-              "publishedAt": "2026-06-11T10:02:47.907Z",
+              "name": "Rugby",
+              "createdAt": "2025-03-01T00:16:20.346Z",
+              "updatedAt": "2025-11-16T14:52:22.575Z",
+              "publishedAt": "2025-03-01T00:16:22.392Z",
               "image": {
                 "data": {
-                  "id": 437,
+                  "id": 413,
                   "attributes": {
-                    "name": "copamundial.png",
+                    "name": "Rugby.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 763,
+                    "height": 763,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "/uploads/small_Rugby_f99a2b54da.png",
+                        "hash": "small_Rugby_f99a2b54da",
+                        "mime": "image/png",
+                        "name": "small_Rugby.png",
+                        "path": null,
+                        "size": 138.17,
+                        "width": 500,
+                        "height": 500
+                      },
+                      "medium": {
+                        "ext": ".png",
+                        "url": "/uploads/medium_Rugby_f99a2b54da.png",
+                        "hash": "medium_Rugby_f99a2b54da",
+                        "mime": "image/png",
+                        "name": "medium_Rugby.png",
+                        "path": null,
+                        "size": 250.24,
+                        "width": 750,
+                        "height": 750
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Rugby_f99a2b54da.png",
+                        "hash": "thumbnail_Rugby_f99a2b54da",
+                        "mime": "image/png",
+                        "name": "thumbnail_Rugby.png",
+                        "path": null,
+                        "size": 22.03,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "Rugby_f99a2b54da",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 74.94,
+                    "url": "/uploads/Rugby_f99a2b54da.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-11-16T14:52:15.177Z",
+                    "updatedAt": "2025-11-16T14:52:15.177Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37072,
+      "attributes": {
+        "diary_description": "Golf – Genesis Scottish Open – Tercera Vuelta",
+        "diary_hour": "08:30:00",
+        "date_diary": "2026-07-11",
+        "createdAt": "2026-07-11T01:02:26.138Z",
+        "updatedAt": "2026-07-11T11:42:06.011Z",
+        "publishedAt": "2026-07-11T02:18:27.619Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 520,
+              "attributes": {
+                "embed_name": "ESPN 4",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjQ=",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even4"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 22,
+            "attributes": {
+              "name": "Golf",
+              "createdAt": "2023-11-23T13:25:40.717Z",
+              "updatedAt": "2025-09-04T14:08:20.151Z",
+              "publishedAt": "2023-11-23T13:25:42.231Z",
+              "image": {
+                "data": {
+                  "id": 393,
+                  "attributes": {
+                    "name": "golf_4a8d942645.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "copamundial_69c33e7ee4",
+                    "hash": "golf_4a8d942645_6c3bec75aa",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 2.91,
-                    "url": "/uploads/copamundial_69c33e7ee4.png",
+                    "size": 2.51,
+                    "url": "/uploads/golf_4a8d942645_6c3bec75aa.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-06-24T23:22:08.564Z",
-                    "updatedAt": "2026-06-24T23:22:42.745Z"
+                    "createdAt": "2025-09-04T14:08:15.762Z",
+                    "updatedAt": "2025-09-04T14:08:15.762Z"
                   }
                 }
               }
@@ -1254,94 +1114,6 @@
       }
     },
     {
-      "id": 37067,
-      "attributes": {
-        "diary_description": "Moto GP – GP de Alemania – Clasificación",
-        "diary_hour": "03:45:00",
-        "date_diary": "2026-07-11",
-        "createdAt": "2026-07-11T00:56:31.702Z",
-        "updatedAt": "2026-07-11T00:56:31.702Z",
-        "publishedAt": "2026-07-11T02:18:06.920Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 656,
-              "attributes": {
-                "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMw==",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=even3"
-              }
-            },
-            {
-              "id": 1357,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw==",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1358,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=espn3"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 108,
-            "attributes": {
-              "name": "MOTO GP",
-              "createdAt": "2024-06-30T11:32:49.911Z",
-              "updatedAt": "2025-08-23T15:09:20.078Z",
-              "publishedAt": "2024-06-30T11:32:52.382Z",
-              "image": {
-                "data": {
-                  "id": 386,
-                  "attributes": {
-                    "name": "motogp_modified_10d300b047.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 298,
-                    "height": 298,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_motogp_modified_10d300b047_8484f8e991.png",
-                        "hash": "thumbnail_motogp_modified_10d300b047_8484f8e991",
-                        "mime": "image/png",
-                        "name": "thumbnail_motogp_modified_10d300b047.png",
-                        "path": null,
-                        "size": 14.56,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "motogp_modified_10d300b047_8484f8e991",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 10.5,
-                    "url": "/uploads/motogp_modified_10d300b047_8484f8e991.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-23T15:09:16.118Z",
-                    "updatedAt": "2025-08-23T15:09:16.118Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 37069,
       "attributes": {
         "diary_description": "Ciclismo – Tour de France – Etapa #8",
@@ -1463,116 +1235,6 @@
       }
     },
     {
-      "id": 37071,
-      "attributes": {
-        "diary_description": "Rugby – Nations Championship – Fiji vs Inglaterra",
-        "diary_hour": "08:00:00",
-        "date_diary": "2026-07-11",
-        "createdAt": "2026-07-11T01:01:14.854Z",
-        "updatedAt": "2026-07-11T01:01:14.854Z",
-        "publishedAt": "2026-07-11T02:18:06.920Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 656,
-              "attributes": {
-                "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMw==",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=even3"
-              }
-            },
-            {
-              "id": 1357,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw==",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1358,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=espn3"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 134,
-            "attributes": {
-              "name": "Rugby",
-              "createdAt": "2025-03-01T00:16:20.346Z",
-              "updatedAt": "2025-11-16T14:52:22.575Z",
-              "publishedAt": "2025-03-01T00:16:22.392Z",
-              "image": {
-                "data": {
-                  "id": 413,
-                  "attributes": {
-                    "name": "Rugby.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 763,
-                    "height": 763,
-                    "formats": {
-                      "small": {
-                        "ext": ".png",
-                        "url": "/uploads/small_Rugby_f99a2b54da.png",
-                        "hash": "small_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "small_Rugby.png",
-                        "path": null,
-                        "size": 138.17,
-                        "width": 500,
-                        "height": 500
-                      },
-                      "medium": {
-                        "ext": ".png",
-                        "url": "/uploads/medium_Rugby_f99a2b54da.png",
-                        "hash": "medium_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "medium_Rugby.png",
-                        "path": null,
-                        "size": 250.24,
-                        "width": 750,
-                        "height": 750
-                      },
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Rugby_f99a2b54da.png",
-                        "hash": "thumbnail_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "thumbnail_Rugby.png",
-                        "path": null,
-                        "size": 22.03,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "Rugby_f99a2b54da",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 74.94,
-                    "url": "/uploads/Rugby_f99a2b54da.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-11-16T14:52:15.177Z",
-                    "updatedAt": "2025-11-16T14:52:15.177Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 37073,
       "attributes": {
         "diary_description": "SBK – Prosecco Doc UK – Donington Park – Carrera #1",
@@ -1667,7 +1329,7 @@
         "diary_hour": "11:50:00",
         "date_diary": "2026-07-11",
         "createdAt": "2026-07-11T01:07:29.129Z",
-        "updatedAt": "2026-07-11T01:07:29.129Z",
+        "updatedAt": "2026-07-11T11:40:42.653Z",
         "publishedAt": "2026-07-11T02:18:27.619Z",
         "channels": {
           "data": []
@@ -1678,24 +1340,8 @@
               "id": 656,
               "attributes": {
                 "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMw==",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=even3"
-              }
-            },
-            {
-              "id": 1357,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw==",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=espn3"
-              }
-            },
-            {
-              "id": 1358,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=espn3"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjM=",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
               }
             }
           ]
@@ -1777,7 +1423,7 @@
         "diary_hour": "13:30:00",
         "date_diary": "2026-07-11",
         "createdAt": "2026-07-11T01:09:25.807Z",
-        "updatedAt": "2026-07-11T01:09:25.807Z",
+        "updatedAt": "2026-07-11T11:41:08.465Z",
         "publishedAt": "2026-07-11T02:18:27.619Z",
         "channels": {
           "data": []
@@ -1788,24 +1434,102 @@
               "id": 656,
               "attributes": {
                 "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMw==",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=even3"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjM=",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
               }
-            },
-            {
-              "id": 1357,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw==",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=espn3"
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 134,
+            "attributes": {
+              "name": "Rugby",
+              "createdAt": "2025-03-01T00:16:20.346Z",
+              "updatedAt": "2025-11-16T14:52:22.575Z",
+              "publishedAt": "2025-03-01T00:16:22.392Z",
+              "image": {
+                "data": {
+                  "id": 413,
+                  "attributes": {
+                    "name": "Rugby.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 763,
+                    "height": 763,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "/uploads/small_Rugby_f99a2b54da.png",
+                        "hash": "small_Rugby_f99a2b54da",
+                        "mime": "image/png",
+                        "name": "small_Rugby.png",
+                        "path": null,
+                        "size": 138.17,
+                        "width": 500,
+                        "height": 500
+                      },
+                      "medium": {
+                        "ext": ".png",
+                        "url": "/uploads/medium_Rugby_f99a2b54da.png",
+                        "hash": "medium_Rugby_f99a2b54da",
+                        "mime": "image/png",
+                        "name": "medium_Rugby.png",
+                        "path": null,
+                        "size": 250.24,
+                        "width": 750,
+                        "height": 750
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Rugby_f99a2b54da.png",
+                        "hash": "thumbnail_Rugby_f99a2b54da",
+                        "mime": "image/png",
+                        "name": "thumbnail_Rugby.png",
+                        "path": null,
+                        "size": 22.03,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "Rugby_f99a2b54da",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 74.94,
+                    "url": "/uploads/Rugby_f99a2b54da.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-11-16T14:52:15.177Z",
+                    "updatedAt": "2025-11-16T14:52:15.177Z"
+                  }
+                }
               }
-            },
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37071,
+      "attributes": {
+        "diary_description": "Rugby – Nations Championship – Fiji vs Inglaterra",
+        "diary_hour": "08:00:00",
+        "date_diary": "2026-07-11",
+        "createdAt": "2026-07-11T01:01:14.854Z",
+        "updatedAt": "2026-07-11T11:48:11.171Z",
+        "publishedAt": "2026-07-11T02:18:06.920Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
             {
-              "id": 1358,
+              "id": 656,
               "attributes": {
-                "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=espn3"
+                "embed_name": "ESPN 3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjM=",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
               }
             }
           ]
