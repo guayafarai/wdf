@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-07-11T11:55:32.337451Z",
+    "last_updated": "2026-07-11T13:07:19.103123Z",
     "source": "https://pltvhd.com/diaries.json",
     "total_events": 24
   },
@@ -1323,100 +1323,6 @@
       }
     },
     {
-      "id": 37075,
-      "attributes": {
-        "diary_description": "Rugby – Nations Cup – Uruguay vs Rumania",
-        "diary_hour": "11:50:00",
-        "date_diary": "2026-07-11",
-        "createdAt": "2026-07-11T01:07:29.129Z",
-        "updatedAt": "2026-07-11T11:40:42.653Z",
-        "publishedAt": "2026-07-11T02:18:27.619Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 656,
-              "attributes": {
-                "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjM=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 134,
-            "attributes": {
-              "name": "Rugby",
-              "createdAt": "2025-03-01T00:16:20.346Z",
-              "updatedAt": "2025-11-16T14:52:22.575Z",
-              "publishedAt": "2025-03-01T00:16:22.392Z",
-              "image": {
-                "data": {
-                  "id": 413,
-                  "attributes": {
-                    "name": "Rugby.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 763,
-                    "height": 763,
-                    "formats": {
-                      "small": {
-                        "ext": ".png",
-                        "url": "/uploads/small_Rugby_f99a2b54da.png",
-                        "hash": "small_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "small_Rugby.png",
-                        "path": null,
-                        "size": 138.17,
-                        "width": 500,
-                        "height": 500
-                      },
-                      "medium": {
-                        "ext": ".png",
-                        "url": "/uploads/medium_Rugby_f99a2b54da.png",
-                        "hash": "medium_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "medium_Rugby.png",
-                        "path": null,
-                        "size": 250.24,
-                        "width": 750,
-                        "height": 750
-                      },
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Rugby_f99a2b54da.png",
-                        "hash": "thumbnail_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "thumbnail_Rugby.png",
-                        "path": null,
-                        "size": 22.03,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "Rugby_f99a2b54da",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 74.94,
-                    "url": "/uploads/Rugby_f99a2b54da.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-11-16T14:52:15.177Z",
-                    "updatedAt": "2025-11-16T14:52:15.177Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 37077,
       "attributes": {
         "diary_description": "Rugby – Nations Championship – Los Pumas vs Gales",
@@ -1530,6 +1436,116 @@
                 "embed_name": "ESPN 3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjM=",
                 "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 134,
+            "attributes": {
+              "name": "Rugby",
+              "createdAt": "2025-03-01T00:16:20.346Z",
+              "updatedAt": "2025-11-16T14:52:22.575Z",
+              "publishedAt": "2025-03-01T00:16:22.392Z",
+              "image": {
+                "data": {
+                  "id": 413,
+                  "attributes": {
+                    "name": "Rugby.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 763,
+                    "height": 763,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "/uploads/small_Rugby_f99a2b54da.png",
+                        "hash": "small_Rugby_f99a2b54da",
+                        "mime": "image/png",
+                        "name": "small_Rugby.png",
+                        "path": null,
+                        "size": 138.17,
+                        "width": 500,
+                        "height": 500
+                      },
+                      "medium": {
+                        "ext": ".png",
+                        "url": "/uploads/medium_Rugby_f99a2b54da.png",
+                        "hash": "medium_Rugby_f99a2b54da",
+                        "mime": "image/png",
+                        "name": "medium_Rugby.png",
+                        "path": null,
+                        "size": 250.24,
+                        "width": 750,
+                        "height": 750
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Rugby_f99a2b54da.png",
+                        "hash": "thumbnail_Rugby_f99a2b54da",
+                        "mime": "image/png",
+                        "name": "thumbnail_Rugby.png",
+                        "path": null,
+                        "size": 22.03,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "Rugby_f99a2b54da",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 74.94,
+                    "url": "/uploads/Rugby_f99a2b54da.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-11-16T14:52:15.177Z",
+                    "updatedAt": "2025-11-16T14:52:15.177Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37075,
+      "attributes": {
+        "diary_description": "Rugby – Nations Cup – Uruguay vs Rumania",
+        "diary_hour": "11:50:00",
+        "date_diary": "2026-07-11",
+        "createdAt": "2026-07-11T01:07:29.129Z",
+        "updatedAt": "2026-07-11T12:40:44.029Z",
+        "publishedAt": "2026-07-11T02:18:27.619Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 656,
+              "attributes": {
+                "embed_name": "ESPN 3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjM=",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
+              }
+            },
+            {
+              "id": 1357,
+              "attributes": {
+                "embed_name": "ESPN 3 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw==",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=espn3"
+              }
+            },
+            {
+              "id": 1358,
+              "attributes": {
+                "embed_name": "ESPN 3 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=espn3"
               }
             }
           ]
