@@ -16,62 +16,6 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "37079",
-    "slug": "noruega-vs-inglaterra-2026-07-11",
-    "team_a": "Noruega",
-    "team_b": "Inglaterra",
-    "league": "Copa del Mundo",
-    "date": "2026-07-11",
-    "time": "16:00",
-    "streams": [
-      {
-        "name": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php"
-      },
-      {
-        "name": "Dsports (AR/PE/CO/EC/CL/UY)",
-        "url": "https://tvhd1.com/canales/dsportslatam.php"
-      },
-      {
-        "name": "DSports | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=dsports"
-      },
-      {
-        "name": "Telemundo | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=telemundo"
-      },
-      {
-        "name": "Canal 5 MX",
-        "url": "https://fltvhd.com/canales.php?stream=canal5"
-      },
-      {
-        "name": "Azteca 7",
-        "url": "https://fltvhd.com/canales.php?stream=azteca7"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://fltvhd.com/canales.php?stream=goltv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
-  },
-  {
-    "id": "37076",
-    "slug": "minnesota-vs-new-york-2026-07-11",
-    "team_a": "Minnesota",
-    "team_b": "New York",
-    "league": "WNBA",
-    "date": "2026-07-11",
-    "time": "12:00",
-    "streams": [
-      {
-        "name": "ESPN 5",
-        "url": "https://fltvhd.com/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=espn5"
-  },
-  {
     "id": "37078",
     "slug": "san-antonio-spurs-vs-new-york-knicks-2026-07-11",
     "team_a": "San Antonio Spurs",
@@ -92,36 +36,60 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
   },
   {
-    "id": "37056",
-    "slug": "mushuc-runa-vs-independiente-del-valle-2026-07-11",
-    "team_a": "Mushuc Runa",
-    "team_b": "Independiente del Valle",
-    "league": "Serie A",
+    "id": "37079",
+    "slug": "noruega-vs-inglaterra-2026-07-11",
+    "team_a": "Noruega",
+    "team_b": "Inglaterra",
+    "league": "Copa del Mundo",
     "date": "2026-07-11",
-    "time": "14:10",
+    "time": "16:00",
     "streams": [
       {
-        "name": "ECDF HD",
-        "url": "https://fltvhd.com/online/canal.php?stream=ecdf_ligapro"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "37054",
-    "slug": "real-oruro-vs-gualberto-villarroel-sj-2026-07-11",
-    "team_a": "Real Oruro",
-    "team_b": "Gualberto Villarroel SJ",
-    "league": "Primera División",
-    "date": "2026-07-11",
-    "time": "14:00",
-    "streams": [
+        "name": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php"
+      },
       {
-        "name": "Entel TV PLUS+",
-        "url": "https://fltvhd.com/online/canales.php?stream=even1"
+        "name": "DSports | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=dsports"
+      },
+      {
+        "name": "TUDN Mexico HD1",
+        "url": "https://tvhd1.com/canales/tudnmx.php"
+      },
+      {
+        "name": "FOX ONE HD1",
+        "url": "https://tvhd1.com/canales/foxone.php"
+      },
+      {
+        "name": "Canal 5 MX HD1",
+        "url": "https://tvhd1.com/canales/canal5.php"
+      },
+      {
+        "name": "FOX Español HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=even4"
+      },
+      {
+        "name": "Fox GUA HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=even3"
+      },
+      {
+        "name": "Dsports (AR/PE/CO/EC/CL/UY)",
+        "url": "https://tvhd1.com/canales/dsportslatam.php"
+      },
+      {
+        "name": "Telemundo | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://fltvhd.com/canales.php?stream=canal5"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://fltvhd.com/canales.php?stream=goltv"
       }
     ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   },
   {
     "id": "37060",
@@ -156,42 +124,6 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney5"
   },
   {
-    "id": "37055",
-    "slug": "manta-vs-orense-2026-07-11",
-    "team_a": "Manta",
-    "team_b": "Orense",
-    "league": "Serie A",
-    "date": "2026-07-11",
-    "time": "12:00",
-    "streams": [
-      {
-        "name": "ECDF LigaPro",
-        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "37065",
-    "slug": "benfica-vs-flamengo-2026-07-11",
-    "team_a": "Benfica",
-    "team_b": "Flamengo",
-    "league": "Partido Amistoso Internacional",
-    "date": "2026-07-11",
-    "time": "13:30",
-    "streams": [
-      {
-        "name": "Sportv BR",
-        "url": "https://fltvhd.com/canales.php?stream=sportv"
-      },
-      {
-        "name": "Premiere BR",
-        "url": "https://fltvhd.com/canales.php?stream=premiere1"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=sportv"
-  },
-  {
     "id": "37053",
     "slug": "argentina-vs-suiza-2026-07-11",
     "team_a": "Argentina",
@@ -221,6 +153,10 @@
         "url": "https://tvhd1.com/canales/dsportsar.php"
       },
       {
+        "name": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney1"
+      },
+      {
         "name": "Caracol TV",
         "url": "https://fltvhd.com/canales.php?stream=caracol"
       },
@@ -231,41 +167,13 @@
       {
         "name": "Telemundo",
         "url": "https://fltvhd.com/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://fltvhd.com/canales.php?stream=goltv"
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=dsports"
-  },
-  {
-    "id": "37077",
-    "slug": "los-pumas-vs-gales-2026-07-11",
-    "team_a": "Los Pumas",
-    "team_b": "Gales",
-    "league": "Rugby – Nations Championship",
-    "date": "2026-07-11",
-    "time": "13:30",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://fltvhd.com/online/canales.php?stream=even3"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
-  },
-  {
-    "id": "37059",
-    "slug": "danubio-vs-nacional-2026-07-11",
-    "team_a": "Danubio",
-    "team_b": "Nacional",
-    "league": "Primera División",
-    "date": "2026-07-11",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney3"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney3"
   },
   {
     "id": "37057",
@@ -282,21 +190,5 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "37063",
-    "slug": "magallanes-vs-audax-italiano-2026-07-11",
-    "team_a": "Magallanes",
-    "team_b": "Audax Italiano",
-    "league": "Copa Chile",
-    "date": "2026-07-11",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "TNT Sports Premiun CL HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=tntsportschile"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tntsportschile"
   }
 ]
