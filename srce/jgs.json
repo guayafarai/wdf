@@ -1,21 +1,5 @@
 [
   {
-    "id": "37041",
-    "slug": "leones-del-norte-vs-universidad-católica-2026-07-10",
-    "team_a": "Leones del Norte",
-    "team_b": "Universidad Católica",
-    "league": "Serie A",
-    "date": "2026-07-10",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "ECDF LigaPro",
-        "url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
     "id": "37042",
     "slug": "técnico-universitario-vs-macará-2026-07-10",
     "team_a": "Técnico Universitario",
@@ -26,30 +10,10 @@
     "streams": [
       {
         "name": "ECDF LigaPro",
-        "url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
+        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "37048",
-    "slug": "denver-nuggets-vs-houston-rockets-2026-07-10",
-    "team_a": "Denver Nuggets",
-    "team_b": "Houston Rockets",
-    "league": "NBA Summer League",
-    "date": "2026-07-10",
-    "time": "17:30",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://tvhd2.com/online/canal.php?stream=even4"
-      },
-      {
-        "name": "ESPN 4 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn4"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
     "id": "37051",
@@ -62,25 +26,13 @@
     "streams": [
       {
         "name": "ESPN 3",
-        "url": "https://tvhd2.com/canales.php?stream=espn3"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "37043",
-    "slug": "deportivo-maldonado-vs-albion-2026-07-10",
-    "team_a": "Deportivo Maldonado",
-    "team_b": "Albion",
-    "league": "Primera División",
-    "date": "2026-07-10",
-    "time": "17:00",
-    "streams": [
+        "url": "https://fltvhd.com/canales.php?stream=even3"
+      },
       {
-        "name": "Disney+",
-        "url": "https://tvhd2.com/canales.php?stream=disney1"
+        "name": "ESPN 3 | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=espn3"
       }
     ],
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=disney1"
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=even3"
   }
 ]
