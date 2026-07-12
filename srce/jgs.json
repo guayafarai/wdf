@@ -180,22 +180,6 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=sportv"
   },
   {
-    "id": "37100",
-    "slug": "moto-gp---gp-de-alemania---moto3-/-moto2-/-motogp-carrera-2026-07-12",
-    "team_a": "",
-    "team_b": "",
-    "league": "Moto GP – GP de Alemania – Moto3 / Moto2 / MotoGP Carrera",
-    "date": "2026-07-12",
-    "time": "03:45",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://fltvhd.com/online/canales.php?stream=even2"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even2"
-  },
-  {
     "id": "37103",
     "slug": "tenis---wimbledon---dia-#14---final-masculina-2026-07-12",
     "team_a": "",
@@ -206,10 +190,10 @@
     "streams": [
       {
         "name": "ESPN 2",
-        "url": "https://fltvhd.com/online/canales.php?stream=even2"
+        "url": "https://fltvhd.com/online/canal.php?stream=even2"
       }
     ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even2"
+    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
   },
   {
     "id": "37105",
@@ -238,10 +222,10 @@
     "streams": [
       {
         "name": "ESPN 2",
-        "url": "https://fltvhd.com/online/canales.php?stream=even2"
+        "url": "https://fltvhd.com/online/canal.php?stream=even2"
       }
     ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even2"
+    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
   },
   {
     "id": "37081",
@@ -398,14 +382,10 @@
     "streams": [
       {
         "name": "ESPN 4",
-        "url": "https://fltvhd.com/online/canales.php?stream=even4"
-      },
-      {
-        "name": "ESPN 4 | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=even2"
+        "url": "https://fltvhd.com/online/canal.php?stream=even4"
       }
     ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even4"
+    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even4"
   },
   {
     "id": "37104",
@@ -434,13 +414,25 @@
     "streams": [
       {
         "name": "ESPN 3",
-        "url": "https://fltvhd.com/online/canales.php?stream=even3"
-      },
-      {
-        "name": "ESPN 3 | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=espn3"
+        "url": "https://fltvhd.com/online/canal.php?stream=even3"
       }
     ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
+    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even3"
+  },
+  {
+    "id": "37108",
+    "slug": "jannik-sinner-vs-alexander-zverev-|-final-2026-07-12",
+    "team_a": "",
+    "team_b": "",
+    "league": "Jannik Sinner VS Alexander Zverev | FINAL",
+    "date": "2026-07-12",
+    "time": "11:00",
+    "streams": [
+      {
+        "name": "ESPN 2 HD",
+        "url": "https://fltvhd.com/online/canal.php?stream=even2"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
   }
 ]
