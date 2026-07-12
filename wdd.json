@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-07-12T16:52:34.112972Z",
+    "last_updated": "2026-07-12T17:54:46.648123Z",
     "source": "https://pltvhd.com/diaries.json",
     "total_events": 24
   },
@@ -1670,13 +1670,37 @@
         "diary_hour": "13:00:00",
         "date_diary": "2026-07-12",
         "createdAt": "2026-07-12T00:46:18.535Z",
-        "updatedAt": "2026-07-12T13:22:11.085Z",
+        "updatedAt": "2026-07-12T17:41:42.800Z",
         "publishedAt": "2026-07-12T02:09:37.771Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
+            {
+              "id": 691,
+              "attributes": {
+                "embed_name": "Win Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT13aW5zcG9ydHM=",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=winsports"
+              }
+            },
+            {
+              "id": 1457,
+              "attributes": {
+                "embed_name": "Win Sports HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09d2luc3BvcnRz",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=winsports"
+              }
+            },
+            {
+              "id": 465,
+              "attributes": {
+                "embed_name": "TUDN Mexico HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy90dWRubXgucGhw",
+                "decoded_iframe_url": "https://tvhd1.com/canales/tudnmx.php"
+              }
+            },
             {
               "id": 206,
               "attributes": {
@@ -1702,30 +1726,6 @@
               }
             },
             {
-              "id": 1378,
-              "attributes": {
-                "embed_name": "America Television",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1hbWVyaWNhdHY=",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=americatv"
-              }
-            },
-            {
-              "id": 1460,
-              "attributes": {
-                "embed_name": "America TV | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09YW1lcmljYXR2",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=americatv"
-              }
-            },
-            {
-              "id": 691,
-              "attributes": {
-                "embed_name": "Win Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT13aW5zcG9ydHM=",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=winsports"
-              }
-            },
-            {
               "id": 700,
               "attributes": {
                 "embed_name": "Win Sports | OP2",
@@ -1742,35 +1742,27 @@
               }
             },
             {
-              "id": 1457,
-              "attributes": {
-                "embed_name": "Win Sports HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09d2luc3BvcnRz",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=winsports"
-              }
-            },
-            {
               "id": 164,
               "attributes": {
                 "embed_name": "Win Sports +",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT13aW5zcG9ydHNwbHVz",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=winsportsplus"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=winsports2"
               }
             },
             {
               "id": 747,
               "attributes": {
                 "embed_name": "Win Sports + | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHNwbHVz",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=winsportsplus"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=winsports2"
               }
             },
             {
               "id": 293,
               "attributes": {
                 "embed_name": "Win Sports + | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM=",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=winsportsplus"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=winsports2"
               }
             }
           ]
