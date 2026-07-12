@@ -64,22 +64,6 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "37098",
-    "slug": "cobreloa-vs-la-serena-2026-07-12",
-    "team_a": "Cobreloa",
-    "team_b": "La Serena",
-    "league": "Copa Chile",
-    "date": "2026-07-12",
-    "time": "11:30",
-    "streams": [
-      {
-        "name": "TNT Sports Premiun CL",
-        "url": "https://fltvhd.com/canales.php?stream=tntsportschile"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "37089",
     "slug": "independiente-rivadavia-vs-tigre-2026-07-12",
     "team_a": "Independiente Rivadavia",
@@ -280,22 +264,6 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "37104",
-    "slug": "mlb-future-games-2026-07-12",
-    "team_a": "",
-    "team_b": "",
-    "league": "MLB Future Games",
-    "date": "2026-07-12",
-    "time": "11:00",
-    "streams": [
-      {
-        "name": "ESPN 7",
-        "url": "https://fltvhd.com/canales.php?stream=espn7"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=espn7"
-  },
-  {
     "id": "37106",
     "slug": "los-angeles-dodgers-vs-arizona-diamondbacks-2026-07-12",
     "team_a": "Los Angeles Dodgers",
@@ -310,22 +278,6 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even3"
-  },
-  {
-    "id": "37108",
-    "slug": "jannik-sinner-vs-alexander-zverev-|-final-2026-07-12",
-    "team_a": "",
-    "team_b": "",
-    "league": "Jannik Sinner VS Alexander Zverev | FINAL",
-    "date": "2026-07-12",
-    "time": "11:00",
-    "streams": [
-      {
-        "name": "ESPN 2 HD",
-        "url": "https://fltvhd.com/online/canal.php?stream=even2"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
   },
   {
     "id": "37090",
