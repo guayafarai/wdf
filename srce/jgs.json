@@ -1,21 +1,5 @@
 [
   {
-    "id": "37080",
-    "slug": "real-potosí-vs-nacional-potosí-2026-07-12",
-    "team_a": "Real Potosí",
-    "team_b": "Nacional Potosí",
-    "league": "Primera División",
-    "date": "2026-07-12",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Entel TV PLUS+",
-        "url": "https://fltvhd.com/online/canales.php?stream=even1"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
-  },
-  {
     "id": "37082",
     "slug": "real-tomayapo-vs-independiente-petrolero-2026-07-12",
     "team_a": "Real Tomayapo",
@@ -30,22 +14,6 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "37084",
-    "slug": "deportivo-cuenca-vs-aucas-2026-07-12",
-    "team_a": "Deportivo Cuenca",
-    "team_b": "Aucas",
-    "league": "Serie A",
-    "date": "2026-07-12",
-    "time": "14:15",
-    "streams": [
-      {
-        "name": "ECDF LigaPro",
-        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
     "id": "37085",
@@ -64,38 +32,6 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "37089",
-    "slug": "independiente-rivadavia-vs-tigre-2026-07-12",
-    "team_a": "Independiente Rivadavia",
-    "team_b": "Tigre",
-    "league": "Copa Argentina",
-    "date": "2026-07-12",
-    "time": "14:15",
-    "streams": [
-      {
-        "name": "TYC Sports",
-        "url": "https://fltvhd.com/canales.php?stream=tycsports"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "37105",
-    "slug": "new-orleans-pelicans-vs-phoenix-suns-2026-07-12",
-    "team_a": "New Orleans Pelicans",
-    "team_b": "Phoenix Suns",
-    "league": "NBA Summer League",
-    "date": "2026-07-12",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "ESPN 5",
-        "url": "https://fltvhd.com/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=espn5"
-  },
-  {
     "id": "37107",
     "slug": "dallas-vs-chicago-2026-07-12",
     "team_a": "Dallas",
@@ -112,76 +48,20 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
   },
   {
-    "id": "37087",
-    "slug": "boston-river-vs-central-español-2026-07-12",
-    "team_a": "Boston River",
-    "team_b": "Central Español",
+    "id": "37088",
+    "slug": "racing-vs-peñarol-2026-07-12",
+    "team_a": "Racing",
+    "team_b": "Peñarol",
     "league": "Primera División",
     "date": "2026-07-12",
-    "time": "13:00",
+    "time": "16:30",
     "streams": [
       {
         "name": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney4"
+        "url": "https://fltvhd.com/canales.php?stream=disney6"
       }
     ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney4"
-  },
-  {
-    "id": "37096",
-    "slug": "cerrito-vs-miramar-misiones-2026-07-12",
-    "team_a": "Cerrito",
-    "team_b": "Miramar Misiones",
-    "league": "Segunda División",
-    "date": "2026-07-12",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney5"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney5"
-  },
-  {
-    "id": "37091",
-    "slug": "fluminense-vs-bahia-2026-07-12",
-    "team_a": "Fluminense",
-    "team_b": "Bahia",
-    "league": "Amistoso Internacional",
-    "date": "2026-07-12",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Sportv 2 BR",
-        "url": "https://fltvhd.com/canales.php?stream=sportv2"
-      },
-      {
-        "name": "Premiere BR",
-        "url": "https://fltvhd.com/canales.php?stream=premiere1"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=sportv2"
-  },
-  {
-    "id": "37093",
-    "slug": "cascavel-vs-corinthians-2026-07-12",
-    "team_a": "Cascavel",
-    "team_b": "Corinthians",
-    "league": "Amistoso Internacional",
-    "date": "2026-07-12",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Sportv BR",
-        "url": "https://fltvhd.com/canales.php?stream=sportv"
-      },
-      {
-        "name": "Premiere 2 BR",
-        "url": "https://fltvhd.com/canales.php?stream=premiere2"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=sportv"
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney6"
   },
   {
     "id": "37081",
@@ -198,54 +78,6 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "37083",
-    "slug": "ldu-quito-vs-libertad-2026-07-12",
-    "team_a": "LDU Quito",
-    "team_b": "Libertad",
-    "league": "Serie A",
-    "date": "2026-07-12",
-    "time": "12:00",
-    "streams": [
-      {
-        "name": "ECDF LigaPro",
-        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "37088",
-    "slug": "racing-vs-peñarol-2026-07-12",
-    "team_a": "Racing",
-    "team_b": "Peñarol",
-    "league": "Primera División",
-    "date": "2026-07-12",
-    "time": "16:30",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=espn"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "37097",
-    "slug": "são-bernardo-vs-cuiabá-2026-07-12",
-    "team_a": "São Bernardo",
-    "team_b": "Cuiabá",
-    "league": "Serie B",
-    "date": "2026-07-12",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Premiere BR",
-        "url": "https://fltvhd.com/canales.php?stream=premiere1"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=premiere1"
   },
   {
     "id": "37099",
@@ -278,33 +110,5 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even3"
-  },
-  {
-    "id": "37090",
-    "slug": "pumas-unam-vs-américa-de-cali-2026-07-12",
-    "team_a": "Pumas UNAM",
-    "team_b": "América de Cali",
-    "league": "Amistoso Internacional",
-    "date": "2026-07-12",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "TUDN México | Señal HD",
-        "url": "https://tvhd1.com/canales/tudnmx.php"
-      },
-      {
-        "name": "Win Sports HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=winsports"
-      },
-      {
-        "name": "TUDN USA",
-        "url": "https://fltvhd.com/canales.php?stream=tudn"
-      },
-      {
-        "name": "Win Sports +",
-        "url": "https://fltvhd.com/online/canal.php?stream=winsports2"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd1.com/canales/tudnmx.php"
   }
 ]
