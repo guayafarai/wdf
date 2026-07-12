@@ -64,22 +64,6 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "37094",
-    "slug": "uruguay-montevideo-vs-oriental-2026-07-12",
-    "team_a": "Uruguay Montevideo",
-    "team_b": "Oriental",
-    "league": "Segunda División",
-    "date": "2026-07-12",
-    "time": "07:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney1"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
-  },
-  {
     "id": "37098",
     "slug": "cobreloa-vs-la-serena-2026-07-12",
     "team_a": "Cobreloa",
@@ -310,22 +294,6 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "37102",
-    "slug": "golf---genesis-scottish-open---última-vuelta-2026-07-12",
-    "team_a": "",
-    "team_b": "",
-    "league": "Golf – Genesis Scottish Open – Última Vuelta",
-    "date": "2026-07-12",
-    "time": "08:30",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://fltvhd.com/online/canal.php?stream=even4"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even4"
   },
   {
     "id": "37104",
