@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-12T20:05:28.165226Z",
+    "last_updated": "2026-07-12T21:42:07.145484Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 18
+    "total_events": 14
   },
   "data": [
     {
@@ -558,126 +558,6 @@
       }
     },
     {
-      "id": 37087,
-      "attributes": {
-        "diary_description": "Primera División: \nBoston River vs Central Español",
-        "diary_hour": "13:00:00",
-        "date_diary": "2026-07-12",
-        "createdAt": "2026-07-12T00:41:36.146Z",
-        "updatedAt": "2026-07-12T13:17:02.338Z",
-        "publishedAt": "2026-07-12T02:09:21.236Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 827,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk0",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney4"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 16,
-            "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2025-08-03T13:14:04.349Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
-              "image": {
-                "data": {
-                  "id": 350,
-                  "attributes": {
-                    "name": "uruguay_e2b9597af8.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uruguay_e2b9597af8_6abda609fb",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.71,
-                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:14:00.876Z",
-                    "updatedAt": "2025-08-03T13:14:00.876Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37096,
-      "attributes": {
-        "diary_description": "Segunda División: \nCerrito vs Miramar Misiones",
-        "diary_hour": "13:00:00",
-        "date_diary": "2026-07-12",
-        "createdAt": "2026-07-12T01:02:45.509Z",
-        "updatedAt": "2026-07-12T13:23:20.572Z",
-        "publishedAt": "2026-07-12T02:09:37.771Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 831,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk1",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney5"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 16,
-            "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2025-08-03T13:14:04.349Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
-              "image": {
-                "data": {
-                  "id": 350,
-                  "attributes": {
-                    "name": "uruguay_e2b9597af8.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uruguay_e2b9597af8_6abda609fb",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.71,
-                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:14:00.876Z",
-                    "updatedAt": "2025-08-03T13:14:00.876Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 37091,
       "attributes": {
         "diary_description": "Amistoso Internacional: \nFluminense vs Bahia",
@@ -822,6 +702,66 @@
       }
     },
     {
+      "id": 37088,
+      "attributes": {
+        "diary_description": "Primera División: \nRacing vs Peñarol",
+        "diary_hour": "16:30:00",
+        "date_diary": "2026-07-12",
+        "createdAt": "2026-07-12T00:42:16.744Z",
+        "updatedAt": "2026-07-12T21:30:13.771Z",
+        "publishedAt": "2026-07-12T02:09:21.236Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 849,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk2",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney6"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2025-08-03T13:14:04.349Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 350,
+                  "attributes": {
+                    "name": "uruguay_e2b9597af8.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uruguay_e2b9597af8_6abda609fb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.71,
+                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:14:00.876Z",
+                    "updatedAt": "2025-08-03T13:14:00.876Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 37081,
       "attributes": {
         "diary_description": " Primera División: \nThe Strongest vs Bolívar",
@@ -907,126 +847,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T16:32:14.648Z",
                     "updatedAt": "2025-08-03T16:32:14.648Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37083,
-      "attributes": {
-        "diary_description": "Serie A: \nLDU Quito vs Libertad",
-        "diary_hour": "12:00:00",
-        "date_diary": "2026-07-12",
-        "createdAt": "2026-07-12T00:37:56.835Z",
-        "updatedAt": "2026-07-12T00:37:56.835Z",
-        "publishedAt": "2026-07-12T02:09:21.236Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 914,
-              "attributes": {
-                "embed_name": "ECDF LigaPro",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8=",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 13,
-            "attributes": {
-              "name": "Ecuador",
-              "createdAt": "2023-11-22T15:42:56.252Z",
-              "updatedAt": "2025-08-03T14:39:57.465Z",
-              "publishedAt": "2023-11-22T15:42:57.903Z",
-              "image": {
-                "data": {
-                  "id": 353,
-                  "attributes": {
-                    "name": "ecuador_6b5e87e044.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "ecuador_6b5e87e044_2fd81bc301",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.82,
-                    "url": "/uploads/ecuador_6b5e87e044_2fd81bc301.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:39:52.709Z",
-                    "updatedAt": "2025-08-03T14:39:52.709Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37088,
-      "attributes": {
-        "diary_description": "Primera División: \nRacing vs Peñarol",
-        "diary_hour": "16:30:00",
-        "date_diary": "2026-07-12",
-        "createdAt": "2026-07-12T00:42:16.744Z",
-        "updatedAt": "2026-07-12T00:42:16.744Z",
-        "publishedAt": "2026-07-12T02:09:21.236Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 768,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=espn"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 16,
-            "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2025-08-03T13:14:04.349Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
-              "image": {
-                "data": {
-                  "id": 350,
-                  "attributes": {
-                    "name": "uruguay_e2b9597af8.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uruguay_e2b9597af8_6abda609fb",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.71,
-                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:14:00.876Z",
-                    "updatedAt": "2025-08-03T13:14:00.876Z"
                   }
                 }
               }
@@ -1247,146 +1067,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T14:39:07.537Z",
                     "updatedAt": "2025-08-03T14:39:07.537Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37090,
-      "attributes": {
-        "diary_description": "Amistoso Internacional: Pumas UNAM vs América de Cali",
-        "diary_hour": "13:00:00",
-        "date_diary": "2026-07-12",
-        "createdAt": "2026-07-12T00:46:18.535Z",
-        "updatedAt": "2026-07-12T18:04:31.744Z",
-        "publishedAt": "2026-07-12T02:09:37.771Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 465,
-              "attributes": {
-                "embed_name": "TUDN México | Señal HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy90dWRubXgucGhw",
-                "decoded_iframe_url": "https://tvhd1.com/canales/tudnmx.php"
-              }
-            },
-            {
-              "id": 1457,
-              "attributes": {
-                "embed_name": "Win Sports HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09d2luc3BvcnRz",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=winsports"
-              }
-            },
-            {
-              "id": 691,
-              "attributes": {
-                "embed_name": "Win Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT13aW5zcG9ydHM=",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=winsports"
-              }
-            },
-            {
-              "id": 206,
-              "attributes": {
-                "embed_name": "TUDN USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10dWRu",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=tudn"
-              }
-            },
-            {
-              "id": 1164,
-              "attributes": {
-                "embed_name": "TUDN USA | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10dWRu",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=tudn"
-              }
-            },
-            {
-              "id": 1165,
-              "attributes": {
-                "embed_name": "TUDN USA | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09dHVkbg==",
-                "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=tudn"
-              }
-            },
-            {
-              "id": 700,
-              "attributes": {
-                "embed_name": "Win Sports | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHM=",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=winsports"
-              }
-            },
-            {
-              "id": 1406,
-              "attributes": {
-                "embed_name": "Win Sports ┃OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=winsports"
-              }
-            },
-            {
-              "id": 164,
-              "attributes": {
-                "embed_name": "Win Sports +",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=winsports2"
-              }
-            },
-            {
-              "id": 747,
-              "attributes": {
-                "embed_name": "Win Sports + | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=winsports2"
-              }
-            },
-            {
-              "id": 293,
-              "attributes": {
-                "embed_name": "Win Sports + | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=winsports2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 55,
-            "attributes": {
-              "name": "Amistoso",
-              "createdAt": "2024-02-01T08:09:43.427Z",
-              "updatedAt": "2025-09-04T14:05:15.995Z",
-              "publishedAt": "2024-02-01T08:09:44.642Z",
-              "image": {
-                "data": {
-                  "id": 392,
-                  "attributes": {
-                    "name": "amistoso_paises_b9febc0d3c.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c_e1d457d1ee",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.59,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T14:05:11.984Z",
-                    "updatedAt": "2025-09-04T14:05:11.984Z"
                   }
                 }
               }
