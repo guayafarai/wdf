@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-12T22:40:38.597406Z",
+    "last_updated": "2026-07-12T23:46:14.293570Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 7
+    "total_events": 6
   },
   "data": [
     {
@@ -457,90 +457,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T16:01:20.348Z",
                     "updatedAt": "2025-08-03T16:01:20.348Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37106,
-      "attributes": {
-        "diary_description": "MLB – Los Angeles Dodgers vs Arizona Diamondbacks",
-        "diary_hour": "15:00:00",
-        "date_diary": "2026-07-12",
-        "createdAt": "2026-07-12T01:28:17.257Z",
-        "updatedAt": "2026-07-12T01:28:17.257Z",
-        "publishedAt": "2026-07-12T02:09:53.409Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 656,
-              "attributes": {
-                "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4z",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even3"
-              }
-            },
-            {
-              "id": 1357,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4z",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even3"
-              }
-            },
-            {
-              "id": 1358,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4z",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even3"
-              }
-            },
-            {
-              "id": 1462,
-              "attributes": {
-                "embed_name": "ESPN 3 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4z",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even3"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 70,
-            "attributes": {
-              "name": "MLB Preseason",
-              "createdAt": "2024-02-23T06:14:15.840Z",
-              "updatedAt": "2025-08-03T14:39:12.740Z",
-              "publishedAt": "2024-02-23T06:14:18.809Z",
-              "image": {
-                "data": {
-                  "id": 352,
-                  "attributes": {
-                    "name": "mlb_f5711cc440.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "mlb_f5711cc440_dde64767e4",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.66,
-                    "url": "/uploads/mlb_f5711cc440_dde64767e4.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:39:07.537Z",
-                    "updatedAt": "2025-08-03T14:39:07.537Z"
                   }
                 }
               }
