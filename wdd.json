@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-12T18:56:51.054876Z",
+    "last_updated": "2026-07-12T20:05:28.165226Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 21
+    "total_events": 18
   },
   "data": [
     {
@@ -305,82 +305,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T14:39:52.709Z",
                     "updatedAt": "2025-08-03T14:39:52.709Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37098,
-      "attributes": {
-        "diary_description": "Copa Chile: \nCobreloa vs La Serena",
-        "diary_hour": "11:30:00",
-        "date_diary": "2026-07-12",
-        "createdAt": "2026-07-12T01:08:10.042Z",
-        "updatedAt": "2026-07-12T01:08:10.042Z",
-        "publishedAt": "2026-07-12T02:09:37.771Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 624,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=tntsportschile"
-              }
-            },
-            {
-              "id": 318,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=tntsportschile"
-              }
-            },
-            {
-              "id": 1464,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dG50c3BvcnRzY2hpbGU=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tntsportschile"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 12,
-            "attributes": {
-              "name": "Chile",
-              "createdAt": "2023-11-22T15:42:40.655Z",
-              "updatedAt": "2025-08-03T16:01:24.110Z",
-              "publishedAt": "2023-11-22T15:42:42.314Z",
-              "image": {
-                "data": {
-                  "id": 361,
-                  "attributes": {
-                    "name": "chile_86c07a7b38.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "chile_86c07a7b38_fad5126fd0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.7,
-                    "url": "/uploads/chile_86c07a7b38_fad5126fd0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:01:20.348Z",
-                    "updatedAt": "2025-08-03T16:01:20.348Z"
                   }
                 }
               }
@@ -1248,82 +1172,6 @@
       }
     },
     {
-      "id": 37104,
-      "attributes": {
-        "diary_description": "MLB Future Games",
-        "diary_hour": "11:00:00",
-        "date_diary": "2026-07-12",
-        "createdAt": "2026-07-12T01:26:08.219Z",
-        "updatedAt": "2026-07-12T01:26:08.219Z",
-        "publishedAt": "2026-07-12T02:09:53.409Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 653,
-              "attributes": {
-                "embed_name": "ESPN 7",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNw==",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=espn7"
-              }
-            },
-            {
-              "id": 1396,
-              "attributes": {
-                "embed_name": "ESPN 7 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNw==",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=espn7"
-              }
-            },
-            {
-              "id": 1397,
-              "attributes": {
-                "embed_name": "ESPN 7 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG43",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=espn7"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 70,
-            "attributes": {
-              "name": "MLB Preseason",
-              "createdAt": "2024-02-23T06:14:15.840Z",
-              "updatedAt": "2025-08-03T14:39:12.740Z",
-              "publishedAt": "2024-02-23T06:14:18.809Z",
-              "image": {
-                "data": {
-                  "id": 352,
-                  "attributes": {
-                    "name": "mlb_f5711cc440.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "mlb_f5711cc440_dde64767e4",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.66,
-                    "url": "/uploads/mlb_f5711cc440_dde64767e4.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:39:07.537Z",
-                    "updatedAt": "2025-08-03T14:39:07.537Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 37106,
       "attributes": {
         "diary_description": "MLB – Los Angeles Dodgers vs Arizona Diamondbacks",
@@ -1399,66 +1247,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T14:39:07.537Z",
                     "updatedAt": "2025-08-03T14:39:07.537Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37108,
-      "attributes": {
-        "diary_description": "Jannik Sinner VS Alexander Zverev | FINAL",
-        "diary_hour": "11:00:00",
-        "date_diary": "2026-07-12",
-        "createdAt": "2026-07-12T12:43:40.556Z",
-        "updatedAt": "2026-07-12T12:43:42.041Z",
-        "publishedAt": "2026-07-12T12:43:42.038Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1461,
-              "attributes": {
-                "embed_name": "ESPN 2 HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 53,
-            "attributes": {
-              "name": "Tennis",
-              "createdAt": "2024-01-25T06:16:42.975Z",
-              "updatedAt": "2025-08-03T14:36:42.387Z",
-              "publishedAt": "2024-01-25T06:16:44.102Z",
-              "image": {
-                "data": {
-                  "id": 351,
-                  "attributes": {
-                    "name": "Tenis_a5d5fcd1d1.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "Tenis_a5d5fcd1d1_594ebf0186",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.18,
-                    "url": "/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:36:38.398Z",
-                    "updatedAt": "2025-08-03T14:36:38.398Z"
                   }
                 }
               }
