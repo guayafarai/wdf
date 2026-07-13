@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-13T18:28:16.993517Z",
+    "last_updated": "2026-07-13T20:08:15.908319Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 6
+    "total_events": 5
   },
   "data": [
     {
@@ -57,116 +57,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T13:14:00.876Z",
                     "updatedAt": "2025-08-03T13:14:00.876Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37115,
-      "attributes": {
-        "diary_description": "Rugby – World Rugby U20 Championship – Semifinal – Equipos a Confirmar",
-        "diary_hour": "11:20:00",
-        "date_diary": "2026-07-13",
-        "createdAt": "2026-07-13T01:11:17.661Z",
-        "updatedAt": "2026-07-13T01:11:20.264Z",
-        "publishedAt": "2026-07-13T01:11:20.260Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 134,
-            "attributes": {
-              "name": "Rugby",
-              "createdAt": "2025-03-01T00:16:20.346Z",
-              "updatedAt": "2025-11-16T14:52:22.575Z",
-              "publishedAt": "2025-03-01T00:16:22.392Z",
-              "image": {
-                "data": {
-                  "id": 413,
-                  "attributes": {
-                    "name": "Rugby.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 763,
-                    "height": 763,
-                    "formats": {
-                      "small": {
-                        "ext": ".png",
-                        "url": "/uploads/small_Rugby_f99a2b54da.png",
-                        "hash": "small_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "small_Rugby.png",
-                        "path": null,
-                        "size": 138.17,
-                        "width": 500,
-                        "height": 500
-                      },
-                      "medium": {
-                        "ext": ".png",
-                        "url": "/uploads/medium_Rugby_f99a2b54da.png",
-                        "hash": "medium_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "medium_Rugby.png",
-                        "path": null,
-                        "size": 250.24,
-                        "width": 750,
-                        "height": 750
-                      },
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Rugby_f99a2b54da.png",
-                        "hash": "thumbnail_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "thumbnail_Rugby.png",
-                        "path": null,
-                        "size": 22.03,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "Rugby_f99a2b54da",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 74.94,
-                    "url": "/uploads/Rugby_f99a2b54da.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-11-16T14:52:15.177Z",
-                    "updatedAt": "2025-11-16T14:52:15.177Z"
                   }
                 }
               }
