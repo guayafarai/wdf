@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-13T13:15:05.397022Z",
+    "last_updated": "2026-07-13T16:25:26.530574Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 8
+    "total_events": 7
   },
   "data": [
     {
@@ -57,82 +57,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T13:14:00.876Z",
                     "updatedAt": "2025-08-03T13:14:00.876Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37113,
-      "attributes": {
-        "diary_description": "Torneo de Reserva: T\nEstudiantes Rio Cuarto 2 vs Defensa y Justicia",
-        "diary_hour": "08:00:00",
-        "date_diary": "2026-07-13",
-        "createdAt": "2026-07-13T01:06:53.397Z",
-        "updatedAt": "2026-07-13T01:06:56.158Z",
-        "publishedAt": "2026-07-13T01:06:56.155Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 72,
-            "attributes": {
-              "name": "Argentina",
-              "createdAt": "2024-02-25T19:00:29.066Z",
-              "updatedAt": "2025-08-03T16:02:49.460Z",
-              "publishedAt": "2024-02-25T19:00:31.510Z",
-              "image": {
-                "data": {
-                  "id": 362,
-                  "attributes": {
-                    "name": "argentina_2bd748026e.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "argentina_2bd748026e_628913fc18",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.86,
-                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:02:45.389Z",
-                    "updatedAt": "2025-08-03T16:02:45.389Z"
                   }
                 }
               }
