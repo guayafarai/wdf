@@ -1,21 +1,5 @@
 [
   {
-    "id": "37111",
-    "slug": "la-luz-vs-tacuarembó-2026-07-13",
-    "team_a": "La Luz",
-    "team_b": "Tacuarembó",
-    "league": "Segunda División",
-    "date": "2026-07-13",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney1"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
-  },
-  {
     "id": "37117",
     "slug": "memphis-grizzlies-vs-dallas-mavericks-2026-07-13",
     "team_a": "Memphis Grizzlies",
