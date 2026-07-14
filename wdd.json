@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-07-14T19:09:10.914312Z",
+    "last_updated": "2026-07-14T20:53:46.352240Z",
     "source": "https://pltvhd.com/diaries.json",
     "total_events": 9
   },
@@ -514,7 +514,7 @@
         "diary_hour": "14:00:00",
         "date_diary": "2026-07-14",
         "createdAt": "2026-07-14T00:36:52.400Z",
-        "updatedAt": "2026-07-14T19:04:09.340Z",
+        "updatedAt": "2026-07-14T19:10:26.979Z",
         "publishedAt": "2026-07-14T00:40:47.237Z",
         "channels": {
           "data": []
@@ -530,35 +530,11 @@
               }
             },
             {
-              "id": 419,
-              "attributes": {
-                "embed_name": "Tigo Sports HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
-              }
-            },
-            {
-              "id": 682,
-              "attributes": {
-                "embed_name": "FOX España HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjQ=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even4"
-              }
-            },
-            {
               "id": 1252,
               "attributes": {
                 "embed_name": "Dsports Argentina HD1",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzbGF0YW0ucGhw",
                 "decoded_iframe_url": "https://tvhd1.com/canales/dsportslatam.php"
-              }
-            },
-            {
-              "id": 1430,
-              "attributes": {
-                "embed_name": "TV LA 1 España HD1",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy90dmxhMWVzLnBocA==",
-                "decoded_iframe_url": "https://tvhd1.com/canales/tvla1es.php"
               }
             },
             {
@@ -578,11 +554,11 @@
               }
             },
             {
-              "id": 1425,
+              "id": 1430,
               "attributes": {
-                "embed_name": "FOX ONE HD1",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9mb3hvbmUucGhw",
-                "decoded_iframe_url": "https://tvhd1.com/canales/foxone.php"
+                "embed_name": "TV LA 1 España HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy90dmxhMWVzLnBocA==",
+                "decoded_iframe_url": "https://tvhd1.com/canales/tvla1es.php"
               }
             },
             {
@@ -591,6 +567,30 @@
                 "embed_name": "CTV HD1",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9jdHYucGhw",
                 "decoded_iframe_url": "https://tvhd1.com/canales/ctv.php"
+              }
+            },
+            {
+              "id": 1425,
+              "attributes": {
+                "embed_name": "FOX ONE HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9mb3hvbmUucGhw",
+                "decoded_iframe_url": "https://tvhd1.com/canales/foxone.php"
+              }
+            },
+            {
+              "id": 419,
+              "attributes": {
+                "embed_name": "Tigo Sports HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE=",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
+              }
+            },
+            {
+              "id": 682,
+              "attributes": {
+                "embed_name": "FOX España HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjQ=",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even4"
               }
             },
             {
