@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-07-14T20:53:46.352240Z",
+    "last_updated": "2026-07-14T21:52:29.255704Z",
     "source": "https://pltvhd.com/diaries.json",
     "total_events": 9
   },
@@ -514,7 +514,7 @@
         "diary_hour": "14:00:00",
         "date_diary": "2026-07-14",
         "createdAt": "2026-07-14T00:36:52.400Z",
-        "updatedAt": "2026-07-14T19:10:26.979Z",
+        "updatedAt": "2026-07-14T21:26:37.467Z",
         "publishedAt": "2026-07-14T00:40:47.237Z",
         "channels": {
           "data": []
@@ -530,19 +530,19 @@
               }
             },
             {
-              "id": 1252,
-              "attributes": {
-                "embed_name": "Dsports Argentina HD1",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzbGF0YW0ucGhw",
-                "decoded_iframe_url": "https://tvhd1.com/canales/dsportslatam.php"
-              }
-            },
-            {
               "id": 465,
               "attributes": {
                 "embed_name": "TUDN México | Señal HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy90dWRubXgucGhw",
                 "decoded_iframe_url": "https://tvhd1.com/canales/tudnmx.php"
+              }
+            },
+            {
+              "id": 1252,
+              "attributes": {
+                "embed_name": "Dsports Argentina HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzbGF0YW0ucGhw",
+                "decoded_iframe_url": "https://tvhd1.com/canales/dsportslatam.php"
               }
             },
             {
@@ -578,22 +578,6 @@
               }
             },
             {
-              "id": 419,
-              "attributes": {
-                "embed_name": "Tigo Sports HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
-              }
-            },
-            {
-              "id": 682,
-              "attributes": {
-                "embed_name": "FOX España HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjQ=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even4"
-              }
-            },
-            {
               "id": 644,
               "attributes": {
                 "embed_name": "DSports",
@@ -615,14 +599,6 @@
                 "embed_name": "DSports | OP2",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz",
                 "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=dsports"
-              }
-            },
-            {
-              "id": 850,
-              "attributes": {
-                "embed_name": "Tigo Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
               }
             },
             {
