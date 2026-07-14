@@ -125,16 +125,44 @@
         "url": "https://tvhd1.com/canales/dsportsar.php"
       },
       {
+        "name": "Tigo Sports HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=even1"
+      },
+      {
+        "name": "FOX España HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=even4"
+      },
+      {
         "name": "Dsports Argentina HD1",
         "url": "https://tvhd1.com/canales/dsportslatam.php"
+      },
+      {
+        "name": "TV LA 1 España HD1",
+        "url": "https://tvhd1.com/canales/tvla1es.php"
+      },
+      {
+        "name": "TUDN México | Señal HD",
+        "url": "https://tvhd1.com/canales/tudnmx.php"
       },
       {
         "name": "Canal 5 MX HD1",
         "url": "https://tvhd1.com/canales/canal5.php"
       },
       {
+        "name": "FOX ONE HD1",
+        "url": "https://tvhd1.com/canales/foxone.php"
+      },
+      {
+        "name": "CTV HD1",
+        "url": "https://tvhd1.com/canales/ctv.php"
+      },
+      {
         "name": "DSports",
         "url": "https://fltvhd.com/canales.php?stream=dsports"
+      },
+      {
+        "name": "TeleAmazonas",
+        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
       },
       {
         "name": "Caracol TV",
