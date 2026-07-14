@@ -1,131 +1,10 @@
 {
   "metadata": {
-    "last_updated": "2026-07-14T13:19:17.062350Z",
+    "last_updated": "2026-07-14T15:19:37.903264Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 11
+    "total_events": 9
   },
   "data": [
-    {
-      "id": 37125,
-      "attributes": {
-        "diary_description": "Ciclismo – Tour de France – Etapa #10",
-        "diary_hour": "06:00:00",
-        "date_diary": "2026-07-14",
-        "createdAt": "2026-07-14T01:12:47.468Z",
-        "updatedAt": "2026-07-14T01:12:53.020Z",
-        "publishedAt": "2026-07-14T01:12:53.017Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 82,
-            "attributes": {
-              "name": "Ciclismo",
-              "createdAt": "2024-03-06T10:31:11.902Z",
-              "updatedAt": "2025-09-11T14:01:56.949Z",
-              "publishedAt": "2024-03-06T10:31:39.259Z",
-              "image": {
-                "data": {
-                  "id": 397,
-                  "attributes": {
-                    "name": "Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 5000,
-                    "height": 5000,
-                    "formats": {
-                      "large": {
-                        "ext": ".png",
-                        "url": "/uploads/large_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
-                        "hash": "large_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b",
-                        "mime": "image/png",
-                        "name": "large_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148.png",
-                        "path": null,
-                        "size": 77.03,
-                        "width": 1000,
-                        "height": 1000
-                      },
-                      "small": {
-                        "ext": ".png",
-                        "url": "/uploads/small_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
-                        "hash": "small_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b",
-                        "mime": "image/png",
-                        "name": "small_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148.png",
-                        "path": null,
-                        "size": 33.72,
-                        "width": 500,
-                        "height": 500
-                      },
-                      "medium": {
-                        "ext": ".png",
-                        "url": "/uploads/medium_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
-                        "hash": "medium_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b",
-                        "mime": "image/png",
-                        "name": "medium_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148.png",
-                        "path": null,
-                        "size": 57.91,
-                        "width": 750,
-                        "height": 750
-                      },
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
-                        "hash": "thumbnail_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b",
-                        "mime": "image/png",
-                        "name": "thumbnail_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148.png",
-                        "path": null,
-                        "size": 8.01,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 87.91,
-                    "url": "/uploads/Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-11T14:01:52.942Z",
-                    "updatedAt": "2025-09-11T14:01:52.942Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 37128,
       "attributes": {
@@ -635,13 +514,37 @@
         "diary_hour": "14:00:00",
         "date_diary": "2026-07-14",
         "createdAt": "2026-07-14T00:36:52.400Z",
-        "updatedAt": "2026-07-14T00:40:47.240Z",
+        "updatedAt": "2026-07-14T15:13:09.037Z",
         "publishedAt": "2026-07-14T00:40:47.237Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
+            {
+              "id": 756,
+              "attributes": {
+                "embed_name": "Dsports HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzYXIucGhw",
+                "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+              }
+            },
+            {
+              "id": 1252,
+              "attributes": {
+                "embed_name": "Dsports Argentina HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzbGF0YW0ucGhw",
+                "decoded_iframe_url": "https://tvhd1.com/canales/dsportslatam.php"
+              }
+            },
+            {
+              "id": 450,
+              "attributes": {
+                "embed_name": "Canal 5 MX HD1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9jYW5hbDUucGhw",
+                "decoded_iframe_url": "https://tvhd1.com/canales/canal5.php"
+              }
+            },
             {
               "id": 644,
               "attributes": {
@@ -894,82 +797,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T16:32:14.648Z",
                     "updatedAt": "2025-08-03T16:32:14.648Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37124,
-      "attributes": {
-        "diary_description": "Torneo de Reserva: \nRosario Central  vs San Lorenzo",
-        "diary_hour": "06:00:00",
-        "date_diary": "2026-07-14",
-        "createdAt": "2026-07-14T00:45:40.082Z",
-        "updatedAt": "2026-07-14T00:45:42.807Z",
-        "publishedAt": "2026-07-14T00:45:42.803Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 257,
-              "attributes": {
-                "embed_name": "TNT Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHM=",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=tntsports"
-              }
-            },
-            {
-              "id": 1322,
-              "attributes": {
-                "embed_name": "TNT Sports | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHM=",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=tntsports"
-              }
-            },
-            {
-              "id": 1405,
-              "attributes": {
-                "embed_name": "TNT Sports | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXRudHNwb3J0cw==",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=tntsports"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 72,
-            "attributes": {
-              "name": "Argentina",
-              "createdAt": "2024-02-25T19:00:29.066Z",
-              "updatedAt": "2025-08-03T16:02:49.460Z",
-              "publishedAt": "2024-02-25T19:00:31.510Z",
-              "image": {
-                "data": {
-                  "id": 362,
-                  "attributes": {
-                    "name": "argentina_2bd748026e.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "argentina_2bd748026e_628913fc18",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.86,
-                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:02:45.389Z",
-                    "updatedAt": "2025-08-03T16:02:45.389Z"
                   }
                 }
               }
