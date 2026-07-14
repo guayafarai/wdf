@@ -1,21 +1,5 @@
 [
   {
-    "id": "37125",
-    "slug": "ciclismo---tour-de-france---etapa-#10-2026-07-14",
-    "team_a": "",
-    "team_b": "",
-    "league": "Ciclismo – Tour de France – Etapa #10",
-    "date": "2026-07-14",
-    "time": "06:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even2"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
-  },
-  {
     "id": "37128",
     "slug": "oklahoma-city-thunder-vs-denver-nuggets-2026-07-14",
     "team_a": "Oklahoma City Thunder",
@@ -137,6 +121,18 @@
     "time": "14:00",
     "streams": [
       {
+        "name": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php"
+      },
+      {
+        "name": "Dsports Argentina HD1",
+        "url": "https://tvhd1.com/canales/dsportslatam.php"
+      },
+      {
+        "name": "Canal 5 MX HD1",
+        "url": "https://tvhd1.com/canales/canal5.php"
+      },
+      {
         "name": "DSports",
         "url": "https://fltvhd.com/canales.php?stream=dsports"
       },
@@ -165,7 +161,7 @@
         "url": "https://fltvhd.com/canales.php?stream=goltv"
       }
     ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   },
   {
     "id": "37120",
@@ -182,21 +178,5 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "37124",
-    "slug": "rosario-central-vs-san-lorenzo-2026-07-14",
-    "team_a": "Rosario Central",
-    "team_b": "San Lorenzo",
-    "league": "Torneo de Reserva",
-    "date": "2026-07-14",
-    "time": "06:00",
-    "streams": [
-      {
-        "name": "TNT Sports",
-        "url": "https://fltvhd.com/canales.php?stream=tntsports"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=tntsports"
   }
 ]
