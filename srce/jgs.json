@@ -14,53 +14,5 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even3"
-  },
-  {
-    "id": "37116",
-    "slug": "indiana-pacers-vs-toronto-raptors-2026-07-13",
-    "team_a": "Indiana Pacers",
-    "team_b": "Toronto Raptors",
-    "league": "NBA Summer League",
-    "date": "2026-07-13",
-    "time": "15:30",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://fltvhd.com/online/canal.php?stream=even3"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even3"
-  },
-  {
-    "id": "37110",
-    "slug": "cerro-largo-vs-defensor-sporting-2026-07-13",
-    "team_a": "Cerro Largo",
-    "team_b": "Defensor Sporting",
-    "league": "Primera División",
-    "date": "2026-07-13",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney2"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney2"
-  },
-  {
-    "id": "37112",
-    "slug": "paysandu-vs-fénix-2026-07-13",
-    "team_a": "Paysandu",
-    "team_b": "Fénix",
-    "league": "Segunda División",
-    "date": "2026-07-13",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney3"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney3"
   }
 ]
