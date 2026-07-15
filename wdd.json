@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-07-15T17:10:13.323301Z",
+    "last_updated": "2026-07-15T19:01:17.935484Z",
     "source": "https://pltvhd.com/diaries.json",
     "total_events": 10
   },
@@ -394,7 +394,7 @@
         "diary_hour": "14:00:00",
         "date_diary": "2026-07-15",
         "createdAt": "2026-07-15T00:45:01.282Z",
-        "updatedAt": "2026-07-15T16:49:15.908Z",
+        "updatedAt": "2026-07-15T18:50:00.223Z",
         "publishedAt": "2026-07-15T00:49:02.834Z",
         "channels": {
           "data": []
@@ -402,19 +402,19 @@
         "embeds": {
           "data": [
             {
+              "id": 768,
+              "attributes": {
+                "embed_name": "ESPN HD - Narración destacada de Mariano Closs",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZGlzbmV5MQ==",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=disney1"
+              }
+            },
+            {
               "id": 1473,
               "attributes": {
                 "embed_name": "Telefe | HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dGVsZWZl",
                 "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=telefe"
-              }
-            },
-            {
-              "id": 1455,
-              "attributes": {
-                "embed_name": "DSports | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZHNwb3J0cw==",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=dsports"
               }
             },
             {
@@ -471,6 +471,30 @@
                 "embed_name": "CTV HD1",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9jdHYucGhw",
                 "decoded_iframe_url": "https://tvhd1.com/canales/ctv.php"
+              }
+            },
+            {
+              "id": 1458,
+              "attributes": {
+                "embed_name": "Telemundo | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dGVsZW11bmRv",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=telemundo"
+              }
+            },
+            {
+              "id": 1472,
+              "attributes": {
+                "embed_name": "Caracol TV  | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09Y2FyYWNvbA==",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=caracol"
+              }
+            },
+            {
+              "id": 1455,
+              "attributes": {
+                "embed_name": "DSports | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZHNwb3J0cw==",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=dsports"
               }
             },
             {
@@ -554,14 +578,6 @@
               }
             },
             {
-              "id": 1472,
-              "attributes": {
-                "embed_name": "Caracol TV  | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09Y2FyYWNvbA==",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=caracol"
-              }
-            },
-            {
               "id": 691,
               "attributes": {
                 "embed_name": "Win Sports",
@@ -631,14 +647,6 @@
                 "embed_name": "Telemundo",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8=",
                 "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=telemundo"
-              }
-            },
-            {
-              "id": 1458,
-              "attributes": {
-                "embed_name": "Telemundo | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dGVsZW11bmRv",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=telemundo"
               }
             },
             {
