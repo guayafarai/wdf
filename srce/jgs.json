@@ -128,22 +128,6 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "37135",
-    "slug": "ciclismo---tour-de-france---etapa-#11-2026-07-15",
-    "team_a": "",
-    "team_b": "",
-    "league": "Ciclismo – Tour de France – Etapa #11",
-    "date": "2026-07-15",
-    "time": "06:30",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even2"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
-  },
-  {
     "id": "37137",
     "slug": "espys-2026-2026-07-15",
     "team_a": "",
