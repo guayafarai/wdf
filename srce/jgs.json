@@ -64,22 +64,6 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=foxdeportes"
   },
   {
-    "id": "37149",
-    "slug": "ciclismo---tour-de-france---etapa-#12-2026-07-16",
-    "team_a": "",
-    "team_b": "",
-    "league": "Ciclismo – Tour de France – Etapa #12",
-    "date": "2026-07-16",
-    "time": "06:00",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even6"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
-  },
-  {
     "id": "37151",
     "slug": "nba-summer-league---equipos-a-confirmar-2026-07-16",
     "team_a": "",
