@@ -1,37 +1,5 @@
 [
   {
-    "id": "37130",
-    "slug": "real-potosí-vs-san-antonio-bulo-bulo-2026-07-15",
-    "team_a": "Real Potosí",
-    "team_b": "San Antonio Bulo Bulo",
-    "league": "Primera División",
-    "date": "2026-07-15",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "Entel TV PLUS+",
-        "url": "https://fltvhd.com/online/canales.php?stream=even1"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "37136",
-    "slug": "nba-summer-league---equipos-a-confirmar-2026-07-15",
-    "team_a": "",
-    "team_b": "",
-    "league": "NBA Summer League – Equipos a Confirmar",
-    "date": "2026-07-15",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "ESPN 3",
-        "url": "https://fltvhd.com/online/canal.php?stream=even3"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even3"
-  },
-  {
     "id": "37138",
     "slug": "nba-summer-league---equipos-a-confirmar-2026-07-15",
     "team_a": "",
@@ -80,22 +48,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
   },
   {
-    "id": "37133",
-    "slug": "universidad-católica-vs-ldu-quito-2026-07-15",
-    "team_a": "Universidad Católica",
-    "team_b": "LDU Quito",
-    "league": "Serie A",
-    "date": "2026-07-15",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "ECDF LigaPro",
-        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
     "id": "37134",
     "slug": "barcelona-vs-guayaquil-city-2026-07-15",
     "team_a": "Barcelona",
@@ -105,11 +57,15 @@
     "time": "19:30",
     "streams": [
       {
+        "name": "Zapping TV Sports",
+        "url": "https://fltvhd.com/online/canal.php?stream=even4"
+      },
+      {
         "name": "ECDF LigaPro",
         "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
       }
     ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
+    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even4"
   },
   {
     "id": "37137",
@@ -122,9 +78,9 @@
     "streams": [
       {
         "name": "ESPN 2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even2"
+        "url": "https://fltvhd.com/online/canal.php?stream=even6"
       }
     ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
+    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
   }
 ]
