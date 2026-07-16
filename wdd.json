@@ -1,104 +1,10 @@
 {
   "metadata": {
-    "last_updated": "2026-07-16T21:01:20.113926Z",
+    "last_updated": "2026-07-16T22:52:06.707128Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 14
+    "total_events": 13
   },
   "data": [
-    {
-      "id": 37140,
-      "attributes": {
-        "diary_description": "Primera División: \nABB vs Independiente Petrolero",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-07-16",
-        "createdAt": "2026-07-16T00:22:05.567Z",
-        "updatedAt": "2026-07-16T00:22:08.251Z",
-        "publishedAt": "2026-07-16T00:22:08.248Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1191,
-              "attributes": {
-                "embed_name": "Entel TV PLUS+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 18,
-            "attributes": {
-              "name": "Bolivia",
-              "createdAt": "2023-11-22T15:49:30.375Z",
-              "updatedAt": "2025-08-03T16:33:08.297Z",
-              "publishedAt": "2023-11-22T15:49:34.480Z",
-              "image": {
-                "data": {
-                  "id": 366,
-                  "attributes": {
-                    "name": "bolivia-png.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 831,
-                    "height": 832,
-                    "formats": {
-                      "small": {
-                        "ext": ".png",
-                        "url": "/uploads/small_bolivia_png_81cfc9f71f.png",
-                        "hash": "small_bolivia_png_81cfc9f71f",
-                        "mime": "image/png",
-                        "name": "small_bolivia-png.png",
-                        "path": null,
-                        "size": 65.21,
-                        "width": 499,
-                        "height": 500
-                      },
-                      "medium": {
-                        "ext": ".png",
-                        "url": "/uploads/medium_bolivia_png_81cfc9f71f.png",
-                        "hash": "medium_bolivia_png_81cfc9f71f",
-                        "mime": "image/png",
-                        "name": "medium_bolivia-png.png",
-                        "path": null,
-                        "size": 121.48,
-                        "width": 749,
-                        "height": 750
-                      },
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_bolivia_png_81cfc9f71f.png",
-                        "hash": "thumbnail_bolivia_png_81cfc9f71f",
-                        "mime": "image/png",
-                        "name": "thumbnail_bolivia-png.png",
-                        "path": null,
-                        "size": 11.54,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "bolivia_png_81cfc9f71f",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 20.97,
-                    "url": "/uploads/bolivia_png_81cfc9f71f.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:32:14.648Z",
-                    "updatedAt": "2025-08-03T16:32:14.648Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 37153,
       "attributes": {
