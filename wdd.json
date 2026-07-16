@@ -1,180 +1,10 @@
 {
   "metadata": {
-    "last_updated": "2026-07-15T23:53:52.760810Z",
+    "last_updated": "2026-07-16T02:01:33.966614Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 8
+    "total_events": 5
   },
   "data": [
-    {
-      "id": 37130,
-      "attributes": {
-        "diary_description": "Primera División: \nReal Potosí vs San Antonio Bulo Bulo",
-        "diary_hour": "17:00:00",
-        "date_diary": "2026-07-15",
-        "createdAt": "2026-07-15T00:50:12.057Z",
-        "updatedAt": "2026-07-15T00:50:15.973Z",
-        "publishedAt": "2026-07-15T00:50:15.970Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1191,
-              "attributes": {
-                "embed_name": "Entel TV PLUS+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 18,
-            "attributes": {
-              "name": "Bolivia",
-              "createdAt": "2023-11-22T15:49:30.375Z",
-              "updatedAt": "2025-08-03T16:33:08.297Z",
-              "publishedAt": "2023-11-22T15:49:34.480Z",
-              "image": {
-                "data": {
-                  "id": 366,
-                  "attributes": {
-                    "name": "bolivia-png.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 831,
-                    "height": 832,
-                    "formats": {
-                      "small": {
-                        "ext": ".png",
-                        "url": "/uploads/small_bolivia_png_81cfc9f71f.png",
-                        "hash": "small_bolivia_png_81cfc9f71f",
-                        "mime": "image/png",
-                        "name": "small_bolivia-png.png",
-                        "path": null,
-                        "size": 65.21,
-                        "width": 499,
-                        "height": 500
-                      },
-                      "medium": {
-                        "ext": ".png",
-                        "url": "/uploads/medium_bolivia_png_81cfc9f71f.png",
-                        "hash": "medium_bolivia_png_81cfc9f71f",
-                        "mime": "image/png",
-                        "name": "medium_bolivia-png.png",
-                        "path": null,
-                        "size": 121.48,
-                        "width": 749,
-                        "height": 750
-                      },
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_bolivia_png_81cfc9f71f.png",
-                        "hash": "thumbnail_bolivia_png_81cfc9f71f",
-                        "mime": "image/png",
-                        "name": "thumbnail_bolivia-png.png",
-                        "path": null,
-                        "size": 11.54,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "bolivia_png_81cfc9f71f",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 20.97,
-                    "url": "/uploads/bolivia_png_81cfc9f71f.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:32:14.648Z",
-                    "updatedAt": "2025-08-03T16:32:14.648Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37136,
-      "attributes": {
-        "diary_description": "NBA Summer League – Equipos a Confirmar",
-        "diary_hour": "17:00:00",
-        "date_diary": "2026-07-15",
-        "createdAt": "2026-07-15T00:57:16.949Z",
-        "updatedAt": "2026-07-15T00:57:22.402Z",
-        "publishedAt": "2026-07-15T00:57:22.399Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 656,
-              "attributes": {
-                "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4z",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even3"
-              }
-            },
-            {
-              "id": 1357,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4z",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even3"
-              }
-            },
-            {
-              "id": 1358,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4z",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even3"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 4,
-            "attributes": {
-              "name": "NBA",
-              "createdAt": "2023-11-22T15:09:03.810Z",
-              "updatedAt": "2025-10-13T00:43:15.646Z",
-              "publishedAt": "2023-11-22T15:10:22.869Z",
-              "image": {
-                "data": {
-                  "id": 406,
-                  "attributes": {
-                    "name": "nba_b6210b97b6.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "nba_b6210b97b6_06c9c65d5f",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.37,
-                    "url": "/uploads/nba_b6210b97b6_06c9c65d5f.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-10-13T00:43:11.108Z",
-                    "updatedAt": "2025-10-13T00:43:11.108Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 37138,
       "attributes": {
@@ -422,79 +252,27 @@
       }
     },
     {
-      "id": 37133,
-      "attributes": {
-        "diary_description": "Serie A:  \nUniversidad Católica vs LDU Quito",
-        "diary_hour": "17:00:00",
-        "date_diary": "2026-07-15",
-        "createdAt": "2026-07-15T00:52:47.698Z",
-        "updatedAt": "2026-07-15T00:52:50.897Z",
-        "publishedAt": "2026-07-15T00:52:50.894Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 914,
-              "attributes": {
-                "embed_name": "ECDF LigaPro",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8=",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 13,
-            "attributes": {
-              "name": "Ecuador",
-              "createdAt": "2023-11-22T15:42:56.252Z",
-              "updatedAt": "2025-08-03T14:39:57.465Z",
-              "publishedAt": "2023-11-22T15:42:57.903Z",
-              "image": {
-                "data": {
-                  "id": 353,
-                  "attributes": {
-                    "name": "ecuador_6b5e87e044.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "ecuador_6b5e87e044_2fd81bc301",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.82,
-                    "url": "/uploads/ecuador_6b5e87e044_2fd81bc301.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:39:52.709Z",
-                    "updatedAt": "2025-08-03T14:39:52.709Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 37134,
       "attributes": {
         "diary_description": "Serie A:  \nBarcelona vs Guayaquil City",
         "diary_hour": "19:30:00",
         "date_diary": "2026-07-15",
         "createdAt": "2026-07-15T00:53:31.276Z",
-        "updatedAt": "2026-07-15T00:53:33.760Z",
+        "updatedAt": "2026-07-16T00:57:54.881Z",
         "publishedAt": "2026-07-15T00:53:33.756Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
+            {
+              "id": 541,
+              "attributes": {
+                "embed_name": "Zapping TV Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW40",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even4"
+              }
+            },
             {
               "id": 914,
               "attributes": {
@@ -559,24 +337,24 @@
               "id": 640,
               "attributes": {
                 "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
               }
             },
             {
               "id": 1133,
               "attributes": {
                 "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
               }
             },
             {
               "id": 1377,
               "attributes": {
                 "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
               }
             }
           ]
