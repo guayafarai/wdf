@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-17T22:42:05.166470Z",
+    "last_updated": "2026-07-17T23:45:57.472567Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 19
+    "total_events": 18
   },
   "data": [
     {
@@ -378,106 +378,6 @@
       }
     },
     {
-      "id": 37169,
-      "attributes": {
-        "diary_description": " Liga MX: \nJuárez vs Puebla",
-        "diary_hour": "22:00:00",
-        "date_diary": "2026-07-17",
-        "createdAt": "2026-07-16T15:31:01.371Z",
-        "updatedAt": "2026-07-17T13:58:21.905Z",
-        "publishedAt": "2026-07-17T00:40:05.098Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1459,
-              "attributes": {
-                "embed_name": "Azteca 7 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09YXp0ZWNhNw==",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=azteca7"
-              }
-            },
-            {
-              "id": 1474,
-              "attributes": {
-                "embed_name": "Universo | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dW5pdmVyc28=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=universo"
-              }
-            },
-            {
-              "id": 620,
-              "attributes": {
-                "embed_name": "Azteca 7",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1henRlY2E3",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=azteca7"
-              }
-            },
-            {
-              "id": 1386,
-              "attributes": {
-                "embed_name": "Azteca 7 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1henRlY2E3",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=azteca7"
-              }
-            },
-            {
-              "id": 1387,
-              "attributes": {
-                "embed_name": "Azteca 7 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWF6dGVjYTc=",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=azteca7"
-              }
-            },
-            {
-              "id": 790,
-              "attributes": {
-                "embed_name": "Universo",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT11bml2ZXJzbw==",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=universo"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 5,
-            "attributes": {
-              "name": "México",
-              "createdAt": "2023-11-22T15:15:54.001Z",
-              "updatedAt": "2025-08-10T02:27:25.343Z",
-              "publishedAt": "2023-11-22T15:16:00.799Z",
-              "image": {
-                "data": {
-                  "id": 372,
-                  "attributes": {
-                    "name": "bandera_fbc29cb609.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "bandera_fbc29cb609_69a4b8272a",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.87,
-                    "url": "/uploads/bandera_fbc29cb609_69a4b8272a.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-10T02:27:20.896Z",
-                    "updatedAt": "2025-08-10T02:27:20.896Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 37167,
       "attributes": {
         "diary_description": " Liga MX: \nAtlético San Luis vs Cruz Azul",
@@ -721,6 +621,106 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T16:02:45.389Z",
                     "updatedAt": "2025-08-03T16:02:45.389Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37169,
+      "attributes": {
+        "diary_description": " Liga MX: \nJuárez vs Puebla",
+        "diary_hour": "22:00:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:31:01.371Z",
+        "updatedAt": "2026-07-17T23:32:54.656Z",
+        "publishedAt": "2026-07-17T00:40:05.098Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1474,
+              "attributes": {
+                "embed_name": "Universo | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dW5pdmVyc28=",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=universo"
+              }
+            },
+            {
+              "id": 790,
+              "attributes": {
+                "embed_name": "Universo",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT11bml2ZXJzbw==",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=universo"
+              }
+            },
+            {
+              "id": 620,
+              "attributes": {
+                "embed_name": "Azteca 7",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1henRlY2E3",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=azteca7"
+              }
+            },
+            {
+              "id": 1386,
+              "attributes": {
+                "embed_name": "Azteca 7 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1henRlY2E3",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=azteca7"
+              }
+            },
+            {
+              "id": 1459,
+              "attributes": {
+                "embed_name": "Azteca 7 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09YXp0ZWNhNw==",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=azteca7"
+              }
+            },
+            {
+              "id": 1387,
+              "attributes": {
+                "embed_name": "Azteca 7 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWF6dGVjYTc=",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=azteca7"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "México",
+              "createdAt": "2023-11-22T15:15:54.001Z",
+              "updatedAt": "2025-08-10T02:27:25.343Z",
+              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "image": {
+                "data": {
+                  "id": 372,
+                  "attributes": {
+                    "name": "bandera_fbc29cb609.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "bandera_fbc29cb609_69a4b8272a",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.87,
+                    "url": "/uploads/bandera_fbc29cb609_69a4b8272a.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-10T02:27:20.896Z",
+                    "updatedAt": "2025-08-10T02:27:20.896Z"
                   }
                 }
               }
@@ -1347,90 +1347,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-08T17:07:05.112Z",
                     "updatedAt": "2025-08-08T17:07:05.112Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37156,
-      "attributes": {
-        "diary_description": "Liga 1: \nSporting Cristal vs Deportivo Garcilaso",
-        "diary_hour": "15:15:00",
-        "date_diary": "2026-07-17",
-        "createdAt": "2026-07-16T15:18:26.253Z",
-        "updatedAt": "2026-07-17T13:39:17.756Z",
-        "publishedAt": "2026-07-17T00:39:50.991Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1483,
-              "attributes": {
-                "embed_name": "Liga1MAX | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09bGlnYTFtYXg=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
-              }
-            },
-            {
-              "id": 774,
-              "attributes": {
-                "embed_name": "Liga1MAX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1saWdhMW1heA==",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=liga1max"
-              }
-            },
-            {
-              "id": 738,
-              "attributes": {
-                "embed_name": "Liga1Max | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA==",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=liga1max"
-              }
-            },
-            {
-              "id": 315,
-              "attributes": {
-                "embed_name": "Liga1Max | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWxpZ2ExbWF4",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=liga1max"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 2,
-            "attributes": {
-              "name": "Perú",
-              "createdAt": "2023-11-22T14:50:06.355Z",
-              "updatedAt": "2025-08-03T15:07:36.491Z",
-              "publishedAt": "2023-11-22T15:10:18.533Z",
-              "image": {
-                "data": {
-                  "id": 357,
-                  "attributes": {
-                    "name": "peru_ddc4e685cf.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "peru_ddc4e685cf_43831ed9b0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.79,
-                    "url": "/uploads/peru_ddc4e685cf_43831ed9b0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:07:32.287Z",
-                    "updatedAt": "2025-08-03T15:07:32.287Z"
                   }
                 }
               }
