@@ -180,22 +180,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
   },
   {
-    "id": "37177",
-    "slug": "ciclismo---tour-de-france---etapa-#13-2026-07-17",
-    "team_a": "",
-    "team_b": "",
-    "league": "Ciclismo – Tour de France – Etapa #13",
-    "date": "2026-07-17",
-    "time": "09:30",
-    "streams": [
-      {
-        "name": "ESPN 2 | HD",
-        "url": "https://fltvhd.com/online/canal.php?stream=even6"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
-  },
-  {
     "id": "37160",
     "slug": "mirassol-vs-grêmio-2026-07-17",
     "team_a": "Mirassol",
