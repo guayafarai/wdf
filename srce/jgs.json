@@ -16,22 +16,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even8"
   },
   {
-    "id": "37151",
-    "slug": "houston-rockets-vs-brooklyn-nets-2026-07-16",
-    "team_a": "Houston Rockets",
-    "team_b": "Brooklyn Nets",
-    "league": "NBA Summer League",
-    "date": "2026-07-16",
-    "time": "15:30",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://fltvhd.com/online/canal.php?stream=even8"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even8"
-  },
-  {
     "id": "37144",
     "slug": "orense-vs-emelec-2026-07-16",
     "team_a": "Orense",
@@ -41,27 +25,31 @@
     "time": "19:00",
     "streams": [
       {
-        "name": "ECDF LigaPro",
-        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
+        "name": "ECDF LigaPRO | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro"
       }
     ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "37142",
-    "slug": "vitória-vs-vasco-da-gama-2026-07-16",
-    "team_a": "Vitória",
-    "team_b": "Vasco da Gama",
-    "league": "Brasileirão",
+    "id": "37147",
+    "slug": "necaxa-vs-atlante-2026-07-16",
+    "team_a": "Necaxa",
+    "team_b": "Atlante",
+    "league": "Liga MX",
     "date": "2026-07-16",
-    "time": "17:30",
+    "time": "20:00",
     "streams": [
       {
-        "name": "Premiere 2 BR",
-        "url": "https://fltvhd.com/canales.php?stream=premiere2"
+        "name": "FOX HD",
+        "url": "https://fltvhd.com/online/canal.php?stream=even5"
+      },
+      {
+        "name": "FOX Deportes | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=foxdeportes"
       }
     ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=premiere2"
+    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even5"
   },
   {
     "id": "37139",
@@ -80,54 +68,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even7"
   },
   {
-    "id": "37147",
-    "slug": "necaxa-vs-atlante-2026-07-16",
-    "team_a": "Necaxa",
-    "team_b": "Atlante",
-    "league": "Liga MX",
-    "date": "2026-07-16",
-    "time": "20:00",
-    "streams": [
-      {
-        "name": "FOX Deportes | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=foxdeportes"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=foxdeportes"
-  },
-  {
-    "id": "37141",
-    "slug": "botafogo-vs-santos-2026-07-16",
-    "team_a": "Botafogo",
-    "team_b": "Santos",
-    "league": "Brasileirão",
-    "date": "2026-07-16",
-    "time": "17:30",
-    "streams": [
-      {
-        "name": "Premiere BR",
-        "url": "https://fltvhd.com/canales.php?stream=premiere1"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=premiere1"
-  },
-  {
-    "id": "37143",
-    "slug": "aucas-vs-independiente-del-valle-2026-07-16",
-    "team_a": "Aucas",
-    "team_b": "Independiente del Valle",
-    "league": "Serie A",
-    "date": "2026-07-16",
-    "time": "16:30",
-    "streams": [
-      {
-        "name": "ECDF LigaPro",
-        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
     "id": "37154",
     "slug": "miami-heat-vs-toronto-raptors-2026-07-16",
     "team_a": "Miami Heat",
@@ -142,22 +82,6 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even8"
-  },
-  {
-    "id": "37145",
-    "slug": "racing-club-vs-defensa-y-justicia-2026-07-16",
-    "team_a": "Racing Club",
-    "team_b": "Defensa y Justicia",
-    "league": "Copa Argentina",
-    "date": "2026-07-16",
-    "time": "16:45",
-    "streams": [
-      {
-        "name": "TYC Sports | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=tycsports"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tycsports"
   },
   {
     "id": "37146",
