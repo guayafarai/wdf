@@ -164,22 +164,6 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=premiere1"
   },
   {
-    "id": "37175",
-    "slug": "f2-spa-francorchamps---práctica-2026-07-17",
-    "team_a": "",
-    "team_b": "",
-    "league": "F2 Spa-Francorchamps – Práctica",
-    "date": "2026-07-17",
-    "time": "03:50",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even6"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
-  },
-  {
     "id": "37177",
     "slug": "f3-spa-francorchamps---clasificación-2026-07-17",
     "team_a": "",
@@ -370,22 +354,6 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=premiere1"
-  },
-  {
-    "id": "37174",
-    "slug": "f3-spa-francorchamps---práctica-2026-07-17",
-    "team_a": "",
-    "team_b": "",
-    "league": "F3 Spa-Francorchamps – Práctica",
-    "date": "2026-07-17",
-    "time": "02:50",
-    "streams": [
-      {
-        "name": "ESPN 2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even6"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
   },
   {
     "id": "37176",
