@@ -1,86 +1,78 @@
 {
   "metadata": {
-    "last_updated": "2026-07-17T02:05:00.449633Z",
+    "last_updated": "2026-07-17T05:35:31.899487Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 8
+    "total_events": 27
   },
   "data": [
     {
-      "id": 37153,
+      "id": 37155,
       "attributes": {
-        "diary_description": "NBA Summer League – New York Knicks vs Golden State Warriors",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-07-16",
-        "createdAt": "2026-07-16T00:39:16.245Z",
-        "updatedAt": "2026-07-16T20:25:41.980Z",
-        "publishedAt": "2026-07-16T00:39:19.984Z",
+        "diary_description": "Liga 1: FC Cajamarca vs Juan Pablo II College",
+        "diary_hour": "13:00:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:17:41.147Z",
+        "updatedAt": "2026-07-16T15:17:41.147Z",
+        "publishedAt": "2026-07-17T00:39:50.991Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 520,
+              "id": 774,
               "attributes": {
-                "embed_name": "ESPN 4",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW44",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even8"
+                "embed_name": "Liga1MAX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1saWdhMW1heA==",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=liga1max"
               }
             },
             {
-              "id": 1398,
+              "id": 738,
               "attributes": {
-                "embed_name": "ESPN 4 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW44",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even8"
+                "embed_name": "Liga1Max | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA==",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=liga1max"
               }
             },
             {
-              "id": 1399,
+              "id": 315,
               "attributes": {
-                "embed_name": "ESPN 4 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW44",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even8"
-              }
-            },
-            {
-              "id": 1479,
-              "attributes": {
-                "embed_name": "ESPN 4 | HD",
-                "embed_iframe": "embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjg=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even8"
+                "embed_name": "Liga1Max | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWxpZ2ExbWF4",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=liga1max"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 4,
+            "id": 2,
             "attributes": {
-              "name": "NBA",
-              "createdAt": "2023-11-22T15:09:03.810Z",
-              "updatedAt": "2025-10-13T00:43:15.646Z",
-              "publishedAt": "2023-11-22T15:10:22.869Z",
+              "name": "Perú",
+              "createdAt": "2023-11-22T14:50:06.355Z",
+              "updatedAt": "2025-08-03T15:07:36.491Z",
+              "publishedAt": "2023-11-22T15:10:18.533Z",
               "image": {
                 "data": {
-                  "id": 406,
+                  "id": 357,
                   "attributes": {
-                    "name": "nba_b6210b97b6.png",
+                    "name": "peru_ddc4e685cf.png",
                     "alternativeText": null,
                     "caption": null,
-                    "width": 64,
-                    "height": 64,
+                    "width": 128,
+                    "height": 128,
                     "formats": null,
-                    "hash": "nba_b6210b97b6_06c9c65d5f",
+                    "hash": "peru_ddc4e685cf_43831ed9b0",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 1.37,
-                    "url": "/uploads/nba_b6210b97b6_06c9c65d5f.png",
+                    "size": 0.79,
+                    "url": "/uploads/peru_ddc4e685cf_43831ed9b0.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2025-10-13T00:43:11.108Z",
-                    "updatedAt": "2025-10-13T00:43:11.108Z"
+                    "createdAt": "2025-08-03T15:07:32.287Z",
+                    "updatedAt": "2025-08-03T15:07:32.287Z"
                   }
                 }
               }
@@ -90,27 +82,1221 @@
       }
     },
     {
-      "id": 37144,
+      "id": 37157,
       "attributes": {
-        "diary_description": "Serie A: Orense vs Emelec",
-        "diary_hour": "19:00:00",
-        "date_diary": "2026-07-16",
-        "createdAt": "2026-07-16T00:25:27.271Z",
-        "updatedAt": "2026-07-16T23:16:21.698Z",
-        "publishedAt": "2026-07-16T00:25:39.094Z",
+        "diary_description": "Liga 1: Cienciano vs Melgar",
+        "diary_hour": "20:00:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:19:11.821Z",
+        "updatedAt": "2026-07-16T15:19:11.821Z",
+        "publishedAt": "2026-07-17T00:39:50.991Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 1482,
+              "id": 774,
               "attributes": {
-                "embed_name": "ECDF LigaPRO | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZWNkZl9saWdhcHJv",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro"
+                "embed_name": "Liga1MAX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1saWdhMW1heA==",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=liga1max"
               }
             },
+            {
+              "id": 738,
+              "attributes": {
+                "embed_name": "Liga1Max | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA==",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=liga1max"
+              }
+            },
+            {
+              "id": 315,
+              "attributes": {
+                "embed_name": "Liga1Max | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWxpZ2ExbWF4",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=liga1max"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Perú",
+              "createdAt": "2023-11-22T14:50:06.355Z",
+              "updatedAt": "2025-08-03T15:07:36.491Z",
+              "publishedAt": "2023-11-22T15:10:18.533Z",
+              "image": {
+                "data": {
+                  "id": 357,
+                  "attributes": {
+                    "name": "peru_ddc4e685cf.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "peru_ddc4e685cf_43831ed9b0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.79,
+                    "url": "/uploads/peru_ddc4e685cf_43831ed9b0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:07:32.287Z",
+                    "updatedAt": "2025-08-03T15:07:32.287Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37159,
+      "attributes": {
+        "diary_description": "Brasileirão: \nBahia vs Chapecoense",
+        "diary_hour": "17:30:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:21:30.769Z",
+        "updatedAt": "2026-07-16T15:21:30.769Z",
+        "publishedAt": "2026-07-17T00:39:50.991Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1320,
+              "attributes": {
+                "embed_name": "Premiere BR ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1wcmVtaWVyZTE=",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=premiere1"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2025-08-03T15:06:25.755Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "image": {
+                "data": {
+                  "id": 355,
+                  "attributes": {
+                    "name": "brasil_25a533e5f7.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "brasil_25a533e5f7_a1a1ef7a7c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.73,
+                    "url": "/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:06:21.382Z",
+                    "updatedAt": "2025-08-03T15:06:21.382Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37161,
+      "attributes": {
+        "diary_description": "Brasileirão: \nFluminense vs RB Bragantino",
+        "diary_hour": "18:00:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:22:53.449Z",
+        "updatedAt": "2026-07-16T15:22:53.449Z",
+        "publishedAt": "2026-07-17T00:39:50.991Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1209,
+              "attributes": {
+                "embed_name": "Sportv BR",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1zcG9ydHY=",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=sportv"
+              }
+            },
+            {
+              "id": 1465,
+              "attributes": {
+                "embed_name": "Sportv BR HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09c3BvcnR2",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=sportv"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2025-08-03T15:06:25.755Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "image": {
+                "data": {
+                  "id": 355,
+                  "attributes": {
+                    "name": "brasil_25a533e5f7.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "brasil_25a533e5f7_a1a1ef7a7c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.73,
+                    "url": "/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:06:21.382Z",
+                    "updatedAt": "2025-08-03T15:06:21.382Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37163,
+      "attributes": {
+        "diary_description": "Primera División: \nAlbion vs Juventud",
+        "diary_hour": "13:00:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:24:32.701Z",
+        "updatedAt": "2026-07-16T15:24:32.701Z",
+        "publishedAt": "2026-07-17T00:40:05.098Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 833,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkx",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2025-08-03T13:14:04.349Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 350,
+                  "attributes": {
+                    "name": "uruguay_e2b9597af8.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uruguay_e2b9597af8_6abda609fb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.71,
+                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:14:00.876Z",
+                    "updatedAt": "2025-08-03T13:14:00.876Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37165,
+      "attributes": {
+        "diary_description": "Copa Argentina: \nSan Lorenzo vs Deportivo Riestra",
+        "diary_hour": "16:45:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:26:02.562Z",
+        "updatedAt": "2026-07-16T15:26:02.562Z",
+        "publishedAt": "2026-07-17T00:40:05.098Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 18,
+              "attributes": {
+                "embed_name": "TYC Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10eWNzcG9ydHM=",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=tycsports"
+              }
+            },
+            {
+              "id": 596,
+              "attributes": {
+                "embed_name": "TyC Sports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10eWNzcG9ydHM=",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=tycsports"
+              }
+            },
+            {
+              "id": 955,
+              "attributes": {
+                "embed_name": "TYC Sports | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXR5Y3Nwb3J0cw==",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=tycsports"
+              }
+            },
+            {
+              "id": 1456,
+              "attributes": {
+                "embed_name": "TYC Sports | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dHljc3BvcnRz",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tycsports"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 72,
+            "attributes": {
+              "name": "Argentina",
+              "createdAt": "2024-02-25T19:00:29.066Z",
+              "updatedAt": "2025-08-03T16:02:49.460Z",
+              "publishedAt": "2024-02-25T19:00:31.510Z",
+              "image": {
+                "data": {
+                  "id": 362,
+                  "attributes": {
+                    "name": "argentina_2bd748026e.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "argentina_2bd748026e_628913fc18",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.86,
+                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:02:45.389Z",
+                    "updatedAt": "2025-08-03T16:02:45.389Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37167,
+      "attributes": {
+        "diary_description": " Liga MX: \nAtlético San Luis vs Cruz Azul",
+        "diary_hour": "20:00:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:28:31.600Z",
+        "updatedAt": "2026-07-16T15:28:31.600Z",
+        "publishedAt": "2026-07-17T00:40:05.098Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 308,
+              "attributes": {
+                "embed_name": "ESPN MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BubXg=",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=espnmx"
+              }
+            },
+            {
+              "id": 945,
+              "attributes": {
+                "embed_name": "ESPN MX | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg=",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=espnmx"
+              }
+            },
+            {
+              "id": 1008,
+              "attributes": {
+                "embed_name": "ESPN MX | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG5teA==",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=espnmx"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "México",
+              "createdAt": "2023-11-22T15:15:54.001Z",
+              "updatedAt": "2025-08-10T02:27:25.343Z",
+              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "image": {
+                "data": {
+                  "id": 372,
+                  "attributes": {
+                    "name": "bandera_fbc29cb609.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "bandera_fbc29cb609_69a4b8272a",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.87,
+                    "url": "/uploads/bandera_fbc29cb609_69a4b8272a.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-10T02:27:20.896Z",
+                    "updatedAt": "2025-08-10T02:27:20.896Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37169,
+      "attributes": {
+        "diary_description": " Liga MX: \nJuárez vs Puebla",
+        "diary_hour": "22:00:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:31:01.371Z",
+        "updatedAt": "2026-07-16T15:31:01.371Z",
+        "publishedAt": "2026-07-17T00:40:05.098Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 620,
+              "attributes": {
+                "embed_name": "Azteca 7",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1henRlY2E3",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=azteca7"
+              }
+            },
+            {
+              "id": 1386,
+              "attributes": {
+                "embed_name": "Azteca 7 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1henRlY2E3",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=azteca7"
+              }
+            },
+            {
+              "id": 1387,
+              "attributes": {
+                "embed_name": "Azteca 7 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWF6dGVjYTc=",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=azteca7"
+              }
+            },
+            {
+              "id": 1459,
+              "attributes": {
+                "embed_name": "Azteca 7 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09YXp0ZWNhNw==",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=azteca7"
+              }
+            },
+            {
+              "id": 790,
+              "attributes": {
+                "embed_name": "Universo",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT11bml2ZXJzbw==",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=universo"
+              }
+            },
+            {
+              "id": 1474,
+              "attributes": {
+                "embed_name": "Universo | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dW5pdmVyc28=",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=universo"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "México",
+              "createdAt": "2023-11-22T15:15:54.001Z",
+              "updatedAt": "2025-08-10T02:27:25.343Z",
+              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "image": {
+                "data": {
+                  "id": 372,
+                  "attributes": {
+                    "name": "bandera_fbc29cb609.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "bandera_fbc29cb609_69a4b8272a",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.87,
+                    "url": "/uploads/bandera_fbc29cb609_69a4b8272a.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-10T02:27:20.896Z",
+                    "updatedAt": "2025-08-10T02:27:20.896Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37171,
+      "attributes": {
+        "diary_description": " Major League Soccer: \nLA Galaxy vs Los Angeles FC",
+        "diary_hour": "21:25:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:33:23.488Z",
+        "updatedAt": "2026-07-16T15:33:23.488Z",
+        "publishedAt": "2026-07-17T00:40:05.098Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 288,
+              "attributes": {
+                "embed_name": "FOX Deportes",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=foxdeportes"
+              }
+            },
+            {
+              "id": 698,
+              "attributes": {
+                "embed_name": "FOX Deportes | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=foxdeportes"
+              }
+            },
+            {
+              "id": 1407,
+              "attributes": {
+                "embed_name": "FOX Deportes | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWZveGRlcG9ydGVz",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=foxdeportes"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 19,
+            "attributes": {
+              "name": "Estados Unidos",
+              "createdAt": "2023-11-22T18:04:29.927Z",
+              "updatedAt": "2025-08-23T22:44:26.301Z",
+              "publishedAt": "2023-11-22T18:04:31.112Z",
+              "image": {
+                "data": {
+                  "id": 387,
+                  "attributes": {
+                    "name": "estados_unidos_de_america_b400fc18c4.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "estados_unidos_de_america_b400fc18c4_efc73480e0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.1,
+                    "url": "/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-23T22:44:21.912Z",
+                    "updatedAt": "2025-08-23T22:44:21.912Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37173,
+      "attributes": {
+        "diary_description": "Serie B: \nSão Bernardo vs Avaí",
+        "diary_hour": "17:00:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:35:34.262Z",
+        "updatedAt": "2026-07-16T15:35:34.262Z",
+        "publishedAt": "2026-07-17T00:40:30.984Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1320,
+              "attributes": {
+                "embed_name": "Premiere BR ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1wcmVtaWVyZTE=",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=premiere1"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2025-08-03T15:06:25.755Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "image": {
+                "data": {
+                  "id": 355,
+                  "attributes": {
+                    "name": "brasil_25a533e5f7.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "brasil_25a533e5f7_a1a1ef7a7c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.73,
+                    "url": "/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:06:21.382Z",
+                    "updatedAt": "2025-08-03T15:06:21.382Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37175,
+      "attributes": {
+        "diary_description": "F2 Spa-Francorchamps – Práctica",
+        "diary_hour": "03:50:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:39:05.628Z",
+        "updatedAt": "2026-07-16T15:39:05.628Z",
+        "publishedAt": "2026-07-17T00:40:30.984Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
+              }
+            },
+            {
+              "id": 1133,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
+              }
+            },
+            {
+              "id": 1377,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 81,
+            "attributes": {
+              "name": "Formula 2",
+              "createdAt": "2024-02-29T08:36:50.949Z",
+              "updatedAt": "2025-11-29T11:59:59.018Z",
+              "publishedAt": "2024-02-29T08:36:51.957Z",
+              "image": {
+                "data": {
+                  "id": 418,
+                  "attributes": {
+                    "name": "F2.jpg",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 65,
+                    "height": 65,
+                    "formats": null,
+                    "hash": "F2_a3360f82a5",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "size": 1.78,
+                    "url": "/uploads/F2_a3360f82a5.jpg",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-11-29T11:59:51.055Z",
+                    "updatedAt": "2025-11-29T11:59:51.055Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37177,
+      "attributes": {
+        "diary_description": "F3 Spa-Francorchamps – Clasificación",
+        "diary_hour": "07:55:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:40:45.065Z",
+        "updatedAt": "2026-07-16T15:40:45.065Z",
+        "publishedAt": "2026-07-17T00:40:30.984Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 656,
+              "attributes": {
+                "embed_name": "ESPN 3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW43",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even7"
+              }
+            },
+            {
+              "id": 1357,
+              "attributes": {
+                "embed_name": "ESPN 3 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW43",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even7"
+              }
+            },
+            {
+              "id": 1358,
+              "attributes": {
+                "embed_name": "ESPN 3 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW43",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even7"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 81,
+            "attributes": {
+              "name": "Formula 2",
+              "createdAt": "2024-02-29T08:36:50.949Z",
+              "updatedAt": "2025-11-29T11:59:59.018Z",
+              "publishedAt": "2024-02-29T08:36:51.957Z",
+              "image": {
+                "data": {
+                  "id": 418,
+                  "attributes": {
+                    "name": "F2.jpg",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 65,
+                    "height": 65,
+                    "formats": null,
+                    "hash": "F2_a3360f82a5",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "size": 1.78,
+                    "url": "/uploads/F2_a3360f82a5.jpg",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-11-29T11:59:51.055Z",
+                    "updatedAt": "2025-11-29T11:59:51.055Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37178,
+      "attributes": {
+        "diary_description": "F2 Spa-Francorchamps – Clasificación",
+        "diary_hour": "08:40:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:41:41.094Z",
+        "updatedAt": "2026-07-16T15:41:41.094Z",
+        "publishedAt": "2026-07-17T00:40:30.984Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 656,
+              "attributes": {
+                "embed_name": "ESPN 3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW43",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even7"
+              }
+            },
+            {
+              "id": 1357,
+              "attributes": {
+                "embed_name": "ESPN 3 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW43",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even7"
+              }
+            },
+            {
+              "id": 1358,
+              "attributes": {
+                "embed_name": "ESPN 3 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW43",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even7"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 81,
+            "attributes": {
+              "name": "Formula 2",
+              "createdAt": "2024-02-29T08:36:50.949Z",
+              "updatedAt": "2025-11-29T11:59:59.018Z",
+              "publishedAt": "2024-02-29T08:36:51.957Z",
+              "image": {
+                "data": {
+                  "id": 418,
+                  "attributes": {
+                    "name": "F2.jpg",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 65,
+                    "height": 65,
+                    "formats": null,
+                    "hash": "F2_a3360f82a5",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "size": 1.78,
+                    "url": "/uploads/F2_a3360f82a5.jpg",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-11-29T11:59:51.055Z",
+                    "updatedAt": "2025-11-29T11:59:51.055Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37180,
+      "attributes": {
+        "diary_description": "MLB – Atlanta Braves vs Texas Rangers",
+        "diary_hour": "18:00:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:50:34.598Z",
+        "updatedAt": "2026-07-16T15:50:34.598Z",
+        "publishedAt": "2026-07-17T00:40:30.984Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 645,
+              "attributes": {
+                "embed_name": "ESPN 5",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNQ==",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=espn5"
+              }
+            },
+            {
+              "id": 474,
+              "attributes": {
+                "embed_name": "ESPN 5 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNQ==",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=espn5"
+              }
+            },
+            {
+              "id": 599,
+              "attributes": {
+                "embed_name": "ESPN 5 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG41",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=espn5"
+              }
+            },
+            {
+              "id": 1466,
+              "attributes": {
+                "embed_name": "ESPN 5 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjU=",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=espn5"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 70,
+            "attributes": {
+              "name": "MLB Preseason",
+              "createdAt": "2024-02-23T06:14:15.840Z",
+              "updatedAt": "2025-08-03T14:39:12.740Z",
+              "publishedAt": "2024-02-23T06:14:18.809Z",
+              "image": {
+                "data": {
+                  "id": 352,
+                  "attributes": {
+                    "name": "mlb_f5711cc440.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "mlb_f5711cc440_dde64767e4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.66,
+                    "url": "/uploads/mlb_f5711cc440_dde64767e4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T14:39:07.537Z",
+                    "updatedAt": "2025-08-03T14:39:07.537Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37156,
+      "attributes": {
+        "diary_description": "Liga 1: \nSporting Cristal vs Deportivo Garcilaso",
+        "diary_hour": "15:15:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:18:26.253Z",
+        "updatedAt": "2026-07-16T15:18:26.253Z",
+        "publishedAt": "2026-07-17T00:39:50.991Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 774,
+              "attributes": {
+                "embed_name": "Liga1MAX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1saWdhMW1heA==",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=liga1max"
+              }
+            },
+            {
+              "id": 738,
+              "attributes": {
+                "embed_name": "Liga1Max | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA==",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=liga1max"
+              }
+            },
+            {
+              "id": 315,
+              "attributes": {
+                "embed_name": "Liga1Max | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWxpZ2ExbWF4",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=liga1max"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Perú",
+              "createdAt": "2023-11-22T14:50:06.355Z",
+              "updatedAt": "2025-08-03T15:07:36.491Z",
+              "publishedAt": "2023-11-22T15:10:18.533Z",
+              "image": {
+                "data": {
+                  "id": 357,
+                  "attributes": {
+                    "name": "peru_ddc4e685cf.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "peru_ddc4e685cf_43831ed9b0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.79,
+                    "url": "/uploads/peru_ddc4e685cf_43831ed9b0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:07:32.287Z",
+                    "updatedAt": "2025-08-03T15:07:32.287Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37158,
+      "attributes": {
+        "diary_description": "Primera División: Bolívar vs Guabirá",
+        "diary_hour": "19:00:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:20:22.214Z",
+        "updatedAt": "2026-07-16T15:20:22.214Z",
+        "publishedAt": "2026-07-17T00:39:50.991Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1191,
+              "attributes": {
+                "embed_name": "Entel TV PLUS+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE=",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 18,
+            "attributes": {
+              "name": "Bolivia",
+              "createdAt": "2023-11-22T15:49:30.375Z",
+              "updatedAt": "2025-08-03T16:33:08.297Z",
+              "publishedAt": "2023-11-22T15:49:34.480Z",
+              "image": {
+                "data": {
+                  "id": 366,
+                  "attributes": {
+                    "name": "bolivia-png.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 831,
+                    "height": 832,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "/uploads/small_bolivia_png_81cfc9f71f.png",
+                        "hash": "small_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "small_bolivia-png.png",
+                        "path": null,
+                        "size": 65.21,
+                        "width": 499,
+                        "height": 500
+                      },
+                      "medium": {
+                        "ext": ".png",
+                        "url": "/uploads/medium_bolivia_png_81cfc9f71f.png",
+                        "hash": "medium_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "medium_bolivia-png.png",
+                        "path": null,
+                        "size": 121.48,
+                        "width": 749,
+                        "height": 750
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_bolivia_png_81cfc9f71f.png",
+                        "hash": "thumbnail_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "thumbnail_bolivia-png.png",
+                        "path": null,
+                        "size": 11.54,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "bolivia_png_81cfc9f71f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 20.97,
+                    "url": "/uploads/bolivia_png_81cfc9f71f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:32:14.648Z",
+                    "updatedAt": "2025-08-03T16:32:14.648Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37160,
+      "attributes": {
+        "diary_description": "Brasileirão: \nMirassol vs Grêmio",
+        "diary_hour": "18:00:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:22:08.150Z",
+        "updatedAt": "2026-07-16T15:22:08.150Z",
+        "publishedAt": "2026-07-17T00:39:50.991Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1320,
+              "attributes": {
+                "embed_name": "Premiere BR ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1wcmVtaWVyZTE=",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=premiere1"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2025-08-03T15:06:25.755Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "image": {
+                "data": {
+                  "id": 355,
+                  "attributes": {
+                    "name": "brasil_25a533e5f7.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "brasil_25a533e5f7_a1a1ef7a7c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.73,
+                    "url": "/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:06:21.382Z",
+                    "updatedAt": "2025-08-03T15:06:21.382Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37162,
+      "attributes": {
+        "diary_description": " Serie A: \nDelfin vs Macará",
+        "diary_hour": "19:00:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:23:35.729Z",
+        "updatedAt": "2026-07-16T15:23:35.729Z",
+        "publishedAt": "2026-07-17T00:39:50.991Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
             {
               "id": 914,
               "attributes": {
@@ -158,89 +1344,57 @@
       }
     },
     {
-      "id": 37147,
+      "id": 37164,
       "attributes": {
-        "diary_description": "Liga MX: \nNecaxa vs Atlante",
-        "diary_hour": "20:00:00",
-        "date_diary": "2026-07-16",
-        "createdAt": "2026-07-16T00:30:33.074Z",
-        "updatedAt": "2026-07-17T00:17:50.550Z",
-        "publishedAt": "2026-07-16T00:30:35.698Z",
+        "diary_description": "Primera División: \nNacional vs Wanderers",
+        "diary_hour": "17:30:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:25:09.933Z",
+        "updatedAt": "2026-07-16T15:25:09.933Z",
+        "publishedAt": "2026-07-17T00:40:05.098Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 682,
+              "id": 833,
               "attributes": {
-                "embed_name": "FOX HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW41",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even5"
-              }
-            },
-            {
-              "id": 1477,
-              "attributes": {
-                "embed_name": "FOX Deportes | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09Zm94ZGVwb3J0ZXM=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=foxdeportes"
-              }
-            },
-            {
-              "id": 288,
-              "attributes": {
-                "embed_name": "FOX Deportes",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=foxdeportes"
-              }
-            },
-            {
-              "id": 698,
-              "attributes": {
-                "embed_name": "FOX Deportes | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=foxdeportes"
-              }
-            },
-            {
-              "id": 1407,
-              "attributes": {
-                "embed_name": "FOX Deportes | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWZveGRlcG9ydGVz",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=foxdeportes"
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkx",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 5,
+            "id": 16,
             "attributes": {
-              "name": "México",
-              "createdAt": "2023-11-22T15:15:54.001Z",
-              "updatedAt": "2025-08-10T02:27:25.343Z",
-              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2025-08-03T13:14:04.349Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
               "image": {
                 "data": {
-                  "id": 372,
+                  "id": 350,
                   "attributes": {
-                    "name": "bandera_fbc29cb609.png",
+                    "name": "uruguay_e2b9597af8.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "bandera_fbc29cb609_69a4b8272a",
+                    "hash": "uruguay_e2b9597af8_6abda609fb",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 0.87,
-                    "url": "/uploads/bandera_fbc29cb609_69a4b8272a.png",
+                    "size": 0.71,
+                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2025-08-10T02:27:20.896Z",
-                    "updatedAt": "2025-08-10T02:27:20.896Z"
+                    "createdAt": "2025-08-03T13:14:00.876Z",
+                    "updatedAt": "2025-08-03T13:14:00.876Z"
                   }
                 }
               }
@@ -250,179 +1404,19 @@
       }
     },
     {
-      "id": 37139,
+      "id": 37166,
       "attributes": {
-        "diary_description": "NBA Summer League – Denver Nuggets vs Portland Trail Blazers",
-        "diary_hour": "21:00:00",
-        "date_diary": "2026-07-16",
-        "createdAt": "2026-07-15T01:00:11.419Z",
-        "updatedAt": "2026-07-16T16:06:39.311Z",
-        "publishedAt": "2026-07-15T01:00:14.590Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 656,
-              "attributes": {
-                "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW43",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even7"
-              }
-            },
-            {
-              "id": 1357,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW43",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even7"
-              }
-            },
-            {
-              "id": 1358,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW43",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even7"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 4,
-            "attributes": {
-              "name": "NBA",
-              "createdAt": "2023-11-22T15:09:03.810Z",
-              "updatedAt": "2025-10-13T00:43:15.646Z",
-              "publishedAt": "2023-11-22T15:10:22.869Z",
-              "image": {
-                "data": {
-                  "id": 406,
-                  "attributes": {
-                    "name": "nba_b6210b97b6.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "nba_b6210b97b6_06c9c65d5f",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.37,
-                    "url": "/uploads/nba_b6210b97b6_06c9c65d5f.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-10-13T00:43:11.108Z",
-                    "updatedAt": "2025-10-13T00:43:11.108Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37154,
-      "attributes": {
-        "diary_description": "NBA Summer League – Miami Heat vs Toronto Raptors",
-        "diary_hour": "20:00:00",
-        "date_diary": "2026-07-16",
-        "createdAt": "2026-07-16T00:40:11.797Z",
-        "updatedAt": "2026-07-16T16:05:47.032Z",
-        "publishedAt": "2026-07-16T00:44:58.373Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 520,
-              "attributes": {
-                "embed_name": "ESPN 4",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW44",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even8"
-              }
-            },
-            {
-              "id": 1398,
-              "attributes": {
-                "embed_name": "ESPN 4 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW44",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even8"
-              }
-            },
-            {
-              "id": 1399,
-              "attributes": {
-                "embed_name": "ESPN 4 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW44",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even8"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 4,
-            "attributes": {
-              "name": "NBA",
-              "createdAt": "2023-11-22T15:09:03.810Z",
-              "updatedAt": "2025-10-13T00:43:15.646Z",
-              "publishedAt": "2023-11-22T15:10:22.869Z",
-              "image": {
-                "data": {
-                  "id": 406,
-                  "attributes": {
-                    "name": "nba_b6210b97b6.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "nba_b6210b97b6_06c9c65d5f",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.37,
-                    "url": "/uploads/nba_b6210b97b6_06c9c65d5f.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-10-13T00:43:11.108Z",
-                    "updatedAt": "2025-10-13T00:43:11.108Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37146,
-      "attributes": {
-        "diary_description": "Copa Argentina: \nSarmiento vs Boca Juniors",
+        "diary_description": "Copa Argentina: River Plate vs Aldosivi",
         "diary_hour": "19:45:00",
-        "date_diary": "2026-07-16",
-        "createdAt": "2026-07-16T00:27:29.048Z",
-        "updatedAt": "2026-07-16T20:12:37.355Z",
-        "publishedAt": "2026-07-16T00:27:33.093Z",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:26:55.646Z",
+        "updatedAt": "2026-07-16T15:26:55.646Z",
+        "publishedAt": "2026-07-17T00:40:05.098Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
-            {
-              "id": 1456,
-              "attributes": {
-                "embed_name": "TYC Sports | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dHljc3BvcnRz",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tycsports"
-              }
-            },
             {
               "id": 18,
               "attributes": {
@@ -445,6 +1439,14 @@
                 "embed_name": "TYC Sports | OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXR5Y3Nwb3J0cw==",
                 "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=tycsports"
+              }
+            },
+            {
+              "id": 1456,
+              "attributes": {
+                "embed_name": "TYC Sports | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dHljc3BvcnRz",
+                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tycsports"
               }
             }
           ]
@@ -486,111 +1488,19 @@
       }
     },
     {
-      "id": 37152,
+      "id": 37168,
       "attributes": {
-        "diary_description": "MLB – Philadelphia Phillies vs New York Mets",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-07-16",
-        "createdAt": "2026-07-16T00:38:08.947Z",
-        "updatedAt": "2026-07-16T20:13:56.416Z",
-        "publishedAt": "2026-07-16T00:38:15.389Z",
+        "diary_description": " Liga MX: \nLeón vs Atlas",
+        "diary_hour": "20:00:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:29:39.879Z",
+        "updatedAt": "2026-07-16T15:29:39.879Z",
+        "publishedAt": "2026-07-17T00:40:05.098Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
-            {
-              "id": 1462,
-              "attributes": {
-                "embed_name": "ESPN 3 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW43",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even7"
-              }
-            },
-            {
-              "id": 656,
-              "attributes": {
-                "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW43",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even7"
-              }
-            },
-            {
-              "id": 1357,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW43",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even7"
-              }
-            },
-            {
-              "id": 1358,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW43",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even7"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 70,
-            "attributes": {
-              "name": "MLB Preseason",
-              "createdAt": "2024-02-23T06:14:15.840Z",
-              "updatedAt": "2025-08-03T14:39:12.740Z",
-              "publishedAt": "2024-02-23T06:14:18.809Z",
-              "image": {
-                "data": {
-                  "id": 352,
-                  "attributes": {
-                    "name": "mlb_f5711cc440.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "mlb_f5711cc440_dde64767e4",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.66,
-                    "url": "/uploads/mlb_f5711cc440_dde64767e4.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:39:07.537Z",
-                    "updatedAt": "2025-08-03T14:39:07.537Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37148,
-      "attributes": {
-        "diary_description": "Liga MX: \nTijuana vs Tigres UANL",
-        "diary_hour": "22:00:00",
-        "date_diary": "2026-07-16",
-        "createdAt": "2026-07-16T00:31:46.865Z",
-        "updatedAt": "2026-07-16T20:21:47.906Z",
-        "publishedAt": "2026-07-16T00:31:50.534Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1478,
-              "attributes": {
-                "embed_name": "TUDN USA | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dHVkbg==",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tudn"
-              }
-            },
             {
               "id": 206,
               "attributes": {
@@ -645,6 +1555,491 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-10T02:27:20.896Z",
                     "updatedAt": "2025-08-10T02:27:20.896Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37170,
+      "attributes": {
+        "diary_description": " Major League Soccer: \nNashville SC vs Atlanta United",
+        "diary_hour": "19:10:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:32:39.229Z",
+        "updatedAt": "2026-07-16T15:32:39.229Z",
+        "publishedAt": "2026-07-17T00:40:05.098Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 288,
+              "attributes": {
+                "embed_name": "FOX Deportes",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=foxdeportes"
+              }
+            },
+            {
+              "id": 698,
+              "attributes": {
+                "embed_name": "FOX Deportes | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=foxdeportes"
+              }
+            },
+            {
+              "id": 1407,
+              "attributes": {
+                "embed_name": "FOX Deportes | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWZveGRlcG9ydGVz",
+                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=foxdeportes"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 19,
+            "attributes": {
+              "name": "Estados Unidos",
+              "createdAt": "2023-11-22T18:04:29.927Z",
+              "updatedAt": "2025-08-23T22:44:26.301Z",
+              "publishedAt": "2023-11-22T18:04:31.112Z",
+              "image": {
+                "data": {
+                  "id": 387,
+                  "attributes": {
+                    "name": "estados_unidos_de_america_b400fc18c4.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "estados_unidos_de_america_b400fc18c4_efc73480e0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.1,
+                    "url": "/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-23T22:44:21.912Z",
+                    "updatedAt": "2025-08-23T22:44:21.912Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37172,
+      "attributes": {
+        "diary_description": "Serie B: \nAmérica Mineiro vs Ceará",
+        "diary_hour": "17:00:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:34:42.873Z",
+        "updatedAt": "2026-07-16T15:34:42.873Z",
+        "publishedAt": "2026-07-17T00:40:05.098Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1320,
+              "attributes": {
+                "embed_name": "Premiere BR ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1wcmVtaWVyZTE=",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=premiere1"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2025-08-03T15:06:25.755Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "image": {
+                "data": {
+                  "id": 355,
+                  "attributes": {
+                    "name": "brasil_25a533e5f7.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "brasil_25a533e5f7_a1a1ef7a7c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.73,
+                    "url": "/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:06:21.382Z",
+                    "updatedAt": "2025-08-03T15:06:21.382Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37174,
+      "attributes": {
+        "diary_description": " F3 Spa-Francorchamps – Práctica",
+        "diary_hour": "02:50:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:38:18.727Z",
+        "updatedAt": "2026-07-16T15:38:18.727Z",
+        "publishedAt": "2026-07-17T00:40:30.984Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
+              }
+            },
+            {
+              "id": 1133,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
+              }
+            },
+            {
+              "id": 1377,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 81,
+            "attributes": {
+              "name": "Formula 2",
+              "createdAt": "2024-02-29T08:36:50.949Z",
+              "updatedAt": "2025-11-29T11:59:59.018Z",
+              "publishedAt": "2024-02-29T08:36:51.957Z",
+              "image": {
+                "data": {
+                  "id": 418,
+                  "attributes": {
+                    "name": "F2.jpg",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 65,
+                    "height": 65,
+                    "formats": null,
+                    "hash": "F2_a3360f82a5",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "size": 1.78,
+                    "url": "/uploads/F2_a3360f82a5.jpg",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-11-29T11:59:51.055Z",
+                    "updatedAt": "2025-11-29T11:59:51.055Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37176,
+      "attributes": {
+        "diary_description": "Ciclismo – Tour de France – Etapa #13",
+        "diary_hour": "05:30:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:39:50.777Z",
+        "updatedAt": "2026-07-16T15:39:50.777Z",
+        "publishedAt": "2026-07-17T00:40:30.984Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
+              }
+            },
+            {
+              "id": 1133,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
+              }
+            },
+            {
+              "id": 1377,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 82,
+            "attributes": {
+              "name": "Ciclismo",
+              "createdAt": "2024-03-06T10:31:11.902Z",
+              "updatedAt": "2025-09-11T14:01:56.949Z",
+              "publishedAt": "2024-03-06T10:31:39.259Z",
+              "image": {
+                "data": {
+                  "id": 397,
+                  "attributes": {
+                    "name": "Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 5000,
+                    "height": 5000,
+                    "formats": {
+                      "large": {
+                        "ext": ".png",
+                        "url": "/uploads/large_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
+                        "hash": "large_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b",
+                        "mime": "image/png",
+                        "name": "large_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148.png",
+                        "path": null,
+                        "size": 77.03,
+                        "width": 1000,
+                        "height": 1000
+                      },
+                      "small": {
+                        "ext": ".png",
+                        "url": "/uploads/small_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
+                        "hash": "small_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b",
+                        "mime": "image/png",
+                        "name": "small_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148.png",
+                        "path": null,
+                        "size": 33.72,
+                        "width": 500,
+                        "height": 500
+                      },
+                      "medium": {
+                        "ext": ".png",
+                        "url": "/uploads/medium_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
+                        "hash": "medium_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b",
+                        "mime": "image/png",
+                        "name": "medium_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148.png",
+                        "path": null,
+                        "size": 57.91,
+                        "width": 750,
+                        "height": 750
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
+                        "hash": "thumbnail_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b",
+                        "mime": "image/png",
+                        "name": "thumbnail_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148.png",
+                        "path": null,
+                        "size": 8.01,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 87.91,
+                    "url": "/uploads/Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-11T14:01:52.942Z",
+                    "updatedAt": "2025-09-11T14:01:52.942Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37179,
+      "attributes": {
+        "diary_description": "Golf – The Open Championship – Segunda Vuelta",
+        "diary_hour": "11:30:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:44:12.277Z",
+        "updatedAt": "2026-07-16T15:44:12.277Z",
+        "publishedAt": "2026-07-17T00:40:30.984Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
+              }
+            },
+            {
+              "id": 1133,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
+              }
+            },
+            {
+              "id": 1377,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 22,
+            "attributes": {
+              "name": "Golf",
+              "createdAt": "2023-11-23T13:25:40.717Z",
+              "updatedAt": "2025-09-04T14:08:20.151Z",
+              "publishedAt": "2023-11-23T13:25:42.231Z",
+              "image": {
+                "data": {
+                  "id": 393,
+                  "attributes": {
+                    "name": "golf_4a8d942645.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "golf_4a8d942645_6c3bec75aa",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.51,
+                    "url": "/uploads/golf_4a8d942645_6c3bec75aa.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-04T14:08:15.762Z",
+                    "updatedAt": "2025-09-04T14:08:15.762Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37181,
+      "attributes": {
+        "diary_description": "ESPN Knockout – A Confirmar",
+        "diary_hour": "19:00:00",
+        "date_diary": "2026-07-17",
+        "createdAt": "2026-07-16T15:51:23.175Z",
+        "updatedAt": "2026-07-16T15:51:23.175Z",
+        "publishedAt": "2026-07-17T00:40:30.984Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
+              }
+            },
+            {
+              "id": 1133,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
+              }
+            },
+            {
+              "id": 1377,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
+                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 52,
+            "attributes": {
+              "name": "Boxeo",
+              "createdAt": "2024-01-23T08:29:53.264Z",
+              "updatedAt": "2025-08-08T17:07:11.502Z",
+              "publishedAt": "2024-01-23T08:29:54.683Z",
+              "image": {
+                "data": {
+                  "id": 368,
+                  "attributes": {
+                    "name": "boxeo_2024_b15889ae93.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "boxeo_2024_b15889ae93_ae58e10dcb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.39,
+                    "url": "/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-08T17:07:05.112Z",
+                    "updatedAt": "2025-08-08T17:07:05.112Z"
                   }
                 }
               }
