@@ -116,22 +116,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=espnmx"
   },
   {
-    "id": "37163",
-    "slug": "albion-vs-juventud-2026-07-17",
-    "team_a": "Albion",
-    "team_b": "Juventud",
-    "league": "Primera División",
-    "date": "2026-07-17",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney1"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
-  },
-  {
     "id": "37180",
     "slug": "atlanta-braves-vs-texas-rangers-2026-07-17",
     "team_a": "Atlanta Braves",
@@ -162,22 +146,6 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tycsports"
-  },
-  {
-    "id": "37155",
-    "slug": "fc-cajamarca-vs-juan-pablo-ii-college-2026-07-17",
-    "team_a": "FC Cajamarca",
-    "team_b": "Juan Pablo II College",
-    "league": "Liga 1",
-    "date": "2026-07-17",
-    "time": "13:00",
-    "streams": [
-      {
-        "name": "Liga1MAX | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=liga1max"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
   },
   {
     "id": "37160",
