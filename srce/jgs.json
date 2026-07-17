@@ -228,22 +228,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
   },
   {
-    "id": "37164",
-    "slug": "nacional-vs-wanderers-2026-07-17",
-    "team_a": "Nacional",
-    "team_b": "Wanderers",
-    "league": "Primera División",
-    "date": "2026-07-17",
-    "time": "17:30",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney1"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
-  },
-  {
     "id": "37170",
     "slug": "nashville-sc-vs-atlanta-united-2026-07-17",
     "team_a": "Nashville SC",
@@ -324,22 +308,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
   },
   {
-    "id": "37179",
-    "slug": "golf---the-open-championship---segunda-vuelta-2026-07-17",
-    "team_a": "",
-    "team_b": "",
-    "league": "Golf – The Open Championship – Segunda Vuelta",
-    "date": "2026-07-17",
-    "time": "11:30",
-    "streams": [
-      {
-        "name": "ESPN 2 | HD",
-        "url": "https://fltvhd.com/online/canal.php?stream=even6"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
-  },
-  {
     "id": "37156",
     "slug": "sporting-cristal-vs-deportivo-garcilaso-2026-07-17",
     "team_a": "Sporting Cristal",
@@ -354,5 +322,21 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
+  },
+  {
+    "id": "37164",
+    "slug": "nacional-vs-wanderers-2026-07-17",
+    "team_a": "Nacional",
+    "team_b": "Wanderers",
+    "league": "Primera División",
+    "date": "2026-07-17",
+    "time": "17:30",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney2"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney2"
   }
 ]
