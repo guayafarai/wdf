@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-17T10:00:55.398300Z",
+    "last_updated": "2026-07-17T12:03:38.098818Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 27
+    "total_events": 25
   },
   "data": [
     {
@@ -733,82 +733,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T15:06:21.382Z",
                     "updatedAt": "2025-08-03T15:06:21.382Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37175,
-      "attributes": {
-        "diary_description": "F2 Spa-Francorchamps – Práctica",
-        "diary_hour": "03:50:00",
-        "date_diary": "2026-07-17",
-        "createdAt": "2026-07-16T15:39:05.628Z",
-        "updatedAt": "2026-07-16T15:39:05.628Z",
-        "publishedAt": "2026-07-17T00:40:30.984Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 81,
-            "attributes": {
-              "name": "Formula 2",
-              "createdAt": "2024-02-29T08:36:50.949Z",
-              "updatedAt": "2025-11-29T11:59:59.018Z",
-              "publishedAt": "2024-02-29T08:36:51.957Z",
-              "image": {
-                "data": {
-                  "id": 418,
-                  "attributes": {
-                    "name": "F2.jpg",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 65,
-                    "height": 65,
-                    "formats": null,
-                    "hash": "F2_a3360f82a5",
-                    "ext": ".jpg",
-                    "mime": "image/jpeg",
-                    "size": 1.78,
-                    "url": "/uploads/F2_a3360f82a5.jpg",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-11-29T11:59:51.055Z",
-                    "updatedAt": "2025-11-29T11:59:51.055Z"
                   }
                 }
               }
@@ -1691,82 +1615,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T15:06:21.382Z",
                     "updatedAt": "2025-08-03T15:06:21.382Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37174,
-      "attributes": {
-        "diary_description": " F3 Spa-Francorchamps – Práctica",
-        "diary_hour": "02:50:00",
-        "date_diary": "2026-07-17",
-        "createdAt": "2026-07-16T15:38:18.727Z",
-        "updatedAt": "2026-07-16T15:38:18.727Z",
-        "publishedAt": "2026-07-17T00:40:30.984Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 81,
-            "attributes": {
-              "name": "Formula 2",
-              "createdAt": "2024-02-29T08:36:50.949Z",
-              "updatedAt": "2025-11-29T11:59:59.018Z",
-              "publishedAt": "2024-02-29T08:36:51.957Z",
-              "image": {
-                "data": {
-                  "id": 418,
-                  "attributes": {
-                    "name": "F2.jpg",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 65,
-                    "height": 65,
-                    "formats": null,
-                    "hash": "F2_a3360f82a5",
-                    "ext": ".jpg",
-                    "mime": "image/jpeg",
-                    "size": 1.78,
-                    "url": "/uploads/F2_a3360f82a5.jpg",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-11-29T11:59:51.055Z",
-                    "updatedAt": "2025-11-29T11:59:51.055Z"
                   }
                 }
               }
