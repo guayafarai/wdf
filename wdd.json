@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-17T19:17:30.553849Z",
+    "last_updated": "2026-07-17T20:46:04.602056Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 22
+    "total_events": 21
   },
   "data": [
     {
@@ -1491,90 +1491,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-08T17:07:05.112Z",
                     "updatedAt": "2025-08-08T17:07:05.112Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37179,
-      "attributes": {
-        "diary_description": "Golf – The Open Championship – Segunda Vuelta",
-        "diary_hour": "11:30:00",
-        "date_diary": "2026-07-17",
-        "createdAt": "2026-07-16T15:44:12.277Z",
-        "updatedAt": "2026-07-17T13:05:01.209Z",
-        "publishedAt": "2026-07-17T00:40:30.984Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1461,
-              "attributes": {
-                "embed_name": "ESPN 2 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
-              }
-            },
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 22,
-            "attributes": {
-              "name": "Golf",
-              "createdAt": "2023-11-23T13:25:40.717Z",
-              "updatedAt": "2025-09-04T14:08:20.151Z",
-              "publishedAt": "2023-11-23T13:25:42.231Z",
-              "image": {
-                "data": {
-                  "id": 393,
-                  "attributes": {
-                    "name": "golf_4a8d942645.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "golf_4a8d942645_6c3bec75aa",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.51,
-                    "url": "/uploads/golf_4a8d942645_6c3bec75aa.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T14:08:15.762Z",
-                    "updatedAt": "2025-09-04T14:08:15.762Z"
                   }
                 }
               }
