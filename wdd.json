@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-18T22:42:25.106484Z",
+    "last_updated": "2026-07-18T23:46:29.252586Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 16
+    "total_events": 13
   },
   "data": [
     {
@@ -454,66 +454,6 @@
       }
     },
     {
-      "id": 37194,
-      "attributes": {
-        "diary_description": "Amistoso Internacional: Millonarios vs Colo-Colo",
-        "diary_hour": "15:00:00",
-        "date_diary": "2026-07-18",
-        "createdAt": "2026-07-17T14:47:45.499Z",
-        "updatedAt": "2026-07-18T13:01:48.164Z",
-        "publishedAt": "2026-07-18T01:09:03.921Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 831,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk1",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney5"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 55,
-            "attributes": {
-              "name": "Amistoso",
-              "createdAt": "2024-02-01T08:09:43.427Z",
-              "updatedAt": "2025-09-04T14:05:15.995Z",
-              "publishedAt": "2024-02-01T08:09:44.642Z",
-              "image": {
-                "data": {
-                  "id": 392,
-                  "attributes": {
-                    "name": "amistoso_paises_b9febc0d3c.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c_e1d457d1ee",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.59,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-04T14:05:11.984Z",
-                    "updatedAt": "2025-09-04T14:05:11.984Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 37228,
       "attributes": {
         "diary_description": "NBA Summer League – New Orleans Pelicans vs Indiana Pacers",
@@ -589,90 +529,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-10-13T00:43:11.108Z",
                     "updatedAt": "2025-10-13T00:43:11.108Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37184,
-      "attributes": {
-        "diary_description": "Liga 1: Atlético Grau vs UTC Cajamarca",
-        "diary_hour": "15:30:00",
-        "date_diary": "2026-07-18",
-        "createdAt": "2026-07-17T14:35:51.326Z",
-        "updatedAt": "2026-07-17T14:35:51.326Z",
-        "publishedAt": "2026-07-18T01:08:49.994Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1483,
-              "attributes": {
-                "embed_name": "Liga1MAX | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09bGlnYTFtYXg=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
-              }
-            },
-            {
-              "id": 774,
-              "attributes": {
-                "embed_name": "Liga1MAX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1saWdhMW1heA==",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=liga1max"
-              }
-            },
-            {
-              "id": 738,
-              "attributes": {
-                "embed_name": "Liga1Max | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA==",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=liga1max"
-              }
-            },
-            {
-              "id": 315,
-              "attributes": {
-                "embed_name": "Liga1Max | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWxpZ2ExbWF4",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=liga1max"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 2,
-            "attributes": {
-              "name": "Perú",
-              "createdAt": "2023-11-22T14:50:06.355Z",
-              "updatedAt": "2025-08-03T15:07:36.491Z",
-              "publishedAt": "2023-11-22T15:10:18.533Z",
-              "image": {
-                "data": {
-                  "id": 357,
-                  "attributes": {
-                    "name": "peru_ddc4e685cf.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "peru_ddc4e685cf_43831ed9b0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.79,
-                    "url": "/uploads/peru_ddc4e685cf_43831ed9b0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:07:32.287Z",
-                    "updatedAt": "2025-08-03T15:07:32.287Z"
                   }
                 }
               }
@@ -1215,66 +1071,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T15:07:32.287Z",
                     "updatedAt": "2025-08-03T15:07:32.287Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37241,
-      "attributes": {
-        "diary_description": "UFC: Dricus Du Plessis vs Kamaru Usman",
-        "diary_hour": "15:00:00",
-        "date_diary": "2026-07-18",
-        "createdAt": "2026-07-18T20:51:17.456Z",
-        "updatedAt": "2026-07-18T20:51:20.133Z",
-        "publishedAt": "2026-07-18T20:51:20.130Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1083,
-              "attributes": {
-                "embed_name": "Paramount+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1wYXJhbW91bnQx",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=paramount1"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 44,
-            "attributes": {
-              "name": "UFC",
-              "createdAt": "2024-01-04T23:14:52.699Z",
-              "updatedAt": "2025-09-13T18:20:59.237Z",
-              "publishedAt": "2024-01-04T23:15:15.457Z",
-              "image": {
-                "data": {
-                  "id": 400,
-                  "attributes": {
-                    "name": "ufc.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "ufc_b17258502e",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.93,
-                    "url": "/uploads/ufc_b17258502e.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-13T18:20:55.629Z",
-                    "updatedAt": "2025-09-13T18:20:55.629Z"
                   }
                 }
               }
