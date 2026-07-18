@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-18T14:44:47.824824Z",
+    "last_updated": "2026-07-18T15:50:09.610098Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 28
+    "total_events": 27
   },
   "data": [
     {
@@ -445,90 +445,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-09-04T14:05:11.984Z",
                     "updatedAt": "2025-09-04T14:05:11.984Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37222,
-      "attributes": {
-        "diary_description": "F2 Spa-Francorchamps – Carrera Sprint",
-        "diary_hour": "07:00:00",
-        "date_diary": "2026-07-18",
-        "createdAt": "2026-07-18T13:30:11.797Z",
-        "updatedAt": "2026-07-18T13:30:14.348Z",
-        "publishedAt": "2026-07-18T13:30:14.345Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 520,
-              "attributes": {
-                "embed_name": "ESPN 4",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW44",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even8"
-              }
-            },
-            {
-              "id": 1398,
-              "attributes": {
-                "embed_name": "ESPN 4 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW44",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even8"
-              }
-            },
-            {
-              "id": 1399,
-              "attributes": {
-                "embed_name": "ESPN 4 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW44",
-                "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even8"
-              }
-            },
-            {
-              "id": 1479,
-              "attributes": {
-                "embed_name": "ESPN 4 | HD",
-                "embed_iframe": "embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjg=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even8"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 81,
-            "attributes": {
-              "name": "Formula 2",
-              "createdAt": "2024-02-29T08:36:50.949Z",
-              "updatedAt": "2025-11-29T11:59:59.018Z",
-              "publishedAt": "2024-02-29T08:36:51.957Z",
-              "image": {
-                "data": {
-                  "id": 418,
-                  "attributes": {
-                    "name": "F2.jpg",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 65,
-                    "height": 65,
-                    "formats": null,
-                    "hash": "F2_a3360f82a5",
-                    "ext": ".jpg",
-                    "mime": "image/jpeg",
-                    "size": 1.78,
-                    "url": "/uploads/F2_a3360f82a5.jpg",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-11-29T11:59:51.055Z",
-                    "updatedAt": "2025-11-29T11:59:51.055Z"
                   }
                 }
               }
