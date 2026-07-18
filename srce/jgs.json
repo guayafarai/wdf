@@ -1,5 +1,57 @@
 [
   {
+    "id": "37186",
+    "slug": "francia-vs-inglaterra-|-3er.-puesto-2026-07-18",
+    "team_a": "Francia",
+    "team_b": "Inglaterra | 3er. Puesto",
+    "league": "Copa del Mundo",
+    "date": "2026-07-18",
+    "time": "16:00",
+    "streams": [
+      {
+        "name": "DSports | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=dsports"
+      },
+      {
+        "name": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php"
+      },
+      {
+        "name": "TV LA 1 España HD1",
+        "url": "https://tvhd1.com/canales/tvla1es.php"
+      },
+      {
+        "name": "FOX ONE HD1",
+        "url": "https://tvhd1.com/canales/foxone.php"
+      },
+      {
+        "name": "Dsports Argentina HD1",
+        "url": "https://tvhd1.com/canales/dsportslatam.php"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney6"
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://fltvhd.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "Telemundo | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Universo | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=universo"
+      },
+      {
+        "name": "Deportes TV. C",
+        "url": "https://fltvhd.com/canales.php?stream=goltv"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=dsports"
+  },
+  {
     "id": "37198",
     "slug": "copa-de-la-liga:-2026-07-18",
     "team_a": "",
@@ -60,22 +112,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tudn"
   },
   {
-    "id": "37196",
-    "slug": "rentistas-vs-cerrito-2026-07-18",
-    "team_a": "Rentistas",
-    "team_b": "Cerrito",
-    "league": "Segunda División",
-    "date": "2026-07-18",
-    "time": "12:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney3"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney3"
-  },
-  {
     "id": "37194",
     "slug": "millonarios-vs-colo-colo-2026-07-18",
     "team_a": "Millonarios",
@@ -92,38 +128,6 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney5"
   },
   {
-    "id": "37224",
-    "slug": "rugby---world-rugby-u20-championship---a-confirmar-2026-07-18",
-    "team_a": "",
-    "team_b": "",
-    "league": "Rugby – World Rugby U20 Championship – A Confirmar",
-    "date": "2026-07-18",
-    "time": "11:20",
-    "streams": [
-      {
-        "name": "ESPN 5 | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=espn5"
-  },
-  {
-    "id": "37226",
-    "slug": "harlem-eubank-vs-david-papot-2026-07-18",
-    "team_a": "Harlem Eubank",
-    "team_b": "David Papot",
-    "league": "ESPN Knockout",
-    "date": "2026-07-18",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "ESPN 2 | HD",
-        "url": "https://fltvhd.com/online/canal.php?stream=even6"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
-  },
-  {
     "id": "37228",
     "slug": "new-orleans-pelicans-vs-indiana-pacers-2026-07-18",
     "team_a": "New Orleans Pelicans",
@@ -138,22 +142,6 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even7"
-  },
-  {
-    "id": "37182",
-    "slug": "deportivo-moquegua-vs-comerciantes-unidos-2026-07-18",
-    "team_a": "Deportivo Moquegua",
-    "team_b": "Comerciantes Unidos",
-    "league": "Liga 1",
-    "date": "2026-07-18",
-    "time": "11:00",
-    "streams": [
-      {
-        "name": "Liga1MAX | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=liga1max"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
   },
   {
     "id": "37184",
@@ -220,46 +208,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "37186",
-    "slug": "francia-vs-inglaterra-|-3er.-puesto-2026-07-18",
-    "team_a": "Francia",
-    "team_b": "Inglaterra | 3er. Puesto",
-    "league": "Copa del Mundo",
-    "date": "2026-07-18",
-    "time": "16:00",
-    "streams": [
-      {
-        "name": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php"
-      },
-      {
-        "name": "DSports | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=dsports"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney6"
-      },
-      {
-        "name": "Caracol TV",
-        "url": "https://fltvhd.com/canales.php?stream=caracol"
-      },
-      {
-        "name": "Telemundo | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=telemundo"
-      },
-      {
-        "name": "Universo | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=universo"
-      },
-      {
-        "name": "Deportes TV. C",
-        "url": "https://fltvhd.com/canales.php?stream=goltv"
-      }
-    ],
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
-  },
-  {
     "id": "37197",
     "slug": "oriental-vs-huracán-2026-07-18",
     "team_a": "Oriental",
@@ -274,22 +222,6 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
-  },
-  {
-    "id": "37199",
-    "slug": "pumas-unam-vs-pachuca-2026-07-18",
-    "team_a": "Pumas UNAM",
-    "team_b": "Pachuca",
-    "league": "Liga MX",
-    "date": "2026-07-18",
-    "time": "18:00",
-    "streams": [
-      {
-        "name": "Canal 5 MX",
-        "url": "https://fltvhd.com/canales.php?stream=canal5"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=canal5"
   },
   {
     "id": "37201",
@@ -312,38 +244,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=telemundo"
   },
   {
-    "id": "37193",
-    "slug": "peñarol-vs-boston-river-2026-07-18",
-    "team_a": "Peñarol",
-    "team_b": "Boston River",
-    "league": "Primera División",
-    "date": "2026-07-18",
-    "time": "14:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney4"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney4"
-  },
-  {
-    "id": "37225",
-    "slug": "los-pumas-vs-inglaterra-2026-07-18",
-    "team_a": "Los Pumas",
-    "team_b": "Inglaterra",
-    "league": "Rugby – Nations Championship",
-    "date": "2026-07-18",
-    "time": "13:30",
-    "streams": [
-      {
-        "name": "ESPN 5 | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=espn5"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=espn5"
-  },
-  {
     "id": "37227",
     "slug": "bryan-flores-vs-jonathan-navarro-2026-07-18",
     "team_a": "Bryan Flores",
@@ -358,22 +258,6 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
-  },
-  {
-    "id": "37183",
-    "slug": "adt-vs-universitario-2026-07-18",
-    "team_a": "ADT",
-    "team_b": "Universitario",
-    "league": "Liga 1",
-    "date": "2026-07-18",
-    "time": "13:15",
-    "streams": [
-      {
-        "name": "Liga1MAX | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=liga1max"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
   },
   {
     "id": "37185",
@@ -392,35 +276,39 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
   },
   {
-    "id": "37187",
-    "slug": "always-ready-vs-universitario-de-vinto-2026-07-18",
-    "team_a": "Always Ready",
-    "team_b": "Universitario de Vinto",
-    "league": "Primera División",
+    "id": "37241",
+    "slug": "dricus-du-plessis-vs-kamaru-usman-2026-07-18",
+    "team_a": "Dricus Du Plessis",
+    "team_b": "Kamaru Usman",
+    "league": "UFC",
     "date": "2026-07-18",
-    "time": "14:00",
+    "time": "15:00",
     "streams": [
       {
-        "name": "Entel TV PLUS+",
-        "url": "https://fltvhd.com/online/canales.php?stream=even1"
+        "name": "Paramount+",
+        "url": "https://fltvhd.com/canales.php?stream=paramount1"
       }
     ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=paramount1"
   },
   {
-    "id": "37189",
-    "slug": "deportivo-cuenca-vs-universidad-católica-2026-07-18",
-    "team_a": "Deportivo Cuenca",
-    "team_b": "Universidad Católica",
-    "league": "Serie A",
+    "id": "37199",
+    "slug": "pumas-unam-vs-pachuca-2026-07-18",
+    "team_a": "Pumas UNAM",
+    "team_b": "Pachuca",
+    "league": "Liga MX",
     "date": "2026-07-18",
-    "time": "14:00",
+    "time": "18:00",
     "streams": [
       {
-        "name": "ECDF LigaPRO | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro"
+        "name": "Canal 5 MX HD1",
+        "url": "https://tvhd1.com/canales/canal5.php"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://fltvhd.com/canales.php?stream=canal5"
       }
     ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro"
+    "decoded_iframe_url": "https://tvhd1.com/canales/canal5.php"
   }
 ]
