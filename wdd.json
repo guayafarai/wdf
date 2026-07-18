@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-18T17:51:35.390616Z",
+    "last_updated": "2026-07-18T18:53:48.102440Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 25
+    "total_events": 24
   },
   "data": [
     {
@@ -265,66 +265,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-10T02:27:20.896Z",
                     "updatedAt": "2025-08-10T02:27:20.896Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37192,
-      "attributes": {
-        "diary_description": "Primera División: \nProgreso vs Deportivo Maldonado",
-        "diary_hour": "10:30:00",
-        "date_diary": "2026-07-18",
-        "createdAt": "2026-07-17T14:45:24.838Z",
-        "updatedAt": "2026-07-18T12:58:23.255Z",
-        "publishedAt": "2026-07-18T01:08:49.994Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 834,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXky",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 16,
-            "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2025-08-03T13:14:04.349Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
-              "image": {
-                "data": {
-                  "id": 350,
-                  "attributes": {
-                    "name": "uruguay_e2b9597af8.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uruguay_e2b9597af8_6abda609fb",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.71,
-                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:14:00.876Z",
-                    "updatedAt": "2025-08-03T13:14:00.876Z"
                   }
                 }
               }
