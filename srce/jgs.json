@@ -60,22 +60,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tudn"
   },
   {
-    "id": "37192",
-    "slug": "progreso-vs-deportivo-maldonado-2026-07-18",
-    "team_a": "Progreso",
-    "team_b": "Deportivo Maldonado",
-    "league": "Primera División",
-    "date": "2026-07-18",
-    "time": "10:30",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney2"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney2"
-  },
-  {
     "id": "37196",
     "slug": "rentistas-vs-cerrito-2026-07-18",
     "team_a": "Rentistas",
@@ -106,22 +90,6 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney5"
-  },
-  {
-    "id": "37223",
-    "slug": "premier-padel-málaga---semifinales-masculinas-2026-07-18",
-    "team_a": "",
-    "team_b": "",
-    "league": "Premier Padel Málaga – Semifinales Masculinas",
-    "date": "2026-07-18",
-    "time": "09:00",
-    "streams": [
-      {
-        "name": "ESPN 3 | HD",
-        "url": "https://fltvhd.com/online/canal.php?stream=even7"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even7"
   },
   {
     "id": "37224",
@@ -290,22 +258,6 @@
       }
     ],
     "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
-  },
-  {
-    "id": "37195",
-    "slug": "uruguay-montevideo-vs-river-plate-2026-07-18",
-    "team_a": "Uruguay Montevideo",
-    "team_b": "River Plate",
-    "league": "Segunda División",
-    "date": "2026-07-18",
-    "time": "09:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney1"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
   },
   {
     "id": "37197",
