@@ -16,38 +16,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
   },
   {
-    "id": "37173",
-    "slug": "são-bernardo-vs-avaí-2026-07-17",
-    "team_a": "São Bernardo",
-    "team_b": "Avaí",
-    "league": "Serie B",
-    "date": "2026-07-17",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "Premiere 4 BR | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=premiere4"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=premiere4"
-  },
-  {
-    "id": "37159",
-    "slug": "bahia-vs-chapecoense-2026-07-17",
-    "team_a": "Bahia",
-    "team_b": "Chapecoense",
-    "league": "Brasileirão",
-    "date": "2026-07-17",
-    "time": "17:30",
-    "streams": [
-      {
-        "name": "Premiere 2 BR | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=premiere2"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=premiere2"
-  },
-  {
     "id": "37161",
     "slug": "fluminense-vs-rb-bragantino-2026-07-17",
     "team_a": "Fluminense",
@@ -80,42 +48,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=foxdeportes"
   },
   {
-    "id": "37169",
-    "slug": "juárez-vs-puebla-2026-07-17",
-    "team_a": "Juárez",
-    "team_b": "Puebla",
-    "league": "Liga MX",
-    "date": "2026-07-17",
-    "time": "22:00",
-    "streams": [
-      {
-        "name": "Azteca 7 | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=azteca7"
-      },
-      {
-        "name": "Universo | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=universo"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=azteca7"
-  },
-  {
-    "id": "37167",
-    "slug": "atlético-san-luis-vs-cruz-azul-2026-07-17",
-    "team_a": "Atlético San Luis",
-    "team_b": "Cruz Azul",
-    "league": "Liga MX",
-    "date": "2026-07-17",
-    "time": "20:00",
-    "streams": [
-      {
-        "name": "ESPN MX | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=espnmx"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=espnmx"
-  },
-  {
     "id": "37180",
     "slug": "atlanta-braves-vs-texas-rangers-2026-07-17",
     "team_a": "Atlanta Braves",
@@ -132,20 +64,44 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=espn5"
   },
   {
-    "id": "37165",
-    "slug": "san-lorenzo-vs-deportivo-riestra-2026-07-17",
-    "team_a": "San Lorenzo",
-    "team_b": "Deportivo Riestra",
-    "league": "Copa Argentina",
+    "id": "37169",
+    "slug": "juárez-vs-puebla-2026-07-17",
+    "team_a": "Juárez",
+    "team_b": "Puebla",
+    "league": "Liga MX",
     "date": "2026-07-17",
-    "time": "16:45",
+    "time": "22:00",
     "streams": [
       {
-        "name": "TYC Sports | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=tycsports"
+        "name": "Universo | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=universo"
+      },
+      {
+        "name": "Azteca 7",
+        "url": "https://fltvhd.com/canales.php?stream=azteca7"
       }
     ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tycsports"
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=universo"
+  },
+  {
+    "id": "37167",
+    "slug": "atlético-san-luis-vs-cruz-azul-2026-07-17",
+    "team_a": "Atlético San Luis",
+    "team_b": "Cruz Azul",
+    "league": "Liga MX",
+    "date": "2026-07-17",
+    "time": "20:00",
+    "streams": [
+      {
+        "name": "ESPN MX | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=espnmx"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney3"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=espnmx"
   },
   {
     "id": "37160",
@@ -244,22 +200,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tudn"
   },
   {
-    "id": "37172",
-    "slug": "américa-mineiro-vs-ceará-2026-07-17",
-    "team_a": "América Mineiro",
-    "team_b": "Ceará",
-    "league": "Serie B",
-    "date": "2026-07-17",
-    "time": "17:00",
-    "streams": [
-      {
-        "name": "Premiere BR",
-        "url": "https://fltvhd.com/canales.php?stream=premiere1"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=premiere1"
-  },
-  {
     "id": "37181",
     "slug": "espn-knockout---a-confirmar-2026-07-17",
     "team_a": "",
@@ -276,35 +216,19 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
   },
   {
-    "id": "37156",
-    "slug": "sporting-cristal-vs-deportivo-garcilaso-2026-07-17",
-    "team_a": "Sporting Cristal",
-    "team_b": "Deportivo Garcilaso",
-    "league": "Liga 1",
+    "id": "37203",
+    "slug": "flamengo-vs-olimpia-2026-07-17",
+    "team_a": "Flamengo",
+    "team_b": "Olimpia",
+    "league": "Partido Amistoso Internacional",
     "date": "2026-07-17",
-    "time": "15:15",
+    "time": "18:00",
     "streams": [
       {
-        "name": "Liga1MAX | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=liga1max"
+        "name": "Premiere BR | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=premiere1"
       }
     ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
-  },
-  {
-    "id": "37164",
-    "slug": "nacional-vs-wanderers-2026-07-17",
-    "team_a": "Nacional",
-    "team_b": "Wanderers",
-    "league": "Primera División",
-    "date": "2026-07-17",
-    "time": "17:30",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney2"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney2"
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=premiere1"
   }
 ]
