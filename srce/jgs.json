@@ -16,22 +16,6 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
   },
   {
-    "id": "37196",
-    "slug": "rentistas-vs-cerrito-2026-07-18",
-    "team_a": "Rentistas",
-    "team_b": "Cerrito",
-    "league": "Segunda División",
-    "date": "2026-07-18",
-    "time": "12:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney1"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
-  },
-  {
     "id": "37198",
     "slug": "copa-de-la-liga:-2026-07-18",
     "team_a": "",
@@ -90,6 +74,38 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tudn"
+  },
+  {
+    "id": "37192",
+    "slug": "progreso-vs-deportivo-maldonado-2026-07-18",
+    "team_a": "Progreso",
+    "team_b": "Deportivo Maldonado",
+    "league": "Primera División",
+    "date": "2026-07-18",
+    "time": "10:30",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney2"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney2"
+  },
+  {
+    "id": "37196",
+    "slug": "rentistas-vs-cerrito-2026-07-18",
+    "team_a": "Rentistas",
+    "team_b": "Cerrito",
+    "league": "Segunda División",
+    "date": "2026-07-18",
+    "time": "12:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney3"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney3"
   },
   {
     "id": "37182",
@@ -206,22 +222,6 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "37192",
-    "slug": "progreso-vs-deportivo-maldonado-2026-07-18",
-    "team_a": "Progreso",
-    "team_b": "Deportivo Maldonado",
-    "league": "Primera División",
-    "date": "2026-07-18",
-    "time": "10:30",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney1"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
   },
   {
     "id": "37193",
