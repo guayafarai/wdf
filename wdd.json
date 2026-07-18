@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-18T18:53:48.102440Z",
+    "last_updated": "2026-07-18T21:43:27.971217Z",
     "source": "https://pltvhd.com/diaries.json",
-    "total_events": 24
+    "total_events": 20
   },
   "data": [
     {
@@ -274,66 +274,6 @@
       }
     },
     {
-      "id": 37196,
-      "attributes": {
-        "diary_description": "Segunda División: Rentistas vs Cerrito",
-        "diary_hour": "12:00:00",
-        "date_diary": "2026-07-18",
-        "createdAt": "2026-07-17T14:49:44.298Z",
-        "updatedAt": "2026-07-18T12:59:53.205Z",
-        "publishedAt": "2026-07-18T01:09:03.921Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 835,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkz",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney3"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 16,
-            "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2025-08-03T13:14:04.349Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
-              "image": {
-                "data": {
-                  "id": 350,
-                  "attributes": {
-                    "name": "uruguay_e2b9597af8.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uruguay_e2b9597af8_6abda609fb",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.71,
-                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:14:00.876Z",
-                    "updatedAt": "2025-08-03T13:14:00.876Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 37194,
       "attributes": {
         "diary_description": "Amistoso Internacional: Millonarios vs Colo-Colo",
@@ -385,124 +325,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-09-04T14:05:11.984Z",
                     "updatedAt": "2025-09-04T14:05:11.984Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37224,
-      "attributes": {
-        "diary_description": "Rugby – World Rugby U20 Championship – A Confirmar",
-        "diary_hour": "11:20:00",
-        "date_diary": "2026-07-18",
-        "createdAt": "2026-07-18T13:32:22.893Z",
-        "updatedAt": "2026-07-18T13:32:26.131Z",
-        "publishedAt": "2026-07-18T13:32:26.127Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1466,
-              "attributes": {
-                "embed_name": "ESPN 5 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjU=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=espn5"
-              }
-            },
-            {
-              "id": 645,
-              "attributes": {
-                "embed_name": "ESPN 5",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNQ==",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=espn5"
-              }
-            },
-            {
-              "id": 474,
-              "attributes": {
-                "embed_name": "ESPN 5 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNQ==",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=espn5"
-              }
-            },
-            {
-              "id": 599,
-              "attributes": {
-                "embed_name": "ESPN 5 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG41",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=espn5"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 134,
-            "attributes": {
-              "name": "Rugby",
-              "createdAt": "2025-03-01T00:16:20.346Z",
-              "updatedAt": "2025-11-16T14:52:22.575Z",
-              "publishedAt": "2025-03-01T00:16:22.392Z",
-              "image": {
-                "data": {
-                  "id": 413,
-                  "attributes": {
-                    "name": "Rugby.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 763,
-                    "height": 763,
-                    "formats": {
-                      "small": {
-                        "ext": ".png",
-                        "url": "/uploads/small_Rugby_f99a2b54da.png",
-                        "hash": "small_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "small_Rugby.png",
-                        "path": null,
-                        "size": 138.17,
-                        "width": 500,
-                        "height": 500
-                      },
-                      "medium": {
-                        "ext": ".png",
-                        "url": "/uploads/medium_Rugby_f99a2b54da.png",
-                        "hash": "medium_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "medium_Rugby.png",
-                        "path": null,
-                        "size": 250.24,
-                        "width": 750,
-                        "height": 750
-                      },
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Rugby_f99a2b54da.png",
-                        "hash": "thumbnail_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "thumbnail_Rugby.png",
-                        "path": null,
-                        "size": 22.03,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "Rugby_f99a2b54da",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 74.94,
-                    "url": "/uploads/Rugby_f99a2b54da.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-11-16T14:52:15.177Z",
-                    "updatedAt": "2025-11-16T14:52:15.177Z"
                   }
                 }
               }
@@ -671,90 +493,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-10-13T00:43:11.108Z",
                     "updatedAt": "2025-10-13T00:43:11.108Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37182,
-      "attributes": {
-        "diary_description": "Liga 1: Deportivo Moquegua vs Comerciantes Unidos",
-        "diary_hour": "11:00:00",
-        "date_diary": "2026-07-18",
-        "createdAt": "2026-07-17T14:34:17.654Z",
-        "updatedAt": "2026-07-17T14:34:17.654Z",
-        "publishedAt": "2026-07-18T01:08:32.659Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1483,
-              "attributes": {
-                "embed_name": "Liga1MAX | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09bGlnYTFtYXg=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
-              }
-            },
-            {
-              "id": 774,
-              "attributes": {
-                "embed_name": "Liga1MAX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1saWdhMW1heA==",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=liga1max"
-              }
-            },
-            {
-              "id": 738,
-              "attributes": {
-                "embed_name": "Liga1Max | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA==",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=liga1max"
-              }
-            },
-            {
-              "id": 315,
-              "attributes": {
-                "embed_name": "Liga1Max | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWxpZ2ExbWF4",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=liga1max"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 2,
-            "attributes": {
-              "name": "Perú",
-              "createdAt": "2023-11-22T14:50:06.355Z",
-              "updatedAt": "2025-08-03T15:07:36.491Z",
-              "publishedAt": "2023-11-22T15:10:18.533Z",
-              "image": {
-                "data": {
-                  "id": 357,
-                  "attributes": {
-                    "name": "peru_ddc4e685cf.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "peru_ddc4e685cf_43831ed9b0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.79,
-                    "url": "/uploads/peru_ddc4e685cf_43831ed9b0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:07:32.287Z",
-                    "updatedAt": "2025-08-03T15:07:32.287Z"
                   }
                 }
               }
@@ -1498,124 +1236,6 @@
       }
     },
     {
-      "id": 37225,
-      "attributes": {
-        "diary_description": "Rugby – Nations Championship – Los Pumas vs Inglaterra",
-        "diary_hour": "13:30:00",
-        "date_diary": "2026-07-18",
-        "createdAt": "2026-07-18T13:33:35.953Z",
-        "updatedAt": "2026-07-18T13:33:38.526Z",
-        "publishedAt": "2026-07-18T13:33:38.523Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1466,
-              "attributes": {
-                "embed_name": "ESPN 5 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjU=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=espn5"
-              }
-            },
-            {
-              "id": 645,
-              "attributes": {
-                "embed_name": "ESPN 5",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNQ==",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=espn5"
-              }
-            },
-            {
-              "id": 474,
-              "attributes": {
-                "embed_name": "ESPN 5 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNQ==",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=espn5"
-              }
-            },
-            {
-              "id": 599,
-              "attributes": {
-                "embed_name": "ESPN 5 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG41",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=espn5"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 134,
-            "attributes": {
-              "name": "Rugby",
-              "createdAt": "2025-03-01T00:16:20.346Z",
-              "updatedAt": "2025-11-16T14:52:22.575Z",
-              "publishedAt": "2025-03-01T00:16:22.392Z",
-              "image": {
-                "data": {
-                  "id": 413,
-                  "attributes": {
-                    "name": "Rugby.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 763,
-                    "height": 763,
-                    "formats": {
-                      "small": {
-                        "ext": ".png",
-                        "url": "/uploads/small_Rugby_f99a2b54da.png",
-                        "hash": "small_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "small_Rugby.png",
-                        "path": null,
-                        "size": 138.17,
-                        "width": 500,
-                        "height": 500
-                      },
-                      "medium": {
-                        "ext": ".png",
-                        "url": "/uploads/medium_Rugby_f99a2b54da.png",
-                        "hash": "medium_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "medium_Rugby.png",
-                        "path": null,
-                        "size": 250.24,
-                        "width": 750,
-                        "height": 750
-                      },
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Rugby_f99a2b54da.png",
-                        "hash": "thumbnail_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "thumbnail_Rugby.png",
-                        "path": null,
-                        "size": 22.03,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "Rugby_f99a2b54da",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 74.94,
-                    "url": "/uploads/Rugby_f99a2b54da.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-11-16T14:52:15.177Z",
-                    "updatedAt": "2025-11-16T14:52:15.177Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 37227,
       "attributes": {
         "diary_description": " ESPN Knockout – Bryan Flores vs Jonathan Navarro",
@@ -1691,90 +1311,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-08T17:07:05.112Z",
                     "updatedAt": "2025-08-08T17:07:05.112Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 37183,
-      "attributes": {
-        "diary_description": "Liga 1: \nADT vs Universitario",
-        "diary_hour": "13:15:00",
-        "date_diary": "2026-07-18",
-        "createdAt": "2026-07-17T14:35:06.985Z",
-        "updatedAt": "2026-07-17T14:35:06.985Z",
-        "publishedAt": "2026-07-18T01:08:49.994Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1483,
-              "attributes": {
-                "embed_name": "Liga1MAX | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09bGlnYTFtYXg=",
-                "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
-              }
-            },
-            {
-              "id": 774,
-              "attributes": {
-                "embed_name": "Liga1MAX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1saWdhMW1heA==",
-                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=liga1max"
-              }
-            },
-            {
-              "id": 738,
-              "attributes": {
-                "embed_name": "Liga1Max | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA==",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canal.php?stream=liga1max"
-              }
-            },
-            {
-              "id": 315,
-              "attributes": {
-                "embed_name": "Liga1Max | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWxpZ2ExbWF4",
-                "decoded_iframe_url": "https://fltvhd.com/vivo/canales.php?stream=liga1max"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 2,
-            "attributes": {
-              "name": "Perú",
-              "createdAt": "2023-11-22T14:50:06.355Z",
-              "updatedAt": "2025-08-03T15:07:36.491Z",
-              "publishedAt": "2023-11-22T15:10:18.533Z",
-              "image": {
-                "data": {
-                  "id": 357,
-                  "attributes": {
-                    "name": "peru_ddc4e685cf.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "peru_ddc4e685cf_43831ed9b0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.79,
-                    "url": "/uploads/peru_ddc4e685cf_43831ed9b0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:07:32.287Z",
-                    "updatedAt": "2025-08-03T15:07:32.287Z"
                   }
                 }
               }
@@ -2021,6 +1557,66 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T14:39:52.709Z",
                     "updatedAt": "2025-08-03T14:39:52.709Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 37241,
+      "attributes": {
+        "diary_description": "UFC: Dricus Du Plessis vs Kamaru Usman",
+        "diary_hour": "15:00:00",
+        "date_diary": "2026-07-18",
+        "createdAt": "2026-07-18T20:51:17.456Z",
+        "updatedAt": "2026-07-18T20:51:20.133Z",
+        "publishedAt": "2026-07-18T20:51:20.130Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1083,
+              "attributes": {
+                "embed_name": "Paramount+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1wYXJhbW91bnQx",
+                "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=paramount1"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 44,
+            "attributes": {
+              "name": "UFC",
+              "createdAt": "2024-01-04T23:14:52.699Z",
+              "updatedAt": "2025-09-13T18:20:59.237Z",
+              "publishedAt": "2024-01-04T23:15:15.457Z",
+              "image": {
+                "data": {
+                  "id": 400,
+                  "attributes": {
+                    "name": "ufc.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "ufc_b17258502e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.93,
+                    "url": "/uploads/ufc_b17258502e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-13T18:20:55.629Z",
+                    "updatedAt": "2025-09-13T18:20:55.629Z"
                   }
                 }
               }
