@@ -108,22 +108,6 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney5"
   },
   {
-    "id": "37222",
-    "slug": "f2-spa-francorchamps---carrera-sprint-2026-07-18",
-    "team_a": "",
-    "team_b": "",
-    "league": "F2 Spa-Francorchamps – Carrera Sprint",
-    "date": "2026-07-18",
-    "time": "07:00",
-    "streams": [
-      {
-        "name": "ESPN 4",
-        "url": "https://fltvhd.com/online/canal.php?stream=even8"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even8"
-  },
-  {
     "id": "37223",
     "slug": "premier-padel-málaga---semifinales-masculinas-2026-07-18",
     "team_a": "",
