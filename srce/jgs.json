@@ -1,38 +1,374 @@
 [
   {
-    "id": "37171",
-    "slug": "la-galaxy-vs-los-angeles-fc-2026-07-17",
-    "team_a": "LA Galaxy",
-    "team_b": "Los Angeles FC",
-    "league": "Major League Soccer",
-    "date": "2026-07-17",
-    "time": "21:25",
+    "id": "37194",
+    "slug": "millonarios-vs-colo-colo-2026-07-18",
+    "team_a": "Millonarios",
+    "team_b": "Colo-Colo",
+    "league": "Amistoso Internacional",
+    "date": "2026-07-18",
+    "time": "15:00",
     "streams": [
       {
-        "name": "FOX Deportes | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=foxdeportes"
+        "name": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney1"
       }
     ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=foxdeportes"
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
   },
   {
-    "id": "37169",
-    "slug": "juárez-vs-puebla-2026-07-17",
-    "team_a": "Juárez",
-    "team_b": "Puebla",
-    "league": "Liga MX",
-    "date": "2026-07-17",
-    "time": "22:00",
+    "id": "37196",
+    "slug": "rentistas-vs-cerrito-2026-07-18",
+    "team_a": "Rentistas",
+    "team_b": "Cerrito",
+    "league": "Segunda División",
+    "date": "2026-07-18",
+    "time": "12:00",
     "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney1"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
+  },
+  {
+    "id": "37198",
+    "slug": "copa-de-la-liga:-2026-07-18",
+    "team_a": "",
+    "team_b": "",
+    "league": "Copa de la Liga:",
+    "date": "2026-07-18",
+    "time": "17:00",
+    "streams": [
+      {
+        "name": "TNT Sports Premiun CL HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=tntsportschile"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "37200",
+    "slug": "monterrey-vs-santos-laguna-2026-07-18",
+    "team_a": "Monterrey",
+    "team_b": "Santos Laguna",
+    "league": "Liga MX",
+    "date": "2026-07-18",
+    "time": "20:00",
+    "streams": [
+      {
+        "name": "TUDN USA | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=tudn"
+      },
+      {
+        "name": "Canal 5 MX",
+        "url": "https://fltvhd.com/canales.php?stream=canal5"
+      },
+      {
+        "name": "Univision",
+        "url": "https://fltvhd.com/canales.php?stream=univision"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tudn"
+  },
+  {
+    "id": "37202",
+    "slug": "querétaro-vs-américa-2026-07-18",
+    "team_a": "Querétaro",
+    "team_b": "América",
+    "league": "Liga MX",
+    "date": "2026-07-18",
+    "time": "22:10",
+    "streams": [
+      {
+        "name": "TUDN USA | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=tudn"
+      },
+      {
+        "name": "Univision",
+        "url": "https://fltvhd.com/canales.php?stream=univision"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tudn"
+  },
+  {
+    "id": "37182",
+    "slug": "deportivo-moquegua-vs-comerciantes-unidos-2026-07-18",
+    "team_a": "Deportivo Moquegua",
+    "team_b": "Comerciantes Unidos",
+    "league": "Liga 1",
+    "date": "2026-07-18",
+    "time": "11:00",
+    "streams": [
+      {
+        "name": "Liga1MAX | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=liga1max"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
+  },
+  {
+    "id": "37184",
+    "slug": "atlético-grau-vs-utc-cajamarca-2026-07-18",
+    "team_a": "Atlético Grau",
+    "team_b": "UTC Cajamarca",
+    "league": "Liga 1",
+    "date": "2026-07-18",
+    "time": "15:30",
+    "streams": [
+      {
+        "name": "Liga1MAX | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=liga1max"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
+  },
+  {
+    "id": "37186",
+    "slug": "francia-vs-inglaterra-2026-07-18",
+    "team_a": "Francia",
+    "team_b": "Inglaterra",
+    "league": "Copa del Mundo",
+    "date": "2026-07-18",
+    "time": "16:00",
+    "streams": [
+      {
+        "name": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php"
+      },
+      {
+        "name": "DSports | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=dsports"
+      },
+      {
+        "name": "Caracol TV",
+        "url": "https://fltvhd.com/canales.php?stream=caracol"
+      },
+      {
+        "name": "Telemundo | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=telemundo"
+      },
       {
         "name": "Universo | HD",
         "url": "https://fltvhd.com/online/canales.php?stream=universo"
       },
       {
-        "name": "Azteca 7",
-        "url": "https://fltvhd.com/canales.php?stream=azteca7"
+        "name": "Deportes TV. C",
+        "url": "https://fltvhd.com/canales.php?stream=goltv"
       }
     ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=universo"
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+  },
+  {
+    "id": "37188",
+    "slug": "aurora-vs-oriente-petrolero-2026-07-18",
+    "team_a": "Aurora",
+    "team_b": "Oriente Petrolero",
+    "league": "Primera División",
+    "date": "2026-07-18",
+    "time": "19:30",
+    "streams": [
+      {
+        "name": "Entel TV PLUS+",
+        "url": "https://fltvhd.com/online/canales.php?stream=even1"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
+  },
+  {
+    "id": "37190",
+    "slug": "ldu-quito-vs-leones-del-norte-2026-07-18",
+    "team_a": "LDU Quito",
+    "team_b": "Leones del Norte",
+    "league": "Serie A",
+    "date": "2026-07-18",
+    "time": "16:30",
+    "streams": [
+      {
+        "name": "ECDF LigaPRO | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro"
+  },
+  {
+    "id": "37191",
+    "slug": "barcelona-vs-libertad-2026-07-18",
+    "team_a": "Barcelona",
+    "team_b": "Libertad",
+    "league": "Serie A",
+    "date": "2026-07-18",
+    "time": "19:00",
+    "streams": [
+      {
+        "name": "ECDF LigaPRO | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro"
+  },
+  {
+    "id": "37192",
+    "slug": "progreso-vs-deportivo-maldonado-2026-07-18",
+    "team_a": "Progreso",
+    "team_b": "Deportivo Maldonado",
+    "league": "Primera División",
+    "date": "2026-07-18",
+    "time": "10:30",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney1"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
+  },
+  {
+    "id": "37193",
+    "slug": "peñarol-vs-boston-river-2026-07-18",
+    "team_a": "Peñarol",
+    "team_b": "Boston River",
+    "league": "Primera División",
+    "date": "2026-07-18",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney1"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
+  },
+  {
+    "id": "37195",
+    "slug": "uruguay-montevideo-vs-river-plate-2026-07-18",
+    "team_a": "Uruguay Montevideo",
+    "team_b": "River Plate",
+    "league": "Segunda División",
+    "date": "2026-07-18",
+    "time": "09:00",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney1"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
+  },
+  {
+    "id": "37197",
+    "slug": "oriental-vs-huracán-2026-07-18",
+    "team_a": "Oriental",
+    "team_b": "Huracán",
+    "league": "Segunda División",
+    "date": "2026-07-18",
+    "time": "17:30",
+    "streams": [
+      {
+        "name": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney1"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
+  },
+  {
+    "id": "37199",
+    "slug": "pumas-unam-vs-pachuca-2026-07-18",
+    "team_a": "Pumas UNAM",
+    "team_b": "Pachuca",
+    "league": "Liga MX",
+    "date": "2026-07-18",
+    "time": "18:00",
+    "streams": [
+      {
+        "name": "Canal 5 MX",
+        "url": "https://fltvhd.com/canales.php?stream=canal5"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=canal5"
+  },
+  {
+    "id": "37201",
+    "slug": "guadalajara-vs-toluca-2026-07-18",
+    "team_a": "Guadalajara",
+    "team_b": "Toluca",
+    "league": "Liga MX",
+    "date": "2026-07-18",
+    "time": "20:07",
+    "streams": [
+      {
+        "name": "Telemundo | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=telemundo"
+      },
+      {
+        "name": "Universo | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=universo"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=telemundo"
+  },
+  {
+    "id": "37183",
+    "slug": "adt-vs-universitario-2026-07-18",
+    "team_a": "ADT",
+    "team_b": "Universitario",
+    "league": "Liga 1",
+    "date": "2026-07-18",
+    "time": "13:15",
+    "streams": [
+      {
+        "name": "Liga1MAX | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=liga1max"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
+  },
+  {
+    "id": "37185",
+    "slug": "cusco-vs-alianza-atlético-2026-07-18",
+    "team_a": "Cusco",
+    "team_b": "Alianza Atlético",
+    "league": "Liga 1",
+    "date": "2026-07-18",
+    "time": "18:30",
+    "streams": [
+      {
+        "name": "Liga1MAX | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=liga1max"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
+  },
+  {
+    "id": "37187",
+    "slug": "always-ready-vs-universitario-de-vinto-2026-07-18",
+    "team_a": "Always Ready",
+    "team_b": "Universitario de Vinto",
+    "league": "Primera División",
+    "date": "2026-07-18",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "Entel TV PLUS+",
+        "url": "https://fltvhd.com/online/canales.php?stream=even1"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
+  },
+  {
+    "id": "37189",
+    "slug": "deportivo-cuenca-vs-universidad-católica-2026-07-18",
+    "team_a": "Deportivo Cuenca",
+    "team_b": "Universidad Católica",
+    "league": "Serie A",
+    "date": "2026-07-18",
+    "time": "14:00",
+    "streams": [
+      {
+        "name": "ECDF LigaPRO | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro"
+      }
+    ],
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro"
   }
 ]
