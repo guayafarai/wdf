@@ -112,22 +112,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tudn"
   },
   {
-    "id": "37194",
-    "slug": "millonarios-vs-colo-colo-2026-07-18",
-    "team_a": "Millonarios",
-    "team_b": "Colo-Colo",
-    "league": "Amistoso Internacional",
-    "date": "2026-07-18",
-    "time": "15:00",
-    "streams": [
-      {
-        "name": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney5"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney5"
-  },
-  {
     "id": "37228",
     "slug": "new-orleans-pelicans-vs-indiana-pacers-2026-07-18",
     "team_a": "New Orleans Pelicans",
@@ -142,22 +126,6 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even7"
-  },
-  {
-    "id": "37184",
-    "slug": "atlético-grau-vs-utc-cajamarca-2026-07-18",
-    "team_a": "Atlético Grau",
-    "team_b": "UTC Cajamarca",
-    "league": "Liga 1",
-    "date": "2026-07-18",
-    "time": "15:30",
-    "streams": [
-      {
-        "name": "Liga1MAX | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=liga1max"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
   },
   {
     "id": "37188",
@@ -274,22 +242,6 @@
       }
     ],
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
-  },
-  {
-    "id": "37241",
-    "slug": "dricus-du-plessis-vs-kamaru-usman-2026-07-18",
-    "team_a": "Dricus Du Plessis",
-    "team_b": "Kamaru Usman",
-    "league": "UFC",
-    "date": "2026-07-18",
-    "time": "15:00",
-    "streams": [
-      {
-        "name": "Paramount+",
-        "url": "https://fltvhd.com/canales.php?stream=paramount1"
-      }
-    ],
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=paramount1"
   },
   {
     "id": "37199",
