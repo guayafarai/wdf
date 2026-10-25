@@ -80,7 +80,7 @@ jobs:
               return data
 
           def main():
-              url = "https://pltvhd.com/diaries.json"
+              url = "https://la18hd.su/eventos/json/agenda123.json"
               
               try:
                   print(f"Fetching data from {url}...")
