@@ -1,4 +1,4 @@
-Name: Fetch and Decode Football Schedule
+name: Fetch and Decode Football Schedule
 
 on:
   schedule:
