@@ -1,4 +1,4 @@
-name: Fetch and Decode Football Schedule
+Name: Fetch and Decode Football Schedule
 
 on:
   schedule:
@@ -58,10 +58,17 @@ jobs:
 
           def process_diary_data(data):
               """Process diary data and add decoded URLs."""
-              if 'data' not in data:
+              # Solución: Verificar si los datos son una lista directa o un diccionario
+              if isinstance(data, list):
+                  diary_entries = data
+              elif isinstance(data, dict) and 'data' in data:
+                  diary_entries = data['data']
+              else:
                   return data
               
-              for diary_entry in data['data']:
+              for diary_entry in diary_entries:
+                  if not isinstance(diary_entry, dict):
+                      continue
                   if 'attributes' not in diary_entry:
                       continue
                   
@@ -91,14 +98,22 @@ jobs:
                   print("Processing data...")
                   processed_data = process_diary_data(data)
                   
+                  # Extraer la lista de eventos de manera segura evitando errores de tipo
+                  if isinstance(processed_data, list):
+                      events_list = processed_data
+                  elif isinstance(processed_data, dict):
+                      events_list = processed_data.get('data', [])
+                  else:
+                      events_list = []
+                  
                   # Add metadata
                   output_data = {
                       "metadata": {
                           "last_updated": datetime.utcnow().isoformat() + "Z",
                           "source": url,
-                          "total_events": len(processed_data.get('data', []))
+                          "total_events": len(events_list)
                       },
-                      "data": processed_data.get('data', [])
+                      "data": events_list
                   }
                   
                   # Save to file
