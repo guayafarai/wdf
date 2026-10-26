@@ -1,298 +1,10 @@
 {
   "metadata": {
-    "last_updated": "2026-10-25T22:09:55.844176Z",
+    "last_updated": "2026-10-26T00:50:52.953904Z",
     "source": "https://la18hd.su/eventos/json/agenda123.json",
-    "total_events": 54
+    "total_events": 33
   },
   "data": [
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=winplus",
-      "title": "Liga BetPlay: Fortaleza CEIF vs Deportivo Cali",
-      "time": "14:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
-      "title": "Liga BetPlay: Fortaleza CEIF vs Deportivo Cali",
-      "time": "14:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney12",
-      "title": "Eredivisie: AZ Alkmaar vs Twente",
-      "time": "14:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=espn3mx",
-      "title": "Eredivisie: AZ Alkmaar vs Twente",
-      "time": "14:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney10",
-      "title": "Segunda División: Cerrito vs Rentistas",
-      "time": "14:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney11",
-      "title": "Primera División de Uruguay: Cerro Largo vs Boston River",
-      "time": "14:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=espn",
-      "title": "Serie A: Udinese vs Milan",
-      "time": "14:45",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney13",
-      "title": "Serie A: Udinese vs Milan",
-      "time": "14:45",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-      "title": "Serie A: Udinese vs Milan",
-      "time": "14:45",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=telemundo",
-      "title": "Serie A: Udinese vs Milan",
-      "time": "14:45",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=espn6",
-      "title": "Liga Profesional Argentina: Independiente vs Boca Juniors",
-      "time": "15:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney14",
-      "title": "Liga Profesional Argentina: Independiente vs Boca Juniors",
-      "time": "15:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn6tv.html",
-      "title": "Liga Profesional Argentina: Independiente vs Boca Juniors",
-      "time": "15:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=espnpremium",
-      "title": "Liga Profesional Argentina: Independiente vs Boca Juniors",
-      "time": "15:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
-      "title": "Liga Profesional Argentina: Independiente vs Boca Juniors",
-      "time": "15:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://fubolazo.com/drm/dsportshd.php",
-      "title": "LaLiga: Barcelona vs Real Madrid",
-      "time": "15:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://fubolazo.com/drm/cazetv1.php",
-      "title": "LaLiga: Barcelona vs Real Madrid",
-      "time": "15:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=dsportsar",
-      "title": "LaLiga: Barcelona vs Real Madrid",
-      "time": "15:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=dsports_op2",
-      "title": "LaLiga: Barcelona vs Real Madrid",
-      "time": "15:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
-      "title": "LaLiga: Barcelona vs Real Madrid",
-      "time": "15:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=dsports",
-      "title": "LaLiga: Barcelona vs Real Madrid",
-      "time": "15:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=espndeportes",
-      "title": "LaLiga: Barcelona vs Real Madrid",
-      "time": "15:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=tntsportschile",
-      "title": "Primera División de Chile: Palestino vs Colo-Colo",
-      "time": "15:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
-      "title": "Primera División de Chile: Palestino vs Colo-Colo",
-      "time": "15:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=liga1max",
-      "title": "Liga 1: Sport Boys vs FC Cajamarca",
-      "time": "15:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html",
-      "title": "Liga 1: Sport Boys vs FC Cajamarca",
-      "time": "15:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=liga1max_op2",
-      "title": "Liga 1: Sport Boys vs FC Cajamarca",
-      "time": "15:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=dsports2",
-      "title": "Primeira Liga: Sporting de Lisboa vs Academico Viseu",
-      "time": "15:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=dsports2_op2",
-      "title": "Primeira Liga: Sporting de Lisboa vs Academico Viseu",
-      "time": "15:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsports2.html",
-      "title": "Primeira Liga: Sporting de Lisboa vs Academico Viseu",
-      "time": "15:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=winplus",
-      "title": "Liga BetPlay: Alianza Valledupar vs Internacional de Bogotá",
-      "time": "16:05",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
-      "title": "Liga BetPlay: Alianza Valledupar vs Internacional de Bogotá",
-      "time": "16:05",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-25"
-    },
     {
       "category": "futbol",
       "link": "https://la18hd.su/vivo/canales.php?stream=disney15",
@@ -394,6 +106,24 @@
     },
     {
       "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=tudn",
+      "title": "Liga MX: Atlas vs Puebla",
+      "time": "18:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-25"
+    },
+    {
+      "category": "futbol",
+      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html",
+      "title": "Liga MX: Atlas vs Puebla",
+      "time": "18:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-25"
+    },
+    {
+      "category": "futbol",
       "link": "https://la18hd.su/vivo/canales.php?stream=liga1max",
       "title": "Liga 1: Deportivo Garcilaso vs Los Chankas",
       "time": "18:00",
@@ -439,6 +169,33 @@
     },
     {
       "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=futv",
+      "title": "Primera División: LD Alajuelense vs Perez Zeledon",
+      "time": "19:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-25"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=espn2",
+      "title": "NFL: Seattle Seahawks vs Kansas City Chiefs",
+      "time": "19:20",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-25"
+    },
+    {
+      "category": "futbol",
+      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
+      "title": "NFL: Seattle Seahawks vs Kansas City Chiefs",
+      "time": "19:20",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-25"
+    },
+    {
+      "category": "futbol",
       "link": "https://la18hd.su/vivo/canales.php?stream=tntsports",
       "title": "Liga Profesional Argentina: Barracas Central vs Estudiantes de Rio Cuarto",
       "time": "19:30",
@@ -475,6 +232,42 @@
     },
     {
       "category": "futbol",
+      "link": "https://fubolazo.com/drm/canal5mx.php",
+      "title": "Liga MX: América vs Pachuca",
+      "time": "20:05",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-25"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=tudn",
+      "title": "Liga MX: América vs Pachuca",
+      "time": "20:05",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-25"
+    },
+    {
+      "category": "futbol",
+      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html",
+      "title": "Liga MX: América vs Pachuca",
+      "time": "20:05",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-25"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=canal5",
+      "title": "Liga MX: América vs Pachuca",
+      "time": "20:05",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-25"
+    },
+    {
+      "category": "futbol",
       "link": "https://la18hd.su/vivo/canales.php?stream=winplus",
       "title": "Liga BetPlay: Deportes Tolima vs Deportivo Pasto",
       "time": "20:15",
@@ -487,6 +280,24 @@
       "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
       "title": "Liga BetPlay: Deportes Tolima vs Deportivo Pasto",
       "time": "20:15",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-25"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=tudn",
+      "title": "Liga MX: Tijuana vs Santos Laguna",
+      "time": "22:10",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-25"
+    },
+    {
+      "category": "futbol",
+      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html",
+      "title": "Liga MX: Tijuana vs Santos Laguna",
+      "time": "22:10",
       "status": "En vivo",
       "language": "Español",
       "date": "2026-10-25"
