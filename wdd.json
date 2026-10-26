@@ -1,163 +1,10 @@
 {
   "metadata": {
-    "last_updated": "2026-10-26T17:51:43.624062Z",
+    "last_updated": "2026-10-26T22:03:40.069413Z",
     "source": "https://la18hd.su/eventos/json/agenda123.json",
-    "total_events": 27
+    "total_events": 24
   },
   "data": [
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=espn7",
-      "title": "Süper Lig: Beşiktaş vs Başakşehir",
-      "time": "11:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-26"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney3",
-      "title": "Süper Lig: Beşiktaş vs Başakşehir",
-      "time": "11:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-26"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn7.11.html",
-      "title": "Süper Lig: Beşiktaş vs Başakşehir",
-      "time": "11:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-26"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney4",
-      "title": "Süper Lig: Rizespor vs Trabzonspor",
-      "time": "11:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-26"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=beinsportes",
-      "title": "Süper Lig: Rizespor vs Trabzonspor",
-      "time": "11:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-26"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=espn4",
-      "title": "AFC Champions League Elite: Al-Qadisiyah FC vs Al Sadd",
-      "time": "13:15",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-26"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney2",
-      "title": "AFC Champions League Elite: Al-Qadisiyah FC vs Al Sadd",
-      "time": "13:15",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-26"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn4tv.html",
-      "title": "AFC Champions League Elite: Al-Qadisiyah FC vs Al Sadd",
-      "time": "13:15",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-26"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=espn3mx",
-      "title": "AFC Champions League Elite: Al-Qadisiyah FC vs Al Sadd",
-      "time": "13:15",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-26"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=espn7",
-      "title": "Süper Lig: Galatasaray vs Fenerbahçe",
-      "time": "13:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-26"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney5",
-      "title": "Süper Lig: Galatasaray vs Fenerbahçe",
-      "time": "13:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-26"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn7.11.html",
-      "title": "Süper Lig: Galatasaray vs Fenerbahçe",
-      "time": "13:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-26"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=espn2mx",
-      "title": "Süper Lig: Galatasaray vs Fenerbahçe",
-      "time": "13:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-26"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=dsportsar",
-      "title": "Primeira Liga: Santa Clara vs Benfica",
-      "time": "13:45",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-26"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=dsports_op2",
-      "title": "Primeira Liga: Santa Clara vs Benfica",
-      "time": "13:45",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-26"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
-      "title": "Primeira Liga: Santa Clara vs Benfica",
-      "time": "13:45",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-26"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=dsports",
-      "title": "Primeira Liga: Santa Clara vs Benfica",
-      "time": "13:45",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-26"
-    },
     {
       "category": "futbol",
       "link": "https://la18hd.su/vivo/canales.php?stream=hypermotion1",
@@ -244,6 +91,132 @@
       "link": "https://la18hd.su/vivo/canales.php?stream=disney8",
       "title": "League Two: Walsall vs Salford City",
       "time": "15:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=espn2",
+      "title": "Messi Cup – Barcelona vs. Arsenal",
+      "time": "15:30",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "futbol",
+      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
+      "title": "Messi Cup – Barcelona vs. Arsenal",
+      "time": "15:30",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=tntsportschile",
+      "title": "Primera División de Chile: Universidad de Chile vs Everton de Viña del Mar",
+      "time": "16:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "futbol",
+      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
+      "title": "Primera División de Chile: Universidad de Chile vs Everton de Viña del Mar",
+      "time": "16:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=espn",
+      "title": "Liga Profesional Argentina: Unión de Santa Fe vs Estudiantes de La Plata",
+      "time": "17:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=disney9",
+      "title": "Liga Profesional Argentina: Unión de Santa Fe vs Estudiantes de La Plata",
+      "time": "17:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "futbol",
+      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
+      "title": "Liga Profesional Argentina: Unión de Santa Fe vs Estudiantes de La Plata",
+      "time": "17:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=espnpremium",
+      "title": "Liga Profesional Argentina: Unión de Santa Fe vs Estudiantes de La Plata",
+      "time": "17:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "futbol",
+      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
+      "title": "Liga Profesional Argentina: Unión de Santa Fe vs Estudiantes de La Plata",
+      "time": "17:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=premiere2",
+      "title": "Brasileirão: Coritiba vs Grêmio",
+      "time": "17:30",
+      "status": "En vivo",
+      "language": "Portugués",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=premiere3",
+      "title": "Brasileirão: Coritiba vs Grêmio",
+      "time": "17:30",
+      "status": "En vivo",
+      "language": "Portugués",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=premiere1",
+      "title": "Brasileirão: Flamengo vs Atlético Mineiro",
+      "time": "18:00",
+      "status": "En vivo",
+      "language": "Portugués",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=winplus",
+      "title": "Liga BetPlay: Jaguares de Córdoba vs Llaneros",
+      "time": "18:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "futbol",
+      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
+      "title": "Liga BetPlay: Jaguares de Córdoba vs Llaneros",
+      "time": "18:00",
       "status": "En vivo",
       "language": "Español",
       "date": "2026-10-26"
