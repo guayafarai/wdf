@@ -1,46 +1,10 @@
 {
   "metadata": {
-    "last_updated": "2026-10-27T13:43:57.798563Z",
+    "last_updated": "2026-10-27T19:03:40.751974Z",
     "source": "https://la18hd.su/eventos/json/agenda123.json",
-    "total_events": 35
+    "total_events": 29
   },
   "data": [
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney1",
-      "title": "AFC Champions League Elite: Beijing Guoan vs Jeonbuk Motors",
-      "time": "07:15",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-27"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=dsports2",
-      "title": "Cup: Fakel vs Akhmat",
-      "time": "10:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-27"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsports2.html",
-      "title": "Cup: Fakel vs Akhmat",
-      "time": "10:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-27"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=dsports2_op2",
-      "title": "Cup: Fakel vs Akhmat",
-      "time": "10:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-27"
-    },
     {
       "category": "futbol",
       "link": "https://la18hd.su/vivo/canales.php?stream=espn5",
@@ -144,24 +108,6 @@
       "category": "futbol",
       "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html",
       "title": "Reserve League: Independiente Res. vs Defensa y Justicia Res.",
-      "time": "13:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-27"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney3",
-      "title": "Copa del Rey: Pinatar vs Elche",
-      "time": "13:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-27"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney4",
-      "title": "Copa del Rey: Sestao River vs Espanyol",
       "time": "13:00",
       "status": "En vivo",
       "language": "Español",
