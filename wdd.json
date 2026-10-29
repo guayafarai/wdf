@@ -1,114 +1,24 @@
 {
   "metadata": {
-    "last_updated": "2026-10-29T14:45:04.790889Z",
+    "last_updated": "2026-10-29T19:56:54.670977Z",
     "source": "https://la18hd.su/eventos/json/agenda123.json",
-    "total_events": 51
+    "total_events": 41
   },
   "data": [
     {
       "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=dsports2",
-      "title": "Cup: CSKA Moscow vs Lokomotiv",
-      "time": "11:30",
+      "link": "https://la18hd.su/vivo/canales.php?stream=foxdeportes",
+      "title": "Liga Profesional Saudí: Al Nassr vs Al Kholood",
+      "time": "13:00",
       "status": "En vivo",
       "language": "Español",
       "date": "2026-10-29"
     },
     {
       "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsports2.html",
-      "title": "Cup: CSKA Moscow vs Lokomotiv",
-      "time": "11:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=dsports2_op2",
-      "title": "Cup: CSKA Moscow vs Lokomotiv",
-      "time": "11:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=espn2",
-      "title": "Serie A: Frosinone vs Lecce",
-      "time": "12:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney1",
-      "title": "Serie A: Frosinone vs Lecce",
-      "time": "12:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
-      "title": "Serie A: Frosinone vs Lecce",
-      "time": "12:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=espn2mx",
-      "title": "Serie A: Frosinone vs Lecce",
-      "time": "12:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney3",
-      "title": "UEFA Champions League Women: Austria Wien Femenil vs Juventus Femenil",
-      "time": "12:45",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=espndeportes",
-      "title": "UEFA Champions League Women: Austria Wien Femenil vs Juventus Femenil",
-      "time": "12:45",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=espn3",
-      "title": "UEFA Champions League Women: Paris FC Femenil vs Häcken Femenil",
-      "time": "12:45",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney4",
-      "title": "UEFA Champions League Women: Paris FC Femenil vs Häcken Femenil",
-      "time": "12:45",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn3tv.html",
-      "title": "UEFA Champions League Women: Paris FC Femenil vs Häcken Femenil",
-      "time": "12:45",
+      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
+      "title": "Liga Profesional Saudí: Al Nassr vs Al Kholood",
+      "time": "13:00",
       "status": "En vivo",
       "language": "Español",
       "date": "2026-10-29"
@@ -151,7 +61,7 @@
     },
     {
       "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=dsports_op2",
+      "link": "https://la18hd.su/vivo/canales.php?stream=dsports2_op2",
       "title": "Taça da Liga: Sporting de Braga vs Famalicao",
       "time": "13:45",
       "status": "En vivo",
