@@ -1,275 +1,14 @@
 {
   "metadata": {
-    "last_updated": "2026-10-28T21:25:30.187601Z",
+    "last_updated": "2026-10-29T01:22:33.237063Z",
     "source": "https://la18hd.su/eventos/json/agenda123.json",
-    "total_events": 40
+    "total_events": 26
   },
   "data": [
     {
       "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney18",
-      "title": "League Cup: Manchester City vs Brighton",
-      "time": "14:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney19",
-      "title": "League Cup: Bournemouth vs Aston Villa",
-      "time": "14:45",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney20",
-      "title": "League Cup: Fulham vs Crystal Palace",
-      "time": "14:45",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney1",
-      "title": "League Cup: Sunderland vs Brentford",
-      "time": "14:45",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=espn2",
-      "title": "Serie A: Génova vs Juventus",
-      "time": "14:45",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney16",
-      "title": "Serie A: Génova vs Juventus",
-      "time": "14:45",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
-      "title": "Serie A: Génova vs Juventus",
-      "time": "14:45",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=espn2mx",
-      "title": "Serie A: Génova vs Juventus",
-      "time": "14:45",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=universo",
-      "title": "Serie A: Génova vs Juventus",
-      "time": "14:45",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney17",
-      "title": "Serie A: Monza vs Nápoles",
-      "time": "14:45",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=espn",
-      "title": "League Cup: Liverpool vs Chelsea",
-      "time": "15:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney2",
-      "title": "League Cup: Liverpool vs Chelsea",
-      "time": "15:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-      "title": "League Cup: Liverpool vs Chelsea",
-      "time": "15:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=espnmx",
-      "title": "League Cup: Liverpool vs Chelsea",
-      "time": "15:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney14",
-      "title": "UEFA Champions League Women: Arsenal Femenil vs SL Benfica Femenil",
-      "time": "15:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=espndeportes",
-      "title": "UEFA Champions League Women: Arsenal Femenil vs SL Benfica Femenil",
-      "time": "15:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=espn4",
-      "title": "UEFA Champions League Women: Lyon Femenil vs Inter Milano Femenil",
-      "time": "15:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney15",
-      "title": "UEFA Champions League Women: Lyon Femenil vs Inter Milano Femenil",
-      "time": "15:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn4tv.html",
-      "title": "UEFA Champions League Women: Lyon Femenil vs Inter Milano Femenil",
-      "time": "15:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=liga1max",
-      "title": "Liga 1: Alianza Atlético vs Deportivo Garcilaso",
-      "time": "15:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html",
-      "title": "Liga 1: Alianza Atlético vs Deportivo Garcilaso",
-      "time": "15:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=liga1max_op2",
-      "title": "Liga 1: Alianza Atlético vs Deportivo Garcilaso",
-      "time": "15:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=dsportsar",
-      "title": "Taça da Liga: Oporto vs Academico Viseu",
-      "time": "15:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=dsports_op2",
-      "title": "Taça da Liga: Oporto vs Academico Viseu",
-      "time": "15:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
-      "title": "Taça da Liga: Oporto vs Academico Viseu",
-      "time": "15:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=dsports",
-      "title": "Taça da Liga: Oporto vs Academico Viseu",
-      "time": "15:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=premiere4",
-      "title": "Brasileirão: Red Bull Bragantino vs Chapecoense-sc",
-      "time": "17:30",
-      "status": "En vivo",
-      "language": "Portugués",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=premiere2",
-      "title": "Brasileirão: Fluminense vs Internacional",
-      "time": "17:30",
-      "status": "En vivo",
-      "language": "Portugués",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=premiere1",
-      "title": "Brasileirão: Santos vs Palmeiras",
-      "time": "17:30",
-      "status": "En vivo",
-      "language": "Portugués",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=winplus",
-      "title": "Liga BetPlay: Once Caldas vs Alianza Valledupar",
+      "link": "https://la18hd.su/vivo/canales.php?stream=espn3",
+      "title": "NBA: Indiana Pacers vs Philadelphia 76ers",
       "time": "18:00",
       "status": "En vivo",
       "language": "Español",
@@ -277,8 +16,17 @@
     },
     {
       "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
-      "title": "Liga BetPlay: Once Caldas vs Alianza Valledupar",
+      "link": "https://la18hd.su/vivo/canales.php?stream=disney6",
+      "title": "NBA: Indiana Pacers vs Philadelphia 76ers",
+      "time": "18:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-28"
+    },
+    {
+      "category": "futbol",
+      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn3tv.html",
+      "title": "NBA: Indiana Pacers vs Philadelphia 76ers",
       "time": "18:00",
       "status": "En vivo",
       "language": "Español",
@@ -304,6 +52,60 @@
     },
     {
       "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=mls1es",
+      "title": "MLS: Inter Miami vs FC Cincinnati",
+      "time": "18:30",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-28"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=espn2",
+      "title": "MLB: Tampa Bay Rays vs Milwaukee Brewers",
+      "time": "19:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-28"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=disney7",
+      "title": "MLB: Tampa Bay Rays vs Milwaukee Brewers",
+      "time": "19:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-28"
+    },
+    {
+      "category": "futbol",
+      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
+      "title": "MLB: Tampa Bay Rays vs Milwaukee Brewers",
+      "time": "19:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-28"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=foxdeportes",
+      "title": "MLB: Tampa Bay Rays vs Milwaukee Brewers",
+      "time": "19:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-28"
+    },
+    {
+      "category": "futbol",
+      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
+      "title": "MLB: Tampa Bay Rays vs Milwaukee Brewers",
+      "time": "19:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-28"
+    },
+    {
+      "category": "futbol",
       "link": "https://la18hd.su/vivo/canales.php?stream=liga1max",
       "title": "Liga 1: Cienciano vs Atlético Grau",
       "time": "19:00",
@@ -331,6 +133,24 @@
     },
     {
       "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=tycsports",
+      "title": "Copa Argentina: Atlético Tucumán vs Platense",
+      "time": "19:15",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-28"
+    },
+    {
+      "category": "futbol",
+      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tycsportsarg.html",
+      "title": "Copa Argentina: Atlético Tucumán vs Platense",
+      "time": "19:15",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-28"
+    },
+    {
+      "category": "futbol",
       "link": "https://la18hd.su/vivo/canales.php?stream=premiere5",
       "title": "Brasileirão: Bahia vs São Paulo",
       "time": "19:30",
@@ -349,6 +169,15 @@
     },
     {
       "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=disney4",
+      "title": "CONCACAF Central American Cup: Deportivo Saprissa vs Firpo",
+      "time": "19:30",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-28"
+    },
+    {
+      "category": "futbol",
       "link": "https://la18hd.su/vivo/canales.php?stream=winplus",
       "title": "Liga BetPlay: Internacional de Bogotá vs Independiente Medellín",
       "time": "20:05",
@@ -361,6 +190,51 @@
       "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
       "title": "Liga BetPlay: Internacional de Bogotá vs Independiente Medellín",
       "time": "20:05",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-28"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=disney5",
+      "title": "CONCACAF Central American Cup: CD Olimpia vs CS Cartagines",
+      "time": "22:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-28"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=canal5",
+      "title": "Liga MX: América vs Tijuana",
+      "time": "22:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-28"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=tudn",
+      "title": "Liga MX: América vs Tijuana",
+      "time": "22:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-28"
+    },
+    {
+      "category": "futbol",
+      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html",
+      "title": "Liga MX: América vs Tijuana",
+      "time": "22:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-28"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=univision",
+      "title": "Liga MX: América vs Tijuana",
+      "time": "22:00",
       "status": "En vivo",
       "language": "Español",
       "date": "2026-10-28"
