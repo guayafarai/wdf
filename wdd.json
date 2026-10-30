@@ -1,8 +1,216 @@
 {
   "metadata": {
-    "last_updated": "2026-10-30T10:32:52.272180Z",
+    "last_updated": "2026-10-30T16:51:16.296927Z",
     "source": "https://la18hd.su/eventos/json/agenda123.json",
-    "total_events": 0
+    "total_events": 23
   },
-  "data": []
+  "data": [
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=disney1",
+      "title": "Süper Lig: Konyaspor vs Galatasaray",
+      "time": "12:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=disney2",
+      "title": "2. Bundesliga: Arminia Bielefeld vs Eintracht Braunschweig",
+      "time": "12:30",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=disney3",
+      "title": "2. Bundesliga: Energie Cottbus vs Bochum",
+      "time": "12:30",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=foxsoccerplus",
+      "title": "Pro League: Al Shabab vs Al-Ahli Jeddah",
+      "time": "13:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=espn2",
+      "title": "Ligue 1: Le Havre vs París Saint-Germain",
+      "time": "13:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=disney4",
+      "title": "Ligue 1: Le Havre vs París Saint-Germain",
+      "time": "13:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
+      "title": "Ligue 1: Le Havre vs París Saint-Germain",
+      "time": "13:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://fubolazo.com/drm/foxone.php",
+      "title": "Ligue 1: Le Havre vs París Saint-Germain",
+      "time": "13:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=beinsportes",
+      "title": "Ligue 1: Le Havre vs París Saint-Germain",
+      "time": "13:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=disney5",
+      "title": "Ligue 1: Nice vs Rennes",
+      "time": "13:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=disney6",
+      "title": "Bundesliga: Elversberg vs Mainz 05",
+      "time": "14:30",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=universo",
+      "title": "Bundesliga: Elversberg vs Mainz 05",
+      "time": "14:30",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=sportv3",
+      "title": "Bundesliga: Elversberg vs Mainz 05",
+      "time": "14:30",
+      "status": "En vivo",
+      "language": "Portugués",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=disney7",
+      "title": "Messi Cup: Manchester City U16 vs Independiente Del Valle U16\n",
+      "time": "14:30",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=dsportsar",
+      "title": "LaLiga: Villarreal vs Espanyol",
+      "time": "15:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=dsports_op2",
+      "title": "LaLiga: Villarreal vs Espanyol",
+      "time": "15:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
+      "title": "LaLiga: Villarreal vs Espanyol",
+      "time": "15:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=dsports",
+      "title": "LaLiga: Villarreal vs Espanyol",
+      "time": "15:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=disney8",
+      "title": "Championship: Sheffield Utd vs Wrexham",
+      "time": "15:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=espn4mx",
+      "title": "Championship: Sheffield Utd vs Wrexham",
+      "time": "15:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=disney9",
+      "title": "Ligue 1: Lille vs Lens",
+      "time": "15:05",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://fubolazo.com/drm/foxone.php",
+      "title": "Ligue 1: Lille vs Lens",
+      "time": "15:05",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=beinsportes",
+      "title": "Ligue 1: Lille vs Lens",
+      "time": "15:05",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    }
+  ]
 }
