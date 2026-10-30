@@ -1,73 +1,10 @@
 {
   "metadata": {
-    "last_updated": "2026-10-29T23:45:51.117225Z",
+    "last_updated": "2026-10-30T03:26:15.940650Z",
     "source": "https://la18hd.su/eventos/json/agenda123.json",
-    "total_events": 21
+    "total_events": 10
   },
   "data": [
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=premiere2",
-      "title": "Brasileirão: Atlético Mineiro vs Cruzeiro",
-      "time": "17:30",
-      "status": "En vivo",
-      "language": "Portugués",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=premiere1",
-      "title": "Brasileirão: Atlético Mineiro vs Cruzeiro",
-      "time": "17:30",
-      "status": "En vivo",
-      "language": "Portugués",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=azteca_deportes",
-      "title": "Brasileirão: Vasco da Gama vs Flamengo",
-      "time": "18:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=winplus",
-      "title": "Liga BetPlay: América de Cali vs Fortaleza CEIF",
-      "time": "18:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
-      "title": "Liga BetPlay: América de Cali vs Fortaleza CEIF",
-      "time": "18:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=espn4",
-      "title": "NHL: Detroit Red Wings vs Chicago Blackhawks",
-      "time": "18:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn4tv.html",
-      "title": "NHL: Detroit Red Wings vs Chicago Blackhawks",
-      "time": "18:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-29"
-    },
     {
       "category": "futbol",
       "link": "https://la18hd.su/vivo/canales.php?stream=espn5",
@@ -88,51 +25,6 @@
     },
     {
       "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=premiere3",
-      "title": "Brasileirão: Grêmio vs Athletico Paranaense",
-      "time": "19:30",
-      "status": "En vivo",
-      "language": "Portugués",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=sportv",
-      "title": "Brasileirão: Grêmio vs Athletico Paranaense",
-      "time": "19:30",
-      "status": "En vivo",
-      "language": "Portugués",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=liga1max",
-      "title": "Liga 1: Melgar vs Comerciantes Unidos",
-      "time": "19:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html",
-      "title": "Liga 1: Melgar vs Comerciantes Unidos",
-      "time": "19:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=liga1max_op2",
-      "title": "Liga 1: Melgar vs Comerciantes Unidos",
-      "time": "19:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "futbol",
       "link": "https://la18hd.su/vivo/canales.php?stream=winplus",
       "title": "Liga BetPlay: Atlético Nacional vs Independiente Santa Fe",
       "time": "20:30",
@@ -145,6 +37,15 @@
       "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
       "title": "Liga BetPlay: Atlético Nacional vs Independiente Santa Fe",
       "time": "20:30",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-29"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=disney4",
+      "title": "CONCACAF Central American Cup: LD Alajuelense vs CD Motagua",
+      "time": "21:00",
       "status": "En vivo",
       "language": "Español",
       "date": "2026-10-29"
