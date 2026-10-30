@@ -1,100 +1,10 @@
 {
   "metadata": {
-    "last_updated": "2026-10-30T16:51:16.296927Z",
+    "last_updated": "2026-10-30T21:13:46.185890Z",
     "source": "https://la18hd.su/eventos/json/agenda123.json",
     "total_events": 23
   },
   "data": [
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney1",
-      "title": "Süper Lig: Konyaspor vs Galatasaray",
-      "time": "12:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-30"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney2",
-      "title": "2. Bundesliga: Arminia Bielefeld vs Eintracht Braunschweig",
-      "time": "12:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-30"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney3",
-      "title": "2. Bundesliga: Energie Cottbus vs Bochum",
-      "time": "12:30",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-30"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=foxsoccerplus",
-      "title": "Pro League: Al Shabab vs Al-Ahli Jeddah",
-      "time": "13:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-30"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=espn2",
-      "title": "Ligue 1: Le Havre vs París Saint-Germain",
-      "time": "13:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-30"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney4",
-      "title": "Ligue 1: Le Havre vs París Saint-Germain",
-      "time": "13:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-30"
-    },
-    {
-      "category": "futbol",
-      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
-      "title": "Ligue 1: Le Havre vs París Saint-Germain",
-      "time": "13:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-30"
-    },
-    {
-      "category": "futbol",
-      "link": "https://fubolazo.com/drm/foxone.php",
-      "title": "Ligue 1: Le Havre vs París Saint-Germain",
-      "time": "13:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-30"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=beinsportes",
-      "title": "Ligue 1: Le Havre vs París Saint-Germain",
-      "time": "13:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-30"
-    },
-    {
-      "category": "futbol",
-      "link": "https://la18hd.su/vivo/canales.php?stream=disney5",
-      "title": "Ligue 1: Nice vs Rennes",
-      "time": "13:00",
-      "status": "En vivo",
-      "language": "Español",
-      "date": "2026-10-30"
-    },
     {
       "category": "futbol",
       "link": "https://la18hd.su/vivo/canales.php?stream=disney6",
@@ -208,6 +118,96 @@
       "link": "https://la18hd.su/vivo/canales.php?stream=beinsportes",
       "title": "Ligue 1: Lille vs Lens",
       "time": "15:05",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=dsports2",
+      "title": "Primeira Liga: Casa Pia vs Sporting de Lisboa",
+      "time": "15:15",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsports2.html",
+      "title": "Primeira Liga: Casa Pia vs Sporting de Lisboa",
+      "time": "15:15",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=dsports2_op2",
+      "title": "Primeira Liga: Casa Pia vs Sporting de Lisboa",
+      "time": "15:15",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=disney10",
+      "title": "Messi Cup: Inter Miami U16 vs Internazionale U16",
+      "time": "16:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=winplus",
+      "title": "Liga BetPlay: Deportivo Pereira vs Jaguares de Córdoba",
+      "time": "16:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
+      "title": "Liga BetPlay: Deportivo Pereira vs Jaguares de Córdoba",
+      "time": "16:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=tntsports",
+      "title": "Liga Profesional Argentina: Estudiantes de Rio Cuarto vs Gimnasia La Plata",
+      "time": "17:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html",
+      "title": "Liga Profesional Argentina: Estudiantes de Rio Cuarto vs Gimnasia La Plata",
+      "time": "17:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://la18hd.su/vivo/canales.php?stream=espnpremium",
+      "title": "Liga Profesional Argentina: Huracán vs Tigre",
+      "time": "17:00",
+      "status": "En vivo",
+      "language": "Español",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "futbol",
+      "link": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
+      "title": "Liga Profesional Argentina: Huracán vs Tigre",
+      "time": "17:00",
       "status": "En vivo",
       "language": "Español",
       "date": "2026-10-30"
