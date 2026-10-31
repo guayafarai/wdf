@@ -1,299 +1,34 @@
 [
   {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "17:30",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "19:00",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "19:00",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "19:15",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "19:15",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "19:15",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "19:15",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "19:15",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
+    "id": "Barcelona-2026-10-31",
+    "slug": "barcelona-vs-real-madrid-2026-10-31",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-10-31",
     "time": "20:00",
-    "streams": [],
-    "decoded_iframe_url": ""
+    "streams": [
+      {
+        "name": "Demo",
+        "url": "https://example.com/embed/barcelona-real-madrid"
+      }
+    ],
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "20:00",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "20:00",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "20:00",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "20:00",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "20:00",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "20:00",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "20:00",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "20:00",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "20:00",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "20:00",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "20:05",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "20:05",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "21:00",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
+    "id": "América-2026-10-31",
+    "slug": "américa-vs-chivas-2026-10-31",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-10-31",
     "time": "22:00",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "22:00",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "22:00",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "22:00",
-    "streams": [],
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "evento-2026-10-30",
-    "slug": "evento-2026-10-30",
-    "team_a": "",
-    "team_b": "",
-    "league": "",
-    "date": "2026-10-30",
-    "time": "22:00",
-    "streams": [],
-    "decoded_iframe_url": ""
+    "streams": [
+      {
+        "name": "Demo",
+        "url": "https://example.com/embed/america-chivas"
+      }
+    ],
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
